@@ -1,8 +1,114 @@
 {
-  "date": "2026-03-18T11:12:49.870Z",
+  "date": "2026-03-18T17:03:28.894Z",
   "articles": [
     {
-      "id": "eilnrdf6ni5pbz6lubvn5e",
+      "id": "tuxugi17wkjlju00h74zq",
+      "title": "The Gemini-powered features in Google Workspace that are worth using",
+      "summary": "From summarizing emails, drafting content, organizing data, and tracking meetings, here are all the best Gemini features in Google Workspace....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Google",
+        "LLM"
+      ],
+      "publishedAt": "Wed, 18 Mar 2026 16:43:18 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/03/18/the-gemini-powered-features-in-google-workspace-that-are-worth-using/"
+    },
+    {
+      "id": "nxt8ikjiszoogc8camzpv",
+      "title": "The leaderboard “you can’t game,” funded by the companies it ranks",
+      "summary": "Artificial intelligence models are multiplying fast, and competition is stiff. With so many players crowding the space, which one will be the best — and who decides that? Arena, formerly LM Arena, has...",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "LLM",
+        "Startup"
+      ],
+      "publishedAt": "Wed, 18 Mar 2026 16:30:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/video/the-leaderboard-you-cant-game-funded-by-the-companies-it-ranks/"
+    },
+    {
+      "id": "2f7z4190q7hb0zf9t1h0x6",
+      "title": "This startup wants to make enterprise software look more like a prompt",
+      "summary": "The company has raised $12 million in seed funding to build an AI operating system for enterprise....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Startup"
+      ],
+      "publishedAt": "Wed, 18 Mar 2026 16:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/03/18/this-startup-wants-to-make-enterprise-software-look-more-like-a-prompt/"
+    },
+    {
+      "id": "m0ys1y5s2tv3xv9f66h6",
+      "title": "Sequen snags $16M to bring TikTok-style personalization tech to any consumer company",
+      "summary": "With its Series A, Sequen is bringing its proprietary AI ranking and personalization technology to large consumer business....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Wed, 18 Mar 2026 15:58:50 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/03/18/sequen-snags-16m-to-bring-tiktok-style-personalization-tech-to-any-consumer-company/"
+    },
+    {
+      "id": "5b1wcfpea3kav1nceqshr",
+      "title": "Microsoft hires the team of Sequoia-backed AI collaboration platform, Cove",
+      "summary": "AI collaboration startup Cove is shutting down after its team joined Microsoft, with service ending April 1 and customer data set for deletion....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Startup"
+      ],
+      "publishedAt": "Wed, 18 Mar 2026 15:33:49 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/03/18/microsoft-hires-the-team-of-sequioa-backed-ai-collaboration-platform-cove/"
+    },
+    {
+      "id": "bjlb4m8vxseslg7aqqcvt",
+      "title": "The Download: The Pentagon’s new AI plans, and next-gen nuclear reactors",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The Pentagon is planning for AI companies to train on classifi...",
+      "source": {
+        "name": "MIT Technology Review",
+        "url": "https://www.technologyreview.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.technologyreview.com&sz=64"
+      },
+      "category": "Research",
+      "tags": [],
+      "publishedAt": "Wed, 18 Mar 2026 12:38:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.technologyreview.com/2026/03/18/1134371/the-download-the-pentagons-new-ai-plans-and-next-gen-nuclear-reactors/"
+    },
+    {
+      "id": "29qxiz5acskdnh17vvpy57",
       "title": "What do new nuclear reactors mean for waste?",
       "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. The way the world cur...",
       "source": {
@@ -18,7 +124,7 @@
       "originalUrl": "https://www.technologyreview.com/2026/03/18/1134345/advanced-nuclear-reactors-waste/"
     },
     {
-      "id": "vp62idev3wj1564hl1c6io",
+      "id": "roo3er1kh91k73md2e2m0j",
       "title": "Neural-Symbolic Logic Query Answering in Non-Euclidean Space",
       "summary": "arXiv:2603.15633v1 Announce Type: new \nAbstract: Answering complex first-order logic (FOL) queries on knowledge graphs is essential for reasoning. Symbolic methods offer interpretability but struggle ...",
       "source": {
@@ -34,7 +140,7 @@
       "originalUrl": "https://arxiv.org/abs/2603.15633"
     },
     {
-      "id": "6tkzcftia5pasyu20lu1zl",
+      "id": "xu7xcu3hpyev2me5hd9lu",
       "title": "NextMem: Towards Latent Factual Memory for LLM-based Agents",
       "summary": "arXiv:2603.15634v1 Announce Type: new \nAbstract: Memory is critical for LLM-based agents to preserve past observations for future decision-making, where factual memory serves as its foundational part....",
       "source": {
@@ -53,7 +159,7 @@
       "originalUrl": "https://arxiv.org/abs/2603.15634"
     },
     {
-      "id": "yk2v0i7qpdmm7efqhhd1b7",
+      "id": "vutli5brc5joi2t2k7bn4l",
       "title": "AIDABench: AI Data Analytics Benchmark",
       "summary": "arXiv:2603.15636v1 Announce Type: new \nAbstract: As AI-driven document understanding and processing tools become increasingly prevalent in real-world applications, the need for rigorous evaluation sta...",
       "source": {
@@ -73,7 +179,7 @@
       "originalUrl": "https://arxiv.org/abs/2603.15636"
     },
     {
-      "id": "773s0g84yxd9oxftljyvsf",
+      "id": "ru1w8i0k9xwfa05j2h0t",
       "title": "The Comprehension-Gated Agent Economy: A Robustness-First Architecture for AI Economic Agency",
       "summary": "arXiv:2603.15639v1 Announce Type: new \nAbstract: AI agents are increasingly granted economic agency (executing trades, managing budgets, negotiating contracts, and spawning sub-agents), yet current fr...",
       "source": {
@@ -91,7 +197,7 @@
       "originalUrl": "https://arxiv.org/abs/2603.15639"
     },
     {
-      "id": "6igs71v2daihbt6ge0jke",
+      "id": "5h4ncq8ue939yc53ho08mn",
       "title": "Form Follows Function: Recursive Stem Model",
       "summary": "arXiv:2603.15641v1 Announce Type: new \nAbstract: Recursive reasoning models such as Hierarchical Reasoning Model (HRM) and Tiny Recursive Model (TRM) show that small, weight-shared networks can solve ...",
       "source": {
@@ -109,7 +215,7 @@
       "originalUrl": "https://arxiv.org/abs/2603.15641"
     },
     {
-      "id": "rw9o6n9up9lvioe3rq9jmn",
+      "id": "889obnemjuycdrlbvgogm",
       "title": "The Pentagon is planning for AI companies to train on classified data, defense official says",
       "summary": "The Pentagon is discussing plans to set up secure environments for generative AI companies to train military-specific versions of their models on classified data, MIT Technology Review has learned.  A...",
       "source": {
@@ -128,99 +234,7 @@
       "originalUrl": "https://www.technologyreview.com/2026/03/17/1134351/the-pentagon-is-planning-for-ai-companies-to-train-on-classified-data-defense-official-says/"
     },
     {
-      "id": "78qcgvqfzt5sutfylhj9c",
-      "title": "Mistral bets on ‘build-your-own AI’ as it takes on OpenAI, Anthropic in the enterprise",
-      "summary": "Mistral Forge lets enterprises train custom AI models from scratch on their own data, challenging rivals that rely on fine-tuning and retrieval-based approaches....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "OpenAI",
-        "Anthropic"
-      ],
-      "publishedAt": "Tue, 17 Mar 2026 21:00:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/03/17/mistral-forge-nvidia-gtc-build-your-own-ai-enterprise/"
-    },
-    {
-      "id": "q1ujjagz0t8ra7r2oofr1",
-      "title": "Why Garry Tan’s Claude Code setup has gotten so much love, and hate",
-      "summary": "Thousands of people are trying Garry Tan's Claude Code setup, which was shared on GitHub. And everyone has an opinion: even Claude, ChatGPT, and Gemini....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "OpenAI",
-        "Anthropic",
-        "Google",
-        "LLM"
-      ],
-      "publishedAt": "Tue, 17 Mar 2026 20:50:04 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/03/17/why-garry-tans-claude-code-setup-has-gotten-so-much-love-and-hate/"
-    },
-    {
-      "id": "sc4ihhplqqbu4vrozhq8w",
-      "title": "The Pentagon is developing alternatives to Anthropic, report says",
-      "summary": "After their dramatic falling-out, it doesn't seem as though Anthropic and the Pentagon are getting back together....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Anthropic"
-      ],
-      "publishedAt": "Tue, 17 Mar 2026 18:20:15 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/03/17/the-pentagon-is-developing-alternatives-to-anthropic-report-says/"
-    },
-    {
-      "id": "le3oonpz0xpnpbp0a6xr1",
-      "title": "BuzzFeed debuts AI slop apps in bid for new revenue",
-      "summary": "BuzzFeed unveiled new AI-powered social apps at SXSW, but its demos drew muted reactions....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Tue, 17 Mar 2026 17:17:15 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/03/17/buzzfeed-ai-slop-apps-sxsw-bf-island-conjure/"
-    },
-    {
-      "id": "a9i8m1q0ene6eodpu7nm",
-      "title": "Google’s Personal Intelligence feature is expanding to all US users",
-      "summary": "Personal Intelligence allows Google's AI assistant to tap into your Google ecosystem, such as Gmail and Google Photos, to provide more tailored responses....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Google"
-      ],
-      "publishedAt": "Tue, 17 Mar 2026 16:00:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/03/17/googles-personal-intelligence-feature-is-expanding-to-all-us-users/"
-    },
-    {
-      "id": "i0mhfy1qrwutwiitxd4pp",
+      "id": "wfd8eluk4cb6supqi2oq9",
       "title": "The Download: OpenAI’s US military deal, and Grok’s CSAM lawsuit",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Where OpenAI’s technology could show up in Iran  OpenAI has co...",
       "source": {
@@ -238,7 +252,7 @@
       "originalUrl": "https://www.technologyreview.com/2026/03/17/1134322/the-download-openi-us-military-deal-grok-xai-csam-lawsuit/"
     },
     {
-      "id": "rvq9mgtyqnno9g4q7omtog",
+      "id": "zlzigbudwu3jig207r9x9",
       "title": "Introducing GPT-5.4 mini and nano",
       "summary": "GPT-5.4 mini and nano are smaller, faster versions of GPT-5.4 optimized for coding, tool use, multimodal reasoning, and high-volume API and sub-agent workloads....",
       "source": {
@@ -258,7 +272,7 @@
       "originalUrl": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano"
     },
     {
-      "id": "6dyw7id2p7qgxam7vkl6ir",
+      "id": "iug1s30m0uz2ibboy9t8",
       "title": "Equipping workers with insights about compensation",
       "summary": "New research shows Americans send nearly 3 million daily messages to ChatGPT asking about compensation and earnings, helping close the wage information gap....",
       "source": {
@@ -278,7 +292,7 @@
       "originalUrl": "https://openai.com/index/equipping-workers-with-insights-about-compensation"
     },
     {
-      "id": "m7puq50bvwtxz9fdy86kk",
+      "id": "zvzokmmcnhp1mnfnr9pff",
       "title": "Where OpenAI’s technology could show up in Iran",
       "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. It’s been just over two weeks since OpenAI reached a controver...",
       "source": {
@@ -296,25 +310,7 @@
       "originalUrl": "https://www.technologyreview.com/2026/03/16/1134315/where-openais-technology-could-show-up-in-iran/"
     },
     {
-      "id": "hvjoj6e9inci5fjz1ya8ri",
-      "title": "Nurturing agentic AI beyond the toddler stage",
-      "summary": "Parents of young children face a lot of fears about developmental milestones, from infancy through adulthood. The number of months it takes a baby to learn to talk or walk is often used as a benchmark...",
-      "source": {
-        "name": "MIT Technology Review",
-        "url": "https://www.technologyreview.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.technologyreview.com&sz=64"
-      },
-      "category": "Research",
-      "tags": [
-        "Healthcare"
-      ],
-      "publishedAt": "Mon, 16 Mar 2026 13:00:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.technologyreview.com/2026/03/16/1133979/nurturing-agentic-ai-beyond-the-toddler-stage/"
-    },
-    {
-      "id": "ptjzqfydosmkgv3ro9nbvg",
+      "id": "uq1zvqn37c5t21lbmijjw",
       "title": "Why Codex Security Doesn’t Include a SAST Report",
       "summary": "A deep dive into why Codex Security doesn’t rely on traditional SAST, instead using AI-driven constraint reasoning and validation to find real vulnerabilities with fewer false positives....",
       "source": {
@@ -330,7 +326,7 @@
       "originalUrl": "https://openai.com/index/why-codex-security-doesnt-include-sast"
     },
     {
-      "id": "oj8eycy1s4j557r5m8636h",
+      "id": "fjnml71iz5fkrsj0tkek6",
       "title": "Rakuten fixes issues twice as fast with Codex",
       "summary": "Rakuten uses Codex, the coding agent from OpenAI, to ship software faster and safer, reducing MTTR 50%, automating CI/CD reviews, and delivering full-stack builds in weeks....",
       "source": {
@@ -348,7 +344,7 @@
       "originalUrl": "https://openai.com/index/rakuten"
     },
     {
-      "id": "o6j13oj7th7dt0zi5rildu",
+      "id": "u17utbj09gmok23o4um24",
       "title": "Designing AI agents to resist prompt injection",
       "summary": "How ChatGPT defends against prompt injection and social engineering by constraining risky actions and protecting sensitive data in agent workflows....",
       "source": {
@@ -368,5 +364,5 @@
     }
   ],
   "totalArticles": 25,
-  "lastUpdated": "2026-03-18T11:12:49.870Z"
+  "lastUpdated": "2026-03-18T17:03:28.894Z"
 }

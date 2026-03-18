@@ -1,6 +1,6 @@
 # 🤖 AI News Digest
 
-> **Digest du mercredi 18 mars 2026**
+> **Digest du jeudi 19 mars 2026**
 
 Votre quotidien des avancées en Intelligence Artificielle.
 
@@ -9,14 +9,82 @@ Votre quotidien des avancées en Intelligence Artificielle.
 ## 📊 Statistiques
 
 - **25** articles collectés
-- Dernière mise à jour: 18/03/2026 19:12:49
+- Dernière mise à jour: 19/03/2026 01:03:28
 - Sources: TechCrunch, The Verge, OpenAI, Anthropic, Google AI, ArXiv, MIT Tech Review
 
 ---
 
 ## 📰 Articles du jour
 
+### 🏭 Industry
+
+#### The Gemini-powered features in Google Workspace that are worth using
+
+> From summarizing emails, drafting content, organizing data, and tracking meetings, here are all the best Gemini features in Google Workspace....
+
+- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/18/the-gemini-powered-features-in-google-workspace-that-are-worth-using/)
+- **Tags:** #Google, #LLM
+- **Temps de lecture:** 1 min
+- **Publié:** 19/03/2026 00:43:18
+
+---
+
+#### The leaderboard “you can’t game,” funded by the companies it ranks
+
+> Artificial intelligence models are multiplying fast, and competition is stiff. With so many players crowding the space, which one will be the best — and who decides that? Arena, formerly LM Arena, has...
+
+- **Source:** [TechCrunch AI](https://techcrunch.com/video/the-leaderboard-you-cant-game-funded-by-the-companies-it-ranks/)
+- **Tags:** #LLM, #Startup
+- **Temps de lecture:** 1 min
+- **Publié:** 19/03/2026 00:30:00
+
+---
+
+#### This startup wants to make enterprise software look more like a prompt
+
+> The company has raised $12 million in seed funding to build an AI operating system for enterprise....
+
+- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/18/this-startup-wants-to-make-enterprise-software-look-more-like-a-prompt/)
+- **Tags:** #Startup
+- **Temps de lecture:** 1 min
+- **Publié:** 19/03/2026 00:00:00
+
+---
+
+#### Sequen snags $16M to bring TikTok-style personalization tech to any consumer company
+
+> With its Series A, Sequen is bringing its proprietary AI ranking and personalization technology to large consumer business....
+
+- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/18/sequen-snags-16m-to-bring-tiktok-style-personalization-tech-to-any-consumer-company/)
+- **Tags:** 
+- **Temps de lecture:** 1 min
+- **Publié:** 18/03/2026 23:58:50
+
+---
+
+#### Microsoft hires the team of Sequoia-backed AI collaboration platform, Cove
+
+> AI collaboration startup Cove is shutting down after its team joined Microsoft, with service ending April 1 and customer data set for deletion....
+
+- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/18/microsoft-hires-the-team-of-sequioa-backed-ai-collaboration-platform-cove/)
+- **Tags:** #Startup
+- **Temps de lecture:** 1 min
+- **Publié:** 18/03/2026 23:33:49
+
+---
+
 ### 🔬 Research
+
+#### The Download: The Pentagon’s new AI plans, and next-gen nuclear reactors
+
+> This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The Pentagon is planning for AI companies to train on classifi...
+
+- **Source:** [MIT Technology Review](https://www.technologyreview.com/2026/03/18/1134371/the-download-the-pentagons-new-ai-plans-and-next-gen-nuclear-reactors/)
+- **Tags:** 
+- **Temps de lecture:** 1 min
+- **Publié:** 18/03/2026 20:38:00
+
+---
 
 #### What do new nuclear reactors mean for waste?
 
@@ -119,74 +187,6 @@ Abstract: Recursive reasoning models such as Hierarchical Reasoning Model (HRM) 
 - **Tags:** #OpenAI
 - **Temps de lecture:** 1 min
 - **Publié:** 17/03/2026 01:06:21
-
----
-
-#### Nurturing agentic AI beyond the toddler stage
-
-> Parents of young children face a lot of fears about developmental milestones, from infancy through adulthood. The number of months it takes a baby to learn to talk or walk is often used as a benchmark...
-
-- **Source:** [MIT Technology Review](https://www.technologyreview.com/2026/03/16/1133979/nurturing-agentic-ai-beyond-the-toddler-stage/)
-- **Tags:** #Healthcare
-- **Temps de lecture:** 1 min
-- **Publié:** 16/03/2026 21:00:00
-
----
-
-### 🏭 Industry
-
-#### Mistral bets on ‘build-your-own AI’ as it takes on OpenAI, Anthropic in the enterprise
-
-> Mistral Forge lets enterprises train custom AI models from scratch on their own data, challenging rivals that rely on fine-tuning and retrieval-based approaches....
-
-- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/17/mistral-forge-nvidia-gtc-build-your-own-ai-enterprise/)
-- **Tags:** #OpenAI, #Anthropic
-- **Temps de lecture:** 1 min
-- **Publié:** 18/03/2026 05:00:00
-
----
-
-#### Why Garry Tan’s Claude Code setup has gotten so much love, and hate
-
-> Thousands of people are trying Garry Tan's Claude Code setup, which was shared on GitHub. And everyone has an opinion: even Claude, ChatGPT, and Gemini....
-
-- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/17/why-garry-tans-claude-code-setup-has-gotten-so-much-love-and-hate/)
-- **Tags:** #OpenAI, #Anthropic, #Google, #LLM
-- **Temps de lecture:** 1 min
-- **Publié:** 18/03/2026 04:50:04
-
----
-
-#### The Pentagon is developing alternatives to Anthropic, report says
-
-> After their dramatic falling-out, it doesn't seem as though Anthropic and the Pentagon are getting back together....
-
-- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/17/the-pentagon-is-developing-alternatives-to-anthropic-report-says/)
-- **Tags:** #Anthropic
-- **Temps de lecture:** 1 min
-- **Publié:** 18/03/2026 02:20:15
-
----
-
-#### BuzzFeed debuts AI slop apps in bid for new revenue
-
-> BuzzFeed unveiled new AI-powered social apps at SXSW, but its demos drew muted reactions....
-
-- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/17/buzzfeed-ai-slop-apps-sxsw-bf-island-conjure/)
-- **Tags:** 
-- **Temps de lecture:** 1 min
-- **Publié:** 18/03/2026 01:17:15
-
----
-
-#### Google’s Personal Intelligence feature is expanding to all US users
-
-> Personal Intelligence allows Google's AI assistant to tap into your Google ecosystem, such as Gmail and Google Photos, to provide more tailored responses....
-
-- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/17/googles-personal-intelligence-feature-is-expanding-to-all-us-users/)
-- **Tags:** #Google
-- **Temps de lecture:** 1 min
-- **Publié:** 18/03/2026 00:00:00
 
 ---
 
