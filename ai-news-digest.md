@@ -9,71 +9,74 @@ Votre quotidien des avancées en Intelligence Artificielle.
 ## 📊 Statistiques
 
 - **25** articles collectés
-- Dernière mise à jour: 19/03/2026 01:03:28
+- Dernière mise à jour: 19/03/2026 13:03:42
 - Sources: TechCrunch, The Verge, OpenAI, Anthropic, Google AI, ArXiv, MIT Tech Review
 
 ---
 
 ## 📰 Articles du jour
 
-### 🏭 Industry
+### 🔬 Research
 
-#### The Gemini-powered features in Google Workspace that are worth using
+#### Generative AI-assisted Participatory Modeling in Socio-Environmental Planning under Deep Uncertainty
 
-> From summarizing emails, drafting content, organizing data, and tracking meetings, here are all the best Gemini features in Google Workspace....
+> arXiv:2603.17021v1 Announce Type: new 
+Abstract: Socio-environmental planning under deep uncertainty requires researchers to identify and conceptualize problems before exploring policies and deploying...
 
-- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/18/the-gemini-powered-features-in-google-workspace-that-are-worth-using/)
-- **Tags:** #Google, #LLM
+- **Source:** [ArXiv AI](https://arxiv.org/abs/2603.17021)
+- **Tags:** #OpenAI, #LLM, #Hardware
 - **Temps de lecture:** 1 min
-- **Publié:** 19/03/2026 00:43:18
+- **Publié:** 19/03/2026 12:00:00
 
 ---
 
-#### The leaderboard “you can’t game,” funded by the companies it ranks
+#### Transformers are Bayesian Networks
 
-> Artificial intelligence models are multiplying fast, and competition is stiff. With so many players crowding the space, which one will be the best — and who decides that? Arena, formerly LM Arena, has...
+> arXiv:2603.17063v1 Announce Type: new 
+Abstract: Transformers are the dominant architecture in AI, yet why they work remains poorly understood. This paper offers a precise answer: a transformer is a B...
 
-- **Source:** [TechCrunch AI](https://techcrunch.com/video/the-leaderboard-you-cant-game-funded-by-the-companies-it-ranks/)
-- **Tags:** #LLM, #Startup
-- **Temps de lecture:** 1 min
-- **Publié:** 19/03/2026 00:30:00
-
----
-
-#### This startup wants to make enterprise software look more like a prompt
-
-> The company has raised $12 million in seed funding to build an AI operating system for enterprise....
-
-- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/18/this-startup-wants-to-make-enterprise-software-look-more-like-a-prompt/)
-- **Tags:** #Startup
-- **Temps de lecture:** 1 min
-- **Publié:** 19/03/2026 00:00:00
-
----
-
-#### Sequen snags $16M to bring TikTok-style personalization tech to any consumer company
-
-> With its Series A, Sequen is bringing its proprietary AI ranking and personalization technology to large consumer business....
-
-- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/18/sequen-snags-16m-to-bring-tiktok-style-personalization-tech-to-any-consumer-company/)
+- **Source:** [ArXiv AI](https://arxiv.org/abs/2603.17063)
 - **Tags:** 
 - **Temps de lecture:** 1 min
-- **Publié:** 18/03/2026 23:58:50
+- **Publié:** 19/03/2026 12:00:00
 
 ---
 
-#### Microsoft hires the team of Sequoia-backed AI collaboration platform, Cove
+#### Cascade-Aware Multi-Agent Routing: Spatio-Temporal Sidecars and Geometry-Switching
 
-> AI collaboration startup Cove is shutting down after its team joined Microsoft, with service ending April 1 and customer data set for deletion....
+> arXiv:2603.17112v1 Announce Type: new 
+Abstract: A common architectural pattern in advanced AI reasoning systems is the symbolic graph network: specialized agents or modules connected by delegation ed...
 
-- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/18/microsoft-hires-the-team-of-sequioa-backed-ai-collaboration-platform-cove/)
-- **Tags:** #Startup
+- **Source:** [ArXiv AI](https://arxiv.org/abs/2603.17112)
+- **Tags:** 
 - **Temps de lecture:** 1 min
-- **Publié:** 18/03/2026 23:33:49
+- **Publié:** 19/03/2026 12:00:00
 
 ---
 
-### 🔬 Research
+#### How Clued up are LLMs? Evaluating Multi-Step Deductive Reasoning in a Text-Based Game Environment
+
+> arXiv:2603.17169v1 Announce Type: new 
+Abstract: Deducing whodunit proves challenging for LLM agents. In this paper, we implement a text-based multi-agent version of the classic board game Clue as a r...
+
+- **Source:** [ArXiv AI](https://arxiv.org/abs/2603.17169)
+- **Tags:** #OpenAI, #Google, #LLM
+- **Temps de lecture:** 1 min
+- **Publié:** 19/03/2026 12:00:00
+
+---
+
+#### AI Scientist via Synthetic Task Scaling
+
+> arXiv:2603.17216v1 Announce Type: new 
+Abstract: With the advent of AI agents, automatic scientific discovery has become a tenable goal. Many recent works scaffold agentic systems that can perform mac...
+
+- **Source:** [ArXiv AI](https://arxiv.org/abs/2603.17216)
+- **Tags:** #OpenAI, #LLM
+- **Temps de lecture:** 1 min
+- **Publié:** 19/03/2026 12:00:00
+
+---
 
 #### The Download: The Pentagon’s new AI plans, and next-gen nuclear reactors
 
@@ -94,66 +97,6 @@ Votre quotidien des avancées en Intelligence Artificielle.
 - **Tags:** 
 - **Temps de lecture:** 1 min
 - **Publié:** 18/03/2026 17:00:00
-
----
-
-#### Neural-Symbolic Logic Query Answering in Non-Euclidean Space
-
-> arXiv:2603.15633v1 Announce Type: new 
-Abstract: Answering complex first-order logic (FOL) queries on knowledge graphs is essential for reasoning. Symbolic methods offer interpretability but struggle ...
-
-- **Source:** [ArXiv AI](https://arxiv.org/abs/2603.15633)
-- **Tags:** 
-- **Temps de lecture:** 1 min
-- **Publié:** 18/03/2026 12:00:00
-
----
-
-#### NextMem: Towards Latent Factual Memory for LLM-based Agents
-
-> arXiv:2603.15634v1 Announce Type: new 
-Abstract: Memory is critical for LLM-based agents to preserve past observations for future decision-making, where factual memory serves as its foundational part....
-
-- **Source:** [ArXiv AI](https://arxiv.org/abs/2603.15634)
-- **Tags:** #LLM, #AI Safety
-- **Temps de lecture:** 1 min
-- **Publié:** 18/03/2026 12:00:00
-
----
-
-#### AIDABench: AI Data Analytics Benchmark
-
-> arXiv:2603.15636v1 Announce Type: new 
-Abstract: As AI-driven document understanding and processing tools become increasingly prevalent in real-world applications, the need for rigorous evaluation sta...
-
-- **Source:** [ArXiv AI](https://arxiv.org/abs/2603.15636)
-- **Tags:** #Anthropic, #Google, #LLM
-- **Temps de lecture:** 1 min
-- **Publié:** 18/03/2026 12:00:00
-
----
-
-#### The Comprehension-Gated Agent Economy: A Robustness-First Architecture for AI Economic Agency
-
-> arXiv:2603.15639v1 Announce Type: new 
-Abstract: AI agents are increasingly granted economic agency (executing trades, managing budgets, negotiating contracts, and spawning sub-agents), yet current fr...
-
-- **Source:** [ArXiv AI](https://arxiv.org/abs/2603.15639)
-- **Tags:** #AI Safety
-- **Temps de lecture:** 1 min
-- **Publié:** 18/03/2026 12:00:00
-
----
-
-#### Form Follows Function: Recursive Stem Model
-
-> arXiv:2603.15641v1 Announce Type: new 
-Abstract: Recursive reasoning models such as Hierarchical Reasoning Model (HRM) and Tiny Recursive Model (TRM) show that small, weight-shared networks can solve ...
-
-- **Source:** [ArXiv AI](https://arxiv.org/abs/2603.15641)
-- **Tags:** #Computer Vision
-- **Temps de lecture:** 1 min
-- **Publié:** 18/03/2026 12:00:00
 
 ---
 
@@ -190,6 +133,63 @@ Abstract: Recursive reasoning models such as Hierarchical Reasoning Model (HRM) 
 
 ---
 
+### 🏭 Industry
+
+#### Meta is having trouble with rogue AI agents
+
+> A rogue AI agent inadvertently exposed Meta company and user data to engineers who didn't have permission to see it....
+
+- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/18/meta-is-having-trouble-with-rogue-ai-agents/)
+- **Tags:** #Meta
+- **Temps de lecture:** 1 min
+- **Publié:** 19/03/2026 07:42:46
+
+---
+
+#### Sam Altman’s thank-you to coders draws the memes
+
+> Altman expresses gratitude for people who knew how to write their code from scratch. The internet replies with salty jokes....
+
+- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/18/sam-altmans-thank-you-to-coders-draws-the-memes/)
+- **Tags:** 
+- **Temps de lecture:** 1 min
+- **Publié:** 19/03/2026 07:12:58
+
+---
+
+#### Nothing CEO Carl Pei says smartphone apps will disappear as AI agents take their place
+
+> Nothing CEO Carl Pei says AI agents will eventually replace apps, shifting smartphones toward systems that understand intent and act on a user's behalf....
+
+- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/18/nothing-ceo-carl-pei-says-smartphone-apps-will-disappear-as-ai-agents-take-their-place/)
+- **Tags:** 
+- **Temps de lecture:** 1 min
+- **Publié:** 19/03/2026 04:30:52
+
+---
+
+#### Nvidia is quietly building a multibillion-dollar behemoth to rival its chips business
+
+> Nvidia's networking business raked in $11 billion last quarter despite getting significantly less fanfare than chips and gaming....
+
+- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/18/nvidia-networking-division-building-a-multibillion-dollar-behemoth-to-rival-its-chips-business/)
+- **Tags:** #Startup, #Hardware
+- **Temps de lecture:** 1 min
+- **Publié:** 19/03/2026 04:01:19
+
+---
+
+#### Patreon CEO calls AI companies’ fair use argument ‘bogus,’ says creators should be paid
+
+> Patreon CEO Jack Conte says AI companies should pay creators for training data, arguing their fair use defense falls apart when they license content from major publishers....
+
+- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/18/patreon-ceo-calls-ai-companies-fair-use-argument-bogus-says-creators-should-be-paid/)
+- **Tags:** 
+- **Temps de lecture:** 1 min
+- **Publié:** 19/03/2026 01:54:31
+
+---
+
 ### 🚀 Product
 
 #### Introducing GPT-5.4 mini and nano
@@ -198,6 +198,17 @@ Abstract: Recursive reasoning models such as Hierarchical Reasoning Model (HRM) 
 
 - **Source:** [OpenAI Blog](https://openai.com/index/introducing-gpt-5-4-mini-and-nano)
 - **Tags:** #OpenAI, #LLM, #Multimodal
+- **Temps de lecture:** 1 min
+- **Publié:** 17/03/2026 18:00:00
+
+---
+
+#### OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first
+
+> OpenAI Japan announces the Japan Teen Safety Blueprint, introducing stronger age protections, parental controls, and well-being safeguards for teens using generative AI....
+
+- **Source:** [OpenAI Blog](https://openai.com/index/japan-teen-safety-blueprint)
+- **Tags:** #OpenAI, #AI Safety
 - **Temps de lecture:** 1 min
 - **Publié:** 17/03/2026 18:00:00
 
@@ -233,17 +244,6 @@ Abstract: Recursive reasoning models such as Hierarchical Reasoning Model (HRM) 
 - **Tags:** #OpenAI
 - **Temps de lecture:** 1 min
 - **Publié:** 11/03/2026 21:00:00
-
----
-
-#### Designing AI agents to resist prompt injection
-
-> How ChatGPT defends against prompt injection and social engineering by constraining risky actions and protecting sensitive data in agent workflows....
-
-- **Source:** [OpenAI Blog](https://openai.com/index/designing-agents-to-resist-prompt-injection)
-- **Tags:** #OpenAI, #LLM
-- **Temps de lecture:** 1 min
-- **Publié:** 11/03/2026 19:30:00
 
 ---
 
