@@ -1,6 +1,6 @@
 # 🤖 AI News Digest
 
-> **Digest du jeudi 19 mars 2026**
+> **Digest du vendredi 20 mars 2026**
 
 Votre quotidien des avancées en Intelligence Artificielle.
 
@@ -9,7 +9,7 @@ Votre quotidien des avancées en Intelligence Artificielle.
 ## 📊 Statistiques
 
 - **25** articles collectés
-- Dernière mise à jour: 19/03/2026 13:03:42
+- Dernière mise à jour: 20/03/2026 13:03:31
 - Sources: TechCrunch, The Verge, OpenAI, Anthropic, Google AI, ArXiv, MIT Tech Review
 
 ---
@@ -18,63 +18,96 @@ Votre quotidien des avancées en Intelligence Artificielle.
 
 ### 🔬 Research
 
-#### Generative AI-assisted Participatory Modeling in Socio-Environmental Planning under Deep Uncertainty
+#### DEAF: A Benchmark for Diagnostic Evaluation of Acoustic Faithfulness in Audio Language Models
 
-> arXiv:2603.17021v1 Announce Type: new 
-Abstract: Socio-environmental planning under deep uncertainty requires researchers to identify and conceptualize problems before exploring policies and deploying...
+> arXiv:2603.18048v1 Announce Type: new 
+Abstract: Recent Audio Multimodal Large Language Models (Audio MLLMs) demonstrate impressive performance on speech benchmarks, yet it remains unclear whether the...
 
-- **Source:** [ArXiv AI](https://arxiv.org/abs/2603.17021)
-- **Tags:** #OpenAI, #LLM, #Hardware
+- **Source:** [ArXiv AI](https://arxiv.org/abs/2603.18048)
+- **Tags:** #LLM, #Multimodal
 - **Temps de lecture:** 1 min
-- **Publié:** 19/03/2026 12:00:00
+- **Publié:** 20/03/2026 12:00:00
 
 ---
 
-#### Transformers are Bayesian Networks
+#### Continually self-improving AI
 
-> arXiv:2603.17063v1 Announce Type: new 
-Abstract: Transformers are the dominant architecture in AI, yet why they work remains poorly understood. This paper offers a precise answer: a transformer is a B...
+> arXiv:2603.18073v1 Announce Type: new 
+Abstract: Modern language model-based AI systems are remarkably powerful, yet their capabilities remain fundamentally capped by their human creators in three key...
 
-- **Source:** [ArXiv AI](https://arxiv.org/abs/2603.17063)
+- **Source:** [ArXiv AI](https://arxiv.org/abs/2603.18073)
 - **Tags:** 
 - **Temps de lecture:** 1 min
-- **Publié:** 19/03/2026 12:00:00
+- **Publié:** 20/03/2026 12:00:00
 
 ---
 
-#### Cascade-Aware Multi-Agent Routing: Spatio-Temporal Sidecars and Geometry-Switching
+#### Multi-Trait Subspace Steering to Reveal the Dark Side of Human-AI Interaction
 
-> arXiv:2603.17112v1 Announce Type: new 
-Abstract: A common architectural pattern in advanced AI reasoning systems is the symbolic graph network: specialized agents or modules connected by delegation ed...
+> arXiv:2603.18085v1 Announce Type: new 
+Abstract: Recent incidents have highlighted alarming cases where human-AI interactions led to negative psychological outcomes, including mental health crises and...
 
-- **Source:** [ArXiv AI](https://arxiv.org/abs/2603.17112)
+- **Source:** [ArXiv AI](https://arxiv.org/abs/2603.18085)
+- **Tags:** #LLM, #AI Safety, #Healthcare
+- **Temps de lecture:** 1 min
+- **Publié:** 20/03/2026 12:00:00
+
+---
+
+#### Adaptive Domain Models: Bayesian Evolution, Warm Rotation, and Principled Training for Geometric and Neuromorphic AI
+
+> arXiv:2603.18104v1 Announce Type: new 
+Abstract: Prevailing AI training infrastructure assumes reverse-mode automatic differentiation over IEEE-754 arithmetic. The memory overhead of training relative...
+
+- **Source:** [ArXiv AI](https://arxiv.org/abs/2603.18104)
 - **Tags:** 
 - **Temps de lecture:** 1 min
-- **Publié:** 19/03/2026 12:00:00
+- **Publié:** 20/03/2026 12:00:00
 
 ---
 
-#### How Clued up are LLMs? Evaluating Multi-Step Deductive Reasoning in a Text-Based Game Environment
+#### Don't Vibe Code, Do Skele-Code: Interactive No-Code Notebooks for Subject Matter Experts to Build Lower-Cost Agentic Workflows
 
-> arXiv:2603.17169v1 Announce Type: new 
-Abstract: Deducing whodunit proves challenging for LLM agents. In this paper, we implement a text-based multi-agent version of the classic board game Clue as a r...
+> arXiv:2603.18122v1 Announce Type: new 
+Abstract: Skele-Code is a natural-language and graph-based interface for building workflows with AI agents, designed especially for less or non-technical users. ...
 
-- **Source:** [ArXiv AI](https://arxiv.org/abs/2603.17169)
-- **Tags:** #OpenAI, #Google, #LLM
+- **Source:** [ArXiv AI](https://arxiv.org/abs/2603.18122)
+- **Tags:** 
 - **Temps de lecture:** 1 min
-- **Publié:** 19/03/2026 12:00:00
+- **Publié:** 20/03/2026 12:00:00
 
 ---
 
-#### AI Scientist via Synthetic Task Scaling
+#### The Download: Quantum computing for health, and why the world doesn’t recycle more nuclear waste
 
-> arXiv:2603.17216v1 Announce Type: new 
-Abstract: With the advent of AI agents, automatic scientific discovery has become a tenable goal. Many recent works scaffold agentic systems that can perform mac...
+> This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A $5 million prize awaits proof that quantum computers can sol...
 
-- **Source:** [ArXiv AI](https://arxiv.org/abs/2603.17216)
-- **Tags:** #OpenAI, #LLM
+- **Source:** [MIT Technology Review](https://www.technologyreview.com/2026/03/19/1134413/the-download-quantum-computing-health-recycling-nuclear-waste/)
+- **Tags:** #Startup, #Healthcare
 - **Temps de lecture:** 1 min
-- **Publié:** 19/03/2026 12:00:00
+- **Publié:** 19/03/2026 20:17:02
+
+---
+
+#### Can quantum computers now solve health care problems? We’ll soon find out.
+
+> I’m standing in front of a quantum computer built out of atoms and light at the UK’s National Quantum Computing Centre on the outskirts of Oxford. On a laboratory table, a complex matrix of mirrors an...
+
+- **Source:** [MIT Technology Review](https://www.technologyreview.com/2026/03/19/1134409/a-5-million-prize-awaits-proof-that-quantum-computers-can-solve-health-care-problems/)
+- **Tags:** #Healthcare
+- **Temps de lecture:** 1 min
+- **Publié:** 19/03/2026 18:51:43
+
+---
+
+#### Why the world doesn’t recycle more nuclear waste
+
+> The prospect of making trash useful is always fascinating to me. Whether it’s used batteries, solar panels, or spent nuclear fuel, getting use out of something destined for disposal sounds like a win ...
+
+- **Source:** [MIT Technology Review](https://www.technologyreview.com/2026/03/19/1134399/nuclear-waste-reprocessing/)
+- **Tags:** 
+- **Temps de lecture:** 1 min
+- **Publié:** 19/03/2026 18:00:00
 
 ---
 
@@ -100,106 +133,84 @@ Abstract: With the advent of AI agents, automatic scientific discovery has becom
 
 ---
 
-#### The Pentagon is planning for AI companies to train on classified data, defense official says
-
-> The Pentagon is discussing plans to set up secure environments for generative AI companies to train military-specific versions of their models on classified data, MIT Technology Review has learned.  A...
-
-- **Source:** [MIT Technology Review](https://www.technologyreview.com/2026/03/17/1134351/the-pentagon-is-planning-for-ai-companies-to-train-on-classified-data-defense-official-says/)
-- **Tags:** #Anthropic, #LLM
-- **Temps de lecture:** 1 min
-- **Publié:** 18/03/2026 06:30:46
-
----
-
-#### The Download: OpenAI’s US military deal, and Grok’s CSAM lawsuit
-
-> This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Where OpenAI’s technology could show up in Iran  OpenAI has co...
-
-- **Source:** [MIT Technology Review](https://www.technologyreview.com/2026/03/17/1134322/the-download-openi-us-military-deal-grok-xai-csam-lawsuit/)
-- **Tags:** #OpenAI
-- **Temps de lecture:** 1 min
-- **Publié:** 17/03/2026 20:26:48
-
----
-
-#### Where OpenAI’s technology could show up in Iran
-
-> This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. It’s been just over two weeks since OpenAI reached a controver...
-
-- **Source:** [MIT Technology Review](https://www.technologyreview.com/2026/03/16/1134315/where-openais-technology-could-show-up-in-iran/)
-- **Tags:** #OpenAI
-- **Temps de lecture:** 1 min
-- **Publié:** 17/03/2026 01:06:21
-
----
-
 ### 🏭 Industry
 
-#### Meta is having trouble with rogue AI agents
+#### Jeff Bezos reportedly wants $100 billion to buy and transform old manufacturing firms with AI
 
-> A rogue AI agent inadvertently exposed Meta company and user data to engineers who didn't have permission to see it....
+> The Amazon magnate has a new project centered around acquiring industrial firms and revamping them with AI technology....
 
-- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/18/meta-is-having-trouble-with-rogue-ai-agents/)
+- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/19/jeff-bezos-reportedly-wants-100-billion-to-buy-and-transform-old-manufacturing-firms-with-ai/)
+- **Tags:** #Startup
+- **Temps de lecture:** 1 min
+- **Publié:** 20/03/2026 06:09:24
+
+---
+
+#### Online bot traffic will exceed human traffic by 2027, Cloudflare CEO says
+
+> AI bots may outnumber humans online by 2027, says Cloudflare CEO Matthew Prince, as generative AI agents dramatically increase web traffic and infrastructure demands....
+
+- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/19/online-bot-traffic-will-exceed-human-traffic-by-2027-cloudflare-ceo-says/)
+- **Tags:** 
+- **Temps de lecture:** 1 min
+- **Publié:** 20/03/2026 03:09:02
+
+---
+
+#### Meta rolls out new AI content enforcement systems while reducing reliance on third-party vendors
+
+> Meta believes these AI systems can detect more violations with greater accuracy, better prevent scams, respond more quickly to real-world events, and reduce over-enforcement....
+
+- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/19/meta-rolls-out-new-ai-content-enforcement-systems-while-reducing-reliance-on-third-party-vendors/)
 - **Tags:** #Meta
 - **Temps de lecture:** 1 min
-- **Publié:** 19/03/2026 07:42:46
+- **Publié:** 20/03/2026 01:24:13
 
 ---
 
-#### Sam Altman’s thank-you to coders draws the memes
+#### DoorDash launches a new ‘Tasks’ app that pays couriers to submit videos to train AI
 
-> Altman expresses gratitude for people who knew how to write their code from scratch. The internet replies with salty jokes....
+> Delivery couriers will be able to earn money by completing activities like filming everyday tasks or recording themselves speaking in another language....
 
-- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/18/sam-altmans-thank-you-to-coders-draws-the-memes/)
+- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/19/doordash-launches-a-new-tasks-app-that-pays-couriers-to-submit-videos-to-train-ai/)
 - **Tags:** 
 - **Temps de lecture:** 1 min
-- **Publié:** 19/03/2026 07:12:58
+- **Publié:** 20/03/2026 00:14:00
 
 ---
 
-#### Nothing CEO Carl Pei says smartphone apps will disappear as AI agents take their place
+#### TechCrunch Startup Battlefield 200 nominations are still open
 
-> Nothing CEO Carl Pei says AI agents will eventually replace apps, shifting smartphones toward systems that understand intent and act on a user's behalf....
+> Nominate your startup, or one you know, for TechCrunch Startup Battlefield 200 before May 27. Chance to win $100,000 equity-free funding and VC access....
 
-- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/18/nothing-ceo-carl-pei-says-smartphone-apps-will-disappear-as-ai-agents-take-their-place/)
-- **Tags:** 
+- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/19/techcrunch-startup-battlefield-200-nominations-are-still-open/)
+- **Tags:** #Startup
 - **Temps de lecture:** 1 min
-- **Publié:** 19/03/2026 04:30:52
-
----
-
-#### Nvidia is quietly building a multibillion-dollar behemoth to rival its chips business
-
-> Nvidia's networking business raked in $11 billion last quarter despite getting significantly less fanfare than chips and gaming....
-
-- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/18/nvidia-networking-division-building-a-multibillion-dollar-behemoth-to-rival-its-chips-business/)
-- **Tags:** #Startup, #Hardware
-- **Temps de lecture:** 1 min
-- **Publié:** 19/03/2026 04:01:19
-
----
-
-#### Patreon CEO calls AI companies’ fair use argument ‘bogus,’ says creators should be paid
-
-> Patreon CEO Jack Conte says AI companies should pay creators for training data, arguing their fair use defense falls apart when they license content from major publishers....
-
-- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/18/patreon-ceo-calls-ai-companies-fair-use-argument-bogus-says-creators-should-be-paid/)
-- **Tags:** 
-- **Temps de lecture:** 1 min
-- **Publié:** 19/03/2026 01:54:31
+- **Publié:** 19/03/2026 23:00:00
 
 ---
 
 ### 🚀 Product
 
-#### Introducing GPT-5.4 mini and nano
+#### How we monitor internal coding agents for misalignment
 
-> GPT-5.4 mini and nano are smaller, faster versions of GPT-5.4 optimized for coding, tool use, multimodal reasoning, and high-volume API and sub-agent workloads....
+> How OpenAI uses chain-of-thought monitoring to study misalignment in internal coding agents—analyzing real-world deployments to detect risks and strengthen AI safety safeguards....
 
-- **Source:** [OpenAI Blog](https://openai.com/index/introducing-gpt-5-4-mini-and-nano)
-- **Tags:** #OpenAI, #LLM, #Multimodal
+- **Source:** [OpenAI Blog](https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment)
+- **Tags:** #OpenAI, #AI Safety
 - **Temps de lecture:** 1 min
-- **Publié:** 17/03/2026 18:00:00
+- **Publié:** 19/03/2026 18:00:00
+
+---
+
+#### OpenAI to acquire Astral
+
+> Accelerates Codex growth to power the next generation of Python developer tools...
+
+- **Source:** [OpenAI Blog](https://openai.com/index/openai-to-acquire-astral)
+- **Tags:** #OpenAI
+- **Temps de lecture:** 1 min
+- **Publié:** 19/03/2026 08:00:00
 
 ---
 
@@ -214,6 +225,17 @@ Abstract: With the advent of AI agents, automatic scientific discovery has becom
 
 ---
 
+#### Introducing GPT-5.4 mini and nano
+
+> GPT-5.4 mini and nano are smaller, faster versions of GPT-5.4 optimized for coding, tool use, multimodal reasoning, and high-volume API and sub-agent workloads....
+
+- **Source:** [OpenAI Blog](https://openai.com/index/introducing-gpt-5-4-mini-and-nano)
+- **Tags:** #OpenAI, #LLM, #Multimodal
+- **Temps de lecture:** 1 min
+- **Publié:** 17/03/2026 18:00:00
+
+---
+
 #### Equipping workers with insights about compensation
 
 > New research shows Americans send nearly 3 million daily messages to ChatGPT asking about compensation and earnings, helping close the wage information gap....
@@ -222,28 +244,6 @@ Abstract: With the advent of AI agents, automatic scientific discovery has becom
 - **Tags:** #OpenAI, #LLM, #Startup
 - **Temps de lecture:** 1 min
 - **Publié:** 17/03/2026 08:00:00
-
----
-
-#### Why Codex Security Doesn’t Include a SAST Report
-
-> A deep dive into why Codex Security doesn’t rely on traditional SAST, instead using AI-driven constraint reasoning and validation to find real vulnerabilities with fewer false positives....
-
-- **Source:** [OpenAI Blog](https://openai.com/index/why-codex-security-doesnt-include-sast)
-- **Tags:** 
-- **Temps de lecture:** 1 min
-- **Publié:** 16/03/2026 08:00:00
-
----
-
-#### Rakuten fixes issues twice as fast with Codex
-
-> Rakuten uses Codex, the coding agent from OpenAI, to ship software faster and safer, reducing MTTR 50%, automating CI/CD reviews, and delivering full-stack builds in weeks....
-
-- **Source:** [OpenAI Blog](https://openai.com/index/rakuten)
-- **Tags:** #OpenAI
-- **Temps de lecture:** 1 min
-- **Publié:** 11/03/2026 21:00:00
 
 ---
 

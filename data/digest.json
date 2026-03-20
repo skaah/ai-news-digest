@@ -1,10 +1,10 @@
 {
-  "date": "2026-03-19T05:03:42.784Z",
+  "date": "2026-03-20T05:03:31.420Z",
   "articles": [
     {
-      "id": "7ogjsqdhpx5vr9yawxkca",
-      "title": "Generative AI-assisted Participatory Modeling in Socio-Environmental Planning under Deep Uncertainty",
-      "summary": "arXiv:2603.17021v1 Announce Type: new \nAbstract: Socio-environmental planning under deep uncertainty requires researchers to identify and conceptualize problems before exploring policies and deploying...",
+      "id": "gou0gr1datglbw6sdt9btn",
+      "title": "DEAF: A Benchmark for Diagnostic Evaluation of Acoustic Faithfulness in Audio Language Models",
+      "summary": "arXiv:2603.18048v1 Announce Type: new \nAbstract: Recent Audio Multimodal Large Language Models (Audio MLLMs) demonstrate impressive performance on speech benchmarks, yet it remains unclear whether the...",
       "source": {
         "name": "ArXiv AI",
         "url": "https://arxiv.org",
@@ -12,19 +12,18 @@
       },
       "category": "Research",
       "tags": [
-        "OpenAI",
         "LLM",
-        "Hardware"
+        "Multimodal"
       ],
-      "publishedAt": "Thu, 19 Mar 2026 00:00:00 -0400",
+      "publishedAt": "Fri, 20 Mar 2026 00:00:00 -0400",
       "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
       "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2603.17021"
+      "originalUrl": "https://arxiv.org/abs/2603.18048"
     },
     {
-      "id": "c9gz0f7vm7jn2qm4oje0vq",
-      "title": "Transformers are Bayesian Networks",
-      "summary": "arXiv:2603.17063v1 Announce Type: new \nAbstract: Transformers are the dominant architecture in AI, yet why they work remains poorly understood. This paper offers a precise answer: a transformer is a B...",
+      "id": "g0nbm607jhekvpr3ce8ywi",
+      "title": "Continually self-improving AI",
+      "summary": "arXiv:2603.18073v1 Announce Type: new \nAbstract: Modern language model-based AI systems are remarkably powerful, yet their capabilities remain fundamentally capped by their human creators in three key...",
       "source": {
         "name": "ArXiv AI",
         "url": "https://arxiv.org",
@@ -32,15 +31,35 @@
       },
       "category": "Research",
       "tags": [],
-      "publishedAt": "Thu, 19 Mar 2026 00:00:00 -0400",
+      "publishedAt": "Fri, 20 Mar 2026 00:00:00 -0400",
       "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
       "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2603.17063"
+      "originalUrl": "https://arxiv.org/abs/2603.18073"
     },
     {
-      "id": "1bne8vqf404kzduesq1w3k",
-      "title": "Cascade-Aware Multi-Agent Routing: Spatio-Temporal Sidecars and Geometry-Switching",
-      "summary": "arXiv:2603.17112v1 Announce Type: new \nAbstract: A common architectural pattern in advanced AI reasoning systems is the symbolic graph network: specialized agents or modules connected by delegation ed...",
+      "id": "shtppqni7cdnngplor7aj",
+      "title": "Multi-Trait Subspace Steering to Reveal the Dark Side of Human-AI Interaction",
+      "summary": "arXiv:2603.18085v1 Announce Type: new \nAbstract: Recent incidents have highlighted alarming cases where human-AI interactions led to negative psychological outcomes, including mental health crises and...",
+      "source": {
+        "name": "ArXiv AI",
+        "url": "https://arxiv.org",
+        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
+      },
+      "category": "Research",
+      "tags": [
+        "LLM",
+        "AI Safety",
+        "Healthcare"
+      ],
+      "publishedAt": "Fri, 20 Mar 2026 00:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
+      "readTime": 1,
+      "originalUrl": "https://arxiv.org/abs/2603.18085"
+    },
+    {
+      "id": "3fhdfsb9z8efagnue1gv59",
+      "title": "Adaptive Domain Models: Bayesian Evolution, Warm Rotation, and Principled Training for Geometric and Neuromorphic AI",
+      "summary": "arXiv:2603.18104v1 Announce Type: new \nAbstract: Prevailing AI training infrastructure assumes reverse-mode automatic differentiation over IEEE-754 arithmetic. The memory overhead of training relative...",
       "source": {
         "name": "ArXiv AI",
         "url": "https://arxiv.org",
@@ -48,54 +67,65 @@
       },
       "category": "Research",
       "tags": [],
-      "publishedAt": "Thu, 19 Mar 2026 00:00:00 -0400",
+      "publishedAt": "Fri, 20 Mar 2026 00:00:00 -0400",
       "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
       "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2603.17112"
+      "originalUrl": "https://arxiv.org/abs/2603.18104"
     },
     {
-      "id": "tc264sqmjfc5f5a4n31x3",
-      "title": "How Clued up are LLMs? Evaluating Multi-Step Deductive Reasoning in a Text-Based Game Environment",
-      "summary": "arXiv:2603.17169v1 Announce Type: new \nAbstract: Deducing whodunit proves challenging for LLM agents. In this paper, we implement a text-based multi-agent version of the classic board game Clue as a r...",
+      "id": "gn8qj5hybbqz52a5mr2w7",
+      "title": "Don't Vibe Code, Do Skele-Code: Interactive No-Code Notebooks for Subject Matter Experts to Build Lower-Cost Agentic Workflows",
+      "summary": "arXiv:2603.18122v1 Announce Type: new \nAbstract: Skele-Code is a natural-language and graph-based interface for building workflows with AI agents, designed especially for less or non-technical users. ...",
       "source": {
         "name": "ArXiv AI",
         "url": "https://arxiv.org",
         "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
       },
       "category": "Research",
-      "tags": [
-        "OpenAI",
-        "Google",
-        "LLM"
-      ],
-      "publishedAt": "Thu, 19 Mar 2026 00:00:00 -0400",
+      "tags": [],
+      "publishedAt": "Fri, 20 Mar 2026 00:00:00 -0400",
       "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
       "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2603.17169"
+      "originalUrl": "https://arxiv.org/abs/2603.18122"
     },
     {
-      "id": "m76fgsa14qoipxydc9gcla",
-      "title": "AI Scientist via Synthetic Task Scaling",
-      "summary": "arXiv:2603.17216v1 Announce Type: new \nAbstract: With the advent of AI agents, automatic scientific discovery has become a tenable goal. Many recent works scaffold agentic systems that can perform mac...",
+      "id": "aax43xjbbf8ewi40e7ocvp",
+      "title": "Jeff Bezos reportedly wants $100 billion to buy and transform old manufacturing firms with AI",
+      "summary": "The Amazon magnate has a new project centered around acquiring industrial firms and revamping them with AI technology....",
       "source": {
-        "name": "ArXiv AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
       },
-      "category": "Research",
+      "category": "Industry",
       "tags": [
-        "OpenAI",
-        "LLM"
+        "Startup"
       ],
-      "publishedAt": "Thu, 19 Mar 2026 00:00:00 -0400",
+      "publishedAt": "Thu, 19 Mar 2026 22:09:24 +0000",
       "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
       "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2603.17216"
+      "originalUrl": "https://techcrunch.com/2026/03/19/jeff-bezos-reportedly-wants-100-billion-to-buy-and-transform-old-manufacturing-firms-with-ai/"
     },
     {
-      "id": "4fd2ng7c4zeru2iz775i7",
-      "title": "Meta is having trouble with rogue AI agents",
-      "summary": "A rogue AI agent inadvertently exposed Meta company and user data to engineers who didn't have permission to see it....",
+      "id": "erc24gk660bu71uxxuoxz",
+      "title": "Online bot traffic will exceed human traffic by 2027, Cloudflare CEO says",
+      "summary": "AI bots may outnumber humans online by 2027, says Cloudflare CEO Matthew Prince, as generative AI agents dramatically increase web traffic and infrastructure demands....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Thu, 19 Mar 2026 19:09:02 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/03/19/online-bot-traffic-will-exceed-human-traffic-by-2027-cloudflare-ceo-says/"
+    },
+    {
+      "id": "mei3ba9moedpymlylf04fa",
+      "title": "Meta rolls out new AI content enforcement systems while reducing reliance on third-party vendors",
+      "summary": "Meta believes these AI systems can detect more violations with greater accuracy, better prevent scams, respond more quickly to real-world events, and reduce over-enforcement....",
       "source": {
         "name": "TechCrunch AI",
         "url": "https://techcrunch.com",
@@ -105,15 +135,15 @@
       "tags": [
         "Meta"
       ],
-      "publishedAt": "Wed, 18 Mar 2026 23:42:46 +0000",
+      "publishedAt": "Thu, 19 Mar 2026 17:24:13 +0000",
       "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
       "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/03/18/meta-is-having-trouble-with-rogue-ai-agents/"
+      "originalUrl": "https://techcrunch.com/2026/03/19/meta-rolls-out-new-ai-content-enforcement-systems-while-reducing-reliance-on-third-party-vendors/"
     },
     {
-      "id": "0q1p8yes1tbdgalfj115w6",
-      "title": "Sam Altman’s thank-you to coders draws the memes",
-      "summary": "Altman expresses gratitude for people who knew how to write their code from scratch. The internet replies with salty jokes....",
+      "id": "cwnz41ojf2wjtl3k0wfrbr",
+      "title": "DoorDash launches a new ‘Tasks’ app that pays couriers to submit videos to train AI",
+      "summary": "Delivery couriers will be able to earn money by completing activities like filming everyday tasks or recording themselves speaking in another language....",
       "source": {
         "name": "TechCrunch AI",
         "url": "https://techcrunch.com",
@@ -121,31 +151,15 @@
       },
       "category": "Industry",
       "tags": [],
-      "publishedAt": "Wed, 18 Mar 2026 23:12:58 +0000",
+      "publishedAt": "Thu, 19 Mar 2026 16:14:00 +0000",
       "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
       "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/03/18/sam-altmans-thank-you-to-coders-draws-the-memes/"
+      "originalUrl": "https://techcrunch.com/2026/03/19/doordash-launches-a-new-tasks-app-that-pays-couriers-to-submit-videos-to-train-ai/"
     },
     {
-      "id": "tv5tpf8q0lzv4cyjn48mb",
-      "title": "Nothing CEO Carl Pei says smartphone apps will disappear as AI agents take their place",
-      "summary": "Nothing CEO Carl Pei says AI agents will eventually replace apps, shifting smartphones toward systems that understand intent and act on a user's behalf....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Wed, 18 Mar 2026 20:30:52 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/03/18/nothing-ceo-carl-pei-says-smartphone-apps-will-disappear-as-ai-agents-take-their-place/"
-    },
-    {
-      "id": "m4r76kf4b6gtfc5lqo00jm",
-      "title": "Nvidia is quietly building a multibillion-dollar behemoth to rival its chips business",
-      "summary": "Nvidia's networking business raked in $11 billion last quarter despite getting significantly less fanfare than chips and gaming....",
+      "id": "xw2e8hkn7xdyv59y0dg5n",
+      "title": "TechCrunch Startup Battlefield 200 nominations are still open",
+      "summary": "Nominate your startup, or one you know, for TechCrunch Startup Battlefield 200 before May 27. Chance to win $100,000 equity-free funding and VC access....",
       "source": {
         "name": "TechCrunch AI",
         "url": "https://techcrunch.com",
@@ -153,32 +167,105 @@
       },
       "category": "Industry",
       "tags": [
-        "Startup",
-        "Hardware"
+        "Startup"
       ],
-      "publishedAt": "Wed, 18 Mar 2026 20:01:19 +0000",
+      "publishedAt": "Thu, 19 Mar 2026 15:00:00 +0000",
       "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
       "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/03/18/nvidia-networking-division-building-a-multibillion-dollar-behemoth-to-rival-its-chips-business/"
+      "originalUrl": "https://techcrunch.com/2026/03/19/techcrunch-startup-battlefield-200-nominations-are-still-open/"
     },
     {
-      "id": "hv74f51hp8kvqq77xaa718",
-      "title": "Patreon CEO calls AI companies’ fair use argument ‘bogus,’ says creators should be paid",
-      "summary": "Patreon CEO Jack Conte says AI companies should pay creators for training data, arguing their fair use defense falls apart when they license content from major publishers....",
+      "id": "yxqu5y55gqmpzkh6bibfx",
+      "title": "The Download: Quantum computing for health, and why the world doesn’t recycle more nuclear waste",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A $5 million prize awaits proof that quantum computers can sol...",
       "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+        "name": "MIT Technology Review",
+        "url": "https://www.technologyreview.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.technologyreview.com&sz=64"
       },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Wed, 18 Mar 2026 17:54:31 +0000",
+      "category": "Research",
+      "tags": [
+        "Startup",
+        "Healthcare"
+      ],
+      "publishedAt": "Thu, 19 Mar 2026 12:17:02 +0000",
       "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
       "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/03/18/patreon-ceo-calls-ai-companies-fair-use-argument-bogus-says-creators-should-be-paid/"
+      "originalUrl": "https://www.technologyreview.com/2026/03/19/1134413/the-download-quantum-computing-health-recycling-nuclear-waste/"
     },
     {
-      "id": "u15u0v2tp4dg087xzg5ku7",
+      "id": "1ozz82wze5183euh554fov",
+      "title": "Can quantum computers now solve health care problems? We’ll soon find out.",
+      "summary": "I’m standing in front of a quantum computer built out of atoms and light at the UK’s National Quantum Computing Centre on the outskirts of Oxford. On a laboratory table, a complex matrix of mirrors an...",
+      "source": {
+        "name": "MIT Technology Review",
+        "url": "https://www.technologyreview.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.technologyreview.com&sz=64"
+      },
+      "category": "Research",
+      "tags": [
+        "Healthcare"
+      ],
+      "publishedAt": "Thu, 19 Mar 2026 10:51:43 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.technologyreview.com/2026/03/19/1134409/a-5-million-prize-awaits-proof-that-quantum-computers-can-solve-health-care-problems/"
+    },
+    {
+      "id": "u4jloqto1je3mhbgooksv",
+      "title": "Why the world doesn’t recycle more nuclear waste",
+      "summary": "The prospect of making trash useful is always fascinating to me. Whether it’s used batteries, solar panels, or spent nuclear fuel, getting use out of something destined for disposal sounds like a win ...",
+      "source": {
+        "name": "MIT Technology Review",
+        "url": "https://www.technologyreview.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.technologyreview.com&sz=64"
+      },
+      "category": "Research",
+      "tags": [],
+      "publishedAt": "Thu, 19 Mar 2026 10:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.technologyreview.com/2026/03/19/1134399/nuclear-waste-reprocessing/"
+    },
+    {
+      "id": "yup5ym4npkge6tc1t9ku",
+      "title": "How we monitor internal coding agents for misalignment",
+      "summary": "How OpenAI uses chain-of-thought monitoring to study misalignment in internal coding agents—analyzing real-world deployments to detect risks and strengthen AI safety safeguards....",
+      "source": {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
+      },
+      "category": "Product",
+      "tags": [
+        "OpenAI",
+        "AI Safety"
+      ],
+      "publishedAt": "Thu, 19 Mar 2026 10:00:00 GMT",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
+      "readTime": 1,
+      "originalUrl": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment"
+    },
+    {
+      "id": "ewqly61vlg6pq5nx6yls5f",
+      "title": "OpenAI to acquire Astral",
+      "summary": "Accelerates Codex growth to power the next generation of Python developer tools...",
+      "source": {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
+      },
+      "category": "Product",
+      "tags": [
+        "OpenAI"
+      ],
+      "publishedAt": "Thu, 19 Mar 2026 00:00:00 GMT",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
+      "readTime": 1,
+      "originalUrl": "https://openai.com/index/openai-to-acquire-astral"
+    },
+    {
+      "id": "tdodwwocjner3s17pj9ilq",
       "title": "The Download: The Pentagon’s new AI plans, and next-gen nuclear reactors",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The Pentagon is planning for AI companies to train on classifi...",
       "source": {
@@ -194,7 +281,7 @@
       "originalUrl": "https://www.technologyreview.com/2026/03/18/1134371/the-download-the-pentagons-new-ai-plans-and-next-gen-nuclear-reactors/"
     },
     {
-      "id": "zkdp8kcib2f7cfugzuvqw",
+      "id": "xd2gmtcjq9p9ysuiqzno",
       "title": "What do new nuclear reactors mean for waste?",
       "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. The way the world cur...",
       "source": {
@@ -210,44 +297,26 @@
       "originalUrl": "https://www.technologyreview.com/2026/03/18/1134345/advanced-nuclear-reactors-waste/"
     },
     {
-      "id": "e3qoyyvuty9h5dnq9uj2s7",
-      "title": "The Pentagon is planning for AI companies to train on classified data, defense official says",
-      "summary": "The Pentagon is discussing plans to set up secure environments for generative AI companies to train military-specific versions of their models on classified data, MIT Technology Review has learned.  A...",
+      "id": "69v6qqyppiwgmrpy3lco",
+      "title": "OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first",
+      "summary": "OpenAI Japan announces the Japan Teen Safety Blueprint, introducing stronger age protections, parental controls, and well-being safeguards for teens using generative AI....",
       "source": {
-        "name": "MIT Technology Review",
-        "url": "https://www.technologyreview.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.technologyreview.com&sz=64"
+        "name": "OpenAI Blog",
+        "url": "https://openai.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
       },
-      "category": "Research",
+      "category": "Product",
       "tags": [
-        "Anthropic",
-        "LLM"
+        "OpenAI",
+        "AI Safety"
       ],
-      "publishedAt": "Tue, 17 Mar 2026 22:30:46 +0000",
+      "publishedAt": "Tue, 17 Mar 2026 10:00:00 GMT",
       "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
       "readTime": 1,
-      "originalUrl": "https://www.technologyreview.com/2026/03/17/1134351/the-pentagon-is-planning-for-ai-companies-to-train-on-classified-data-defense-official-says/"
+      "originalUrl": "https://openai.com/index/japan-teen-safety-blueprint"
     },
     {
-      "id": "owxxmd7rh4p5dlhkm83fzy",
-      "title": "The Download: OpenAI’s US military deal, and Grok’s CSAM lawsuit",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Where OpenAI’s technology could show up in Iran  OpenAI has co...",
-      "source": {
-        "name": "MIT Technology Review",
-        "url": "https://www.technologyreview.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.technologyreview.com&sz=64"
-      },
-      "category": "Research",
-      "tags": [
-        "OpenAI"
-      ],
-      "publishedAt": "Tue, 17 Mar 2026 12:26:48 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.technologyreview.com/2026/03/17/1134322/the-download-openi-us-military-deal-grok-xai-csam-lawsuit/"
-    },
-    {
-      "id": "vjdbjrib3fo4gynfwalsc9",
+      "id": "xiwgsh2y97jczfjbobzf6",
       "title": "Introducing GPT-5.4 mini and nano",
       "summary": "GPT-5.4 mini and nano are smaller, faster versions of GPT-5.4 optimized for coding, tool use, multimodal reasoning, and high-volume API and sub-agent workloads....",
       "source": {
@@ -267,26 +336,7 @@
       "originalUrl": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano"
     },
     {
-      "id": "5ocw31osnasw3mcrp86go",
-      "title": "OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first",
-      "summary": "OpenAI Japan announces the Japan Teen Safety Blueprint, introducing stronger age protections, parental controls, and well-being safeguards for teens using generative AI....",
-      "source": {
-        "name": "OpenAI Blog",
-        "url": "https://openai.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
-      },
-      "category": "Product",
-      "tags": [
-        "OpenAI",
-        "AI Safety"
-      ],
-      "publishedAt": "Tue, 17 Mar 2026 10:00:00 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
-      "readTime": 1,
-      "originalUrl": "https://openai.com/index/japan-teen-safety-blueprint"
-    },
-    {
-      "id": "6k01jof31zfc1153kl8xca",
+      "id": "7mgi34gt1pqastvzsru7sp",
       "title": "Equipping workers with insights about compensation",
       "summary": "New research shows Americans send nearly 3 million daily messages to ChatGPT asking about compensation and earnings, helping close the wage information gap....",
       "source": {
@@ -304,60 +354,8 @@
       "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
       "readTime": 1,
       "originalUrl": "https://openai.com/index/equipping-workers-with-insights-about-compensation"
-    },
-    {
-      "id": "flr4q5jcvcc7kk0i0nmnxl",
-      "title": "Where OpenAI’s technology could show up in Iran",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. It’s been just over two weeks since OpenAI reached a controver...",
-      "source": {
-        "name": "MIT Technology Review",
-        "url": "https://www.technologyreview.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.technologyreview.com&sz=64"
-      },
-      "category": "Research",
-      "tags": [
-        "OpenAI"
-      ],
-      "publishedAt": "Mon, 16 Mar 2026 17:06:21 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.technologyreview.com/2026/03/16/1134315/where-openais-technology-could-show-up-in-iran/"
-    },
-    {
-      "id": "lghnjrcggys5njw2zrv5k",
-      "title": "Why Codex Security Doesn’t Include a SAST Report",
-      "summary": "A deep dive into why Codex Security doesn’t rely on traditional SAST, instead using AI-driven constraint reasoning and validation to find real vulnerabilities with fewer false positives....",
-      "source": {
-        "name": "OpenAI Blog",
-        "url": "https://openai.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
-      },
-      "category": "Product",
-      "tags": [],
-      "publishedAt": "Mon, 16 Mar 2026 00:00:00 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
-      "readTime": 1,
-      "originalUrl": "https://openai.com/index/why-codex-security-doesnt-include-sast"
-    },
-    {
-      "id": "54c2c7ifaatdn1vht387lj",
-      "title": "Rakuten fixes issues twice as fast with Codex",
-      "summary": "Rakuten uses Codex, the coding agent from OpenAI, to ship software faster and safer, reducing MTTR 50%, automating CI/CD reviews, and delivering full-stack builds in weeks....",
-      "source": {
-        "name": "OpenAI Blog",
-        "url": "https://openai.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
-      },
-      "category": "Product",
-      "tags": [
-        "OpenAI"
-      ],
-      "publishedAt": "Wed, 11 Mar 2026 13:00:00 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
-      "readTime": 1,
-      "originalUrl": "https://openai.com/index/rakuten"
     }
   ],
   "totalArticles": 25,
-  "lastUpdated": "2026-03-19T05:03:42.784Z"
+  "lastUpdated": "2026-03-20T05:03:31.420Z"
 }
