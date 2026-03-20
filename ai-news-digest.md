@@ -1,6 +1,6 @@
 # 🤖 AI News Digest
 
-> **Digest du vendredi 20 mars 2026**
+> **Digest du samedi 21 mars 2026**
 
 Votre quotidien des avancées en Intelligence Artificielle.
 
@@ -9,14 +9,93 @@ Votre quotidien des avancées en Intelligence Artificielle.
 ## 📊 Statistiques
 
 - **25** articles collectés
-- Dernière mise à jour: 20/03/2026 19:03:45
+- Dernière mise à jour: 21/03/2026 01:02:39
 - Sources: TechCrunch, The Verge, OpenAI, Anthropic, Google AI, ArXiv, MIT Tech Review
 
 ---
 
 ## 📰 Articles du jour
 
+### 🏭 Industry
+
+#### WordPress.com now lets AI agents write and publish posts, and more
+
+> New AI agents on WordPress.com could lower barriers to publishing while increasing machine-generated content across the web....
+
+- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/20/wordpress-com-now-lets-ai-agents-write-and-publish-posts-and-more/)
+- **Tags:** 
+- **Temps de lecture:** 1 min
+- **Publié:** 21/03/2026 00:43:09
+
+---
+
+#### Trump’s AI framework targets state laws, shifts child safety burden to parents
+
+> Trump’s AI framework pushes federal preemption of state laws, emphasizes innovation, and shifts responsibility for child safety toward parents while laying out lighter-touch rules for tech companies....
+
+- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/20/trumps-ai-framework-targets-state-laws-shifts-child-safety-burden-to-parents/)
+- **Tags:** #AI Safety
+- **Temps de lecture:** 1 min
+- **Publié:** 21/03/2026 00:14:04
+
+---
+
+#### The best AI investment might be in energy tech
+
+> Power has become one of the biggest bottlenecks in rolling out new AI data centers. That's creating an opening for investors....
+
+- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/20/the-best-ai-investment-might-be-in-energy-tech/)
+- **Tags:** 
+- **Temps de lecture:** 1 min
+- **Publié:** 20/03/2026 20:00:00
+
+---
+
+#### These AI notetaking devices can help you record and transcribe your meetings
+
+> These physical notetakers transcribe audio and give users summaries and action items of meetings using AI. Some even offer live translation....
+
+- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/20/ai-notetaker-hardware-devices-pins-pendants-record-transcribe/)
+- **Tags:** 
+- **Temps de lecture:** 1 min
+- **Publié:** 20/03/2026 19:31:38
+
+---
+
+#### Jeff Bezos reportedly wants $100 billion to buy and transform old manufacturing firms with AI
+
+> The Amazon magnate has a new project centered around acquiring industrial firms and revamping them with AI technology....
+
+- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/19/jeff-bezos-reportedly-wants-100-billion-to-buy-and-transform-old-manufacturing-firms-with-ai/)
+- **Tags:** #Startup
+- **Temps de lecture:** 1 min
+- **Publié:** 20/03/2026 06:09:24
+
+---
+
 ### 🔬 Research
+
+#### The Download: OpenAI is building a fully automated researcher, and a psychedelic trial blind spot
+
+> This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. OpenAI is throwing everything into building a fully automated ...
+
+- **Source:** [MIT Technology Review](https://www.technologyreview.com/2026/03/20/1134448/the-download-openai-building-fully-automated-researcher-psychedelic-drug-trial/)
+- **Tags:** #OpenAI
+- **Temps de lecture:** 1 min
+- **Publié:** 20/03/2026 21:15:45
+
+---
+
+#### OpenAI is throwing everything into building a fully automated researcher
+
+> OpenAI is refocusing its research efforts and throwing its resources into a new grand challenge. The San Francisco firm has set its sights on building what it calls an AI researcher, a fully automated...
+
+- **Source:** [MIT Technology Review](https://www.technologyreview.com/2026/03/20/1134438/openai-is-throwing-everything-into-building-a-fully-automated-researcher/)
+- **Tags:** #OpenAI
+- **Temps de lecture:** 1 min
+- **Publié:** 20/03/2026 19:57:16
+
+---
 
 #### Mind-altering substances are (still) falling short in clinical trials
 
@@ -108,85 +187,6 @@ Abstract: Skele-Code is a natural-language and graph-based interface for buildin
 - **Tags:** #Healthcare
 - **Temps de lecture:** 1 min
 - **Publié:** 19/03/2026 18:51:43
-
----
-
-#### Why the world doesn’t recycle more nuclear waste
-
-> The prospect of making trash useful is always fascinating to me. Whether it’s used batteries, solar panels, or spent nuclear fuel, getting use out of something destined for disposal sounds like a win ...
-
-- **Source:** [MIT Technology Review](https://www.technologyreview.com/2026/03/19/1134399/nuclear-waste-reprocessing/)
-- **Tags:** 
-- **Temps de lecture:** 1 min
-- **Publié:** 19/03/2026 18:00:00
-
----
-
-#### The Download: The Pentagon’s new AI plans, and next-gen nuclear reactors
-
-> This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The Pentagon is planning for AI companies to train on classifi...
-
-- **Source:** [MIT Technology Review](https://www.technologyreview.com/2026/03/18/1134371/the-download-the-pentagons-new-ai-plans-and-next-gen-nuclear-reactors/)
-- **Tags:** 
-- **Temps de lecture:** 1 min
-- **Publié:** 18/03/2026 20:38:00
-
----
-
-### 🏭 Industry
-
-#### Jeff Bezos reportedly wants $100 billion to buy and transform old manufacturing firms with AI
-
-> The Amazon magnate has a new project centered around acquiring industrial firms and revamping them with AI technology....
-
-- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/19/jeff-bezos-reportedly-wants-100-billion-to-buy-and-transform-old-manufacturing-firms-with-ai/)
-- **Tags:** #Startup
-- **Temps de lecture:** 1 min
-- **Publié:** 20/03/2026 06:09:24
-
----
-
-#### Online bot traffic will exceed human traffic by 2027, Cloudflare CEO says
-
-> AI bots may outnumber humans online by 2027, says Cloudflare CEO Matthew Prince, as generative AI agents dramatically increase web traffic and infrastructure demands....
-
-- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/19/online-bot-traffic-will-exceed-human-traffic-by-2027-cloudflare-ceo-says/)
-- **Tags:** 
-- **Temps de lecture:** 1 min
-- **Publié:** 20/03/2026 03:09:02
-
----
-
-#### Meta rolls out new AI content enforcement systems while reducing reliance on third-party vendors
-
-> Meta believes these AI systems can detect more violations with greater accuracy, better prevent scams, respond more quickly to real-world events, and reduce over-enforcement....
-
-- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/19/meta-rolls-out-new-ai-content-enforcement-systems-while-reducing-reliance-on-third-party-vendors/)
-- **Tags:** #Meta
-- **Temps de lecture:** 1 min
-- **Publié:** 20/03/2026 01:24:13
-
----
-
-#### DoorDash launches a new ‘Tasks’ app that pays couriers to submit videos to train AI
-
-> Delivery couriers will be able to earn money by completing activities like filming everyday tasks or recording themselves speaking in another language....
-
-- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/19/doordash-launches-a-new-tasks-app-that-pays-couriers-to-submit-videos-to-train-ai/)
-- **Tags:** 
-- **Temps de lecture:** 1 min
-- **Publié:** 20/03/2026 00:14:00
-
----
-
-#### TechCrunch Startup Battlefield 200 nominations are still open
-
-> Nominate your startup, or one you know, for TechCrunch Startup Battlefield 200 before May 27. Chance to win $100,000 equity-free funding and VC access....
-
-- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/19/techcrunch-startup-battlefield-200-nominations-are-still-open/)
-- **Tags:** #Startup
-- **Temps de lecture:** 1 min
-- **Publié:** 19/03/2026 23:00:00
 
 ---
 
