@@ -1,8 +1,26 @@
 {
-  "date": "2026-03-20T05:03:31.420Z",
+  "date": "2026-03-20T11:03:45.080Z",
   "articles": [
     {
-      "id": "gou0gr1datglbw6sdt9btn",
+      "id": "kyp4wozbxcb0xbqocxt88p",
+      "title": "Mind-altering substances are (still) falling short in clinical trials",
+      "summary": "This week I want to look at where we are with psychedelics, the mind-altering substances that have somehow made the leap from counterculture to major focus of clinical research. Compounds like psilocy...",
+      "source": {
+        "name": "MIT Technology Review",
+        "url": "https://www.technologyreview.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.technologyreview.com&sz=64"
+      },
+      "category": "Research",
+      "tags": [
+        "Healthcare"
+      ],
+      "publishedAt": "Fri, 20 Mar 2026 09:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.technologyreview.com/2026/03/20/1134419/psychedelics-overhyped-psilocybin-depression-placebo/"
+    },
+    {
+      "id": "wmt0dbyhsgpjer8dmndp4q",
       "title": "DEAF: A Benchmark for Diagnostic Evaluation of Acoustic Faithfulness in Audio Language Models",
       "summary": "arXiv:2603.18048v1 Announce Type: new \nAbstract: Recent Audio Multimodal Large Language Models (Audio MLLMs) demonstrate impressive performance on speech benchmarks, yet it remains unclear whether the...",
       "source": {
@@ -21,7 +39,7 @@
       "originalUrl": "https://arxiv.org/abs/2603.18048"
     },
     {
-      "id": "g0nbm607jhekvpr3ce8ywi",
+      "id": "kpqvgto2jc89hf4qflolb",
       "title": "Continually self-improving AI",
       "summary": "arXiv:2603.18073v1 Announce Type: new \nAbstract: Modern language model-based AI systems are remarkably powerful, yet their capabilities remain fundamentally capped by their human creators in three key...",
       "source": {
@@ -37,7 +55,7 @@
       "originalUrl": "https://arxiv.org/abs/2603.18073"
     },
     {
-      "id": "shtppqni7cdnngplor7aj",
+      "id": "rclu1hvbefk8b1s9w02sci",
       "title": "Multi-Trait Subspace Steering to Reveal the Dark Side of Human-AI Interaction",
       "summary": "arXiv:2603.18085v1 Announce Type: new \nAbstract: Recent incidents have highlighted alarming cases where human-AI interactions led to negative psychological outcomes, including mental health crises and...",
       "source": {
@@ -57,7 +75,7 @@
       "originalUrl": "https://arxiv.org/abs/2603.18085"
     },
     {
-      "id": "3fhdfsb9z8efagnue1gv59",
+      "id": "u3uzchlfmsyo6hisf2pt",
       "title": "Adaptive Domain Models: Bayesian Evolution, Warm Rotation, and Principled Training for Geometric and Neuromorphic AI",
       "summary": "arXiv:2603.18104v1 Announce Type: new \nAbstract: Prevailing AI training infrastructure assumes reverse-mode automatic differentiation over IEEE-754 arithmetic. The memory overhead of training relative...",
       "source": {
@@ -73,7 +91,7 @@
       "originalUrl": "https://arxiv.org/abs/2603.18104"
     },
     {
-      "id": "gn8qj5hybbqz52a5mr2w7",
+      "id": "d5jwpbwx1w6uakdlwpsl9",
       "title": "Don't Vibe Code, Do Skele-Code: Interactive No-Code Notebooks for Subject Matter Experts to Build Lower-Cost Agentic Workflows",
       "summary": "arXiv:2603.18122v1 Announce Type: new \nAbstract: Skele-Code is a natural-language and graph-based interface for building workflows with AI agents, designed especially for less or non-technical users. ...",
       "source": {
@@ -89,7 +107,7 @@
       "originalUrl": "https://arxiv.org/abs/2603.18122"
     },
     {
-      "id": "aax43xjbbf8ewi40e7ocvp",
+      "id": "vw4h4pfcatcu8la82erpf",
       "title": "Jeff Bezos reportedly wants $100 billion to buy and transform old manufacturing firms with AI",
       "summary": "The Amazon magnate has a new project centered around acquiring industrial firms and revamping them with AI technology....",
       "source": {
@@ -107,7 +125,7 @@
       "originalUrl": "https://techcrunch.com/2026/03/19/jeff-bezos-reportedly-wants-100-billion-to-buy-and-transform-old-manufacturing-firms-with-ai/"
     },
     {
-      "id": "erc24gk660bu71uxxuoxz",
+      "id": "chl829mlfsu15bap1nj9m9",
       "title": "Online bot traffic will exceed human traffic by 2027, Cloudflare CEO says",
       "summary": "AI bots may outnumber humans online by 2027, says Cloudflare CEO Matthew Prince, as generative AI agents dramatically increase web traffic and infrastructure demands....",
       "source": {
@@ -123,7 +141,7 @@
       "originalUrl": "https://techcrunch.com/2026/03/19/online-bot-traffic-will-exceed-human-traffic-by-2027-cloudflare-ceo-says/"
     },
     {
-      "id": "mei3ba9moedpymlylf04fa",
+      "id": "1p7xk5wsakyg3yqn6oflrb",
       "title": "Meta rolls out new AI content enforcement systems while reducing reliance on third-party vendors",
       "summary": "Meta believes these AI systems can detect more violations with greater accuracy, better prevent scams, respond more quickly to real-world events, and reduce over-enforcement....",
       "source": {
@@ -141,7 +159,7 @@
       "originalUrl": "https://techcrunch.com/2026/03/19/meta-rolls-out-new-ai-content-enforcement-systems-while-reducing-reliance-on-third-party-vendors/"
     },
     {
-      "id": "cwnz41ojf2wjtl3k0wfrbr",
+      "id": "m64y8k5w59op6dl3bbu5e",
       "title": "DoorDash launches a new ‘Tasks’ app that pays couriers to submit videos to train AI",
       "summary": "Delivery couriers will be able to earn money by completing activities like filming everyday tasks or recording themselves speaking in another language....",
       "source": {
@@ -157,7 +175,7 @@
       "originalUrl": "https://techcrunch.com/2026/03/19/doordash-launches-a-new-tasks-app-that-pays-couriers-to-submit-videos-to-train-ai/"
     },
     {
-      "id": "xw2e8hkn7xdyv59y0dg5n",
+      "id": "fikmcqn4g99k3iog1uij4",
       "title": "TechCrunch Startup Battlefield 200 nominations are still open",
       "summary": "Nominate your startup, or one you know, for TechCrunch Startup Battlefield 200 before May 27. Chance to win $100,000 equity-free funding and VC access....",
       "source": {
@@ -175,7 +193,7 @@
       "originalUrl": "https://techcrunch.com/2026/03/19/techcrunch-startup-battlefield-200-nominations-are-still-open/"
     },
     {
-      "id": "yxqu5y55gqmpzkh6bibfx",
+      "id": "jtf81zbf7gx8dw2k0jofb",
       "title": "The Download: Quantum computing for health, and why the world doesn’t recycle more nuclear waste",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A $5 million prize awaits proof that quantum computers can sol...",
       "source": {
@@ -194,7 +212,7 @@
       "originalUrl": "https://www.technologyreview.com/2026/03/19/1134413/the-download-quantum-computing-health-recycling-nuclear-waste/"
     },
     {
-      "id": "1ozz82wze5183euh554fov",
+      "id": "sd97j3qi54h0g9wt2rr7",
       "title": "Can quantum computers now solve health care problems? We’ll soon find out.",
       "summary": "I’m standing in front of a quantum computer built out of atoms and light at the UK’s National Quantum Computing Centre on the outskirts of Oxford. On a laboratory table, a complex matrix of mirrors an...",
       "source": {
@@ -212,7 +230,7 @@
       "originalUrl": "https://www.technologyreview.com/2026/03/19/1134409/a-5-million-prize-awaits-proof-that-quantum-computers-can-solve-health-care-problems/"
     },
     {
-      "id": "u4jloqto1je3mhbgooksv",
+      "id": "fqyvq89gw9etob04j33mbl",
       "title": "Why the world doesn’t recycle more nuclear waste",
       "summary": "The prospect of making trash useful is always fascinating to me. Whether it’s used batteries, solar panels, or spent nuclear fuel, getting use out of something destined for disposal sounds like a win ...",
       "source": {
@@ -228,7 +246,7 @@
       "originalUrl": "https://www.technologyreview.com/2026/03/19/1134399/nuclear-waste-reprocessing/"
     },
     {
-      "id": "yup5ym4npkge6tc1t9ku",
+      "id": "iksomnrpjidsvitlpuqwz",
       "title": "How we monitor internal coding agents for misalignment",
       "summary": "How OpenAI uses chain-of-thought monitoring to study misalignment in internal coding agents—analyzing real-world deployments to detect risks and strengthen AI safety safeguards....",
       "source": {
@@ -247,7 +265,7 @@
       "originalUrl": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment"
     },
     {
-      "id": "ewqly61vlg6pq5nx6yls5f",
+      "id": "sc81l8wna0pblhp4kn64q4",
       "title": "OpenAI to acquire Astral",
       "summary": "Accelerates Codex growth to power the next generation of Python developer tools...",
       "source": {
@@ -265,7 +283,7 @@
       "originalUrl": "https://openai.com/index/openai-to-acquire-astral"
     },
     {
-      "id": "tdodwwocjner3s17pj9ilq",
+      "id": "fqcc7cou5msvyk0zyy22a",
       "title": "The Download: The Pentagon’s new AI plans, and next-gen nuclear reactors",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The Pentagon is planning for AI companies to train on classifi...",
       "source": {
@@ -281,23 +299,7 @@
       "originalUrl": "https://www.technologyreview.com/2026/03/18/1134371/the-download-the-pentagons-new-ai-plans-and-next-gen-nuclear-reactors/"
     },
     {
-      "id": "xd2gmtcjq9p9ysuiqzno",
-      "title": "What do new nuclear reactors mean for waste?",
-      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. The way the world cur...",
-      "source": {
-        "name": "MIT Technology Review",
-        "url": "https://www.technologyreview.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.technologyreview.com&sz=64"
-      },
-      "category": "Research",
-      "tags": [],
-      "publishedAt": "Wed, 18 Mar 2026 09:00:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.technologyreview.com/2026/03/18/1134345/advanced-nuclear-reactors-waste/"
-    },
-    {
-      "id": "69v6qqyppiwgmrpy3lco",
+      "id": "gzsy9opo6ttquzi6rwp9jl",
       "title": "OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first",
       "summary": "OpenAI Japan announces the Japan Teen Safety Blueprint, introducing stronger age protections, parental controls, and well-being safeguards for teens using generative AI....",
       "source": {
@@ -316,7 +318,7 @@
       "originalUrl": "https://openai.com/index/japan-teen-safety-blueprint"
     },
     {
-      "id": "xiwgsh2y97jczfjbobzf6",
+      "id": "izgvp2r05em23ja8yknx",
       "title": "Introducing GPT-5.4 mini and nano",
       "summary": "GPT-5.4 mini and nano are smaller, faster versions of GPT-5.4 optimized for coding, tool use, multimodal reasoning, and high-volume API and sub-agent workloads....",
       "source": {
@@ -336,7 +338,7 @@
       "originalUrl": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano"
     },
     {
-      "id": "7mgi34gt1pqastvzsru7sp",
+      "id": "z28rfmgtwwjrqtyks3s9",
       "title": "Equipping workers with insights about compensation",
       "summary": "New research shows Americans send nearly 3 million daily messages to ChatGPT asking about compensation and earnings, helping close the wage information gap....",
       "source": {
@@ -357,5 +359,5 @@
     }
   ],
   "totalArticles": 25,
-  "lastUpdated": "2026-03-20T05:03:31.420Z"
+  "lastUpdated": "2026-03-20T11:03:45.080Z"
 }

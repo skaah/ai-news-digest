@@ -9,7 +9,7 @@ Votre quotidien des avancées en Intelligence Artificielle.
 ## 📊 Statistiques
 
 - **25** articles collectés
-- Dernière mise à jour: 20/03/2026 13:03:31
+- Dernière mise à jour: 20/03/2026 19:03:45
 - Sources: TechCrunch, The Verge, OpenAI, Anthropic, Google AI, ArXiv, MIT Tech Review
 
 ---
@@ -17,6 +17,17 @@ Votre quotidien des avancées en Intelligence Artificielle.
 ## 📰 Articles du jour
 
 ### 🔬 Research
+
+#### Mind-altering substances are (still) falling short in clinical trials
+
+> This week I want to look at where we are with psychedelics, the mind-altering substances that have somehow made the leap from counterculture to major focus of clinical research. Compounds like psilocy...
+
+- **Source:** [MIT Technology Review](https://www.technologyreview.com/2026/03/20/1134419/psychedelics-overhyped-psilocybin-depression-placebo/)
+- **Tags:** #Healthcare
+- **Temps de lecture:** 1 min
+- **Publié:** 20/03/2026 17:00:00
+
+---
 
 #### DEAF: A Benchmark for Diagnostic Evaluation of Acoustic Faithfulness in Audio Language Models
 
@@ -119,17 +130,6 @@ Abstract: Skele-Code is a natural-language and graph-based interface for buildin
 - **Tags:** 
 - **Temps de lecture:** 1 min
 - **Publié:** 18/03/2026 20:38:00
-
----
-
-#### What do new nuclear reactors mean for waste?
-
-> MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. The way the world cur...
-
-- **Source:** [MIT Technology Review](https://www.technologyreview.com/2026/03/18/1134345/advanced-nuclear-reactors-waste/)
-- **Tags:** 
-- **Temps de lecture:** 1 min
-- **Publié:** 18/03/2026 17:00:00
 
 ---
 
