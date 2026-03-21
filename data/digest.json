@@ -1,8 +1,168 @@
 {
-  "date": "2026-03-20T17:02:39.067Z",
+  "date": "2026-03-21T05:02:34.614Z",
   "articles": [
     {
-      "id": "w3qal4taoroo03lznfdmvj",
+      "id": "edm91lk0db4o1md9wpm79b",
+      "title": "DEAF: A Benchmark for Diagnostic Evaluation of Acoustic Faithfulness in Audio Language Models",
+      "summary": "arXiv:2603.18048v1 Announce Type: new \nAbstract: Recent Audio Multimodal Large Language Models (Audio MLLMs) demonstrate impressive performance on speech benchmarks, yet it remains unclear whether the...",
+      "source": {
+        "name": "ArXiv AI",
+        "url": "https://arxiv.org",
+        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
+      },
+      "category": "Research",
+      "tags": [
+        "LLM",
+        "Multimodal"
+      ],
+      "publishedAt": "Sat, 21 Mar 2026 00:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
+      "readTime": 1,
+      "originalUrl": "https://arxiv.org/abs/2603.18048"
+    },
+    {
+      "id": "btkrzwwhasieh4uum9lpr",
+      "title": "Continually self-improving AI",
+      "summary": "arXiv:2603.18073v1 Announce Type: new \nAbstract: Modern language model-based AI systems are remarkably powerful, yet their capabilities remain fundamentally capped by their human creators in three key...",
+      "source": {
+        "name": "ArXiv AI",
+        "url": "https://arxiv.org",
+        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
+      },
+      "category": "Research",
+      "tags": [],
+      "publishedAt": "Sat, 21 Mar 2026 00:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
+      "readTime": 1,
+      "originalUrl": "https://arxiv.org/abs/2603.18073"
+    },
+    {
+      "id": "yjr5237ztko84bir58npom",
+      "title": "Multi-Trait Subspace Steering to Reveal the Dark Side of Human-AI Interaction",
+      "summary": "arXiv:2603.18085v1 Announce Type: new \nAbstract: Recent incidents have highlighted alarming cases where human-AI interactions led to negative psychological outcomes, including mental health crises and...",
+      "source": {
+        "name": "ArXiv AI",
+        "url": "https://arxiv.org",
+        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
+      },
+      "category": "Research",
+      "tags": [
+        "LLM",
+        "AI Safety",
+        "Healthcare"
+      ],
+      "publishedAt": "Sat, 21 Mar 2026 00:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
+      "readTime": 1,
+      "originalUrl": "https://arxiv.org/abs/2603.18085"
+    },
+    {
+      "id": "lzqek8iu0v932qpm1ft4yk",
+      "title": "Adaptive Domain Models: Bayesian Evolution, Warm Rotation, and Principled Training for Geometric and Neuromorphic AI",
+      "summary": "arXiv:2603.18104v1 Announce Type: new \nAbstract: Prevailing AI training infrastructure assumes reverse-mode automatic differentiation over IEEE-754 arithmetic. The memory overhead of training relative...",
+      "source": {
+        "name": "ArXiv AI",
+        "url": "https://arxiv.org",
+        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
+      },
+      "category": "Research",
+      "tags": [],
+      "publishedAt": "Sat, 21 Mar 2026 00:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
+      "readTime": 1,
+      "originalUrl": "https://arxiv.org/abs/2603.18104"
+    },
+    {
+      "id": "621r1z9k2u5durb4doz7c",
+      "title": "Don't Vibe Code, Do Skele-Code: Interactive No-Code Notebooks for Subject Matter Experts to Build Lower-Cost Agentic Workflows",
+      "summary": "arXiv:2603.18122v1 Announce Type: new \nAbstract: Skele-Code is a natural-language and graph-based interface for building workflows with AI agents, designed especially for less or non-technical users. ...",
+      "source": {
+        "name": "ArXiv AI",
+        "url": "https://arxiv.org",
+        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
+      },
+      "category": "Research",
+      "tags": [],
+      "publishedAt": "Sat, 21 Mar 2026 00:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
+      "readTime": 1,
+      "originalUrl": "https://arxiv.org/abs/2603.18122"
+    },
+    {
+      "id": "ce0w4tqu5jn8t4rxggqeq",
+      "title": "New court filing reveals Pentagon told Anthropic the two sides were nearly aligned — a week after Trump declared the relationship kaput",
+      "summary": "Anthropic submitted two sworn declarations to a California federal court late Friday afternoon, pushing back on the Pentagon's assertion that the AI company poses an \"unacceptable risk to national sec...",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Anthropic",
+        "Startup"
+      ],
+      "publishedAt": "Sat, 21 Mar 2026 01:40:28 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/03/20/new-court-filing-reveals-pentagon-told-anthropic-the-two-sides-were-nearly-aligned-a-week-after-trump-declared-the-relationship-kaput/"
+    },
+    {
+      "id": "wbsnuu3jd481wj5qrbbu6h",
+      "title": "Microsoft rolls back some of its Copilot AI bloat on Windows",
+      "summary": "The company is reducing Copilot entry points on Windows, starting with Photos, Widgets, Notepad, and other apps....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Fri, 20 Mar 2026 20:53:09 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/03/20/microsoft-rolls-back-some-of-its-copilot-ai-bloat-on-windows/"
+    },
+    {
+      "id": "0w7ko2ynhmtfjvn0di9ylw",
+      "title": "What happened at Nvidia GTC: NemoClaw, Robot Olaf, and a $1 trillion bet",
+      "summary": "CEO Jensen Huang took the stage at Nvidia’s GTC conference this week in his signature leather jacket to deliver a two-and-a-half-hour keynote, projecting $1 trillion in AI chip sales through 2027, dec...",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Robotics",
+        "Hardware"
+      ],
+      "publishedAt": "Fri, 20 Mar 2026 20:02:35 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/video/what-happened-at-nvidia-gtc-nemoclaw-robot-olaf-and-a-1-trillion-bet/"
+    },
+    {
+      "id": "dr5uz64x77fw93fevwm06",
+      "title": "Nvidia has an OpenClaw strategy. Do you? ",
+      "summary": "CEO Jensen Huang took the stage at Nvidia’s GTC conference this week in his signature leather jacket to deliver a two-and-a-half-hour keynote, projecting $1 trillion in AI chip sales through 2027, dec...",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Robotics",
+        "Hardware"
+      ],
+      "publishedAt": "Fri, 20 Mar 2026 19:48:38 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/podcast/nvidia-has-an-openclaw-strategy-do-you/"
+    },
+    {
+      "id": "llka7j53nvgvvtbilq4e5",
       "title": "WordPress.com now lets AI agents write and publish posts, and more",
       "summary": "New AI agents on WordPress.com could lower barriers to publishing while increasing machine-generated content across the web....",
       "source": {
@@ -18,25 +178,7 @@
       "originalUrl": "https://techcrunch.com/2026/03/20/wordpress-com-now-lets-ai-agents-write-and-publish-posts-and-more/"
     },
     {
-      "id": "d7vd7jjg75nxmkyymozyb7",
-      "title": "Trump’s AI framework targets state laws, shifts child safety burden to parents",
-      "summary": "Trump’s AI framework pushes federal preemption of state laws, emphasizes innovation, and shifts responsibility for child safety toward parents while laying out lighter-touch rules for tech companies....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "AI Safety"
-      ],
-      "publishedAt": "Fri, 20 Mar 2026 16:14:04 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/03/20/trumps-ai-framework-targets-state-laws-shifts-child-safety-burden-to-parents/"
-    },
-    {
-      "id": "fnahdw0rf6vu5ey89do258",
+      "id": "b8pmmbqndkh4hsi19kbr8j",
       "title": "The Download: OpenAI is building a fully automated researcher, and a psychedelic trial blind spot",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. OpenAI is throwing everything into building a fully automated ...",
       "source": {
@@ -54,23 +196,7 @@
       "originalUrl": "https://www.technologyreview.com/2026/03/20/1134448/the-download-openai-building-fully-automated-researcher-psychedelic-drug-trial/"
     },
     {
-      "id": "tua1s91akwwhwc8u6blvf",
-      "title": "The best AI investment might be in energy tech",
-      "summary": "Power has become one of the biggest bottlenecks in rolling out new AI data centers. That's creating an opening for investors....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Fri, 20 Mar 2026 12:00:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/03/20/the-best-ai-investment-might-be-in-energy-tech/"
-    },
-    {
-      "id": "nspkw2e2ywfowwrieprjo",
+      "id": "n9fypfrq6xbrd180fo6gj",
       "title": "OpenAI is throwing everything into building a fully automated researcher",
       "summary": "OpenAI is refocusing its research efforts and throwing its resources into a new grand challenge. The San Francisco firm has set its sights on building what it calls an AI researcher, a fully automated...",
       "source": {
@@ -88,23 +214,7 @@
       "originalUrl": "https://www.technologyreview.com/2026/03/20/1134438/openai-is-throwing-everything-into-building-a-fully-automated-researcher/"
     },
     {
-      "id": "jma2xm8t0b75ekj2715ht",
-      "title": "These AI notetaking devices can help you record and transcribe your meetings",
-      "summary": "These physical notetakers transcribe audio and give users summaries and action items of meetings using AI. Some even offer live translation....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Fri, 20 Mar 2026 11:31:38 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/03/20/ai-notetaker-hardware-devices-pins-pendants-record-transcribe/"
-    },
-    {
-      "id": "1xlqp83y9ax79ym6hsg7rk",
+      "id": "h469shqa8bmzw40vsf63r",
       "title": "Mind-altering substances are (still) falling short in clinical trials",
       "summary": "This week I want to look at where we are with psychedelics, the mind-altering substances that have somehow made the leap from counterculture to major focus of clinical research. Compounds like psilocy...",
       "source": {
@@ -122,112 +232,7 @@
       "originalUrl": "https://www.technologyreview.com/2026/03/20/1134419/psychedelics-overhyped-psilocybin-depression-placebo/"
     },
     {
-      "id": "asf59t2v2pdndlhfzak7ai",
-      "title": "DEAF: A Benchmark for Diagnostic Evaluation of Acoustic Faithfulness in Audio Language Models",
-      "summary": "arXiv:2603.18048v1 Announce Type: new \nAbstract: Recent Audio Multimodal Large Language Models (Audio MLLMs) demonstrate impressive performance on speech benchmarks, yet it remains unclear whether the...",
-      "source": {
-        "name": "ArXiv AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Research",
-      "tags": [
-        "LLM",
-        "Multimodal"
-      ],
-      "publishedAt": "Fri, 20 Mar 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2603.18048"
-    },
-    {
-      "id": "dqvtp0i769xyugwtpfgp",
-      "title": "Continually self-improving AI",
-      "summary": "arXiv:2603.18073v1 Announce Type: new \nAbstract: Modern language model-based AI systems are remarkably powerful, yet their capabilities remain fundamentally capped by their human creators in three key...",
-      "source": {
-        "name": "ArXiv AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Research",
-      "tags": [],
-      "publishedAt": "Fri, 20 Mar 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2603.18073"
-    },
-    {
-      "id": "n6dfgudf8u5g5e0aiqalm",
-      "title": "Multi-Trait Subspace Steering to Reveal the Dark Side of Human-AI Interaction",
-      "summary": "arXiv:2603.18085v1 Announce Type: new \nAbstract: Recent incidents have highlighted alarming cases where human-AI interactions led to negative psychological outcomes, including mental health crises and...",
-      "source": {
-        "name": "ArXiv AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Research",
-      "tags": [
-        "LLM",
-        "AI Safety",
-        "Healthcare"
-      ],
-      "publishedAt": "Fri, 20 Mar 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2603.18085"
-    },
-    {
-      "id": "waoi7d0anmrz89wfsy6pf",
-      "title": "Adaptive Domain Models: Bayesian Evolution, Warm Rotation, and Principled Training for Geometric and Neuromorphic AI",
-      "summary": "arXiv:2603.18104v1 Announce Type: new \nAbstract: Prevailing AI training infrastructure assumes reverse-mode automatic differentiation over IEEE-754 arithmetic. The memory overhead of training relative...",
-      "source": {
-        "name": "ArXiv AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Research",
-      "tags": [],
-      "publishedAt": "Fri, 20 Mar 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2603.18104"
-    },
-    {
-      "id": "qdrftald2oklx6tre9q5xl",
-      "title": "Don't Vibe Code, Do Skele-Code: Interactive No-Code Notebooks for Subject Matter Experts to Build Lower-Cost Agentic Workflows",
-      "summary": "arXiv:2603.18122v1 Announce Type: new \nAbstract: Skele-Code is a natural-language and graph-based interface for building workflows with AI agents, designed especially for less or non-technical users. ...",
-      "source": {
-        "name": "ArXiv AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Research",
-      "tags": [],
-      "publishedAt": "Fri, 20 Mar 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2603.18122"
-    },
-    {
-      "id": "vy7156dczqsirb06gpwhe",
-      "title": "Jeff Bezos reportedly wants $100 billion to buy and transform old manufacturing firms with AI",
-      "summary": "The Amazon magnate has a new project centered around acquiring industrial firms and revamping them with AI technology....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Startup"
-      ],
-      "publishedAt": "Thu, 19 Mar 2026 22:09:24 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/03/19/jeff-bezos-reportedly-wants-100-billion-to-buy-and-transform-old-manufacturing-firms-with-ai/"
-    },
-    {
-      "id": "xmg1b0di0agey9jiwy757",
+      "id": "v4936creea9szkrt6rkvll",
       "title": "The Download: Quantum computing for health, and why the world doesn’t recycle more nuclear waste",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A $5 million prize awaits proof that quantum computers can sol...",
       "source": {
@@ -246,7 +251,7 @@
       "originalUrl": "https://www.technologyreview.com/2026/03/19/1134413/the-download-quantum-computing-health-recycling-nuclear-waste/"
     },
     {
-      "id": "1b5e197l0cthcocx3qk4f0e",
+      "id": "xa03r63ixpht8jhpqx6vv",
       "title": "Can quantum computers now solve health care problems? We’ll soon find out.",
       "summary": "I’m standing in front of a quantum computer built out of atoms and light at the UK’s National Quantum Computing Centre on the outskirts of Oxford. On a laboratory table, a complex matrix of mirrors an...",
       "source": {
@@ -264,7 +269,7 @@
       "originalUrl": "https://www.technologyreview.com/2026/03/19/1134409/a-5-million-prize-awaits-proof-that-quantum-computers-can-solve-health-care-problems/"
     },
     {
-      "id": "c7ix9ry3tgr873keb3z6ea",
+      "id": "tkdeetmi1smxrl3uc8w4g",
       "title": "How we monitor internal coding agents for misalignment",
       "summary": "How OpenAI uses chain-of-thought monitoring to study misalignment in internal coding agents—analyzing real-world deployments to detect risks and strengthen AI safety safeguards....",
       "source": {
@@ -283,7 +288,7 @@
       "originalUrl": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment"
     },
     {
-      "id": "8g7axaooavdbg2c70zfgwp",
+      "id": "rv553m8fnebkgjkyhf6h4",
       "title": "OpenAI to acquire Astral",
       "summary": "Accelerates Codex growth to power the next generation of Python developer tools...",
       "source": {
@@ -301,7 +306,7 @@
       "originalUrl": "https://openai.com/index/openai-to-acquire-astral"
     },
     {
-      "id": "nycfvcapc7x6ng9oorjle",
+      "id": "tj2rfna0h9lepw8e79466l",
       "title": "OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first",
       "summary": "OpenAI Japan announces the Japan Teen Safety Blueprint, introducing stronger age protections, parental controls, and well-being safeguards for teens using generative AI....",
       "source": {
@@ -320,7 +325,7 @@
       "originalUrl": "https://openai.com/index/japan-teen-safety-blueprint"
     },
     {
-      "id": "1m8r6z1446fmde963xnna",
+      "id": "ugo3pjji1o4lnk96fegns",
       "title": "Introducing GPT-5.4 mini and nano",
       "summary": "GPT-5.4 mini and nano are smaller, faster versions of GPT-5.4 optimized for coding, tool use, multimodal reasoning, and high-volume API and sub-agent workloads....",
       "source": {
@@ -340,7 +345,7 @@
       "originalUrl": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano"
     },
     {
-      "id": "e5tbzxx1e2qmlmi64gs9l7",
+      "id": "c31z9nij0jw2d6ie278njm",
       "title": "Equipping workers with insights about compensation",
       "summary": "New research shows Americans send nearly 3 million daily messages to ChatGPT asking about compensation and earnings, helping close the wage information gap....",
       "source": {
@@ -361,5 +366,5 @@
     }
   ],
   "totalArticles": 25,
-  "lastUpdated": "2026-03-20T17:02:39.068Z"
+  "lastUpdated": "2026-03-21T05:02:34.614Z"
 }

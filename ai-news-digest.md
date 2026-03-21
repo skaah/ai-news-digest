@@ -9,71 +9,74 @@ Votre quotidien des avancées en Intelligence Artificielle.
 ## 📊 Statistiques
 
 - **25** articles collectés
-- Dernière mise à jour: 21/03/2026 01:02:39
+- Dernière mise à jour: 21/03/2026 13:02:34
 - Sources: TechCrunch, The Verge, OpenAI, Anthropic, Google AI, ArXiv, MIT Tech Review
 
 ---
 
 ## 📰 Articles du jour
 
-### 🏭 Industry
-
-#### WordPress.com now lets AI agents write and publish posts, and more
-
-> New AI agents on WordPress.com could lower barriers to publishing while increasing machine-generated content across the web....
-
-- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/20/wordpress-com-now-lets-ai-agents-write-and-publish-posts-and-more/)
-- **Tags:** 
-- **Temps de lecture:** 1 min
-- **Publié:** 21/03/2026 00:43:09
-
----
-
-#### Trump’s AI framework targets state laws, shifts child safety burden to parents
-
-> Trump’s AI framework pushes federal preemption of state laws, emphasizes innovation, and shifts responsibility for child safety toward parents while laying out lighter-touch rules for tech companies....
-
-- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/20/trumps-ai-framework-targets-state-laws-shifts-child-safety-burden-to-parents/)
-- **Tags:** #AI Safety
-- **Temps de lecture:** 1 min
-- **Publié:** 21/03/2026 00:14:04
-
----
-
-#### The best AI investment might be in energy tech
-
-> Power has become one of the biggest bottlenecks in rolling out new AI data centers. That's creating an opening for investors....
-
-- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/20/the-best-ai-investment-might-be-in-energy-tech/)
-- **Tags:** 
-- **Temps de lecture:** 1 min
-- **Publié:** 20/03/2026 20:00:00
-
----
-
-#### These AI notetaking devices can help you record and transcribe your meetings
-
-> These physical notetakers transcribe audio and give users summaries and action items of meetings using AI. Some even offer live translation....
-
-- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/20/ai-notetaker-hardware-devices-pins-pendants-record-transcribe/)
-- **Tags:** 
-- **Temps de lecture:** 1 min
-- **Publié:** 20/03/2026 19:31:38
-
----
-
-#### Jeff Bezos reportedly wants $100 billion to buy and transform old manufacturing firms with AI
-
-> The Amazon magnate has a new project centered around acquiring industrial firms and revamping them with AI technology....
-
-- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/19/jeff-bezos-reportedly-wants-100-billion-to-buy-and-transform-old-manufacturing-firms-with-ai/)
-- **Tags:** #Startup
-- **Temps de lecture:** 1 min
-- **Publié:** 20/03/2026 06:09:24
-
----
-
 ### 🔬 Research
+
+#### DEAF: A Benchmark for Diagnostic Evaluation of Acoustic Faithfulness in Audio Language Models
+
+> arXiv:2603.18048v1 Announce Type: new 
+Abstract: Recent Audio Multimodal Large Language Models (Audio MLLMs) demonstrate impressive performance on speech benchmarks, yet it remains unclear whether the...
+
+- **Source:** [ArXiv AI](https://arxiv.org/abs/2603.18048)
+- **Tags:** #LLM, #Multimodal
+- **Temps de lecture:** 1 min
+- **Publié:** 21/03/2026 12:00:00
+
+---
+
+#### Continually self-improving AI
+
+> arXiv:2603.18073v1 Announce Type: new 
+Abstract: Modern language model-based AI systems are remarkably powerful, yet their capabilities remain fundamentally capped by their human creators in three key...
+
+- **Source:** [ArXiv AI](https://arxiv.org/abs/2603.18073)
+- **Tags:** 
+- **Temps de lecture:** 1 min
+- **Publié:** 21/03/2026 12:00:00
+
+---
+
+#### Multi-Trait Subspace Steering to Reveal the Dark Side of Human-AI Interaction
+
+> arXiv:2603.18085v1 Announce Type: new 
+Abstract: Recent incidents have highlighted alarming cases where human-AI interactions led to negative psychological outcomes, including mental health crises and...
+
+- **Source:** [ArXiv AI](https://arxiv.org/abs/2603.18085)
+- **Tags:** #LLM, #AI Safety, #Healthcare
+- **Temps de lecture:** 1 min
+- **Publié:** 21/03/2026 12:00:00
+
+---
+
+#### Adaptive Domain Models: Bayesian Evolution, Warm Rotation, and Principled Training for Geometric and Neuromorphic AI
+
+> arXiv:2603.18104v1 Announce Type: new 
+Abstract: Prevailing AI training infrastructure assumes reverse-mode automatic differentiation over IEEE-754 arithmetic. The memory overhead of training relative...
+
+- **Source:** [ArXiv AI](https://arxiv.org/abs/2603.18104)
+- **Tags:** 
+- **Temps de lecture:** 1 min
+- **Publié:** 21/03/2026 12:00:00
+
+---
+
+#### Don't Vibe Code, Do Skele-Code: Interactive No-Code Notebooks for Subject Matter Experts to Build Lower-Cost Agentic Workflows
+
+> arXiv:2603.18122v1 Announce Type: new 
+Abstract: Skele-Code is a natural-language and graph-based interface for building workflows with AI agents, designed especially for less or non-technical users. ...
+
+- **Source:** [ArXiv AI](https://arxiv.org/abs/2603.18122)
+- **Tags:** 
+- **Temps de lecture:** 1 min
+- **Publié:** 21/03/2026 12:00:00
+
+---
 
 #### The Download: OpenAI is building a fully automated researcher, and a psychedelic trial blind spot
 
@@ -108,66 +111,6 @@ Votre quotidien des avancées en Intelligence Artificielle.
 
 ---
 
-#### DEAF: A Benchmark for Diagnostic Evaluation of Acoustic Faithfulness in Audio Language Models
-
-> arXiv:2603.18048v1 Announce Type: new 
-Abstract: Recent Audio Multimodal Large Language Models (Audio MLLMs) demonstrate impressive performance on speech benchmarks, yet it remains unclear whether the...
-
-- **Source:** [ArXiv AI](https://arxiv.org/abs/2603.18048)
-- **Tags:** #LLM, #Multimodal
-- **Temps de lecture:** 1 min
-- **Publié:** 20/03/2026 12:00:00
-
----
-
-#### Continually self-improving AI
-
-> arXiv:2603.18073v1 Announce Type: new 
-Abstract: Modern language model-based AI systems are remarkably powerful, yet their capabilities remain fundamentally capped by their human creators in three key...
-
-- **Source:** [ArXiv AI](https://arxiv.org/abs/2603.18073)
-- **Tags:** 
-- **Temps de lecture:** 1 min
-- **Publié:** 20/03/2026 12:00:00
-
----
-
-#### Multi-Trait Subspace Steering to Reveal the Dark Side of Human-AI Interaction
-
-> arXiv:2603.18085v1 Announce Type: new 
-Abstract: Recent incidents have highlighted alarming cases where human-AI interactions led to negative psychological outcomes, including mental health crises and...
-
-- **Source:** [ArXiv AI](https://arxiv.org/abs/2603.18085)
-- **Tags:** #LLM, #AI Safety, #Healthcare
-- **Temps de lecture:** 1 min
-- **Publié:** 20/03/2026 12:00:00
-
----
-
-#### Adaptive Domain Models: Bayesian Evolution, Warm Rotation, and Principled Training for Geometric and Neuromorphic AI
-
-> arXiv:2603.18104v1 Announce Type: new 
-Abstract: Prevailing AI training infrastructure assumes reverse-mode automatic differentiation over IEEE-754 arithmetic. The memory overhead of training relative...
-
-- **Source:** [ArXiv AI](https://arxiv.org/abs/2603.18104)
-- **Tags:** 
-- **Temps de lecture:** 1 min
-- **Publié:** 20/03/2026 12:00:00
-
----
-
-#### Don't Vibe Code, Do Skele-Code: Interactive No-Code Notebooks for Subject Matter Experts to Build Lower-Cost Agentic Workflows
-
-> arXiv:2603.18122v1 Announce Type: new 
-Abstract: Skele-Code is a natural-language and graph-based interface for building workflows with AI agents, designed especially for less or non-technical users. ...
-
-- **Source:** [ArXiv AI](https://arxiv.org/abs/2603.18122)
-- **Tags:** 
-- **Temps de lecture:** 1 min
-- **Publié:** 20/03/2026 12:00:00
-
----
-
 #### The Download: Quantum computing for health, and why the world doesn’t recycle more nuclear waste
 
 > This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A $5 million prize awaits proof that quantum computers can sol...
@@ -187,6 +130,63 @@ Abstract: Skele-Code is a natural-language and graph-based interface for buildin
 - **Tags:** #Healthcare
 - **Temps de lecture:** 1 min
 - **Publié:** 19/03/2026 18:51:43
+
+---
+
+### 🏭 Industry
+
+#### New court filing reveals Pentagon told Anthropic the two sides were nearly aligned — a week after Trump declared the relationship kaput
+
+> Anthropic submitted two sworn declarations to a California federal court late Friday afternoon, pushing back on the Pentagon's assertion that the AI company poses an "unacceptable risk to national sec...
+
+- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/20/new-court-filing-reveals-pentagon-told-anthropic-the-two-sides-were-nearly-aligned-a-week-after-trump-declared-the-relationship-kaput/)
+- **Tags:** #Anthropic, #Startup
+- **Temps de lecture:** 1 min
+- **Publié:** 21/03/2026 09:40:28
+
+---
+
+#### Microsoft rolls back some of its Copilot AI bloat on Windows
+
+> The company is reducing Copilot entry points on Windows, starting with Photos, Widgets, Notepad, and other apps....
+
+- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/20/microsoft-rolls-back-some-of-its-copilot-ai-bloat-on-windows/)
+- **Tags:** 
+- **Temps de lecture:** 1 min
+- **Publié:** 21/03/2026 04:53:09
+
+---
+
+#### What happened at Nvidia GTC: NemoClaw, Robot Olaf, and a $1 trillion bet
+
+> CEO Jensen Huang took the stage at Nvidia’s GTC conference this week in his signature leather jacket to deliver a two-and-a-half-hour keynote, projecting $1 trillion in AI chip sales through 2027, dec...
+
+- **Source:** [TechCrunch AI](https://techcrunch.com/video/what-happened-at-nvidia-gtc-nemoclaw-robot-olaf-and-a-1-trillion-bet/)
+- **Tags:** #Robotics, #Hardware
+- **Temps de lecture:** 1 min
+- **Publié:** 21/03/2026 04:02:35
+
+---
+
+#### Nvidia has an OpenClaw strategy. Do you? 
+
+> CEO Jensen Huang took the stage at Nvidia’s GTC conference this week in his signature leather jacket to deliver a two-and-a-half-hour keynote, projecting $1 trillion in AI chip sales through 2027, dec...
+
+- **Source:** [TechCrunch AI](https://techcrunch.com/podcast/nvidia-has-an-openclaw-strategy-do-you/)
+- **Tags:** #Robotics, #Hardware
+- **Temps de lecture:** 1 min
+- **Publié:** 21/03/2026 03:48:38
+
+---
+
+#### WordPress.com now lets AI agents write and publish posts, and more
+
+> New AI agents on WordPress.com could lower barriers to publishing while increasing machine-generated content across the web....
+
+- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/20/wordpress-com-now-lets-ai-agents-write-and-publish-posts-and-more/)
+- **Tags:** 
+- **Temps de lecture:** 1 min
+- **Publié:** 21/03/2026 00:43:09
 
 ---
 
