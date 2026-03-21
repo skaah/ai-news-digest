@@ -9,7 +9,7 @@ Votre quotidien des avancées en Intelligence Artificielle.
 ## 📊 Statistiques
 
 - **25** articles collectés
-- Dernière mise à jour: 21/03/2026 13:02:34
+- Dernière mise à jour: 21/03/2026 19:03:29
 - Sources: TechCrunch, The Verge, OpenAI, Anthropic, Google AI, ArXiv, MIT Tech Review
 
 ---
@@ -214,23 +214,23 @@ Abstract: Skele-Code is a natural-language and graph-based interface for buildin
 
 ---
 
-#### OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first
-
-> OpenAI Japan announces the Japan Teen Safety Blueprint, introducing stronger age protections, parental controls, and well-being safeguards for teens using generative AI....
-
-- **Source:** [OpenAI Blog](https://openai.com/index/japan-teen-safety-blueprint)
-- **Tags:** #OpenAI, #AI Safety
-- **Temps de lecture:** 1 min
-- **Publié:** 17/03/2026 18:00:00
-
----
-
 #### Introducing GPT-5.4 mini and nano
 
 > GPT-5.4 mini and nano are smaller, faster versions of GPT-5.4 optimized for coding, tool use, multimodal reasoning, and high-volume API and sub-agent workloads....
 
 - **Source:** [OpenAI Blog](https://openai.com/index/introducing-gpt-5-4-mini-and-nano)
 - **Tags:** #OpenAI, #LLM, #Multimodal
+- **Temps de lecture:** 1 min
+- **Publié:** 17/03/2026 18:00:00
+
+---
+
+#### OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first
+
+> OpenAI Japan announces the Japan Teen Safety Blueprint, introducing stronger age protections, parental controls, and well-being safeguards for teens using generative AI....
+
+- **Source:** [OpenAI Blog](https://openai.com/index/japan-teen-safety-blueprint)
+- **Tags:** #OpenAI, #AI Safety
 - **Temps de lecture:** 1 min
 - **Publié:** 17/03/2026 18:00:00
 
