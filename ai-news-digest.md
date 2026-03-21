@@ -1,6 +1,6 @@
 # 🤖 AI News Digest
 
-> **Digest du samedi 21 mars 2026**
+> **Digest du dimanche 22 mars 2026**
 
 Votre quotidien des avancées en Intelligence Artificielle.
 
@@ -9,12 +9,69 @@ Votre quotidien des avancées en Intelligence Artificielle.
 ## 📊 Statistiques
 
 - **25** articles collectés
-- Dernière mise à jour: 21/03/2026 19:03:29
+- Dernière mise à jour: 22/03/2026 01:07:09
 - Sources: TechCrunch, The Verge, OpenAI, Anthropic, Google AI, ArXiv, MIT Tech Review
 
 ---
 
 ## 📰 Articles du jour
+
+### 🏭 Industry
+
+#### Delve accused of misleading customers with ‘fake compliance’
+
+> An anonymous Substack post accuses compliance startup Delve of “falsely” convincing “hundreds of customers they were compliant” with privacy and security regulations....
+
+- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/21/delve-accused-of-misleading-customers-with-fake-compliance/)
+- **Tags:** #Startup
+- **Temps de lecture:** 1 min
+- **Publié:** 22/03/2026 01:00:05
+
+---
+
+#### Why Wall Street wasn’t won over by Nvidia’s big conference
+
+> Despite investor fears of an AI bubble, Nvidia's latest conference shows that most in the industry aren't concerned by that possibility....
+
+- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/21/why-wall-street-wasnt-won-over-by-nvidias-big-conference/)
+- **Tags:** #Hardware
+- **Temps de lecture:** 1 min
+- **Publié:** 22/03/2026 00:28:00
+
+---
+
+#### New court filing reveals Pentagon told Anthropic the two sides were nearly aligned — a week after Trump declared the relationship kaput
+
+> Anthropic submitted two sworn declarations to a California federal court late Friday afternoon, pushing back on the Pentagon's assertion that the AI company poses an "unacceptable risk to national sec...
+
+- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/20/new-court-filing-reveals-pentagon-told-anthropic-the-two-sides-were-nearly-aligned-a-week-after-trump-declared-the-relationship-kaput/)
+- **Tags:** #Anthropic, #Startup
+- **Temps de lecture:** 1 min
+- **Publié:** 21/03/2026 09:40:28
+
+---
+
+#### Microsoft rolls back some of its Copilot AI bloat on Windows
+
+> The company is reducing Copilot entry points on Windows, starting with Photos, Widgets, Notepad, and other apps....
+
+- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/20/microsoft-rolls-back-some-of-its-copilot-ai-bloat-on-windows/)
+- **Tags:** 
+- **Temps de lecture:** 1 min
+- **Publié:** 21/03/2026 04:53:09
+
+---
+
+#### What happened at Nvidia GTC: NemoClaw, Robot Olaf, and a $1 trillion bet
+
+> CEO Jensen Huang took the stage at Nvidia’s GTC conference this week in his signature leather jacket to deliver a two-and-a-half-hour keynote, projecting $1 trillion in AI chip sales through 2027, dec...
+
+- **Source:** [TechCrunch AI](https://techcrunch.com/video/what-happened-at-nvidia-gtc-nemoclaw-robot-olaf-and-a-1-trillion-bet/)
+- **Tags:** #Robotics, #Hardware
+- **Temps de lecture:** 1 min
+- **Publié:** 21/03/2026 04:02:35
+
+---
 
 ### 🔬 Research
 
@@ -130,63 +187,6 @@ Abstract: Skele-Code is a natural-language and graph-based interface for buildin
 - **Tags:** #Healthcare
 - **Temps de lecture:** 1 min
 - **Publié:** 19/03/2026 18:51:43
-
----
-
-### 🏭 Industry
-
-#### New court filing reveals Pentagon told Anthropic the two sides were nearly aligned — a week after Trump declared the relationship kaput
-
-> Anthropic submitted two sworn declarations to a California federal court late Friday afternoon, pushing back on the Pentagon's assertion that the AI company poses an "unacceptable risk to national sec...
-
-- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/20/new-court-filing-reveals-pentagon-told-anthropic-the-two-sides-were-nearly-aligned-a-week-after-trump-declared-the-relationship-kaput/)
-- **Tags:** #Anthropic, #Startup
-- **Temps de lecture:** 1 min
-- **Publié:** 21/03/2026 09:40:28
-
----
-
-#### Microsoft rolls back some of its Copilot AI bloat on Windows
-
-> The company is reducing Copilot entry points on Windows, starting with Photos, Widgets, Notepad, and other apps....
-
-- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/20/microsoft-rolls-back-some-of-its-copilot-ai-bloat-on-windows/)
-- **Tags:** 
-- **Temps de lecture:** 1 min
-- **Publié:** 21/03/2026 04:53:09
-
----
-
-#### What happened at Nvidia GTC: NemoClaw, Robot Olaf, and a $1 trillion bet
-
-> CEO Jensen Huang took the stage at Nvidia’s GTC conference this week in his signature leather jacket to deliver a two-and-a-half-hour keynote, projecting $1 trillion in AI chip sales through 2027, dec...
-
-- **Source:** [TechCrunch AI](https://techcrunch.com/video/what-happened-at-nvidia-gtc-nemoclaw-robot-olaf-and-a-1-trillion-bet/)
-- **Tags:** #Robotics, #Hardware
-- **Temps de lecture:** 1 min
-- **Publié:** 21/03/2026 04:02:35
-
----
-
-#### Nvidia has an OpenClaw strategy. Do you? 
-
-> CEO Jensen Huang took the stage at Nvidia’s GTC conference this week in his signature leather jacket to deliver a two-and-a-half-hour keynote, projecting $1 trillion in AI chip sales through 2027, dec...
-
-- **Source:** [TechCrunch AI](https://techcrunch.com/podcast/nvidia-has-an-openclaw-strategy-do-you/)
-- **Tags:** #Robotics, #Hardware
-- **Temps de lecture:** 1 min
-- **Publié:** 21/03/2026 03:48:38
-
----
-
-#### WordPress.com now lets AI agents write and publish posts, and more
-
-> New AI agents on WordPress.com could lower barriers to publishing while increasing machine-generated content across the web....
-
-- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/20/wordpress-com-now-lets-ai-agents-write-and-publish-posts-and-more/)
-- **Tags:** 
-- **Temps de lecture:** 1 min
-- **Publié:** 21/03/2026 00:43:09
 
 ---
 
