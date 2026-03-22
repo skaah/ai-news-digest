@@ -8,8 +8,8 @@ Votre quotidien des avancées en Intelligence Artificielle.
 
 ## 📊 Statistiques
 
-- **25** articles collectés
-- Dernière mise à jour: 22/03/2026 01:07:09
+- **20** articles collectés
+- Dernière mise à jour: 22/03/2026 13:03:40
 - Sources: TechCrunch, The Verge, OpenAI, Anthropic, Google AI, ArXiv, MIT Tech Review
 
 ---
@@ -17,6 +17,17 @@ Votre quotidien des avancées en Intelligence Artificielle.
 ## 📰 Articles du jour
 
 ### 🏭 Industry
+
+#### Publisher pulls horror novel ‘Shy Girl’ over AI concerns
+
+> Hachette Book Group said it will not be publishing “Shy Girl” over concerns that artificial intelligence was used to generate the text....
+
+- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/21/publisher-pulls-horror-novel-shy-girl-over-ai-concerns/)
+- **Tags:** 
+- **Temps de lecture:** 1 min
+- **Publié:** 22/03/2026 03:30:27
+
+---
 
 #### Delve accused of misleading customers with ‘fake compliance’
 
@@ -62,78 +73,7 @@ Votre quotidien des avancées en Intelligence Artificielle.
 
 ---
 
-#### What happened at Nvidia GTC: NemoClaw, Robot Olaf, and a $1 trillion bet
-
-> CEO Jensen Huang took the stage at Nvidia’s GTC conference this week in his signature leather jacket to deliver a two-and-a-half-hour keynote, projecting $1 trillion in AI chip sales through 2027, dec...
-
-- **Source:** [TechCrunch AI](https://techcrunch.com/video/what-happened-at-nvidia-gtc-nemoclaw-robot-olaf-and-a-1-trillion-bet/)
-- **Tags:** #Robotics, #Hardware
-- **Temps de lecture:** 1 min
-- **Publié:** 21/03/2026 04:02:35
-
----
-
 ### 🔬 Research
-
-#### DEAF: A Benchmark for Diagnostic Evaluation of Acoustic Faithfulness in Audio Language Models
-
-> arXiv:2603.18048v1 Announce Type: new 
-Abstract: Recent Audio Multimodal Large Language Models (Audio MLLMs) demonstrate impressive performance on speech benchmarks, yet it remains unclear whether the...
-
-- **Source:** [ArXiv AI](https://arxiv.org/abs/2603.18048)
-- **Tags:** #LLM, #Multimodal
-- **Temps de lecture:** 1 min
-- **Publié:** 21/03/2026 12:00:00
-
----
-
-#### Continually self-improving AI
-
-> arXiv:2603.18073v1 Announce Type: new 
-Abstract: Modern language model-based AI systems are remarkably powerful, yet their capabilities remain fundamentally capped by their human creators in three key...
-
-- **Source:** [ArXiv AI](https://arxiv.org/abs/2603.18073)
-- **Tags:** 
-- **Temps de lecture:** 1 min
-- **Publié:** 21/03/2026 12:00:00
-
----
-
-#### Multi-Trait Subspace Steering to Reveal the Dark Side of Human-AI Interaction
-
-> arXiv:2603.18085v1 Announce Type: new 
-Abstract: Recent incidents have highlighted alarming cases where human-AI interactions led to negative psychological outcomes, including mental health crises and...
-
-- **Source:** [ArXiv AI](https://arxiv.org/abs/2603.18085)
-- **Tags:** #LLM, #AI Safety, #Healthcare
-- **Temps de lecture:** 1 min
-- **Publié:** 21/03/2026 12:00:00
-
----
-
-#### Adaptive Domain Models: Bayesian Evolution, Warm Rotation, and Principled Training for Geometric and Neuromorphic AI
-
-> arXiv:2603.18104v1 Announce Type: new 
-Abstract: Prevailing AI training infrastructure assumes reverse-mode automatic differentiation over IEEE-754 arithmetic. The memory overhead of training relative...
-
-- **Source:** [ArXiv AI](https://arxiv.org/abs/2603.18104)
-- **Tags:** 
-- **Temps de lecture:** 1 min
-- **Publié:** 21/03/2026 12:00:00
-
----
-
-#### Don't Vibe Code, Do Skele-Code: Interactive No-Code Notebooks for Subject Matter Experts to Build Lower-Cost Agentic Workflows
-
-> arXiv:2603.18122v1 Announce Type: new 
-Abstract: Skele-Code is a natural-language and graph-based interface for building workflows with AI agents, designed especially for less or non-technical users. ...
-
-- **Source:** [ArXiv AI](https://arxiv.org/abs/2603.18122)
-- **Tags:** 
-- **Temps de lecture:** 1 min
-- **Publié:** 21/03/2026 12:00:00
-
----
 
 #### The Download: OpenAI is building a fully automated researcher, and a psychedelic trial blind spot
 
@@ -244,6 +184,64 @@ Abstract: Skele-Code is a natural-language and graph-based interface for buildin
 - **Tags:** #OpenAI, #LLM, #Startup
 - **Temps de lecture:** 1 min
 - **Publié:** 17/03/2026 08:00:00
+
+---
+
+### 💰 Funding
+
+#### Railway secures $100 million to challenge AWS with AI-native cloud infrastructure
+
+> Railway, a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B fundi...
+
+- **Source:** [VentureBeat AI](https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud)
+- **Tags:** #OpenAI, #Anthropic, #Google, #LLM, #Computer Vision
+- **Temps de lecture:** 1 min
+- **Publié:** 22/01/2026 22:00:00
+
+---
+
+#### Claude Code costs up to $200 a month. Goose does the same thing for free.
+
+> The artificial intelligence coding revolution comes with a catch: it's expensive.
+Claude Code, Anthropic's terminal-based AI agent that can write, debug, and deploy code autonomously, has captured the...
+
+- **Source:** [VentureBeat AI](https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free)
+- **Tags:** #OpenAI, #Anthropic, #Google, #Meta, #LLM
+- **Temps de lecture:** 1 min
+- **Publié:** 19/01/2026 22:00:00
+
+---
+
+#### Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews
+
+> Alfred Wahlforss was running out of options. His startup, Listen Labs, needed to hire over 100 engineers, but competing against Mark Zuckerberg's $100 million offers seemed impossible. So he spent $5,...
+
+- **Source:** [VentureBeat AI](https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai)
+- **Tags:** #Anthropic, #LLM, #Computer Vision, #Startup, #Healthcare
+- **Temps de lecture:** 1 min
+- **Publié:** 16/01/2026 22:01:00
+
+---
+
+#### Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI
+
+> Salesforce on Tuesday launched an entirely rebuilt version of Slackbot, the company's workplace assistant, transforming it from a simple notification tool into what executives describe as a fully powe...
+
+- **Source:** [VentureBeat AI](https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and)
+- **Tags:** #OpenAI, #Anthropic, #Google, #LLM, #Computer Vision
+- **Temps de lecture:** 1 min
+- **Publié:** 13/01/2026 21:00:00
+
+---
+
+#### Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required
+
+> Anthropic released Cowork on Monday, a new AI agent capability that extends the power of its wildly successful Claude Code tool to non-technical users — and according to company insiders, the team bui...
+
+- **Source:** [VentureBeat AI](https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no)
+- **Tags:** #OpenAI, #Anthropic, #Google, #LLM, #AI Safety
+- **Temps de lecture:** 1 min
+- **Publié:** 12/01/2026 19:30:00
 
 ---
 
