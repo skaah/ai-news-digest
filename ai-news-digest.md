@@ -9,7 +9,7 @@ Votre quotidien des avancées en Intelligence Artificielle.
 ## 📊 Statistiques
 
 - **20** articles collectés
-- Dernière mise à jour: 22/03/2026 13:03:40
+- Dernière mise à jour: 22/03/2026 19:08:04
 - Sources: TechCrunch, The Verge, OpenAI, Anthropic, Google AI, ArXiv, MIT Tech Review
 
 ---
@@ -17,6 +17,17 @@ Votre quotidien des avancées en Intelligence Artificielle.
 ## 📰 Articles du jour
 
 ### 🏭 Industry
+
+#### Are AI tokens the new signing bonus or just a cost of doing business?
+
+> Maybe tokens really will become the fourth pillar of engineering compensation. But engineers might want to hold the line before embracing this as a straightforward win....
+
+- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/21/are-ai-tokens-the-new-signing-bonus-or-just-a-cost-of-doing-business/)
+- **Tags:** 
+- **Temps de lecture:** 1 min
+- **Publié:** 22/03/2026 14:20:43
+
+---
 
 #### Publisher pulls horror novel ‘Shy Girl’ over AI concerns
 
@@ -59,17 +70,6 @@ Votre quotidien des avancées en Intelligence Artificielle.
 - **Tags:** #Anthropic, #Startup
 - **Temps de lecture:** 1 min
 - **Publié:** 21/03/2026 09:40:28
-
----
-
-#### Microsoft rolls back some of its Copilot AI bloat on Windows
-
-> The company is reducing Copilot entry points on Windows, starting with Photos, Widgets, Notepad, and other apps....
-
-- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/20/microsoft-rolls-back-some-of-its-copilot-ai-bloat-on-windows/)
-- **Tags:** 
-- **Temps de lecture:** 1 min
-- **Publié:** 21/03/2026 04:53:09
 
 ---
 

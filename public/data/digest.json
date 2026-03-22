@@ -1,8 +1,24 @@
 {
-  "date": "2026-03-22T05:03:40.022Z",
+  "date": "2026-03-22T11:08:04.125Z",
   "articles": [
     {
-      "id": "wramcje3j1fkuefa45wqvp",
+      "id": "81uwkxda3ya2q66cfxbr2b",
+      "title": "Are AI tokens the new signing bonus or just a cost of doing business?",
+      "summary": "Maybe tokens really will become the fourth pillar of engineering compensation. But engineers might want to hold the line before embracing this as a straightforward win....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Sun, 22 Mar 2026 06:20:43 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/03/21/are-ai-tokens-the-new-signing-bonus-or-just-a-cost-of-doing-business/"
+    },
+    {
+      "id": "np8win87asksonexwtxt0f",
       "title": "Publisher pulls horror novel ‘Shy Girl’ over AI concerns",
       "summary": "Hachette Book Group said it will not be publishing “Shy Girl” over concerns that artificial intelligence was used to generate the text....",
       "source": {
@@ -18,7 +34,7 @@
       "originalUrl": "https://techcrunch.com/2026/03/21/publisher-pulls-horror-novel-shy-girl-over-ai-concerns/"
     },
     {
-      "id": "vtbph88av1ufxoanx3bnl",
+      "id": "pauarktgufk7cykyk831r3",
       "title": "Delve accused of misleading customers with ‘fake compliance’",
       "summary": "An anonymous Substack post accuses compliance startup Delve of “falsely” convincing “hundreds of customers they were compliant” with privacy and security regulations....",
       "source": {
@@ -36,7 +52,7 @@
       "originalUrl": "https://techcrunch.com/2026/03/21/delve-accused-of-misleading-customers-with-fake-compliance/"
     },
     {
-      "id": "swwlpqly4uqv5hoo74ef1e",
+      "id": "ojh5u2gqvsoj11gyswpovg",
       "title": "Why Wall Street wasn’t won over by Nvidia’s big conference",
       "summary": "Despite investor fears of an AI bubble, Nvidia's latest conference shows that most in the industry aren't concerned by that possibility....",
       "source": {
@@ -54,7 +70,7 @@
       "originalUrl": "https://techcrunch.com/2026/03/21/why-wall-street-wasnt-won-over-by-nvidias-big-conference/"
     },
     {
-      "id": "e3pntukckp8kbx8i6ugkx",
+      "id": "ijxuvp4uqzv87yvkrdvca",
       "title": "New court filing reveals Pentagon told Anthropic the two sides were nearly aligned — a week after Trump declared the relationship kaput",
       "summary": "Anthropic submitted two sworn declarations to a California federal court late Friday afternoon, pushing back on the Pentagon's assertion that the AI company poses an \"unacceptable risk to national sec...",
       "source": {
@@ -73,23 +89,7 @@
       "originalUrl": "https://techcrunch.com/2026/03/20/new-court-filing-reveals-pentagon-told-anthropic-the-two-sides-were-nearly-aligned-a-week-after-trump-declared-the-relationship-kaput/"
     },
     {
-      "id": "gpqgh33wps7soyxr6w7bkc",
-      "title": "Microsoft rolls back some of its Copilot AI bloat on Windows",
-      "summary": "The company is reducing Copilot entry points on Windows, starting with Photos, Widgets, Notepad, and other apps....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Fri, 20 Mar 2026 20:53:09 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/03/20/microsoft-rolls-back-some-of-its-copilot-ai-bloat-on-windows/"
-    },
-    {
-      "id": "8kfv5t6rnhlbkwsc5av40k",
+      "id": "2f6oaunxct7kodt5pl9b2",
       "title": "The Download: OpenAI is building a fully automated researcher, and a psychedelic trial blind spot",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. OpenAI is throwing everything into building a fully automated ...",
       "source": {
@@ -107,7 +107,7 @@
       "originalUrl": "https://www.technologyreview.com/2026/03/20/1134448/the-download-openai-building-fully-automated-researcher-psychedelic-drug-trial/"
     },
     {
-      "id": "asmxpin88344sxba58lxv",
+      "id": "ahvj3wpjtxiyd1u9o7eypi",
       "title": "OpenAI is throwing everything into building a fully automated researcher",
       "summary": "OpenAI is refocusing its research efforts and throwing its resources into a new grand challenge. The San Francisco firm has set its sights on building what it calls an AI researcher, a fully automated...",
       "source": {
@@ -125,7 +125,7 @@
       "originalUrl": "https://www.technologyreview.com/2026/03/20/1134438/openai-is-throwing-everything-into-building-a-fully-automated-researcher/"
     },
     {
-      "id": "zyevm75w4l6mv8x5ld51a",
+      "id": "61gt6yix0s7ieok4t06fzl",
       "title": "Mind-altering substances are (still) falling short in clinical trials",
       "summary": "This week I want to look at where we are with psychedelics, the mind-altering substances that have somehow made the leap from counterculture to major focus of clinical research. Compounds like psilocy...",
       "source": {
@@ -143,7 +143,7 @@
       "originalUrl": "https://www.technologyreview.com/2026/03/20/1134419/psychedelics-overhyped-psilocybin-depression-placebo/"
     },
     {
-      "id": "xqsyypl4atcwaw8v7kaowm",
+      "id": "x8cu79j4s7iwxrbrelqp1",
       "title": "The Download: Quantum computing for health, and why the world doesn’t recycle more nuclear waste",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A $5 million prize awaits proof that quantum computers can sol...",
       "source": {
@@ -162,7 +162,7 @@
       "originalUrl": "https://www.technologyreview.com/2026/03/19/1134413/the-download-quantum-computing-health-recycling-nuclear-waste/"
     },
     {
-      "id": "nlvem99jtppvm8oiy67ey",
+      "id": "i89z7dr0dlqvkfxa204ph",
       "title": "Can quantum computers now solve health care problems? We’ll soon find out.",
       "summary": "I’m standing in front of a quantum computer built out of atoms and light at the UK’s National Quantum Computing Centre on the outskirts of Oxford. On a laboratory table, a complex matrix of mirrors an...",
       "source": {
@@ -180,7 +180,7 @@
       "originalUrl": "https://www.technologyreview.com/2026/03/19/1134409/a-5-million-prize-awaits-proof-that-quantum-computers-can-solve-health-care-problems/"
     },
     {
-      "id": "tjtlxp20937oxtevu2g0n",
+      "id": "73a2expieifhz1o53xj126",
       "title": "How we monitor internal coding agents for misalignment",
       "summary": "How OpenAI uses chain-of-thought monitoring to study misalignment in internal coding agents—analyzing real-world deployments to detect risks and strengthen AI safety safeguards....",
       "source": {
@@ -199,7 +199,7 @@
       "originalUrl": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment"
     },
     {
-      "id": "z0rewwl0zto9smzrpse4ct",
+      "id": "7qajonw9ttiogksjl09wi",
       "title": "OpenAI to acquire Astral",
       "summary": "Accelerates Codex growth to power the next generation of Python developer tools...",
       "source": {
@@ -217,7 +217,7 @@
       "originalUrl": "https://openai.com/index/openai-to-acquire-astral"
     },
     {
-      "id": "4b92gnnqjwg6g1e2j46jbp",
+      "id": "42q6kxulekfohf6f8kqkpm",
       "title": "Introducing GPT-5.4 mini and nano",
       "summary": "GPT-5.4 mini and nano are smaller, faster versions of GPT-5.4 optimized for coding, tool use, multimodal reasoning, and high-volume API and sub-agent workloads....",
       "source": {
@@ -237,7 +237,7 @@
       "originalUrl": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano"
     },
     {
-      "id": "bwfgq8k3odhyeujdc3syw9",
+      "id": "h702rplrzi58cq6yvs0xyd",
       "title": "OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first",
       "summary": "OpenAI Japan announces the Japan Teen Safety Blueprint, introducing stronger age protections, parental controls, and well-being safeguards for teens using generative AI....",
       "source": {
@@ -256,7 +256,7 @@
       "originalUrl": "https://openai.com/index/japan-teen-safety-blueprint"
     },
     {
-      "id": "u6p2y4ugt9sym7ereb2w",
+      "id": "hzjbddmakup2tko7stsrs",
       "title": "Equipping workers with insights about compensation",
       "summary": "New research shows Americans send nearly 3 million daily messages to ChatGPT asking about compensation and earnings, helping close the wage information gap....",
       "source": {
@@ -276,7 +276,7 @@
       "originalUrl": "https://openai.com/index/equipping-workers-with-insights-about-compensation"
     },
     {
-      "id": "7kv6w5g5qbnz1uww8wfvva",
+      "id": "z8jawcf7fpj4o3ljeq1c",
       "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
       "summary": "Railway, a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B fundi...",
       "source": {
@@ -298,7 +298,7 @@
       "originalUrl": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
     },
     {
-      "id": "w53y0ep7qgmeeia7pt1ke6",
+      "id": "iei56sgqkuel1cgk45tete",
       "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
       "summary": "The artificial intelligence coding revolution comes with a catch: it's expensive.\nClaude Code, Anthropic's terminal-based AI agent that can write, debug, and deploy code autonomously, has captured the...",
       "source": {
@@ -320,7 +320,7 @@
       "originalUrl": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free"
     },
     {
-      "id": "nicgcvaf5nweuin81j6g",
+      "id": "d1vhos2i7unnsc7t6x7oj",
       "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
       "summary": "Alfred Wahlforss was running out of options. His startup, Listen Labs, needed to hire over 100 engineers, but competing against Mark Zuckerberg's $100 million offers seemed impossible. So he spent $5,...",
       "source": {
@@ -342,7 +342,7 @@
       "originalUrl": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai"
     },
     {
-      "id": "to16oti7wwhapqz5kzp3fi",
+      "id": "zmwa94fczzer1x8xe0pnnp",
       "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
       "summary": "Salesforce on Tuesday launched an entirely rebuilt version of Slackbot, the company's workplace assistant, transforming it from a simple notification tool into what executives describe as a fully powe...",
       "source": {
@@ -364,7 +364,7 @@
       "originalUrl": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and"
     },
     {
-      "id": "el3or2m8fwatz1ogzuyuh8",
+      "id": "qu4pq2erk6sgyfihlrqqut",
       "title": "Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required",
       "summary": "Anthropic released Cowork on Monday, a new AI agent capability that extends the power of its wildly successful Claude Code tool to non-technical users — and according to company insiders, the team bui...",
       "source": {
@@ -387,5 +387,5 @@
     }
   ],
   "totalArticles": 20,
-  "lastUpdated": "2026-03-22T05:03:40.022Z"
+  "lastUpdated": "2026-03-22T11:08:04.125Z"
 }
