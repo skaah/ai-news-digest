@@ -1,6 +1,6 @@
 # 🤖 AI News Digest
 
-> **Digest du dimanche 22 mars 2026**
+> **Digest du lundi 23 mars 2026**
 
 Votre quotidien des avancées en Intelligence Artificielle.
 
@@ -9,7 +9,7 @@ Votre quotidien des avancées en Intelligence Artificielle.
 ## 📊 Statistiques
 
 - **20** articles collectés
-- Dernière mise à jour: 22/03/2026 19:08:04
+- Dernière mise à jour: 23/03/2026 01:07:25
 - Sources: TechCrunch, The Verge, OpenAI, Anthropic, Google AI, ArXiv, MIT Tech Review
 
 ---
@@ -17,6 +17,39 @@ Votre quotidien des avancées en Intelligence Artificielle.
 ## 📰 Articles du jour
 
 ### 🏭 Industry
+
+#### Elon Musk unveils chip manufacturing plans for SpaceX and Tesla
+
+> Elon Musk recently outlined ambitious plans for a chip-building collaboration Tesla and SpaceX — but he has a history of overpromising....
+
+- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/22/elon-musk-unveils-chip-manufacturing-plans-for-spacex-and-tesla/)
+- **Tags:** #Hardware
+- **Temps de lecture:** 1 min
+- **Publié:** 23/03/2026 00:20:00
+
+---
+
+#### Delve accused of misleading customers with ‘fake compliance’
+
+> An anonymous Substack post accuses compliance startup Delve of “falsely” convincing “hundreds of customers they were compliant” with privacy and security regulations....
+
+- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/22/delve-accused-of-misleading-customers-with-fake-compliance/)
+- **Tags:** #Startup
+- **Temps de lecture:** 1 min
+- **Publié:** 22/03/2026 22:43:51
+
+---
+
+#### An exclusive tour of Amazon’s Trainium lab, the chip that’s won over Anthropic, OpenAI, even Apple 
+
+> Shortly after Amazon  announced its $50 billion investment in OpenAI, AWS invited me on a private tour of the chip lab at the heart of the deal....
+
+- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/22/an-exclusive-tour-of-amazons-trainium-lab-the-chip-thats-won-over-anthropic-openai-even-apple/)
+- **Tags:** #OpenAI, #Anthropic, #Startup, #Hardware
+- **Temps de lecture:** 1 min
+- **Publié:** 22/03/2026 20:00:00
+
+---
 
 #### Are AI tokens the new signing bonus or just a cost of doing business?
 
@@ -37,39 +70,6 @@ Votre quotidien des avancées en Intelligence Artificielle.
 - **Tags:** 
 - **Temps de lecture:** 1 min
 - **Publié:** 22/03/2026 03:30:27
-
----
-
-#### Delve accused of misleading customers with ‘fake compliance’
-
-> An anonymous Substack post accuses compliance startup Delve of “falsely” convincing “hundreds of customers they were compliant” with privacy and security regulations....
-
-- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/21/delve-accused-of-misleading-customers-with-fake-compliance/)
-- **Tags:** #Startup
-- **Temps de lecture:** 1 min
-- **Publié:** 22/03/2026 01:00:05
-
----
-
-#### Why Wall Street wasn’t won over by Nvidia’s big conference
-
-> Despite investor fears of an AI bubble, Nvidia's latest conference shows that most in the industry aren't concerned by that possibility....
-
-- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/21/why-wall-street-wasnt-won-over-by-nvidias-big-conference/)
-- **Tags:** #Hardware
-- **Temps de lecture:** 1 min
-- **Publié:** 22/03/2026 00:28:00
-
----
-
-#### New court filing reveals Pentagon told Anthropic the two sides were nearly aligned — a week after Trump declared the relationship kaput
-
-> Anthropic submitted two sworn declarations to a California federal court late Friday afternoon, pushing back on the Pentagon's assertion that the AI company poses an "unacceptable risk to national sec...
-
-- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/20/new-court-filing-reveals-pentagon-told-anthropic-the-two-sides-were-nearly-aligned-a-week-after-trump-declared-the-relationship-kaput/)
-- **Tags:** #Anthropic, #Startup
-- **Temps de lecture:** 1 min
-- **Publié:** 21/03/2026 09:40:28
 
 ---
 
