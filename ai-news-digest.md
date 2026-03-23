@@ -8,72 +8,75 @@ Votre quotidien des avancées en Intelligence Artificielle.
 
 ## 📊 Statistiques
 
-- **20** articles collectés
-- Dernière mise à jour: 23/03/2026 01:07:25
+- **25** articles collectés
+- Dernière mise à jour: 23/03/2026 13:11:43
 - Sources: TechCrunch, The Verge, OpenAI, Anthropic, Google AI, ArXiv, MIT Tech Review
 
 ---
 
 ## 📰 Articles du jour
 
-### 🏭 Industry
-
-#### Elon Musk unveils chip manufacturing plans for SpaceX and Tesla
-
-> Elon Musk recently outlined ambitious plans for a chip-building collaboration Tesla and SpaceX — but he has a history of overpromising....
-
-- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/22/elon-musk-unveils-chip-manufacturing-plans-for-spacex-and-tesla/)
-- **Tags:** #Hardware
-- **Temps de lecture:** 1 min
-- **Publié:** 23/03/2026 00:20:00
-
----
-
-#### Delve accused of misleading customers with ‘fake compliance’
-
-> An anonymous Substack post accuses compliance startup Delve of “falsely” convincing “hundreds of customers they were compliant” with privacy and security regulations....
-
-- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/22/delve-accused-of-misleading-customers-with-fake-compliance/)
-- **Tags:** #Startup
-- **Temps de lecture:** 1 min
-- **Publié:** 22/03/2026 22:43:51
-
----
-
-#### An exclusive tour of Amazon’s Trainium lab, the chip that’s won over Anthropic, OpenAI, even Apple 
-
-> Shortly after Amazon  announced its $50 billion investment in OpenAI, AWS invited me on a private tour of the chip lab at the heart of the deal....
-
-- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/22/an-exclusive-tour-of-amazons-trainium-lab-the-chip-thats-won-over-anthropic-openai-even-apple/)
-- **Tags:** #OpenAI, #Anthropic, #Startup, #Hardware
-- **Temps de lecture:** 1 min
-- **Publié:** 22/03/2026 20:00:00
-
----
-
-#### Are AI tokens the new signing bonus or just a cost of doing business?
-
-> Maybe tokens really will become the fourth pillar of engineering compensation. But engineers might want to hold the line before embracing this as a straightforward win....
-
-- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/21/are-ai-tokens-the-new-signing-bonus-or-just-a-cost-of-doing-business/)
-- **Tags:** 
-- **Temps de lecture:** 1 min
-- **Publié:** 22/03/2026 14:20:43
-
----
-
-#### Publisher pulls horror novel ‘Shy Girl’ over AI concerns
-
-> Hachette Book Group said it will not be publishing “Shy Girl” over concerns that artificial intelligence was used to generate the text....
-
-- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/21/publisher-pulls-horror-novel-shy-girl-over-ai-concerns/)
-- **Tags:** 
-- **Temps de lecture:** 1 min
-- **Publié:** 22/03/2026 03:30:27
-
----
-
 ### 🔬 Research
+
+#### When both Grounding and not Grounding are Bad -- A Partially Grounded Encoding of Planning into SAT (Extended Version)
+
+> arXiv:2603.19429v1 Announce Type: new 
+Abstract: Classical planning problems are typically defined using lifted first-order representations, which offer compactness and generality. While most planners...
+
+- **Source:** [ArXiv AI](https://arxiv.org/abs/2603.19429)
+- **Tags:** 
+- **Temps de lecture:** 1 min
+- **Publié:** 23/03/2026 12:00:00
+
+---
+
+#### Hyperagents
+
+> arXiv:2603.19461v1 Announce Type: new 
+Abstract: Self-improving AI systems aim to reduce reliance on human engineering by learning to improve their own learning and problem-solving processes. Existing...
+
+- **Source:** [ArXiv AI](https://arxiv.org/abs/2603.19461)
+- **Tags:** #Meta, #AI Safety
+- **Temps de lecture:** 1 min
+- **Publié:** 23/03/2026 12:00:00
+
+---
+
+#### Teaching an Agent to Sketch One Part at a Time
+
+> arXiv:2603.19500v1 Announce Type: new 
+Abstract: We develop a method for producing vector sketches one part at a time. To do this, we train a multi-modal language model-based agent using a novel multi...
+
+- **Source:** [ArXiv AI](https://arxiv.org/abs/2603.19500)
+- **Tags:** 
+- **Temps de lecture:** 1 min
+- **Publié:** 23/03/2026 12:00:00
+
+---
+
+#### Learning to Disprove: Formal Counterexample Generation with Large Language Models
+
+> arXiv:2603.19514v1 Announce Type: new 
+Abstract: Mathematical reasoning demands two critical, complementary skills: constructing rigorous proofs for true statements and discovering counterexamples tha...
+
+- **Source:** [ArXiv AI](https://arxiv.org/abs/2603.19514)
+- **Tags:** #LLM
+- **Temps de lecture:** 1 min
+- **Publié:** 23/03/2026 12:00:00
+
+---
+
+#### ItinBench: Benchmarking Planning Across Multiple Cognitive Dimensions with Large Language Models
+
+> arXiv:2603.19515v1 Announce Type: new 
+Abstract: Large language models (LLMs) with advanced cognitive capabilities are emerging as agents for various reasoning and planning tasks. Traditional evaluati...
+
+- **Source:** [ArXiv AI](https://arxiv.org/abs/2603.19515)
+- **Tags:** #OpenAI, #Google, #Meta, #LLM
+- **Temps de lecture:** 1 min
+- **Publié:** 23/03/2026 12:00:00
+
+---
 
 #### The Download: OpenAI is building a fully automated researcher, and a psychedelic trial blind spot
 
@@ -127,6 +130,63 @@ Votre quotidien des avancées en Intelligence Artificielle.
 - **Tags:** #Healthcare
 - **Temps de lecture:** 1 min
 - **Publié:** 19/03/2026 18:51:43
+
+---
+
+### 🏭 Industry
+
+#### Do you want to build a robot snowman?
+
+> On the latest episode of the Equity podcast, we recapped CEO Jensen Huang’s GTC keynote and debated what it means for Nvidia’s future....
+
+- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/22/do-you-want-to-build-a-robot-snowman/)
+- **Tags:** #Robotics, #Hardware
+- **Temps de lecture:** 1 min
+- **Publié:** 23/03/2026 03:45:07
+
+---
+
+#### Cursor admits its new coding model was built on top of Moonshot AI’s Kimi
+
+> Building on top of a Chinese model feels particularly fraught right now....
+
+- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/22/cursor-admits-its-new-coding-model-was-built-on-top-of-moonshot-ais-kimi/)
+- **Tags:** 
+- **Temps de lecture:** 1 min
+- **Publié:** 23/03/2026 02:41:09
+
+---
+
+#### Elon Musk unveils chip manufacturing plans for SpaceX and Tesla
+
+> Elon Musk recently outlined ambitious plans for a chip-building collaboration Tesla and SpaceX — but he has a history of overpromising....
+
+- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/22/elon-musk-unveils-chip-manufacturing-plans-for-spacex-and-tesla/)
+- **Tags:** #Hardware
+- **Temps de lecture:** 1 min
+- **Publié:** 23/03/2026 00:20:00
+
+---
+
+#### Delve accused of misleading customers with ‘fake compliance’
+
+> An anonymous Substack post accuses compliance startup Delve of “falsely” convincing “hundreds of customers they were compliant” with privacy and security regulations....
+
+- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/22/delve-accused-of-misleading-customers-with-fake-compliance/)
+- **Tags:** #Startup
+- **Temps de lecture:** 1 min
+- **Publié:** 22/03/2026 22:43:51
+
+---
+
+#### An exclusive tour of Amazon’s Trainium lab, the chip that’s won over Anthropic, OpenAI, even Apple 
+
+> Shortly after Amazon  announced its $50 billion investment in OpenAI, AWS invited me on a private tour of the chip lab at the heart of the deal....
+
+- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/22/an-exclusive-tour-of-amazons-trainium-lab-the-chip-thats-won-over-anthropic-openai-even-apple/)
+- **Tags:** #OpenAI, #Anthropic, #Startup, #Hardware
+- **Temps de lecture:** 1 min
+- **Publié:** 22/03/2026 20:00:00
 
 ---
 
@@ -184,64 +244,6 @@ Votre quotidien des avancées en Intelligence Artificielle.
 - **Tags:** #OpenAI, #LLM, #Startup
 - **Temps de lecture:** 1 min
 - **Publié:** 17/03/2026 08:00:00
-
----
-
-### 💰 Funding
-
-#### Railway secures $100 million to challenge AWS with AI-native cloud infrastructure
-
-> Railway, a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B fundi...
-
-- **Source:** [VentureBeat AI](https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud)
-- **Tags:** #OpenAI, #Anthropic, #Google, #LLM, #Computer Vision
-- **Temps de lecture:** 1 min
-- **Publié:** 22/01/2026 22:00:00
-
----
-
-#### Claude Code costs up to $200 a month. Goose does the same thing for free.
-
-> The artificial intelligence coding revolution comes with a catch: it's expensive.
-Claude Code, Anthropic's terminal-based AI agent that can write, debug, and deploy code autonomously, has captured the...
-
-- **Source:** [VentureBeat AI](https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free)
-- **Tags:** #OpenAI, #Anthropic, #Google, #Meta, #LLM
-- **Temps de lecture:** 1 min
-- **Publié:** 19/01/2026 22:00:00
-
----
-
-#### Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews
-
-> Alfred Wahlforss was running out of options. His startup, Listen Labs, needed to hire over 100 engineers, but competing against Mark Zuckerberg's $100 million offers seemed impossible. So he spent $5,...
-
-- **Source:** [VentureBeat AI](https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai)
-- **Tags:** #Anthropic, #LLM, #Computer Vision, #Startup, #Healthcare
-- **Temps de lecture:** 1 min
-- **Publié:** 16/01/2026 22:01:00
-
----
-
-#### Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI
-
-> Salesforce on Tuesday launched an entirely rebuilt version of Slackbot, the company's workplace assistant, transforming it from a simple notification tool into what executives describe as a fully powe...
-
-- **Source:** [VentureBeat AI](https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and)
-- **Tags:** #OpenAI, #Anthropic, #Google, #LLM, #Computer Vision
-- **Temps de lecture:** 1 min
-- **Publié:** 13/01/2026 21:00:00
-
----
-
-#### Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required
-
-> Anthropic released Cowork on Monday, a new AI agent capability that extends the power of its wildly successful Claude Code tool to non-technical users — and according to company insiders, the team bui...
-
-- **Source:** [VentureBeat AI](https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no)
-- **Tags:** #OpenAI, #Anthropic, #Google, #LLM, #AI Safety
-- **Temps de lecture:** 1 min
-- **Publié:** 12/01/2026 19:30:00
 
 ---
 
