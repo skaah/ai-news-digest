@@ -1,8 +1,129 @@
 {
-  "date": "2026-03-23T05:11:43.234Z",
+  "date": "2026-03-23T17:00:22.931Z",
   "articles": [
     {
-      "id": "1uf9f3dwvc8hh8chrjr06v",
+      "id": "96wx8jvocmhs4d8witj0dc",
+      "title": "The hardest question to answer about AI-fueled delusions",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. I was originally going to write this week’s newsletter about A...",
+      "source": {
+        "name": "MIT Technology Review",
+        "url": "https://www.technologyreview.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.technologyreview.com&sz=64"
+      },
+      "category": "Research",
+      "tags": [],
+      "publishedAt": "Mon, 23 Mar 2026 16:31:20 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.technologyreview.com/2026/03/23/1134527/the-hardest-question-to-answer-about-ai-fueled-delusions/"
+    },
+    {
+      "id": "2rwf90qmv0cji25s4482e",
+      "title": "Littlebird raises $11M for its AI-assisted ‘recall’ tool that reads your computer screen",
+      "summary": "Littlebird is building an AI that reads your screen in real time to capture context, answer questions, and automate tasks, without relying on screenshots....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Mon, 23 Mar 2026 16:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/03/23/littlebird-raises-11m-to-capture-context-from-your-computer-so-you-can-query-your-data/"
+    },
+    {
+      "id": "o562q7sxgbkjms8gk0vev8",
+      "title": "Startup Gimlet Labs is solving the AI inference bottleneck in a surprisingly elegant way",
+      "summary": "Gimlet Labs just raised an $80 million Series A for tech that lets AI run across NVIDIA, AMD, Intel, ARM, Cerebras and d-Matrix chips, simultaneously....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Startup",
+        "Hardware"
+      ],
+      "publishedAt": "Mon, 23 Mar 2026 16:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/03/23/startup-gimlet-labs-is-solving-the-ai-inference-bottleneck-in-a-surprisingly-elegant-way/"
+    },
+    {
+      "id": "3srzz7opfltnzjg3u4urfq",
+      "title": "Elizabeth Warren calls Pentagon’s decision to bar Anthropic ‘retaliation’",
+      "summary": "In a letter to Defense Secretary Pete Hegseth, Senator Elizabeth Warren (D-MA) equated the DoD's decision to label Anthropic a \"supply chain risk\" as retaliation, arguing that the Pentagon could simpl...",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Anthropic"
+      ],
+      "publishedAt": "Mon, 23 Mar 2026 15:22:57 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/03/23/elizabeth-warren-anthropic-pentagon-defense-supply-chain-risk-retaliation/"
+    },
+    {
+      "id": "7p2hpee4gcds3jyaf2hyx",
+      "title": "Sam Altman-backed fusion startup Helion in talks with OpenAI",
+      "summary": "Helion is reportedly negotiating a deal that would see it sell 12.5% of its power output to OpenAI....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "OpenAI",
+        "Startup",
+        "Hardware"
+      ],
+      "publishedAt": "Mon, 23 Mar 2026 15:03:36 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/03/23/sam-altman-backed-fusion-startup-helion-in-talks-with-openai/"
+    },
+    {
+      "id": "mhcta0v6i3hkh2xnb8qup",
+      "title": "The Download: animal welfare gets AGI-pilled, and the White House unveils its AI policy",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The Bay Area’s animal welfare movement wants to recruit AI  In...",
+      "source": {
+        "name": "MIT Technology Review",
+        "url": "https://www.technologyreview.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.technologyreview.com&sz=64"
+      },
+      "category": "Research",
+      "tags": [],
+      "publishedAt": "Mon, 23 Mar 2026 12:17:33 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.technologyreview.com/2026/03/23/1134509/the-download-animal-welfare-agi-pilled-white-house-unveils-ai-policy/"
+    },
+    {
+      "id": "55y9ytrewr8l39vwjkhr2",
+      "title": "The Bay Area’s animal welfare movement wants to recruit AI",
+      "summary": "In early February, animal welfare advocates and AI researchers gathered in stocking feet at Mox, a scrappy, shoes-free coworking space in San Francisco. Yellow and red canopies billowed overhead, Pers...",
+      "source": {
+        "name": "MIT Technology Review",
+        "url": "https://www.technologyreview.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.technologyreview.com&sz=64"
+      },
+      "category": "Research",
+      "tags": [],
+      "publishedAt": "Mon, 23 Mar 2026 09:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.technologyreview.com/2026/03/23/1134491/the-bay-areas-animal-welfare-movement-wants-to-recruit-ai/"
+    },
+    {
+      "id": "i15kz0nvwynj9xef72clor",
       "title": "When both Grounding and not Grounding are Bad -- A Partially Grounded Encoding of Planning into SAT (Extended Version)",
       "summary": "arXiv:2603.19429v1 Announce Type: new \nAbstract: Classical planning problems are typically defined using lifted first-order representations, which offer compactness and generality. While most planners...",
       "source": {
@@ -18,7 +139,7 @@
       "originalUrl": "https://arxiv.org/abs/2603.19429"
     },
     {
-      "id": "9ns6lqv20ik4j3l8bbp7qc",
+      "id": "m1nr15mkpp7jpx2d4kd",
       "title": "Hyperagents",
       "summary": "arXiv:2603.19461v1 Announce Type: new \nAbstract: Self-improving AI systems aim to reduce reliance on human engineering by learning to improve their own learning and problem-solving processes. Existing...",
       "source": {
@@ -37,7 +158,7 @@
       "originalUrl": "https://arxiv.org/abs/2603.19461"
     },
     {
-      "id": "edkoyevrnwrymz3vkepc5",
+      "id": "v2xccsxztxgn3hi5y5sb1",
       "title": "Teaching an Agent to Sketch One Part at a Time",
       "summary": "arXiv:2603.19500v1 Announce Type: new \nAbstract: We develop a method for producing vector sketches one part at a time. To do this, we train a multi-modal language model-based agent using a novel multi...",
       "source": {
@@ -53,7 +174,7 @@
       "originalUrl": "https://arxiv.org/abs/2603.19500"
     },
     {
-      "id": "g93zuniri0or4f94bua25s",
+      "id": "op7dcd5shjr6dh2qfp5h",
       "title": "Learning to Disprove: Formal Counterexample Generation with Large Language Models",
       "summary": "arXiv:2603.19514v1 Announce Type: new \nAbstract: Mathematical reasoning demands two critical, complementary skills: constructing rigorous proofs for true statements and discovering counterexamples tha...",
       "source": {
@@ -71,7 +192,7 @@
       "originalUrl": "https://arxiv.org/abs/2603.19514"
     },
     {
-      "id": "pqoer6ek87smm3o5wl7t9",
+      "id": "gjwc297e5rcappzm53lnks",
       "title": "ItinBench: Benchmarking Planning Across Multiple Cognitive Dimensions with Large Language Models",
       "summary": "arXiv:2603.19515v1 Announce Type: new \nAbstract: Large language models (LLMs) with advanced cognitive capabilities are emerging as agents for various reasoning and planning tasks. Traditional evaluati...",
       "source": {
@@ -92,7 +213,25 @@
       "originalUrl": "https://arxiv.org/abs/2603.19515"
     },
     {
-      "id": "85m134u0fkpi4hfdckdin8",
+      "id": "stld9tlrepl9ua1bphs2q",
+      "title": "Creating with Sora Safely",
+      "summary": "To address the novel safety challenges posed by a state-of-the-art video model as well as a new social creation platform, we’ve built Sora 2 and the Sora app with safety at the foundation. Our approac...",
+      "source": {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
+      },
+      "category": "Product",
+      "tags": [
+        "AI Safety"
+      ],
+      "publishedAt": "Mon, 23 Mar 2026 00:00:00 GMT",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
+      "readTime": 1,
+      "originalUrl": "https://openai.com/index/creating-with-sora-safely"
+    },
+    {
+      "id": "3oyjj8m22l7zps6w2phcn",
       "title": "Do you want to build a robot snowman?",
       "summary": "On the latest episode of the Equity podcast, we recapped CEO Jensen Huang’s GTC keynote and debated what it means for Nvidia’s future....",
       "source": {
@@ -111,80 +250,7 @@
       "originalUrl": "https://techcrunch.com/2026/03/22/do-you-want-to-build-a-robot-snowman/"
     },
     {
-      "id": "37a28t5bw62exqq133nj2t",
-      "title": "Cursor admits its new coding model was built on top of Moonshot AI’s Kimi",
-      "summary": "Building on top of a Chinese model feels particularly fraught right now....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Sun, 22 Mar 2026 18:41:09 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/03/22/cursor-admits-its-new-coding-model-was-built-on-top-of-moonshot-ais-kimi/"
-    },
-    {
-      "id": "7mly9h8wtqveiauwqira6",
-      "title": "Elon Musk unveils chip manufacturing plans for SpaceX and Tesla",
-      "summary": "Elon Musk recently outlined ambitious plans for a chip-building collaboration Tesla and SpaceX — but he has a history of overpromising....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Hardware"
-      ],
-      "publishedAt": "Sun, 22 Mar 2026 16:20:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/03/22/elon-musk-unveils-chip-manufacturing-plans-for-spacex-and-tesla/"
-    },
-    {
-      "id": "yb7zhhzdukhq98t4kx1ql",
-      "title": "Delve accused of misleading customers with ‘fake compliance’",
-      "summary": "An anonymous Substack post accuses compliance startup Delve of “falsely” convincing “hundreds of customers they were compliant” with privacy and security regulations....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Startup"
-      ],
-      "publishedAt": "Sun, 22 Mar 2026 14:43:51 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/03/22/delve-accused-of-misleading-customers-with-fake-compliance/"
-    },
-    {
-      "id": "b44s392u9ffzepslrc2r",
-      "title": "An exclusive tour of Amazon’s Trainium lab, the chip that’s won over Anthropic, OpenAI, even Apple ",
-      "summary": "Shortly after Amazon  announced its $50 billion investment in OpenAI, AWS invited me on a private tour of the chip lab at the heart of the deal....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "OpenAI",
-        "Anthropic",
-        "Startup",
-        "Hardware"
-      ],
-      "publishedAt": "Sun, 22 Mar 2026 12:00:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/03/22/an-exclusive-tour-of-amazons-trainium-lab-the-chip-thats-won-over-anthropic-openai-even-apple/"
-    },
-    {
-      "id": "hei617vagrm4o8frkhc1o",
+      "id": "8pj5xe3jscsea0xn8ns835",
       "title": "The Download: OpenAI is building a fully automated researcher, and a psychedelic trial blind spot",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. OpenAI is throwing everything into building a fully automated ...",
       "source": {
@@ -202,7 +268,7 @@
       "originalUrl": "https://www.technologyreview.com/2026/03/20/1134448/the-download-openai-building-fully-automated-researcher-psychedelic-drug-trial/"
     },
     {
-      "id": "ul2awmnx46gx1ghyq13w4",
+      "id": "jrw5yluzkkpoxj2mummie",
       "title": "OpenAI is throwing everything into building a fully automated researcher",
       "summary": "OpenAI is refocusing its research efforts and throwing its resources into a new grand challenge. The San Francisco firm has set its sights on building what it calls an AI researcher, a fully automated...",
       "source": {
@@ -220,62 +286,7 @@
       "originalUrl": "https://www.technologyreview.com/2026/03/20/1134438/openai-is-throwing-everything-into-building-a-fully-automated-researcher/"
     },
     {
-      "id": "9qkx16frg54pn772jp0bp",
-      "title": "Mind-altering substances are (still) falling short in clinical trials",
-      "summary": "This week I want to look at where we are with psychedelics, the mind-altering substances that have somehow made the leap from counterculture to major focus of clinical research. Compounds like psilocy...",
-      "source": {
-        "name": "MIT Technology Review",
-        "url": "https://www.technologyreview.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.technologyreview.com&sz=64"
-      },
-      "category": "Research",
-      "tags": [
-        "Healthcare"
-      ],
-      "publishedAt": "Fri, 20 Mar 2026 09:00:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.technologyreview.com/2026/03/20/1134419/psychedelics-overhyped-psilocybin-depression-placebo/"
-    },
-    {
-      "id": "lto81g8ht4jbjttt5w1zy",
-      "title": "The Download: Quantum computing for health, and why the world doesn’t recycle more nuclear waste",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A $5 million prize awaits proof that quantum computers can sol...",
-      "source": {
-        "name": "MIT Technology Review",
-        "url": "https://www.technologyreview.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.technologyreview.com&sz=64"
-      },
-      "category": "Research",
-      "tags": [
-        "Startup",
-        "Healthcare"
-      ],
-      "publishedAt": "Thu, 19 Mar 2026 12:17:02 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.technologyreview.com/2026/03/19/1134413/the-download-quantum-computing-health-recycling-nuclear-waste/"
-    },
-    {
-      "id": "99eyvbsolgm740fg20ycd",
-      "title": "Can quantum computers now solve health care problems? We’ll soon find out.",
-      "summary": "I’m standing in front of a quantum computer built out of atoms and light at the UK’s National Quantum Computing Centre on the outskirts of Oxford. On a laboratory table, a complex matrix of mirrors an...",
-      "source": {
-        "name": "MIT Technology Review",
-        "url": "https://www.technologyreview.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.technologyreview.com&sz=64"
-      },
-      "category": "Research",
-      "tags": [
-        "Healthcare"
-      ],
-      "publishedAt": "Thu, 19 Mar 2026 10:51:43 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.technologyreview.com/2026/03/19/1134409/a-5-million-prize-awaits-proof-that-quantum-computers-can-solve-health-care-problems/"
-    },
-    {
-      "id": "k20fzfk97hoy67ht1wzf",
+      "id": "dj03wurjdmjj4dybnf9hh",
       "title": "How we monitor internal coding agents for misalignment",
       "summary": "How OpenAI uses chain-of-thought monitoring to study misalignment in internal coding agents—analyzing real-world deployments to detect risks and strengthen AI safety safeguards....",
       "source": {
@@ -294,7 +305,7 @@
       "originalUrl": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment"
     },
     {
-      "id": "mo6ecr3k4ccflnbt38d7h",
+      "id": "m2e2ohauknak3odqirpdei",
       "title": "OpenAI to acquire Astral",
       "summary": "Accelerates Codex growth to power the next generation of Python developer tools...",
       "source": {
@@ -312,7 +323,7 @@
       "originalUrl": "https://openai.com/index/openai-to-acquire-astral"
     },
     {
-      "id": "d19anoc8g78gnqkxzp7ns8",
+      "id": "ras0imlt79rwlm3mzcir3",
       "title": "Introducing GPT-5.4 mini and nano",
       "summary": "GPT-5.4 mini and nano are smaller, faster versions of GPT-5.4 optimized for coding, tool use, multimodal reasoning, and high-volume API and sub-agent workloads....",
       "source": {
@@ -332,7 +343,7 @@
       "originalUrl": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano"
     },
     {
-      "id": "xdo49r9zkntqstu0h7cc",
+      "id": "kk7txuzjyeh5m3zrs8hjn",
       "title": "OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first",
       "summary": "OpenAI Japan announces the Japan Teen Safety Blueprint, introducing stronger age protections, parental controls, and well-being safeguards for teens using generative AI....",
       "source": {
@@ -349,28 +360,8 @@
       "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
       "readTime": 1,
       "originalUrl": "https://openai.com/index/japan-teen-safety-blueprint"
-    },
-    {
-      "id": "7enhglv6aytlj6sx3qdpw",
-      "title": "Equipping workers with insights about compensation",
-      "summary": "New research shows Americans send nearly 3 million daily messages to ChatGPT asking about compensation and earnings, helping close the wage information gap....",
-      "source": {
-        "name": "OpenAI Blog",
-        "url": "https://openai.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
-      },
-      "category": "Product",
-      "tags": [
-        "OpenAI",
-        "LLM",
-        "Startup"
-      ],
-      "publishedAt": "Tue, 17 Mar 2026 00:00:00 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
-      "readTime": 1,
-      "originalUrl": "https://openai.com/index/equipping-workers-with-insights-about-compensation"
     }
   ],
   "totalArticles": 25,
-  "lastUpdated": "2026-03-23T05:11:43.234Z"
+  "lastUpdated": "2026-03-23T17:00:22.931Z"
 }
