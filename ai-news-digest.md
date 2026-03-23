@@ -1,6 +1,6 @@
 # 🤖 AI News Digest
 
-> **Digest du lundi 23 mars 2026**
+> **Digest du mardi 24 mars 2026**
 
 Votre quotidien des avancées en Intelligence Artificielle.
 
@@ -9,14 +9,104 @@ Votre quotidien des avancées en Intelligence Artificielle.
 ## 📊 Statistiques
 
 - **25** articles collectés
-- Dernière mise à jour: 23/03/2026 13:11:43
+- Dernière mise à jour: 24/03/2026 07:02:35
 - Sources: TechCrunch, The Verge, OpenAI, Anthropic, Google AI, ArXiv, MIT Tech Review
 
 ---
 
 ## 📰 Articles du jour
 
+### 🏭 Industry
+
+#### Bernie Sanders’ AI ‘gotcha’ video flops, but the memes are great
+
+> Sen. Bernie Sanders thinks he's tricked Claude into revealing the AI industry's secrets, but he really just exposed how agreeable chatbots can become....
+
+- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/23/bernie-sanders-ai-gotcha-video-flops-but-the-memes-are-great/)
+- **Tags:** #Anthropic, #LLM
+- **Temps de lecture:** 1 min
+- **Publié:** 24/03/2026 04:15:59
+
+---
+
+#### Vibe-coding startup Lovable is on the hunt for acquisitions
+
+> Lovable's founder said the fast-growing vibe-coding startup is looking for startups and teams to join its company....
+
+- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/23/vibe-coding-startup-lovable-is-on-the-hunt-for-acquisitions/)
+- **Tags:** #Startup
+- **Temps de lecture:** 1 min
+- **Publié:** 24/03/2026 02:22:04
+
+---
+
+#### Apple sets June date for WWDC 2026, teasing ‘AI advancements’
+
+> Apple will host its next Worldwide Developers Conference the week of June 8. The company is expected to announce major updates to Siri with advanced AI capabilities....
+
+- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/23/apple-wwdc-june-8-12-ai-advancements-siri-developers-conference/)
+- **Tags:** 
+- **Temps de lecture:** 1 min
+- **Publié:** 24/03/2026 02:00:45
+
+---
+
+#### Startup Gimlet Labs is solving the AI inference bottleneck in a surprisingly elegant way
+
+> Gimlet Labs just raised an $80 million Series A for tech that lets AI run across NVIDIA, AMD, Intel, ARM, Cerebras and d-Matrix chips, simultaneously....
+
+- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/23/startup-gimlet-labs-is-solving-the-ai-inference-bottleneck-in-a-surprisingly-elegant-way/)
+- **Tags:** #Startup, #Hardware
+- **Temps de lecture:** 1 min
+- **Publié:** 24/03/2026 00:00:00
+
+---
+
+#### Littlebird raises $11M for its AI-assisted ‘recall’ tool that reads your computer screen
+
+> Littlebird is building an AI that reads your screen in real time to capture context, answer questions, and automate tasks, without relying on screenshots....
+
+- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/23/littlebird-raises-11m-to-capture-context-from-your-computer-so-you-can-query-your-data/)
+- **Tags:** 
+- **Temps de lecture:** 1 min
+- **Publié:** 24/03/2026 00:00:00
+
+---
+
 ### 🔬 Research
+
+#### The hardest question to answer about AI-fueled delusions
+
+> This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. I was originally going to write this week’s newsletter about A...
+
+- **Source:** [MIT Technology Review](https://www.technologyreview.com/2026/03/23/1134527/the-hardest-question-to-answer-about-ai-fueled-delusions/)
+- **Tags:** 
+- **Temps de lecture:** 1 min
+- **Publié:** 24/03/2026 00:31:20
+
+---
+
+#### The Download: animal welfare gets AGI-pilled, and the White House unveils its AI policy
+
+> This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The Bay Area’s animal welfare movement wants to recruit AI  In...
+
+- **Source:** [MIT Technology Review](https://www.technologyreview.com/2026/03/23/1134509/the-download-animal-welfare-agi-pilled-white-house-unveils-ai-policy/)
+- **Tags:** 
+- **Temps de lecture:** 1 min
+- **Publié:** 23/03/2026 20:17:33
+
+---
+
+#### The Bay Area’s animal welfare movement wants to recruit AI
+
+> In early February, animal welfare advocates and AI researchers gathered in stocking feet at Mox, a scrappy, shoes-free coworking space in San Francisco. Yellow and red canopies billowed overhead, Pers...
+
+- **Source:** [MIT Technology Review](https://www.technologyreview.com/2026/03/23/1134491/the-bay-areas-animal-welfare-movement-wants-to-recruit-ai/)
+- **Tags:** 
+- **Temps de lecture:** 1 min
+- **Publié:** 23/03/2026 17:00:00
+
+---
 
 #### When both Grounding and not Grounding are Bad -- A Partially Grounded Encoding of Planning into SAT (Extended Version)
 
@@ -100,97 +190,18 @@ Abstract: Large language models (LLMs) with advanced cognitive capabilities are 
 
 ---
 
-#### Mind-altering substances are (still) falling short in clinical trials
-
-> This week I want to look at where we are with psychedelics, the mind-altering substances that have somehow made the leap from counterculture to major focus of clinical research. Compounds like psilocy...
-
-- **Source:** [MIT Technology Review](https://www.technologyreview.com/2026/03/20/1134419/psychedelics-overhyped-psilocybin-depression-placebo/)
-- **Tags:** #Healthcare
-- **Temps de lecture:** 1 min
-- **Publié:** 20/03/2026 17:00:00
-
----
-
-#### The Download: Quantum computing for health, and why the world doesn’t recycle more nuclear waste
-
-> This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A $5 million prize awaits proof that quantum computers can sol...
-
-- **Source:** [MIT Technology Review](https://www.technologyreview.com/2026/03/19/1134413/the-download-quantum-computing-health-recycling-nuclear-waste/)
-- **Tags:** #Startup, #Healthcare
-- **Temps de lecture:** 1 min
-- **Publié:** 19/03/2026 20:17:02
-
----
-
-#### Can quantum computers now solve health care problems? We’ll soon find out.
-
-> I’m standing in front of a quantum computer built out of atoms and light at the UK’s National Quantum Computing Centre on the outskirts of Oxford. On a laboratory table, a complex matrix of mirrors an...
-
-- **Source:** [MIT Technology Review](https://www.technologyreview.com/2026/03/19/1134409/a-5-million-prize-awaits-proof-that-quantum-computers-can-solve-health-care-problems/)
-- **Tags:** #Healthcare
-- **Temps de lecture:** 1 min
-- **Publié:** 19/03/2026 18:51:43
-
----
-
-### 🏭 Industry
-
-#### Do you want to build a robot snowman?
-
-> On the latest episode of the Equity podcast, we recapped CEO Jensen Huang’s GTC keynote and debated what it means for Nvidia’s future....
-
-- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/22/do-you-want-to-build-a-robot-snowman/)
-- **Tags:** #Robotics, #Hardware
-- **Temps de lecture:** 1 min
-- **Publié:** 23/03/2026 03:45:07
-
----
-
-#### Cursor admits its new coding model was built on top of Moonshot AI’s Kimi
-
-> Building on top of a Chinese model feels particularly fraught right now....
-
-- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/22/cursor-admits-its-new-coding-model-was-built-on-top-of-moonshot-ais-kimi/)
-- **Tags:** 
-- **Temps de lecture:** 1 min
-- **Publié:** 23/03/2026 02:41:09
-
----
-
-#### Elon Musk unveils chip manufacturing plans for SpaceX and Tesla
-
-> Elon Musk recently outlined ambitious plans for a chip-building collaboration Tesla and SpaceX — but he has a history of overpromising....
-
-- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/22/elon-musk-unveils-chip-manufacturing-plans-for-spacex-and-tesla/)
-- **Tags:** #Hardware
-- **Temps de lecture:** 1 min
-- **Publié:** 23/03/2026 00:20:00
-
----
-
-#### Delve accused of misleading customers with ‘fake compliance’
-
-> An anonymous Substack post accuses compliance startup Delve of “falsely” convincing “hundreds of customers they were compliant” with privacy and security regulations....
-
-- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/22/delve-accused-of-misleading-customers-with-fake-compliance/)
-- **Tags:** #Startup
-- **Temps de lecture:** 1 min
-- **Publié:** 22/03/2026 22:43:51
-
----
-
-#### An exclusive tour of Amazon’s Trainium lab, the chip that’s won over Anthropic, OpenAI, even Apple 
-
-> Shortly after Amazon  announced its $50 billion investment in OpenAI, AWS invited me on a private tour of the chip lab at the heart of the deal....
-
-- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/22/an-exclusive-tour-of-amazons-trainium-lab-the-chip-thats-won-over-anthropic-openai-even-apple/)
-- **Tags:** #OpenAI, #Anthropic, #Startup, #Hardware
-- **Temps de lecture:** 1 min
-- **Publié:** 22/03/2026 20:00:00
-
----
-
 ### 🚀 Product
+
+#### Creating with Sora Safely
+
+> To address the novel safety challenges posed by a state-of-the-art video model as well as a new social creation platform, we’ve built Sora 2 and the Sora app with safety at the foundation. Our approac...
+
+- **Source:** [OpenAI Blog](https://openai.com/index/creating-with-sora-safely)
+- **Tags:** #AI Safety
+- **Temps de lecture:** 1 min
+- **Publié:** 23/03/2026 08:00:00
+
+---
 
 #### How we monitor internal coding agents for misalignment
 
@@ -233,17 +244,6 @@ Abstract: Large language models (LLMs) with advanced cognitive capabilities are 
 - **Tags:** #OpenAI, #AI Safety
 - **Temps de lecture:** 1 min
 - **Publié:** 17/03/2026 18:00:00
-
----
-
-#### Equipping workers with insights about compensation
-
-> New research shows Americans send nearly 3 million daily messages to ChatGPT asking about compensation and earnings, helping close the wage information gap....
-
-- **Source:** [OpenAI Blog](https://openai.com/index/equipping-workers-with-insights-about-compensation)
-- **Tags:** #OpenAI, #LLM, #Startup
-- **Temps de lecture:** 1 min
-- **Publié:** 17/03/2026 08:00:00
 
 ---
 
