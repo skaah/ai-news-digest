@@ -1,6 +1,6 @@
 # 🤖 AI News Digest
 
-> **Digest du mardi 24 mars 2026**
+> **Digest du mercredi 25 mars 2026**
 
 Votre quotidien des avancées en Intelligence Artificielle.
 
@@ -9,7 +9,7 @@ Votre quotidien des avancées en Intelligence Artificielle.
 ## 📊 Statistiques
 
 - **25** articles collectés
-- Dernière mise à jour: 24/03/2026 19:05:39
+- Dernière mise à jour: 25/03/2026 01:03:10
 - Sources: TechCrunch, The Verge, OpenAI, Anthropic, Google AI, ArXiv, MIT Tech Review
 
 ---
@@ -17,6 +17,28 @@ Votre quotidien des avancées en Intelligence Artificielle.
 ## 📰 Articles du jour
 
 ### 🔬 Research
+
+#### This scientist rewarmed and studied pieces of his friend’s cryopreserved brain
+
+> L. Stephen Coles’s brain sits cushioned in a vat at a storage facility in Arizona. It has been held there at a temperature of around −146 degrees °C for over a decade, largely undisturbed. That is, ap...
+
+- **Source:** [MIT Technology Review](https://www.technologyreview.com/2026/03/24/1134562/cryopreservation-brain-cryonics-organ-transplantation/)
+- **Tags:** 
+- **Temps de lecture:** 1 min
+- **Publié:** 25/03/2026 00:43:36
+
+---
+
+#### The Download: tracing AI-fueled delusions, and OpenAI admits Microsoft risks
+
+> This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The hardest question to answer about AI-fueled delusions  What...
+
+- **Source:** [MIT Technology Review](https://www.technologyreview.com/2026/03/24/1134540/the-download-tracing-ai-fueled-delusions-openai-warns-microsoft-risks/)
+- **Tags:** #OpenAI, #AI Safety
+- **Temps de lecture:** 1 min
+- **Publié:** 24/03/2026 20:28:27
+
+---
 
 #### AgenticGEO: A Self-Evolving Agentic System for Generative Engine Optimization
 
@@ -111,29 +133,40 @@ Abstract: A hallmark of human intelligence is Introspection-the ability to asses
 
 ---
 
-#### The Download: OpenAI is building a fully automated researcher, and a psychedelic trial blind spot
-
-> This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. OpenAI is throwing everything into building a fully automated ...
-
-- **Source:** [MIT Technology Review](https://www.technologyreview.com/2026/03/20/1134448/the-download-openai-building-fully-automated-researcher-psychedelic-drug-trial/)
-- **Tags:** #OpenAI
-- **Temps de lecture:** 1 min
-- **Publié:** 20/03/2026 21:15:45
-
----
-
-#### OpenAI is throwing everything into building a fully automated researcher
-
-> OpenAI is refocusing its research efforts and throwing its resources into a new grand challenge. The San Francisco firm has set its sights on building what it calls an AI researcher, a fully automated...
-
-- **Source:** [MIT Technology Review](https://www.technologyreview.com/2026/03/20/1134438/openai-is-throwing-everything-into-building-a-fully-automated-researcher/)
-- **Tags:** #OpenAI
-- **Temps de lecture:** 1 min
-- **Publié:** 20/03/2026 19:57:16
-
----
-
 ### 🏭 Industry
+
+#### Meet the former Apple designer building a new AI interface at Hark
+
+> The company said it would design models, hardware, and interfaces in tandem to deliver a "seamless end-to-end personal intelligence product."...
+
+- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/24/meet-the-former-apple-designer-building-a-new-ai-interface-at-hark/)
+- **Tags:** 
+- **Temps de lecture:** 1 min
+- **Publié:** 25/03/2026 00:00:00
+
+---
+
+#### Mirage raises $75M to continue building models for its AI video-editing app Captions
+
+> Mirage, the maker of video-editing app Captions, has raised $75 million in growth financing from General Catalyst's Customer Value Fund (CVF)....
+
+- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/24/mirage-raises-75m-to-continue-building-models-for-its-ai-video-editing-app-captions/)
+- **Tags:** #Startup
+- **Temps de lecture:** 1 min
+- **Publié:** 24/03/2026 21:00:00
+
+---
+
+#### Agile Robots becomes the latest robotics company to partner with Google DeepMind
+
+> Agile Robots will incorporate Google DeepMind's robotics foundation models into its bots while collecting data for the AI research lab....
+
+- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/24/agile-robots-becomes-the-latest-robotics-company-to-partner-with-google-deepmind/)
+- **Tags:** #Google, #Robotics
+- **Temps de lecture:** 1 min
+- **Publié:** 24/03/2026 20:05:00
+
+---
 
 #### Air Street becomes one of the largest solo VCs in Europe with $232M fund
 
@@ -157,40 +190,29 @@ Abstract: A hallmark of human intelligence is Introspection-the ability to asses
 
 ---
 
-#### Vibe-coding startup Lovable is on the hunt for acquisitions
-
-> Lovable's founder said the fast-growing vibe-coding startup is looking for startups and teams to join its company....
-
-- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/23/vibe-coding-startup-lovable-is-on-the-hunt-for-acquisitions/)
-- **Tags:** #Startup
-- **Temps de lecture:** 1 min
-- **Publié:** 24/03/2026 02:22:04
-
----
-
-#### Apple sets June date for WWDC 2026, teasing ‘AI advancements’
-
-> Apple will host its next Worldwide Developers Conference the week of June 8. The company is expected to announce major updates to Siri with advanced AI capabilities....
-
-- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/23/apple-wwdc-june-8-12-ai-advancements-siri-developers-conference/)
-- **Tags:** 
-- **Temps de lecture:** 1 min
-- **Publié:** 24/03/2026 02:00:45
-
----
-
-#### Startup Gimlet Labs is solving the AI inference bottleneck in a surprisingly elegant way
-
-> Gimlet Labs just raised an $80 million Series A for tech that lets AI run across NVIDIA, AMD, Intel, ARM, Cerebras and d-Matrix chips, simultaneously....
-
-- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/23/startup-gimlet-labs-is-solving-the-ai-inference-bottleneck-in-a-surprisingly-elegant-way/)
-- **Tags:** #Startup, #Hardware
-- **Temps de lecture:** 1 min
-- **Publié:** 24/03/2026 00:00:00
-
----
-
 ### 🚀 Product
+
+#### Powering product discovery in ChatGPT
+
+> ChatGPT introduces richer, visually immersive shopping powered by the Agentic Commerce Protocol, enabling product discovery, side-by-side comparisons, and merchant integration....
+
+- **Source:** [OpenAI Blog](https://openai.com/index/powering-product-discovery-in-chatgpt)
+- **Tags:** #OpenAI, #LLM
+- **Temps de lecture:** 1 min
+- **Publié:** 24/03/2026 17:00:00
+
+---
+
+#### Update on the OpenAI Foundation
+
+> The OpenAI Foundation announces plans to invest at least $1 billion in curing diseases, economic opportunity, AI resilience, and community programs....
+
+- **Source:** [OpenAI Blog](https://openai.com/index/update-on-the-openai-foundation)
+- **Tags:** #OpenAI, #Startup
+- **Temps de lecture:** 1 min
+- **Publié:** 24/03/2026 17:00:00
+
+---
 
 #### Creating with Sora Safely
 
@@ -222,28 +244,6 @@ Abstract: A hallmark of human intelligence is Introspection-the ability to asses
 - **Tags:** #OpenAI
 - **Temps de lecture:** 1 min
 - **Publié:** 19/03/2026 08:00:00
-
----
-
-#### OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first
-
-> OpenAI Japan announces the Japan Teen Safety Blueprint, introducing stronger age protections, parental controls, and well-being safeguards for teens using generative AI....
-
-- **Source:** [OpenAI Blog](https://openai.com/index/japan-teen-safety-blueprint)
-- **Tags:** #OpenAI, #AI Safety
-- **Temps de lecture:** 1 min
-- **Publié:** 17/03/2026 18:00:00
-
----
-
-#### Introducing GPT-5.4 mini and nano
-
-> GPT-5.4 mini and nano are smaller, faster versions of GPT-5.4 optimized for coding, tool use, multimodal reasoning, and high-volume API and sub-agent workloads....
-
-- **Source:** [OpenAI Blog](https://openai.com/index/introducing-gpt-5-4-mini-and-nano)
-- **Tags:** #OpenAI, #LLM, #Multimodal
-- **Temps de lecture:** 1 min
-- **Publié:** 17/03/2026 18:00:00
 
 ---
 

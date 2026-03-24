@@ -1,8 +1,134 @@
 {
-  "date": "2026-03-24T11:05:39.524Z",
+  "date": "2026-03-24T17:03:10.344Z",
   "articles": [
     {
-      "id": "z3p3oasmjd2cnhl25hfdt",
+      "id": "52i9vtvgixr74qn4j1mc4v",
+      "title": "This scientist rewarmed and studied pieces of his friend’s cryopreserved brain",
+      "summary": "L. Stephen Coles’s brain sits cushioned in a vat at a storage facility in Arizona. It has been held there at a temperature of around −146 degrees °C for over a decade, largely undisturbed. That is, ap...",
+      "source": {
+        "name": "MIT Technology Review",
+        "url": "https://www.technologyreview.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.technologyreview.com&sz=64"
+      },
+      "category": "Research",
+      "tags": [],
+      "publishedAt": "Tue, 24 Mar 2026 16:43:36 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.technologyreview.com/2026/03/24/1134562/cryopreservation-brain-cryonics-organ-transplantation/"
+    },
+    {
+      "id": "wcft7dsugdrv6z1di1th7",
+      "title": "Meet the former Apple designer building a new AI interface at Hark",
+      "summary": "The company said it would design models, hardware, and interfaces in tandem to deliver a \"seamless end-to-end personal intelligence product.\"...",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Tue, 24 Mar 2026 16:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/03/24/meet-the-former-apple-designer-building-a-new-ai-interface-at-hark/"
+    },
+    {
+      "id": "7hur2c813ms9h8hxfpdlq8",
+      "title": "Mirage raises $75M to continue building models for its AI video-editing app Captions",
+      "summary": "Mirage, the maker of video-editing app Captions, has raised $75 million in growth financing from General Catalyst's Customer Value Fund (CVF)....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Startup"
+      ],
+      "publishedAt": "Tue, 24 Mar 2026 13:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/03/24/mirage-raises-75m-to-continue-building-models-for-its-ai-video-editing-app-captions/"
+    },
+    {
+      "id": "53dbvkleh737x2txzk08xe",
+      "title": "The Download: tracing AI-fueled delusions, and OpenAI admits Microsoft risks",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The hardest question to answer about AI-fueled delusions  What...",
+      "source": {
+        "name": "MIT Technology Review",
+        "url": "https://www.technologyreview.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.technologyreview.com&sz=64"
+      },
+      "category": "Research",
+      "tags": [
+        "OpenAI",
+        "AI Safety"
+      ],
+      "publishedAt": "Tue, 24 Mar 2026 12:28:27 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.technologyreview.com/2026/03/24/1134540/the-download-tracing-ai-fueled-delusions-openai-warns-microsoft-risks/"
+    },
+    {
+      "id": "5nvn37uuf03gcv3zfcvkx5",
+      "title": "Agile Robots becomes the latest robotics company to partner with Google DeepMind",
+      "summary": "Agile Robots will incorporate Google DeepMind's robotics foundation models into its bots while collecting data for the AI research lab....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Google",
+        "Robotics"
+      ],
+      "publishedAt": "Tue, 24 Mar 2026 12:05:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/03/24/agile-robots-becomes-the-latest-robotics-company-to-partner-with-google-deepmind/"
+    },
+    {
+      "id": "qco2bzy6dyqaqijlfp7n9",
+      "title": "Powering product discovery in ChatGPT",
+      "summary": "ChatGPT introduces richer, visually immersive shopping powered by the Agentic Commerce Protocol, enabling product discovery, side-by-side comparisons, and merchant integration....",
+      "source": {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
+      },
+      "category": "Product",
+      "tags": [
+        "OpenAI",
+        "LLM"
+      ],
+      "publishedAt": "Tue, 24 Mar 2026 09:00:00 GMT",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
+      "readTime": 1,
+      "originalUrl": "https://openai.com/index/powering-product-discovery-in-chatgpt"
+    },
+    {
+      "id": "2jon738h48ny0hasmjzjzc",
+      "title": "Update on the OpenAI Foundation",
+      "summary": "The OpenAI Foundation announces plans to invest at least $1 billion in curing diseases, economic opportunity, AI resilience, and community programs....",
+      "source": {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
+      },
+      "category": "Product",
+      "tags": [
+        "OpenAI",
+        "Startup"
+      ],
+      "publishedAt": "Tue, 24 Mar 2026 09:00:00 GMT",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
+      "readTime": 1,
+      "originalUrl": "https://openai.com/index/update-on-the-openai-foundation"
+    },
+    {
+      "id": "2ofn3s1borvuc6gy4gr",
       "title": "AgenticGEO: A Self-Evolving Agentic System for Generative Engine Optimization",
       "summary": "arXiv:2603.20213v1 Announce Type: new \nAbstract: Generative search engines represent a transition from traditional ranking-based retrieval to Large Language Model (LLM)-based synthesis, transforming o...",
       "source": {
@@ -21,7 +147,7 @@
       "originalUrl": "https://arxiv.org/abs/2603.20213"
     },
     {
-      "id": "wow2p21ed3an2r7m14yf6b",
+      "id": "q2xp5jp44qqfjyo1q12v7",
       "title": "ProMAS: Proactive Error Forecasting for Multi-Agent Systems Using Markov Transition Dynamics",
       "summary": "arXiv:2603.20260v1 Announce Type: new \nAbstract: The integration of Large Language Models into Multi-Agent Systems (MAS) has enabled the so-lution of complex, long-horizon tasks through collaborative ...",
       "source": {
@@ -39,7 +165,7 @@
       "originalUrl": "https://arxiv.org/abs/2603.20260"
     },
     {
-      "id": "b1w4t9yjmacfqdhl8uiaqb",
+      "id": "5pj0nqlpf4xqwxdetxiqo",
       "title": "Domain-Specialized Tree of Thought through Plug-and-Play Predictors",
       "summary": "arXiv:2603.20267v1 Announce Type: new \nAbstract: While Large Language Models (LLMs) have advanced complex reasoning, prominent methods like the Tree of Thoughts (ToT) framework face a critical trade-o...",
       "source": {
@@ -57,7 +183,7 @@
       "originalUrl": "https://arxiv.org/abs/2603.20267"
     },
     {
-      "id": "tphsp6l4qaqm6e8go6oaoj",
+      "id": "6tgf6lk4fv8qapawfoa8um",
       "title": "FactorSmith: Agentic Simulation Generation via Markov Decision Process Decomposition with Planner-Designer-Critic Refinement",
       "summary": "arXiv:2603.20270v1 Announce Type: new \nAbstract: Generating executable simulations from natural language specifications remains a challenging problem due to the limited reasoning capacity of large lan...",
       "source": {
@@ -76,7 +202,7 @@
       "originalUrl": "https://arxiv.org/abs/2603.20270"
     },
     {
-      "id": "rbxgjpjviwlwzv5a06a08b",
+      "id": "59eazeml8rxy88thqghr3",
       "title": "Me, Myself, and $\\pi$ : Evaluating and Explaining LLM Introspection",
       "summary": "arXiv:2603.20276v1 Announce Type: new \nAbstract: A hallmark of human intelligence is Introspection-the ability to assess and reason about one's own cognitive processes. Introspection has emerged as a ...",
       "source": {
@@ -96,7 +222,7 @@
       "originalUrl": "https://arxiv.org/abs/2603.20276"
     },
     {
-      "id": "huhvm1v6189tnkky5banyb",
+      "id": "xcm946gs1s2hqhoch6mcf",
       "title": "Air Street becomes one of the largest solo VCs in Europe with $232M fund",
       "summary": "London’s Air Street Capital has raised a large Fund III with eyes locked on backing early-stage European and North American AI companies....",
       "source": {
@@ -114,7 +240,7 @@
       "originalUrl": "https://techcrunch.com/2026/03/23/air-street-becomes-one-of-the-largest-solo-vcs-in-europe-with-232m-fund/"
     },
     {
-      "id": "kz3el5vy1amtax3o9rg3",
+      "id": "jztsok160594zwd3z103m",
       "title": "Bernie Sanders’ AI ‘gotcha’ video flops, but the memes are great",
       "summary": "Sen. Bernie Sanders thinks he's tricked Claude into revealing the AI industry's secrets, but he really just exposed how agreeable chatbots can become....",
       "source": {
@@ -133,41 +259,7 @@
       "originalUrl": "https://techcrunch.com/2026/03/23/bernie-sanders-ai-gotcha-video-flops-but-the-memes-are-great/"
     },
     {
-      "id": "u9ocdvz3jmek7woiw9rgv",
-      "title": "Vibe-coding startup Lovable is on the hunt for acquisitions",
-      "summary": "Lovable's founder said the fast-growing vibe-coding startup is looking for startups and teams to join its company....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Startup"
-      ],
-      "publishedAt": "Mon, 23 Mar 2026 18:22:04 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/03/23/vibe-coding-startup-lovable-is-on-the-hunt-for-acquisitions/"
-    },
-    {
-      "id": "fyfft68lo5ct9rwxa0dhn",
-      "title": "Apple sets June date for WWDC 2026, teasing ‘AI advancements’",
-      "summary": "Apple will host its next Worldwide Developers Conference the week of June 8. The company is expected to announce major updates to Siri with advanced AI capabilities....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Mon, 23 Mar 2026 18:00:45 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/03/23/apple-wwdc-june-8-12-ai-advancements-siri-developers-conference/"
-    },
-    {
-      "id": "aw0totlsjpm64i1852pg93",
+      "id": "bo516wdl44mmrc6t4z7ksg",
       "title": "The hardest question to answer about AI-fueled delusions",
       "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. I was originally going to write this week’s newsletter about A...",
       "source": {
@@ -183,26 +275,7 @@
       "originalUrl": "https://www.technologyreview.com/2026/03/23/1134527/the-hardest-question-to-answer-about-ai-fueled-delusions/"
     },
     {
-      "id": "xrsfxbc06hbytfdn4pj5ps",
-      "title": "Startup Gimlet Labs is solving the AI inference bottleneck in a surprisingly elegant way",
-      "summary": "Gimlet Labs just raised an $80 million Series A for tech that lets AI run across NVIDIA, AMD, Intel, ARM, Cerebras and d-Matrix chips, simultaneously....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Startup",
-        "Hardware"
-      ],
-      "publishedAt": "Mon, 23 Mar 2026 16:00:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/03/23/startup-gimlet-labs-is-solving-the-ai-inference-bottleneck-in-a-surprisingly-elegant-way/"
-    },
-    {
-      "id": "xw38k45jj8aoi65l3pysf",
+      "id": "hjelgea593kc2ifufz6hna",
       "title": "The Download: animal welfare gets AGI-pilled, and the White House unveils its AI policy",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The Bay Area’s animal welfare movement wants to recruit AI  In...",
       "source": {
@@ -218,7 +291,7 @@
       "originalUrl": "https://www.technologyreview.com/2026/03/23/1134509/the-download-animal-welfare-agi-pilled-white-house-unveils-ai-policy/"
     },
     {
-      "id": "kk328gsv7ccqz01f3szysl",
+      "id": "fqt6ktjqhsuw5g9ur97xl",
       "title": "The Bay Area’s animal welfare movement wants to recruit AI",
       "summary": "In early February, animal welfare advocates and AI researchers gathered in stocking feet at Mox, a scrappy, shoes-free coworking space in San Francisco. Yellow and red canopies billowed overhead, Pers...",
       "source": {
@@ -234,7 +307,7 @@
       "originalUrl": "https://www.technologyreview.com/2026/03/23/1134491/the-bay-areas-animal-welfare-movement-wants-to-recruit-ai/"
     },
     {
-      "id": "tzo1ib388bzweo6rqwdme",
+      "id": "1tv0uwol1ql8s9tgg4s9x8",
       "title": "Creating with Sora Safely",
       "summary": "To address the novel safety challenges posed by a state-of-the-art video model as well as a new social creation platform, we’ve built Sora 2 and the Sora app with safety at the foundation. Our approac...",
       "source": {
@@ -252,43 +325,7 @@
       "originalUrl": "https://openai.com/index/creating-with-sora-safely"
     },
     {
-      "id": "g5cn1v3xdyedc04uk95id",
-      "title": "The Download: OpenAI is building a fully automated researcher, and a psychedelic trial blind spot",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. OpenAI is throwing everything into building a fully automated ...",
-      "source": {
-        "name": "MIT Technology Review",
-        "url": "https://www.technologyreview.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.technologyreview.com&sz=64"
-      },
-      "category": "Research",
-      "tags": [
-        "OpenAI"
-      ],
-      "publishedAt": "Fri, 20 Mar 2026 13:15:45 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.technologyreview.com/2026/03/20/1134448/the-download-openai-building-fully-automated-researcher-psychedelic-drug-trial/"
-    },
-    {
-      "id": "fhbn5gdfu943f253bp6iq",
-      "title": "OpenAI is throwing everything into building a fully automated researcher",
-      "summary": "OpenAI is refocusing its research efforts and throwing its resources into a new grand challenge. The San Francisco firm has set its sights on building what it calls an AI researcher, a fully automated...",
-      "source": {
-        "name": "MIT Technology Review",
-        "url": "https://www.technologyreview.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.technologyreview.com&sz=64"
-      },
-      "category": "Research",
-      "tags": [
-        "OpenAI"
-      ],
-      "publishedAt": "Fri, 20 Mar 2026 11:57:16 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.technologyreview.com/2026/03/20/1134438/openai-is-throwing-everything-into-building-a-fully-automated-researcher/"
-    },
-    {
-      "id": "iprpszt6f7bn45gyc3zlqk",
+      "id": "mci9b1caast7syjf0lkg",
       "title": "How we monitor internal coding agents for misalignment",
       "summary": "How OpenAI uses chain-of-thought monitoring to study misalignment in internal coding agents—analyzing real-world deployments to detect risks and strengthen AI safety safeguards....",
       "source": {
@@ -307,7 +344,7 @@
       "originalUrl": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment"
     },
     {
-      "id": "qyf90poivkijse01cgs98",
+      "id": "c1ffyj0u59jzt9m8jiz8t",
       "title": "OpenAI to acquire Astral",
       "summary": "Accelerates Codex growth to power the next generation of Python developer tools...",
       "source": {
@@ -323,47 +360,8 @@
       "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
       "readTime": 1,
       "originalUrl": "https://openai.com/index/openai-to-acquire-astral"
-    },
-    {
-      "id": "razngbevkj85qi0bs3vzy5",
-      "title": "OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first",
-      "summary": "OpenAI Japan announces the Japan Teen Safety Blueprint, introducing stronger age protections, parental controls, and well-being safeguards for teens using generative AI....",
-      "source": {
-        "name": "OpenAI Blog",
-        "url": "https://openai.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
-      },
-      "category": "Product",
-      "tags": [
-        "OpenAI",
-        "AI Safety"
-      ],
-      "publishedAt": "Tue, 17 Mar 2026 10:00:00 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
-      "readTime": 1,
-      "originalUrl": "https://openai.com/index/japan-teen-safety-blueprint"
-    },
-    {
-      "id": "d0l2hj0iobstshw8ali5g",
-      "title": "Introducing GPT-5.4 mini and nano",
-      "summary": "GPT-5.4 mini and nano are smaller, faster versions of GPT-5.4 optimized for coding, tool use, multimodal reasoning, and high-volume API and sub-agent workloads....",
-      "source": {
-        "name": "OpenAI Blog",
-        "url": "https://openai.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
-      },
-      "category": "Product",
-      "tags": [
-        "OpenAI",
-        "LLM",
-        "Multimodal"
-      ],
-      "publishedAt": "Tue, 17 Mar 2026 10:00:00 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
-      "readTime": 1,
-      "originalUrl": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano"
     }
   ],
   "totalArticles": 25,
-  "lastUpdated": "2026-03-24T11:05:39.524Z"
+  "lastUpdated": "2026-03-24T17:03:10.344Z"
 }
