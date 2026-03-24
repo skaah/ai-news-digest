@@ -1,8 +1,120 @@
 {
-  "date": "2026-03-23T23:02:35.583Z",
+  "date": "2026-03-24T05:03:34.427Z",
   "articles": [
     {
-      "id": "hjvkw94psis3g22uvfntzd",
+      "id": "1khsr61r0rmmugeyaj58sq",
+      "title": "AgenticGEO: A Self-Evolving Agentic System for Generative Engine Optimization",
+      "summary": "arXiv:2603.20213v1 Announce Type: new \nAbstract: Generative search engines represent a transition from traditional ranking-based retrieval to Large Language Model (LLM)-based synthesis, transforming o...",
+      "source": {
+        "name": "ArXiv AI",
+        "url": "https://arxiv.org",
+        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
+      },
+      "category": "Research",
+      "tags": [
+        "LLM",
+        "Hardware"
+      ],
+      "publishedAt": "Tue, 24 Mar 2026 00:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
+      "readTime": 1,
+      "originalUrl": "https://arxiv.org/abs/2603.20213"
+    },
+    {
+      "id": "qr4xv2v5bu8i7ke6l5a2qq",
+      "title": "ProMAS: Proactive Error Forecasting for Multi-Agent Systems Using Markov Transition Dynamics",
+      "summary": "arXiv:2603.20260v1 Announce Type: new \nAbstract: The integration of Large Language Models into Multi-Agent Systems (MAS) has enabled the so-lution of complex, long-horizon tasks through collaborative ...",
+      "source": {
+        "name": "ArXiv AI",
+        "url": "https://arxiv.org",
+        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
+      },
+      "category": "Research",
+      "tags": [
+        "LLM"
+      ],
+      "publishedAt": "Tue, 24 Mar 2026 00:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
+      "readTime": 1,
+      "originalUrl": "https://arxiv.org/abs/2603.20260"
+    },
+    {
+      "id": "7on2zcopbz7zcq57dbnzd",
+      "title": "Domain-Specialized Tree of Thought through Plug-and-Play Predictors",
+      "summary": "arXiv:2603.20267v1 Announce Type: new \nAbstract: While Large Language Models (LLMs) have advanced complex reasoning, prominent methods like the Tree of Thoughts (ToT) framework face a critical trade-o...",
+      "source": {
+        "name": "ArXiv AI",
+        "url": "https://arxiv.org",
+        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
+      },
+      "category": "Research",
+      "tags": [
+        "LLM"
+      ],
+      "publishedAt": "Tue, 24 Mar 2026 00:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
+      "readTime": 1,
+      "originalUrl": "https://arxiv.org/abs/2603.20267"
+    },
+    {
+      "id": "ewesd8n8h3tfkdhxgqao",
+      "title": "FactorSmith: Agentic Simulation Generation via Markov Decision Process Decomposition with Planner-Designer-Critic Refinement",
+      "summary": "arXiv:2603.20270v1 Announce Type: new \nAbstract: Generating executable simulations from natural language specifications remains a challenging problem due to the limited reasoning capacity of large lan...",
+      "source": {
+        "name": "ArXiv AI",
+        "url": "https://arxiv.org",
+        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
+      },
+      "category": "Research",
+      "tags": [
+        "LLM",
+        "AI Safety"
+      ],
+      "publishedAt": "Tue, 24 Mar 2026 00:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
+      "readTime": 1,
+      "originalUrl": "https://arxiv.org/abs/2603.20270"
+    },
+    {
+      "id": "o4wibcfibrduz9zpzhwh",
+      "title": "Me, Myself, and $\\pi$ : Evaluating and Explaining LLM Introspection",
+      "summary": "arXiv:2603.20276v1 Announce Type: new \nAbstract: A hallmark of human intelligence is Introspection-the ability to assess and reason about one's own cognitive processes. Introspection has emerged as a ...",
+      "source": {
+        "name": "ArXiv AI",
+        "url": "https://arxiv.org",
+        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
+      },
+      "category": "Research",
+      "tags": [
+        "Meta",
+        "LLM",
+        "Computer Vision"
+      ],
+      "publishedAt": "Tue, 24 Mar 2026 00:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
+      "readTime": 1,
+      "originalUrl": "https://arxiv.org/abs/2603.20276"
+    },
+    {
+      "id": "vffxfxpdukjuts57ieq69",
+      "title": "Air Street becomes one of the largest solo VCs in Europe with $232M fund",
+      "summary": "London’s Air Street Capital has raised a large Fund III with eyes locked on backing early-stage European and North American AI companies....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Startup"
+      ],
+      "publishedAt": "Mon, 23 Mar 2026 22:36:39 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/03/23/air-street-becomes-one-of-the-largest-solo-vcs-in-europe-with-232m-fund/"
+    },
+    {
+      "id": "vdz98eimq5elvv705p879",
       "title": "Bernie Sanders’ AI ‘gotcha’ video flops, but the memes are great",
       "summary": "Sen. Bernie Sanders thinks he's tricked Claude into revealing the AI industry's secrets, but he really just exposed how agreeable chatbots can become....",
       "source": {
@@ -21,7 +133,7 @@
       "originalUrl": "https://techcrunch.com/2026/03/23/bernie-sanders-ai-gotcha-video-flops-but-the-memes-are-great/"
     },
     {
-      "id": "ng3ezmqr2x9rzoaub35sbf",
+      "id": "pv0kvs7xvae06re48o7zvv",
       "title": "Vibe-coding startup Lovable is on the hunt for acquisitions",
       "summary": "Lovable's founder said the fast-growing vibe-coding startup is looking for startups and teams to join its company....",
       "source": {
@@ -39,7 +151,7 @@
       "originalUrl": "https://techcrunch.com/2026/03/23/vibe-coding-startup-lovable-is-on-the-hunt-for-acquisitions/"
     },
     {
-      "id": "ws1klypqmvik05krfimr",
+      "id": "r9selof82ddmz4xxervzbk",
       "title": "Apple sets June date for WWDC 2026, teasing ‘AI advancements’",
       "summary": "Apple will host its next Worldwide Developers Conference the week of June 8. The company is expected to announce major updates to Siri with advanced AI capabilities....",
       "source": {
@@ -55,7 +167,7 @@
       "originalUrl": "https://techcrunch.com/2026/03/23/apple-wwdc-june-8-12-ai-advancements-siri-developers-conference/"
     },
     {
-      "id": "hxh16zm1ve6g6teo01rguq",
+      "id": "owsajrtxya9peyqpkgw15",
       "title": "The hardest question to answer about AI-fueled delusions",
       "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. I was originally going to write this week’s newsletter about A...",
       "source": {
@@ -71,7 +183,7 @@
       "originalUrl": "https://www.technologyreview.com/2026/03/23/1134527/the-hardest-question-to-answer-about-ai-fueled-delusions/"
     },
     {
-      "id": "mia9di5qbwknw9fz7575lk",
+      "id": "nhqtlqmlptqe0mu4arx01d",
       "title": "Startup Gimlet Labs is solving the AI inference bottleneck in a surprisingly elegant way",
       "summary": "Gimlet Labs just raised an $80 million Series A for tech that lets AI run across NVIDIA, AMD, Intel, ARM, Cerebras and d-Matrix chips, simultaneously....",
       "source": {
@@ -90,23 +202,7 @@
       "originalUrl": "https://techcrunch.com/2026/03/23/startup-gimlet-labs-is-solving-the-ai-inference-bottleneck-in-a-surprisingly-elegant-way/"
     },
     {
-      "id": "py6tgwthhpnprzwt5yh2t",
-      "title": "Littlebird raises $11M for its AI-assisted ‘recall’ tool that reads your computer screen",
-      "summary": "Littlebird is building an AI that reads your screen in real time to capture context, answer questions, and automate tasks, without relying on screenshots....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Mon, 23 Mar 2026 16:00:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/03/23/littlebird-raises-11m-to-capture-context-from-your-computer-so-you-can-query-your-data/"
-    },
-    {
-      "id": "jmkg46cfwhmul9brmmzgdn",
+      "id": "56vu77pj2k21ethsyqrgvs",
       "title": "The Download: animal welfare gets AGI-pilled, and the White House unveils its AI policy",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The Bay Area’s animal welfare movement wants to recruit AI  In...",
       "source": {
@@ -122,7 +218,7 @@
       "originalUrl": "https://www.technologyreview.com/2026/03/23/1134509/the-download-animal-welfare-agi-pilled-white-house-unveils-ai-policy/"
     },
     {
-      "id": "7fe0xixuwv60zcl200xxzo",
+      "id": "79u7k6n3hfot0xhsqa9os",
       "title": "The Bay Area’s animal welfare movement wants to recruit AI",
       "summary": "In early February, animal welfare advocates and AI researchers gathered in stocking feet at Mox, a scrappy, shoes-free coworking space in San Francisco. Yellow and red canopies billowed overhead, Pers...",
       "source": {
@@ -138,97 +234,7 @@
       "originalUrl": "https://www.technologyreview.com/2026/03/23/1134491/the-bay-areas-animal-welfare-movement-wants-to-recruit-ai/"
     },
     {
-      "id": "hczsty2ob6wf0z17f0fgsu",
-      "title": "When both Grounding and not Grounding are Bad -- A Partially Grounded Encoding of Planning into SAT (Extended Version)",
-      "summary": "arXiv:2603.19429v1 Announce Type: new \nAbstract: Classical planning problems are typically defined using lifted first-order representations, which offer compactness and generality. While most planners...",
-      "source": {
-        "name": "ArXiv AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Research",
-      "tags": [],
-      "publishedAt": "Mon, 23 Mar 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2603.19429"
-    },
-    {
-      "id": "chc29h4i5no3wde0nixqpv",
-      "title": "Hyperagents",
-      "summary": "arXiv:2603.19461v1 Announce Type: new \nAbstract: Self-improving AI systems aim to reduce reliance on human engineering by learning to improve their own learning and problem-solving processes. Existing...",
-      "source": {
-        "name": "ArXiv AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Research",
-      "tags": [
-        "Meta",
-        "AI Safety"
-      ],
-      "publishedAt": "Mon, 23 Mar 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2603.19461"
-    },
-    {
-      "id": "4tzc6tyl0vv3drxfgsykp3",
-      "title": "Teaching an Agent to Sketch One Part at a Time",
-      "summary": "arXiv:2603.19500v1 Announce Type: new \nAbstract: We develop a method for producing vector sketches one part at a time. To do this, we train a multi-modal language model-based agent using a novel multi...",
-      "source": {
-        "name": "ArXiv AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Research",
-      "tags": [],
-      "publishedAt": "Mon, 23 Mar 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2603.19500"
-    },
-    {
-      "id": "y4i7wdft39ki1i7onhllh",
-      "title": "Learning to Disprove: Formal Counterexample Generation with Large Language Models",
-      "summary": "arXiv:2603.19514v1 Announce Type: new \nAbstract: Mathematical reasoning demands two critical, complementary skills: constructing rigorous proofs for true statements and discovering counterexamples tha...",
-      "source": {
-        "name": "ArXiv AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Research",
-      "tags": [
-        "LLM"
-      ],
-      "publishedAt": "Mon, 23 Mar 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2603.19514"
-    },
-    {
-      "id": "u9gz8okbdaci8k2vkipfte",
-      "title": "ItinBench: Benchmarking Planning Across Multiple Cognitive Dimensions with Large Language Models",
-      "summary": "arXiv:2603.19515v1 Announce Type: new \nAbstract: Large language models (LLMs) with advanced cognitive capabilities are emerging as agents for various reasoning and planning tasks. Traditional evaluati...",
-      "source": {
-        "name": "ArXiv AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Research",
-      "tags": [
-        "OpenAI",
-        "Google",
-        "Meta",
-        "LLM"
-      ],
-      "publishedAt": "Mon, 23 Mar 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2603.19515"
-    },
-    {
-      "id": "v5cdevcho3bwfhr3mhtzu",
+      "id": "q5hvheggqtdw90p6nsqx5c",
       "title": "Creating with Sora Safely",
       "summary": "To address the novel safety challenges posed by a state-of-the-art video model as well as a new social creation platform, we’ve built Sora 2 and the Sora app with safety at the foundation. Our approac...",
       "source": {
@@ -246,7 +252,7 @@
       "originalUrl": "https://openai.com/index/creating-with-sora-safely"
     },
     {
-      "id": "j5l04nahg2c32cx2wpgrn",
+      "id": "mocuyqi6acavvb3ypj6m3",
       "title": "The Download: OpenAI is building a fully automated researcher, and a psychedelic trial blind spot",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. OpenAI is throwing everything into building a fully automated ...",
       "source": {
@@ -264,7 +270,7 @@
       "originalUrl": "https://www.technologyreview.com/2026/03/20/1134448/the-download-openai-building-fully-automated-researcher-psychedelic-drug-trial/"
     },
     {
-      "id": "974l52fj4v1srqhuk5gue",
+      "id": "svzjw2drzsl6oolew49cmn",
       "title": "OpenAI is throwing everything into building a fully automated researcher",
       "summary": "OpenAI is refocusing its research efforts and throwing its resources into a new grand challenge. The San Francisco firm has set its sights on building what it calls an AI researcher, a fully automated...",
       "source": {
@@ -282,7 +288,7 @@
       "originalUrl": "https://www.technologyreview.com/2026/03/20/1134438/openai-is-throwing-everything-into-building-a-fully-automated-researcher/"
     },
     {
-      "id": "ymh5b5g447gzmff8iz7o5c",
+      "id": "czsszwlmmtgy8ps5jy0m9h",
       "title": "How we monitor internal coding agents for misalignment",
       "summary": "How OpenAI uses chain-of-thought monitoring to study misalignment in internal coding agents—analyzing real-world deployments to detect risks and strengthen AI safety safeguards....",
       "source": {
@@ -301,7 +307,7 @@
       "originalUrl": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment"
     },
     {
-      "id": "23cgqn4cw5lrgbdhjphvzr",
+      "id": "1w6nztoayvujbqp2tq7ut",
       "title": "OpenAI to acquire Astral",
       "summary": "Accelerates Codex growth to power the next generation of Python developer tools...",
       "source": {
@@ -319,7 +325,26 @@
       "originalUrl": "https://openai.com/index/openai-to-acquire-astral"
     },
     {
-      "id": "3gxve9ra5tpulc1947yjw9",
+      "id": "yhq1r1iwhhva7q5a6ca7",
+      "title": "OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first",
+      "summary": "OpenAI Japan announces the Japan Teen Safety Blueprint, introducing stronger age protections, parental controls, and well-being safeguards for teens using generative AI....",
+      "source": {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
+      },
+      "category": "Product",
+      "tags": [
+        "OpenAI",
+        "AI Safety"
+      ],
+      "publishedAt": "Tue, 17 Mar 2026 10:00:00 GMT",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
+      "readTime": 1,
+      "originalUrl": "https://openai.com/index/japan-teen-safety-blueprint"
+    },
+    {
+      "id": "zebe9mty2c2c8jz2mjsie",
       "title": "Introducing GPT-5.4 mini and nano",
       "summary": "GPT-5.4 mini and nano are smaller, faster versions of GPT-5.4 optimized for coding, tool use, multimodal reasoning, and high-volume API and sub-agent workloads....",
       "source": {
@@ -337,27 +362,8 @@
       "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
       "readTime": 1,
       "originalUrl": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano"
-    },
-    {
-      "id": "ehc1dp1fxa8biq47abgklo",
-      "title": "OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first",
-      "summary": "OpenAI Japan announces the Japan Teen Safety Blueprint, introducing stronger age protections, parental controls, and well-being safeguards for teens using generative AI....",
-      "source": {
-        "name": "OpenAI Blog",
-        "url": "https://openai.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
-      },
-      "category": "Product",
-      "tags": [
-        "OpenAI",
-        "AI Safety"
-      ],
-      "publishedAt": "Tue, 17 Mar 2026 10:00:00 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
-      "readTime": 1,
-      "originalUrl": "https://openai.com/index/japan-teen-safety-blueprint"
     }
   ],
   "totalArticles": 25,
-  "lastUpdated": "2026-03-23T23:02:35.583Z"
+  "lastUpdated": "2026-03-24T05:03:34.427Z"
 }

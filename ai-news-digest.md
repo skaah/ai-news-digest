@@ -9,14 +9,142 @@ Votre quotidien des avancées en Intelligence Artificielle.
 ## 📊 Statistiques
 
 - **25** articles collectés
-- Dernière mise à jour: 24/03/2026 07:02:35
+- Dernière mise à jour: 24/03/2026 13:03:34
 - Sources: TechCrunch, The Verge, OpenAI, Anthropic, Google AI, ArXiv, MIT Tech Review
 
 ---
 
 ## 📰 Articles du jour
 
+### 🔬 Research
+
+#### AgenticGEO: A Self-Evolving Agentic System for Generative Engine Optimization
+
+> arXiv:2603.20213v1 Announce Type: new 
+Abstract: Generative search engines represent a transition from traditional ranking-based retrieval to Large Language Model (LLM)-based synthesis, transforming o...
+
+- **Source:** [ArXiv AI](https://arxiv.org/abs/2603.20213)
+- **Tags:** #LLM, #Hardware
+- **Temps de lecture:** 1 min
+- **Publié:** 24/03/2026 12:00:00
+
+---
+
+#### ProMAS: Proactive Error Forecasting for Multi-Agent Systems Using Markov Transition Dynamics
+
+> arXiv:2603.20260v1 Announce Type: new 
+Abstract: The integration of Large Language Models into Multi-Agent Systems (MAS) has enabled the so-lution of complex, long-horizon tasks through collaborative ...
+
+- **Source:** [ArXiv AI](https://arxiv.org/abs/2603.20260)
+- **Tags:** #LLM
+- **Temps de lecture:** 1 min
+- **Publié:** 24/03/2026 12:00:00
+
+---
+
+#### Domain-Specialized Tree of Thought through Plug-and-Play Predictors
+
+> arXiv:2603.20267v1 Announce Type: new 
+Abstract: While Large Language Models (LLMs) have advanced complex reasoning, prominent methods like the Tree of Thoughts (ToT) framework face a critical trade-o...
+
+- **Source:** [ArXiv AI](https://arxiv.org/abs/2603.20267)
+- **Tags:** #LLM
+- **Temps de lecture:** 1 min
+- **Publié:** 24/03/2026 12:00:00
+
+---
+
+#### FactorSmith: Agentic Simulation Generation via Markov Decision Process Decomposition with Planner-Designer-Critic Refinement
+
+> arXiv:2603.20270v1 Announce Type: new 
+Abstract: Generating executable simulations from natural language specifications remains a challenging problem due to the limited reasoning capacity of large lan...
+
+- **Source:** [ArXiv AI](https://arxiv.org/abs/2603.20270)
+- **Tags:** #LLM, #AI Safety
+- **Temps de lecture:** 1 min
+- **Publié:** 24/03/2026 12:00:00
+
+---
+
+#### Me, Myself, and $\pi$ : Evaluating and Explaining LLM Introspection
+
+> arXiv:2603.20276v1 Announce Type: new 
+Abstract: A hallmark of human intelligence is Introspection-the ability to assess and reason about one's own cognitive processes. Introspection has emerged as a ...
+
+- **Source:** [ArXiv AI](https://arxiv.org/abs/2603.20276)
+- **Tags:** #Meta, #LLM, #Computer Vision
+- **Temps de lecture:** 1 min
+- **Publié:** 24/03/2026 12:00:00
+
+---
+
+#### The hardest question to answer about AI-fueled delusions
+
+> This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. I was originally going to write this week’s newsletter about A...
+
+- **Source:** [MIT Technology Review](https://www.technologyreview.com/2026/03/23/1134527/the-hardest-question-to-answer-about-ai-fueled-delusions/)
+- **Tags:** 
+- **Temps de lecture:** 1 min
+- **Publié:** 24/03/2026 00:31:20
+
+---
+
+#### The Download: animal welfare gets AGI-pilled, and the White House unveils its AI policy
+
+> This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The Bay Area’s animal welfare movement wants to recruit AI  In...
+
+- **Source:** [MIT Technology Review](https://www.technologyreview.com/2026/03/23/1134509/the-download-animal-welfare-agi-pilled-white-house-unveils-ai-policy/)
+- **Tags:** 
+- **Temps de lecture:** 1 min
+- **Publié:** 23/03/2026 20:17:33
+
+---
+
+#### The Bay Area’s animal welfare movement wants to recruit AI
+
+> In early February, animal welfare advocates and AI researchers gathered in stocking feet at Mox, a scrappy, shoes-free coworking space in San Francisco. Yellow and red canopies billowed overhead, Pers...
+
+- **Source:** [MIT Technology Review](https://www.technologyreview.com/2026/03/23/1134491/the-bay-areas-animal-welfare-movement-wants-to-recruit-ai/)
+- **Tags:** 
+- **Temps de lecture:** 1 min
+- **Publié:** 23/03/2026 17:00:00
+
+---
+
+#### The Download: OpenAI is building a fully automated researcher, and a psychedelic trial blind spot
+
+> This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. OpenAI is throwing everything into building a fully automated ...
+
+- **Source:** [MIT Technology Review](https://www.technologyreview.com/2026/03/20/1134448/the-download-openai-building-fully-automated-researcher-psychedelic-drug-trial/)
+- **Tags:** #OpenAI
+- **Temps de lecture:** 1 min
+- **Publié:** 20/03/2026 21:15:45
+
+---
+
+#### OpenAI is throwing everything into building a fully automated researcher
+
+> OpenAI is refocusing its research efforts and throwing its resources into a new grand challenge. The San Francisco firm has set its sights on building what it calls an AI researcher, a fully automated...
+
+- **Source:** [MIT Technology Review](https://www.technologyreview.com/2026/03/20/1134438/openai-is-throwing-everything-into-building-a-fully-automated-researcher/)
+- **Tags:** #OpenAI
+- **Temps de lecture:** 1 min
+- **Publié:** 20/03/2026 19:57:16
+
+---
+
 ### 🏭 Industry
+
+#### Air Street becomes one of the largest solo VCs in Europe with $232M fund
+
+> London’s Air Street Capital has raised a large Fund III with eyes locked on backing early-stage European and North American AI companies....
+
+- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/23/air-street-becomes-one-of-the-largest-solo-vcs-in-europe-with-232m-fund/)
+- **Tags:** #Startup
+- **Temps de lecture:** 1 min
+- **Publié:** 24/03/2026 06:36:39
+
+---
 
 #### Bernie Sanders’ AI ‘gotcha’ video flops, but the memes are great
 
@@ -62,134 +190,6 @@ Votre quotidien des avancées en Intelligence Artificielle.
 
 ---
 
-#### Littlebird raises $11M for its AI-assisted ‘recall’ tool that reads your computer screen
-
-> Littlebird is building an AI that reads your screen in real time to capture context, answer questions, and automate tasks, without relying on screenshots....
-
-- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/23/littlebird-raises-11m-to-capture-context-from-your-computer-so-you-can-query-your-data/)
-- **Tags:** 
-- **Temps de lecture:** 1 min
-- **Publié:** 24/03/2026 00:00:00
-
----
-
-### 🔬 Research
-
-#### The hardest question to answer about AI-fueled delusions
-
-> This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. I was originally going to write this week’s newsletter about A...
-
-- **Source:** [MIT Technology Review](https://www.technologyreview.com/2026/03/23/1134527/the-hardest-question-to-answer-about-ai-fueled-delusions/)
-- **Tags:** 
-- **Temps de lecture:** 1 min
-- **Publié:** 24/03/2026 00:31:20
-
----
-
-#### The Download: animal welfare gets AGI-pilled, and the White House unveils its AI policy
-
-> This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The Bay Area’s animal welfare movement wants to recruit AI  In...
-
-- **Source:** [MIT Technology Review](https://www.technologyreview.com/2026/03/23/1134509/the-download-animal-welfare-agi-pilled-white-house-unveils-ai-policy/)
-- **Tags:** 
-- **Temps de lecture:** 1 min
-- **Publié:** 23/03/2026 20:17:33
-
----
-
-#### The Bay Area’s animal welfare movement wants to recruit AI
-
-> In early February, animal welfare advocates and AI researchers gathered in stocking feet at Mox, a scrappy, shoes-free coworking space in San Francisco. Yellow and red canopies billowed overhead, Pers...
-
-- **Source:** [MIT Technology Review](https://www.technologyreview.com/2026/03/23/1134491/the-bay-areas-animal-welfare-movement-wants-to-recruit-ai/)
-- **Tags:** 
-- **Temps de lecture:** 1 min
-- **Publié:** 23/03/2026 17:00:00
-
----
-
-#### When both Grounding and not Grounding are Bad -- A Partially Grounded Encoding of Planning into SAT (Extended Version)
-
-> arXiv:2603.19429v1 Announce Type: new 
-Abstract: Classical planning problems are typically defined using lifted first-order representations, which offer compactness and generality. While most planners...
-
-- **Source:** [ArXiv AI](https://arxiv.org/abs/2603.19429)
-- **Tags:** 
-- **Temps de lecture:** 1 min
-- **Publié:** 23/03/2026 12:00:00
-
----
-
-#### Hyperagents
-
-> arXiv:2603.19461v1 Announce Type: new 
-Abstract: Self-improving AI systems aim to reduce reliance on human engineering by learning to improve their own learning and problem-solving processes. Existing...
-
-- **Source:** [ArXiv AI](https://arxiv.org/abs/2603.19461)
-- **Tags:** #Meta, #AI Safety
-- **Temps de lecture:** 1 min
-- **Publié:** 23/03/2026 12:00:00
-
----
-
-#### Teaching an Agent to Sketch One Part at a Time
-
-> arXiv:2603.19500v1 Announce Type: new 
-Abstract: We develop a method for producing vector sketches one part at a time. To do this, we train a multi-modal language model-based agent using a novel multi...
-
-- **Source:** [ArXiv AI](https://arxiv.org/abs/2603.19500)
-- **Tags:** 
-- **Temps de lecture:** 1 min
-- **Publié:** 23/03/2026 12:00:00
-
----
-
-#### Learning to Disprove: Formal Counterexample Generation with Large Language Models
-
-> arXiv:2603.19514v1 Announce Type: new 
-Abstract: Mathematical reasoning demands two critical, complementary skills: constructing rigorous proofs for true statements and discovering counterexamples tha...
-
-- **Source:** [ArXiv AI](https://arxiv.org/abs/2603.19514)
-- **Tags:** #LLM
-- **Temps de lecture:** 1 min
-- **Publié:** 23/03/2026 12:00:00
-
----
-
-#### ItinBench: Benchmarking Planning Across Multiple Cognitive Dimensions with Large Language Models
-
-> arXiv:2603.19515v1 Announce Type: new 
-Abstract: Large language models (LLMs) with advanced cognitive capabilities are emerging as agents for various reasoning and planning tasks. Traditional evaluati...
-
-- **Source:** [ArXiv AI](https://arxiv.org/abs/2603.19515)
-- **Tags:** #OpenAI, #Google, #Meta, #LLM
-- **Temps de lecture:** 1 min
-- **Publié:** 23/03/2026 12:00:00
-
----
-
-#### The Download: OpenAI is building a fully automated researcher, and a psychedelic trial blind spot
-
-> This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. OpenAI is throwing everything into building a fully automated ...
-
-- **Source:** [MIT Technology Review](https://www.technologyreview.com/2026/03/20/1134448/the-download-openai-building-fully-automated-researcher-psychedelic-drug-trial/)
-- **Tags:** #OpenAI
-- **Temps de lecture:** 1 min
-- **Publié:** 20/03/2026 21:15:45
-
----
-
-#### OpenAI is throwing everything into building a fully automated researcher
-
-> OpenAI is refocusing its research efforts and throwing its resources into a new grand challenge. The San Francisco firm has set its sights on building what it calls an AI researcher, a fully automated...
-
-- **Source:** [MIT Technology Review](https://www.technologyreview.com/2026/03/20/1134438/openai-is-throwing-everything-into-building-a-fully-automated-researcher/)
-- **Tags:** #OpenAI
-- **Temps de lecture:** 1 min
-- **Publié:** 20/03/2026 19:57:16
-
----
-
 ### 🚀 Product
 
 #### Creating with Sora Safely
@@ -225,23 +225,23 @@ Abstract: Large language models (LLMs) with advanced cognitive capabilities are 
 
 ---
 
-#### Introducing GPT-5.4 mini and nano
-
-> GPT-5.4 mini and nano are smaller, faster versions of GPT-5.4 optimized for coding, tool use, multimodal reasoning, and high-volume API and sub-agent workloads....
-
-- **Source:** [OpenAI Blog](https://openai.com/index/introducing-gpt-5-4-mini-and-nano)
-- **Tags:** #OpenAI, #LLM, #Multimodal
-- **Temps de lecture:** 1 min
-- **Publié:** 17/03/2026 18:00:00
-
----
-
 #### OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first
 
 > OpenAI Japan announces the Japan Teen Safety Blueprint, introducing stronger age protections, parental controls, and well-being safeguards for teens using generative AI....
 
 - **Source:** [OpenAI Blog](https://openai.com/index/japan-teen-safety-blueprint)
 - **Tags:** #OpenAI, #AI Safety
+- **Temps de lecture:** 1 min
+- **Publié:** 17/03/2026 18:00:00
+
+---
+
+#### Introducing GPT-5.4 mini and nano
+
+> GPT-5.4 mini and nano are smaller, faster versions of GPT-5.4 optimized for coding, tool use, multimodal reasoning, and high-volume API and sub-agent workloads....
+
+- **Source:** [OpenAI Blog](https://openai.com/index/introducing-gpt-5-4-mini-and-nano)
+- **Tags:** #OpenAI, #LLM, #Multimodal
 - **Temps de lecture:** 1 min
 - **Publié:** 17/03/2026 18:00:00
 
