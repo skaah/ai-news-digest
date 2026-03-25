@@ -1,8 +1,46 @@
 {
-  "date": "2026-03-25T05:02:48.772Z",
+  "date": "2026-03-25T11:02:34.993Z",
   "articles": [
     {
-      "id": "kihv4zx3qzf3w45y6eb9af",
+      "id": "au90g5as1j1oy0wxfoo89",
+      "title": "Lucid Bots raises $20M to keep up with demand for its window-washing drones ",
+      "summary": "Lucid Bots has seen demand accelerate over the last year for its window cleaning drones and power washing robots....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Robotics"
+      ],
+      "publishedAt": "Wed, 25 Mar 2026 11:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/03/25/lucid-bots-raises-20m-to-keep-up-with-demand-for-its-window-washing-drones/"
+    },
+    {
+      "id": "1l31fwvxxse16yzdp5zdsc",
+      "title": "The AI Hype Index: AI goes to war",
+      "summary": "AI is at war. Anthropic and the Pentagon feuded over how to weaponize Anthropic’s AI model Claude; then OpenAI swept the Pentagon off its feet with an “opportunistic and sloppy” deal. Users quit ChatG...",
+      "source": {
+        "name": "MIT Technology Review",
+        "url": "https://www.technologyreview.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.technologyreview.com&sz=64"
+      },
+      "category": "Research",
+      "tags": [
+        "OpenAI",
+        "Anthropic",
+        "LLM"
+      ],
+      "publishedAt": "Wed, 25 Mar 2026 09:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.technologyreview.com/2026/03/25/1134571/the-ai-hype-index-ai-goes-to-war/"
+    },
+    {
+      "id": "x668lsqky1rltw8h0vbw6",
       "title": "Memory Bear AI Memory Science Engine for Multimodal Affective Intelligence: A Technical Report",
       "summary": "arXiv:2603.22306v1 Announce Type: new \nAbstract: Affective judgment in real interaction is rarely a purely local prediction problem. Emotional meaning often depends on prior trajectory, accumulated co...",
       "source": {
@@ -21,7 +59,7 @@
       "originalUrl": "https://arxiv.org/abs/2603.22306"
     },
     {
-      "id": "3cqumchlbnhgtq9daljs9",
+      "id": "4yzyigscj85h1x1by10s7r",
       "title": "The Efficiency Attenuation Phenomenon: A Computational Challenge to the Language of Thought Hypothesis",
       "summary": "arXiv:2603.22312v1 Announce Type: new \nAbstract: This paper computationally investigates whether thought requires a language-like format, as posited by the Language of Thought (LoT) hypothesis. We int...",
       "source": {
@@ -39,7 +77,7 @@
       "originalUrl": "https://arxiv.org/abs/2603.22312"
     },
     {
-      "id": "rqkd62al1i85ck2la0r00d",
+      "id": "fjy9xsuwagh5mxpbsu16d",
       "title": "Dynamic Fusion-Aware Graph Convolutional Neural Network for Multimodal Emotion Recognition in Conversations",
       "summary": "arXiv:2603.22345v1 Announce Type: new \nAbstract: Multimodal emotion recognition in conversations (MERC) aims to identify and understand the emotions expressed by speakers during utterance interaction ...",
       "source": {
@@ -58,7 +96,7 @@
       "originalUrl": "https://arxiv.org/abs/2603.22345"
     },
     {
-      "id": "4pg1fnzlzcqyxjll5nlg",
+      "id": "tpu7kj7o8ix6nh3x7kg69",
       "title": "Intelligence Inertia: Physical Principles and Applications",
       "summary": "arXiv:2603.22347v1 Announce Type: new \nAbstract: While Landauer's principle establishes the fundamental thermodynamic floor for information erasure and Fisher Information provides a metric for local c...",
       "source": {
@@ -74,7 +112,7 @@
       "originalUrl": "https://arxiv.org/abs/2603.22347"
     },
     {
-      "id": "k11d12lydzg58ksiidil6f",
+      "id": "v4zb5d47myfulx33cw3mss",
       "title": "Session Risk Memory (SRM): Temporal Authorization for Deterministic Pre-Execution Safety Gates",
       "summary": "arXiv:2603.22350v1 Announce Type: new \nAbstract: Deterministic pre-execution safety gates evaluate whether individual agent actions are compatible with their assigned roles. While effective at per-act...",
       "source": {
@@ -93,7 +131,7 @@
       "originalUrl": "https://arxiv.org/abs/2603.22350"
     },
     {
-      "id": "r9jt6qd2cyw2t0lgsz6ai",
+      "id": "594sc7txsdri8d6k750zr8",
       "title": "With $3.5B in fresh capital, Kleiner Perkins is going all in on AI",
       "summary": "The fundraise includes $1 billion for investing in early-stage startups, and $2.5 billion for late-stage growth businesses....",
       "source": {
@@ -111,7 +149,7 @@
       "originalUrl": "https://techcrunch.com/2026/03/24/with-3-5b-in-fresh-capital-kleiner-perkins-is-going-all-in-on-ai/"
     },
     {
-      "id": "lt5z8ybmkdj56gktqymuwa",
+      "id": "kkebi45234hq1140nknkdf",
       "title": "OpenAI’s Sora was the creepiest app on your phone — now it’s shutting down",
       "summary": "Though the underlying Sora 2 video- and audio-generation model is scarily impressive, there was not sustained interest in an AI-only social feed....",
       "source": {
@@ -129,7 +167,7 @@
       "originalUrl": "https://techcrunch.com/2026/03/24/openais-sora-was-the-creepiest-app-on-your-phone-now-its-shutting-down/"
     },
     {
-      "id": "fdn119tm1qcii5btgse7a",
+      "id": "6oekt5r0b9f8oj2d8g2nzq",
       "title": "Kentucky woman rejects $26M offer to turn her farm into a data center",
       "summary": "A \"major artificial intelligence company\" reportedly offered a Kentucky family $26 million to build a data center on their farm....",
       "source": {
@@ -147,7 +185,7 @@
       "originalUrl": "https://techcrunch.com/2026/03/24/kentucky-woman-rejects-26-million-offer-to-turn-her-farm-into-a-data-center/"
     },
     {
-      "id": "a9tvos753thhb6hsy02xbi",
+      "id": "v82m8yqfnpatzyy9m0fl3",
       "title": "Anthropic hands Claude Code more control, but keeps it on a leash",
       "summary": "Anthropic’s new auto mode for Claude Code lets AI execute tasks with fewer approvals, reflecting a broader shift toward more autonomous tools that balance speed with safety through built-in safeguards...",
       "source": {
@@ -167,23 +205,7 @@
       "originalUrl": "https://techcrunch.com/2026/03/24/anthropic-hands-claude-code-more-control-but-keeps-it-on-a-leash/"
     },
     {
-      "id": "tsjcxo5qp9ulqd4e5v1b",
-      "title": "Spotify tests new tool to stop AI slop from being attributed to real artists",
-      "summary": "The idea behind the new tool is to give artists more control over which tracks are associated with their name on Spotify....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Tue, 24 Mar 2026 20:56:25 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/03/24/spotify-tests-new-tool-to-stop-ai-slop-from-being-attributed-to-real-artists/"
-    },
-    {
-      "id": "96t87rqdleefk2z2x5ll8",
+      "id": "wucdg5knmzmfqkvway8pg4",
       "title": "Exclusive eBook: Are we ready to hand AI agents the keys?",
       "summary": "We’re starting to give AI agents real autonomy, but are we prepared for what could happen next? This subscriber-only eBook explores this and angles from experts, such as “If we continue on the current...",
       "source": {
@@ -199,7 +221,7 @@
       "originalUrl": "https://www.technologyreview.com/2026/03/24/1134531/exclusive-ebook-are-we-ready-to-hand-ai-agents-the-keys/"
     },
     {
-      "id": "gh5nazj0el8m3qs2ecaeni",
+      "id": "709ladwua596mc49sagv92",
       "title": "This scientist rewarmed and studied pieces of his friend’s cryopreserved brain",
       "summary": "L. Stephen Coles’s brain sits cushioned in a vat at a storage facility in Arizona. It has been held there at a temperature of around −146 degrees °C for over a decade, largely undisturbed. That is, ap...",
       "source": {
@@ -215,7 +237,7 @@
       "originalUrl": "https://www.technologyreview.com/2026/03/24/1134562/cryopreservation-brain-cryonics-organ-transplantation/"
     },
     {
-      "id": "svxdiq75959ylp174x6ro",
+      "id": "t9slbm329edrys9owln8gt",
       "title": "The Download: tracing AI-fueled delusions, and OpenAI admits Microsoft risks",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The hardest question to answer about AI-fueled delusions  What...",
       "source": {
@@ -234,7 +256,7 @@
       "originalUrl": "https://www.technologyreview.com/2026/03/24/1134540/the-download-tracing-ai-fueled-delusions-openai-warns-microsoft-risks/"
     },
     {
-      "id": "cppzbv8s2i2yrist738zl",
+      "id": "qdheevb5lzjdqdd64q3djs",
       "title": "Helping developers build safer AI experiences for teens",
       "summary": "OpenAI releases prompt-based teen safety policies for developers using gpt-oss-safeguard, helping moderate age-specific risks in AI systems....",
       "source": {
@@ -254,7 +276,7 @@
       "originalUrl": "https://openai.com/index/teen-safety-policies-gpt-oss-safeguard"
     },
     {
-      "id": "5kk68vrk8t8u93gjikzsm",
+      "id": "okfuavpa71lpk4w6wwz3",
       "title": "Update on the OpenAI Foundation",
       "summary": "The OpenAI Foundation announces plans to invest at least $1 billion in curing diseases, economic opportunity, AI resilience, and community programs....",
       "source": {
@@ -273,7 +295,7 @@
       "originalUrl": "https://openai.com/index/update-on-the-openai-foundation"
     },
     {
-      "id": "hyo15wmfvxq85n2xrupqz3",
+      "id": "exentfnp0wvv4aa6sbr0or",
       "title": "Powering product discovery in ChatGPT",
       "summary": "ChatGPT introduces richer, visually immersive shopping powered by the Agentic Commerce Protocol, enabling product discovery, side-by-side comparisons, and merchant integration....",
       "source": {
@@ -292,7 +314,7 @@
       "originalUrl": "https://openai.com/index/powering-product-discovery-in-chatgpt"
     },
     {
-      "id": "gwzwuam6shfr7638ctc1",
+      "id": "f2wkoeat7qrfwgkyd41jp",
       "title": "The hardest question to answer about AI-fueled delusions",
       "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. I was originally going to write this week’s newsletter about A...",
       "source": {
@@ -308,23 +330,7 @@
       "originalUrl": "https://www.technologyreview.com/2026/03/23/1134527/the-hardest-question-to-answer-about-ai-fueled-delusions/"
     },
     {
-      "id": "yexhkryzk7lzoywrrykw2r",
-      "title": "The Download: animal welfare gets AGI-pilled, and the White House unveils its AI policy",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The Bay Area’s animal welfare movement wants to recruit AI  In...",
-      "source": {
-        "name": "MIT Technology Review",
-        "url": "https://www.technologyreview.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.technologyreview.com&sz=64"
-      },
-      "category": "Research",
-      "tags": [],
-      "publishedAt": "Mon, 23 Mar 2026 12:17:33 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.technologyreview.com/2026/03/23/1134509/the-download-animal-welfare-agi-pilled-white-house-unveils-ai-policy/"
-    },
-    {
-      "id": "ped7ce65oeg6elym763n3d",
+      "id": "aym6f0to9qgeygsvz0lhfi",
       "title": "Creating with Sora Safely",
       "summary": "To address the novel safety challenges posed by a state-of-the-art video model as well as a new social creation platform, we’ve built Sora 2 and the Sora app with safety at the foundation. Our approac...",
       "source": {
@@ -342,7 +348,7 @@
       "originalUrl": "https://openai.com/index/creating-with-sora-safely"
     },
     {
-      "id": "vok7hgg37bi895s5s7i3fc",
+      "id": "691ecs0iuidz3oopqr8uq",
       "title": "How we monitor internal coding agents for misalignment",
       "summary": "How OpenAI uses chain-of-thought monitoring to study misalignment in internal coding agents—analyzing real-world deployments to detect risks and strengthen AI safety safeguards....",
       "source": {
@@ -362,5 +368,5 @@
     }
   ],
   "totalArticles": 25,
-  "lastUpdated": "2026-03-25T05:02:48.772Z"
+  "lastUpdated": "2026-03-25T11:02:34.993Z"
 }

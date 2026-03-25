@@ -9,14 +9,82 @@ Votre quotidien des avancées en Intelligence Artificielle.
 ## 📊 Statistiques
 
 - **25** articles collectés
-- Dernière mise à jour: 25/03/2026 13:02:48
+- Dernière mise à jour: 25/03/2026 19:02:34
 - Sources: TechCrunch, The Verge, OpenAI, Anthropic, Google AI, ArXiv, MIT Tech Review
 
 ---
 
 ## 📰 Articles du jour
 
+### 🏭 Industry
+
+#### Lucid Bots raises $20M to keep up with demand for its window-washing drones 
+
+> Lucid Bots has seen demand accelerate over the last year for its window cleaning drones and power washing robots....
+
+- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/25/lucid-bots-raises-20m-to-keep-up-with-demand-for-its-window-washing-drones/)
+- **Tags:** #Robotics
+- **Temps de lecture:** 1 min
+- **Publié:** 25/03/2026 19:00:00
+
+---
+
+#### With $3.5B in fresh capital, Kleiner Perkins is going all in on AI
+
+> The fundraise includes $1 billion for investing in early-stage startups, and $2.5 billion for late-stage growth businesses....
+
+- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/24/with-3-5b-in-fresh-capital-kleiner-perkins-is-going-all-in-on-ai/)
+- **Tags:** #Startup
+- **Temps de lecture:** 1 min
+- **Publié:** 25/03/2026 08:47:20
+
+---
+
+#### OpenAI’s Sora was the creepiest app on your phone — now it’s shutting down
+
+> Though the underlying Sora 2 video- and audio-generation model is scarily impressive, there was not sustained interest in an AI-only social feed....
+
+- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/24/openais-sora-was-the-creepiest-app-on-your-phone-now-its-shutting-down/)
+- **Tags:** #OpenAI
+- **Temps de lecture:** 1 min
+- **Publié:** 25/03/2026 07:57:55
+
+---
+
+#### Kentucky woman rejects $26M offer to turn her farm into a data center
+
+> A "major artificial intelligence company" reportedly offered a Kentucky family $26 million to build a data center on their farm....
+
+- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/24/kentucky-woman-rejects-26-million-offer-to-turn-her-farm-into-a-data-center/)
+- **Tags:** #Startup
+- **Temps de lecture:** 1 min
+- **Publié:** 25/03/2026 06:22:57
+
+---
+
+#### Anthropic hands Claude Code more control, but keeps it on a leash
+
+> Anthropic’s new auto mode for Claude Code lets AI execute tasks with fewer approvals, reflecting a broader shift toward more autonomous tools that balance speed with safety through built-in safeguards...
+
+- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/24/anthropic-hands-claude-code-more-control-but-keeps-it-on-a-leash/)
+- **Tags:** #Anthropic, #LLM, #AI Safety
+- **Temps de lecture:** 1 min
+- **Publié:** 25/03/2026 05:00:30
+
+---
+
 ### 🔬 Research
+
+#### The AI Hype Index: AI goes to war
+
+> AI is at war. Anthropic and the Pentagon feuded over how to weaponize Anthropic’s AI model Claude; then OpenAI swept the Pentagon off its feet with an “opportunistic and sloppy” deal. Users quit ChatG...
+
+- **Source:** [MIT Technology Review](https://www.technologyreview.com/2026/03/25/1134571/the-ai-hype-index-ai-goes-to-war/)
+- **Tags:** #OpenAI, #Anthropic, #LLM
+- **Temps de lecture:** 1 min
+- **Publié:** 25/03/2026 17:00:00
+
+---
 
 #### Memory Bear AI Memory Science Engine for Multimodal Affective Intelligence: A Technical Report
 
@@ -119,74 +187,6 @@ Abstract: Deterministic pre-execution safety gates evaluate whether individual a
 - **Tags:** 
 - **Temps de lecture:** 1 min
 - **Publié:** 24/03/2026 00:31:20
-
----
-
-#### The Download: animal welfare gets AGI-pilled, and the White House unveils its AI policy
-
-> This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The Bay Area’s animal welfare movement wants to recruit AI  In...
-
-- **Source:** [MIT Technology Review](https://www.technologyreview.com/2026/03/23/1134509/the-download-animal-welfare-agi-pilled-white-house-unveils-ai-policy/)
-- **Tags:** 
-- **Temps de lecture:** 1 min
-- **Publié:** 23/03/2026 20:17:33
-
----
-
-### 🏭 Industry
-
-#### With $3.5B in fresh capital, Kleiner Perkins is going all in on AI
-
-> The fundraise includes $1 billion for investing in early-stage startups, and $2.5 billion for late-stage growth businesses....
-
-- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/24/with-3-5b-in-fresh-capital-kleiner-perkins-is-going-all-in-on-ai/)
-- **Tags:** #Startup
-- **Temps de lecture:** 1 min
-- **Publié:** 25/03/2026 08:47:20
-
----
-
-#### OpenAI’s Sora was the creepiest app on your phone — now it’s shutting down
-
-> Though the underlying Sora 2 video- and audio-generation model is scarily impressive, there was not sustained interest in an AI-only social feed....
-
-- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/24/openais-sora-was-the-creepiest-app-on-your-phone-now-its-shutting-down/)
-- **Tags:** #OpenAI
-- **Temps de lecture:** 1 min
-- **Publié:** 25/03/2026 07:57:55
-
----
-
-#### Kentucky woman rejects $26M offer to turn her farm into a data center
-
-> A "major artificial intelligence company" reportedly offered a Kentucky family $26 million to build a data center on their farm....
-
-- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/24/kentucky-woman-rejects-26-million-offer-to-turn-her-farm-into-a-data-center/)
-- **Tags:** #Startup
-- **Temps de lecture:** 1 min
-- **Publié:** 25/03/2026 06:22:57
-
----
-
-#### Anthropic hands Claude Code more control, but keeps it on a leash
-
-> Anthropic’s new auto mode for Claude Code lets AI execute tasks with fewer approvals, reflecting a broader shift toward more autonomous tools that balance speed with safety through built-in safeguards...
-
-- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/24/anthropic-hands-claude-code-more-control-but-keeps-it-on-a-leash/)
-- **Tags:** #Anthropic, #LLM, #AI Safety
-- **Temps de lecture:** 1 min
-- **Publié:** 25/03/2026 05:00:30
-
----
-
-#### Spotify tests new tool to stop AI slop from being attributed to real artists
-
-> The idea behind the new tool is to give artists more control over which tracks are associated with their name on Spotify....
-
-- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/24/spotify-tests-new-tool-to-stop-ai-slop-from-being-attributed-to-real-artists/)
-- **Tags:** 
-- **Temps de lecture:** 1 min
-- **Publié:** 25/03/2026 04:56:25
 
 ---
 
