@@ -9,7 +9,7 @@ Votre quotidien des avancées en Intelligence Artificielle.
 ## 📊 Statistiques
 
 - **25** articles collectés
-- Dernière mise à jour: 26/03/2026 01:02:40
+- Dernière mise à jour: 26/03/2026 07:03:31
 - Sources: TechCrunch, The Verge, OpenAI, Anthropic, Google AI, ArXiv, MIT Tech Review
 
 ---
@@ -17,6 +17,50 @@ Votre quotidien des avancées en Intelligence Artificielle.
 ## 📰 Articles du jour
 
 ### 🏭 Industry
+
+#### The AI skills gap is here, says AI company, and power users are pulling ahead
+
+> Anthropic finds AI isn’t replacing jobs yet, but early data shows growing inequality as experienced users gain an edge, raising concerns about future displacement and workforce divides....
+
+- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/25/the-ai-skills-gap-is-here-says-ai-company-and-power-users-are-pulling-ahead/)
+- **Tags:** #Anthropic
+- **Temps de lecture:** 1 min
+- **Publié:** 26/03/2026 05:44:13
+
+---
+
+#### Google unveils TurboQuant, a new AI memory compression algorithm — and yes, the internet is calling it ‘Pied Piper’
+
+> Google’s TurboQuant has the internet joking about Pied Piper from HBO's "Silicon Valley." The compression algorithm promises to shrink AI’s “working memory” by up to 6x, but it’s still just a lab expe...
+
+- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/25/google-turboquant-ai-memory-compression-silicon-valley-pied-piper/)
+- **Tags:** #Google
+- **Temps de lecture:** 1 min
+- **Publié:** 26/03/2026 04:38:45
+
+---
+
+#### Melania Trump wants a robot to homeschool your child
+
+> The first lady sees AI and robotics playing a prominent role in the future of American education....
+
+- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/25/melania-trump-wants-a-robot-to-homeschool-your-child/)
+- **Tags:** #Robotics
+- **Temps de lecture:** 1 min
+- **Publié:** 26/03/2026 02:55:41
+
+---
+
+#### Bernie Sanders and AOC propose a ban on data center construction
+
+> Senator Bernie Sanders and Rep. Alexandria Ocasio-Cortez introduced companion legislation to halt construction on new data centers until Congress passes comprehensive AI regulation....
+
+- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/25/bernie-sanders-and-aoc-propose-a-ban-on-data-center-construction/)
+- **Tags:** 
+- **Temps de lecture:** 1 min
+- **Publié:** 26/03/2026 01:15:50
+
+---
 
 #### Google launches Lyria 3 Pro music generation model
 
@@ -29,51 +73,18 @@ Votre quotidien des avancées en Intelligence Artificielle.
 
 ---
 
-#### Reddit takes on the bots with new ‘human verification’ requirements for fishy behavior
+### 🔬 Research
 
-> Reddit will require suspected automated accounts to verify they’re human, as it ramps up efforts to curb bot-driven spam and manipulation....
+#### Roundtables: The Next Era of Space Exploration
 
-- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/25/reddit-bots-new-human-verification-requirements/)
+> Listen to the session or watch below Whether it’s the race to find life on Mars, the campaign to outsmart killer asteroids, or the quest to make the moon a permanent home to astronauts, scientists’ ef...
+
+- **Source:** [MIT Technology Review](https://www.technologyreview.com/2026/03/25/1134664/roundtables-the-next-era-of-space-exploration/)
 - **Tags:** 
 - **Temps de lecture:** 1 min
-- **Publié:** 26/03/2026 00:10:00
+- **Publié:** 26/03/2026 01:26:26
 
 ---
-
-#### Granola raises $125M, hits $1.5B valuation as it expands from meeting notetaker to enterprise AI app
-
-> Granola's valuation jumped from $250 million to $1.5 billion with this round, and it has added more support for AI agents after users previously complained....
-
-- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/25/granola-raises-125m-hits-1-5b-valuation-as-it-expands-from-meeting-notetaker-to-enterprise-ai-app/)
-- **Tags:** #Startup
-- **Temps de lecture:** 1 min
-- **Publié:** 25/03/2026 22:48:40
-
----
-
-#### Meta launches new initiative to support entrepreneurship, drive AI adoption
-
-> Meta CEO Mark Zuckerberg said in a memo to staff that small businesses have always been a big part of the company's business model, and that while tens of millions of entrepreneurs already use its pla...
-
-- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/25/meta-launches-new-initiative-to-support-entrepreneurship-drive-ai-adoption/)
-- **Tags:** #Meta, #Startup
-- **Temps de lecture:** 1 min
-- **Publié:** 25/03/2026 22:45:20
-
----
-
-#### Meta turns to AI to make shopping easier on Instagram and Facebook
-
-> Meta is using generative AI to provide more product and brand information to consumers when they're shopping in its apps....
-
-- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/25/meta-turns-to-ai-to-make-shopping-easier-on-instagram-and-facebook/)
-- **Tags:** #Meta
-- **Temps de lecture:** 1 min
-- **Publié:** 25/03/2026 22:16:17
-
----
-
-### 🔬 Research
 
 #### Why this battery company is pivoting to AI
 
@@ -116,17 +127,6 @@ Votre quotidien des avancées en Intelligence Artificielle.
 - **Tags:** 
 - **Temps de lecture:** 1 min
 - **Publié:** 25/03/2026 19:48:13
-
----
-
-#### The AI Hype Index: AI goes to war
-
-> AI is at war. Anthropic and the Pentagon feuded over how to weaponize Anthropic’s AI model Claude; then OpenAI swept the Pentagon off its feet with an “opportunistic and sloppy” deal. Users quit ChatG...
-
-- **Source:** [MIT Technology Review](https://www.technologyreview.com/2026/03/25/1134571/the-ai-hype-index-ai-goes-to-war/)
-- **Tags:** #OpenAI, #Anthropic, #LLM
-- **Temps de lecture:** 1 min
-- **Publié:** 25/03/2026 17:00:00
 
 ---
 
