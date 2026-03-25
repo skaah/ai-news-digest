@@ -9,7 +9,7 @@ Votre quotidien des avancées en Intelligence Artificielle.
 ## 📊 Statistiques
 
 - **25** articles collectés
-- Dernière mise à jour: 25/03/2026 01:03:10
+- Dernière mise à jour: 25/03/2026 13:02:48
 - Sources: TechCrunch, The Verge, OpenAI, Anthropic, Google AI, ArXiv, MIT Tech Review
 
 ---
@@ -17,6 +17,77 @@ Votre quotidien des avancées en Intelligence Artificielle.
 ## 📰 Articles du jour
 
 ### 🔬 Research
+
+#### Memory Bear AI Memory Science Engine for Multimodal Affective Intelligence: A Technical Report
+
+> arXiv:2603.22306v1 Announce Type: new 
+Abstract: Affective judgment in real interaction is rarely a purely local prediction problem. Emotional meaning often depends on prior trajectory, accumulated co...
+
+- **Source:** [ArXiv AI](https://arxiv.org/abs/2603.22306)
+- **Tags:** #Multimodal, #Hardware
+- **Temps de lecture:** 1 min
+- **Publié:** 25/03/2026 12:00:00
+
+---
+
+#### The Efficiency Attenuation Phenomenon: A Computational Challenge to the Language of Thought Hypothesis
+
+> arXiv:2603.22312v1 Announce Type: new 
+Abstract: This paper computationally investigates whether thought requires a language-like format, as posited by the Language of Thought (LoT) hypothesis. We int...
+
+- **Source:** [ArXiv AI](https://arxiv.org/abs/2603.22312)
+- **Tags:** #AI Safety
+- **Temps de lecture:** 1 min
+- **Publié:** 25/03/2026 12:00:00
+
+---
+
+#### Dynamic Fusion-Aware Graph Convolutional Neural Network for Multimodal Emotion Recognition in Conversations
+
+> arXiv:2603.22345v1 Announce Type: new 
+Abstract: Multimodal emotion recognition in conversations (MERC) aims to identify and understand the emotions expressed by speakers during utterance interaction ...
+
+- **Source:** [ArXiv AI](https://arxiv.org/abs/2603.22345)
+- **Tags:** #Computer Vision, #Multimodal
+- **Temps de lecture:** 1 min
+- **Publié:** 25/03/2026 12:00:00
+
+---
+
+#### Intelligence Inertia: Physical Principles and Applications
+
+> arXiv:2603.22347v1 Announce Type: new 
+Abstract: While Landauer's principle establishes the fundamental thermodynamic floor for information erasure and Fisher Information provides a metric for local c...
+
+- **Source:** [ArXiv AI](https://arxiv.org/abs/2603.22347)
+- **Tags:** 
+- **Temps de lecture:** 1 min
+- **Publié:** 25/03/2026 12:00:00
+
+---
+
+#### Session Risk Memory (SRM): Temporal Authorization for Deterministic Pre-Execution Safety Gates
+
+> arXiv:2603.22350v1 Announce Type: new 
+Abstract: Deterministic pre-execution safety gates evaluate whether individual agent actions are compatible with their assigned roles. While effective at per-act...
+
+- **Source:** [ArXiv AI](https://arxiv.org/abs/2603.22350)
+- **Tags:** #AI Safety, #Hardware
+- **Temps de lecture:** 1 min
+- **Publié:** 25/03/2026 12:00:00
+
+---
+
+#### Exclusive eBook: Are we ready to hand AI agents the keys?
+
+> We’re starting to give AI agents real autonomy, but are we prepared for what could happen next? This subscriber-only eBook explores this and angles from experts, such as “If we continue on the current...
+
+- **Source:** [MIT Technology Review](https://www.technologyreview.com/2026/03/24/1134531/exclusive-ebook-are-we-ready-to-hand-ai-agents-the-keys/)
+- **Tags:** 
+- **Temps de lecture:** 1 min
+- **Publié:** 25/03/2026 02:17:13
+
+---
 
 #### This scientist rewarmed and studied pieces of his friend’s cryopreserved brain
 
@@ -37,66 +108,6 @@ Votre quotidien des avancées en Intelligence Artificielle.
 - **Tags:** #OpenAI, #AI Safety
 - **Temps de lecture:** 1 min
 - **Publié:** 24/03/2026 20:28:27
-
----
-
-#### AgenticGEO: A Self-Evolving Agentic System for Generative Engine Optimization
-
-> arXiv:2603.20213v1 Announce Type: new 
-Abstract: Generative search engines represent a transition from traditional ranking-based retrieval to Large Language Model (LLM)-based synthesis, transforming o...
-
-- **Source:** [ArXiv AI](https://arxiv.org/abs/2603.20213)
-- **Tags:** #LLM, #Hardware
-- **Temps de lecture:** 1 min
-- **Publié:** 24/03/2026 12:00:00
-
----
-
-#### ProMAS: Proactive Error Forecasting for Multi-Agent Systems Using Markov Transition Dynamics
-
-> arXiv:2603.20260v1 Announce Type: new 
-Abstract: The integration of Large Language Models into Multi-Agent Systems (MAS) has enabled the so-lution of complex, long-horizon tasks through collaborative ...
-
-- **Source:** [ArXiv AI](https://arxiv.org/abs/2603.20260)
-- **Tags:** #LLM
-- **Temps de lecture:** 1 min
-- **Publié:** 24/03/2026 12:00:00
-
----
-
-#### Domain-Specialized Tree of Thought through Plug-and-Play Predictors
-
-> arXiv:2603.20267v1 Announce Type: new 
-Abstract: While Large Language Models (LLMs) have advanced complex reasoning, prominent methods like the Tree of Thoughts (ToT) framework face a critical trade-o...
-
-- **Source:** [ArXiv AI](https://arxiv.org/abs/2603.20267)
-- **Tags:** #LLM
-- **Temps de lecture:** 1 min
-- **Publié:** 24/03/2026 12:00:00
-
----
-
-#### FactorSmith: Agentic Simulation Generation via Markov Decision Process Decomposition with Planner-Designer-Critic Refinement
-
-> arXiv:2603.20270v1 Announce Type: new 
-Abstract: Generating executable simulations from natural language specifications remains a challenging problem due to the limited reasoning capacity of large lan...
-
-- **Source:** [ArXiv AI](https://arxiv.org/abs/2603.20270)
-- **Tags:** #LLM, #AI Safety
-- **Temps de lecture:** 1 min
-- **Publié:** 24/03/2026 12:00:00
-
----
-
-#### Me, Myself, and $\pi$ : Evaluating and Explaining LLM Introspection
-
-> arXiv:2603.20276v1 Announce Type: new 
-Abstract: A hallmark of human intelligence is Introspection-the ability to assess and reason about one's own cognitive processes. Introspection has emerged as a ...
-
-- **Source:** [ArXiv AI](https://arxiv.org/abs/2603.20276)
-- **Tags:** #Meta, #LLM, #Computer Vision
-- **Temps de lecture:** 1 min
-- **Publié:** 24/03/2026 12:00:00
 
 ---
 
@@ -122,84 +133,73 @@ Abstract: A hallmark of human intelligence is Introspection-the ability to asses
 
 ---
 
-#### The Bay Area’s animal welfare movement wants to recruit AI
-
-> In early February, animal welfare advocates and AI researchers gathered in stocking feet at Mox, a scrappy, shoes-free coworking space in San Francisco. Yellow and red canopies billowed overhead, Pers...
-
-- **Source:** [MIT Technology Review](https://www.technologyreview.com/2026/03/23/1134491/the-bay-areas-animal-welfare-movement-wants-to-recruit-ai/)
-- **Tags:** 
-- **Temps de lecture:** 1 min
-- **Publié:** 23/03/2026 17:00:00
-
----
-
 ### 🏭 Industry
 
-#### Meet the former Apple designer building a new AI interface at Hark
+#### With $3.5B in fresh capital, Kleiner Perkins is going all in on AI
 
-> The company said it would design models, hardware, and interfaces in tandem to deliver a "seamless end-to-end personal intelligence product."...
+> The fundraise includes $1 billion for investing in early-stage startups, and $2.5 billion for late-stage growth businesses....
 
-- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/24/meet-the-former-apple-designer-building-a-new-ai-interface-at-hark/)
+- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/24/with-3-5b-in-fresh-capital-kleiner-perkins-is-going-all-in-on-ai/)
+- **Tags:** #Startup
+- **Temps de lecture:** 1 min
+- **Publié:** 25/03/2026 08:47:20
+
+---
+
+#### OpenAI’s Sora was the creepiest app on your phone — now it’s shutting down
+
+> Though the underlying Sora 2 video- and audio-generation model is scarily impressive, there was not sustained interest in an AI-only social feed....
+
+- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/24/openais-sora-was-the-creepiest-app-on-your-phone-now-its-shutting-down/)
+- **Tags:** #OpenAI
+- **Temps de lecture:** 1 min
+- **Publié:** 25/03/2026 07:57:55
+
+---
+
+#### Kentucky woman rejects $26M offer to turn her farm into a data center
+
+> A "major artificial intelligence company" reportedly offered a Kentucky family $26 million to build a data center on their farm....
+
+- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/24/kentucky-woman-rejects-26-million-offer-to-turn-her-farm-into-a-data-center/)
+- **Tags:** #Startup
+- **Temps de lecture:** 1 min
+- **Publié:** 25/03/2026 06:22:57
+
+---
+
+#### Anthropic hands Claude Code more control, but keeps it on a leash
+
+> Anthropic’s new auto mode for Claude Code lets AI execute tasks with fewer approvals, reflecting a broader shift toward more autonomous tools that balance speed with safety through built-in safeguards...
+
+- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/24/anthropic-hands-claude-code-more-control-but-keeps-it-on-a-leash/)
+- **Tags:** #Anthropic, #LLM, #AI Safety
+- **Temps de lecture:** 1 min
+- **Publié:** 25/03/2026 05:00:30
+
+---
+
+#### Spotify tests new tool to stop AI slop from being attributed to real artists
+
+> The idea behind the new tool is to give artists more control over which tracks are associated with their name on Spotify....
+
+- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/24/spotify-tests-new-tool-to-stop-ai-slop-from-being-attributed-to-real-artists/)
 - **Tags:** 
 - **Temps de lecture:** 1 min
-- **Publié:** 25/03/2026 00:00:00
-
----
-
-#### Mirage raises $75M to continue building models for its AI video-editing app Captions
-
-> Mirage, the maker of video-editing app Captions, has raised $75 million in growth financing from General Catalyst's Customer Value Fund (CVF)....
-
-- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/24/mirage-raises-75m-to-continue-building-models-for-its-ai-video-editing-app-captions/)
-- **Tags:** #Startup
-- **Temps de lecture:** 1 min
-- **Publié:** 24/03/2026 21:00:00
-
----
-
-#### Agile Robots becomes the latest robotics company to partner with Google DeepMind
-
-> Agile Robots will incorporate Google DeepMind's robotics foundation models into its bots while collecting data for the AI research lab....
-
-- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/24/agile-robots-becomes-the-latest-robotics-company-to-partner-with-google-deepmind/)
-- **Tags:** #Google, #Robotics
-- **Temps de lecture:** 1 min
-- **Publié:** 24/03/2026 20:05:00
-
----
-
-#### Air Street becomes one of the largest solo VCs in Europe with $232M fund
-
-> London’s Air Street Capital has raised a large Fund III with eyes locked on backing early-stage European and North American AI companies....
-
-- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/23/air-street-becomes-one-of-the-largest-solo-vcs-in-europe-with-232m-fund/)
-- **Tags:** #Startup
-- **Temps de lecture:** 1 min
-- **Publié:** 24/03/2026 06:36:39
-
----
-
-#### Bernie Sanders’ AI ‘gotcha’ video flops, but the memes are great
-
-> Sen. Bernie Sanders thinks he's tricked Claude into revealing the AI industry's secrets, but he really just exposed how agreeable chatbots can become....
-
-- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/23/bernie-sanders-ai-gotcha-video-flops-but-the-memes-are-great/)
-- **Tags:** #Anthropic, #LLM
-- **Temps de lecture:** 1 min
-- **Publié:** 24/03/2026 04:15:59
+- **Publié:** 25/03/2026 04:56:25
 
 ---
 
 ### 🚀 Product
 
-#### Powering product discovery in ChatGPT
+#### Helping developers build safer AI experiences for teens
 
-> ChatGPT introduces richer, visually immersive shopping powered by the Agentic Commerce Protocol, enabling product discovery, side-by-side comparisons, and merchant integration....
+> OpenAI releases prompt-based teen safety policies for developers using gpt-oss-safeguard, helping moderate age-specific risks in AI systems....
 
-- **Source:** [OpenAI Blog](https://openai.com/index/powering-product-discovery-in-chatgpt)
-- **Tags:** #OpenAI, #LLM
+- **Source:** [OpenAI Blog](https://openai.com/index/teen-safety-policies-gpt-oss-safeguard)
+- **Tags:** #OpenAI, #LLM, #AI Safety
 - **Temps de lecture:** 1 min
-- **Publié:** 24/03/2026 17:00:00
+- **Publié:** 24/03/2026 19:00:00
 
 ---
 
@@ -209,6 +209,17 @@ Abstract: A hallmark of human intelligence is Introspection-the ability to asses
 
 - **Source:** [OpenAI Blog](https://openai.com/index/update-on-the-openai-foundation)
 - **Tags:** #OpenAI, #Startup
+- **Temps de lecture:** 1 min
+- **Publié:** 24/03/2026 17:00:00
+
+---
+
+#### Powering product discovery in ChatGPT
+
+> ChatGPT introduces richer, visually immersive shopping powered by the Agentic Commerce Protocol, enabling product discovery, side-by-side comparisons, and merchant integration....
+
+- **Source:** [OpenAI Blog](https://openai.com/index/powering-product-discovery-in-chatgpt)
+- **Tags:** #OpenAI, #LLM
 - **Temps de lecture:** 1 min
 - **Publié:** 24/03/2026 17:00:00
 
@@ -233,17 +244,6 @@ Abstract: A hallmark of human intelligence is Introspection-the ability to asses
 - **Tags:** #OpenAI, #AI Safety
 - **Temps de lecture:** 1 min
 - **Publié:** 19/03/2026 18:00:00
-
----
-
-#### OpenAI to acquire Astral
-
-> Accelerates Codex growth to power the next generation of Python developer tools...
-
-- **Source:** [OpenAI Blog](https://openai.com/index/openai-to-acquire-astral)
-- **Tags:** #OpenAI
-- **Temps de lecture:** 1 min
-- **Publié:** 19/03/2026 08:00:00
 
 ---
 

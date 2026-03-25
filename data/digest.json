@@ -1,8 +1,205 @@
 {
-  "date": "2026-03-24T17:03:10.344Z",
+  "date": "2026-03-25T05:02:48.772Z",
   "articles": [
     {
-      "id": "52i9vtvgixr74qn4j1mc4v",
+      "id": "kihv4zx3qzf3w45y6eb9af",
+      "title": "Memory Bear AI Memory Science Engine for Multimodal Affective Intelligence: A Technical Report",
+      "summary": "arXiv:2603.22306v1 Announce Type: new \nAbstract: Affective judgment in real interaction is rarely a purely local prediction problem. Emotional meaning often depends on prior trajectory, accumulated co...",
+      "source": {
+        "name": "ArXiv AI",
+        "url": "https://arxiv.org",
+        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
+      },
+      "category": "Research",
+      "tags": [
+        "Multimodal",
+        "Hardware"
+      ],
+      "publishedAt": "Wed, 25 Mar 2026 00:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
+      "readTime": 1,
+      "originalUrl": "https://arxiv.org/abs/2603.22306"
+    },
+    {
+      "id": "3cqumchlbnhgtq9daljs9",
+      "title": "The Efficiency Attenuation Phenomenon: A Computational Challenge to the Language of Thought Hypothesis",
+      "summary": "arXiv:2603.22312v1 Announce Type: new \nAbstract: This paper computationally investigates whether thought requires a language-like format, as posited by the Language of Thought (LoT) hypothesis. We int...",
+      "source": {
+        "name": "ArXiv AI",
+        "url": "https://arxiv.org",
+        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
+      },
+      "category": "Research",
+      "tags": [
+        "AI Safety"
+      ],
+      "publishedAt": "Wed, 25 Mar 2026 00:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
+      "readTime": 1,
+      "originalUrl": "https://arxiv.org/abs/2603.22312"
+    },
+    {
+      "id": "rqkd62al1i85ck2la0r00d",
+      "title": "Dynamic Fusion-Aware Graph Convolutional Neural Network for Multimodal Emotion Recognition in Conversations",
+      "summary": "arXiv:2603.22345v1 Announce Type: new \nAbstract: Multimodal emotion recognition in conversations (MERC) aims to identify and understand the emotions expressed by speakers during utterance interaction ...",
+      "source": {
+        "name": "ArXiv AI",
+        "url": "https://arxiv.org",
+        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
+      },
+      "category": "Research",
+      "tags": [
+        "Computer Vision",
+        "Multimodal"
+      ],
+      "publishedAt": "Wed, 25 Mar 2026 00:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
+      "readTime": 1,
+      "originalUrl": "https://arxiv.org/abs/2603.22345"
+    },
+    {
+      "id": "4pg1fnzlzcqyxjll5nlg",
+      "title": "Intelligence Inertia: Physical Principles and Applications",
+      "summary": "arXiv:2603.22347v1 Announce Type: new \nAbstract: While Landauer's principle establishes the fundamental thermodynamic floor for information erasure and Fisher Information provides a metric for local c...",
+      "source": {
+        "name": "ArXiv AI",
+        "url": "https://arxiv.org",
+        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
+      },
+      "category": "Research",
+      "tags": [],
+      "publishedAt": "Wed, 25 Mar 2026 00:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
+      "readTime": 1,
+      "originalUrl": "https://arxiv.org/abs/2603.22347"
+    },
+    {
+      "id": "k11d12lydzg58ksiidil6f",
+      "title": "Session Risk Memory (SRM): Temporal Authorization for Deterministic Pre-Execution Safety Gates",
+      "summary": "arXiv:2603.22350v1 Announce Type: new \nAbstract: Deterministic pre-execution safety gates evaluate whether individual agent actions are compatible with their assigned roles. While effective at per-act...",
+      "source": {
+        "name": "ArXiv AI",
+        "url": "https://arxiv.org",
+        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
+      },
+      "category": "Research",
+      "tags": [
+        "AI Safety",
+        "Hardware"
+      ],
+      "publishedAt": "Wed, 25 Mar 2026 00:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
+      "readTime": 1,
+      "originalUrl": "https://arxiv.org/abs/2603.22350"
+    },
+    {
+      "id": "r9jt6qd2cyw2t0lgsz6ai",
+      "title": "With $3.5B in fresh capital, Kleiner Perkins is going all in on AI",
+      "summary": "The fundraise includes $1 billion for investing in early-stage startups, and $2.5 billion for late-stage growth businesses....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Startup"
+      ],
+      "publishedAt": "Wed, 25 Mar 2026 00:47:20 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/03/24/with-3-5b-in-fresh-capital-kleiner-perkins-is-going-all-in-on-ai/"
+    },
+    {
+      "id": "lt5z8ybmkdj56gktqymuwa",
+      "title": "OpenAI’s Sora was the creepiest app on your phone — now it’s shutting down",
+      "summary": "Though the underlying Sora 2 video- and audio-generation model is scarily impressive, there was not sustained interest in an AI-only social feed....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "OpenAI"
+      ],
+      "publishedAt": "Tue, 24 Mar 2026 23:57:55 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/03/24/openais-sora-was-the-creepiest-app-on-your-phone-now-its-shutting-down/"
+    },
+    {
+      "id": "fdn119tm1qcii5btgse7a",
+      "title": "Kentucky woman rejects $26M offer to turn her farm into a data center",
+      "summary": "A \"major artificial intelligence company\" reportedly offered a Kentucky family $26 million to build a data center on their farm....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Startup"
+      ],
+      "publishedAt": "Tue, 24 Mar 2026 22:22:57 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/03/24/kentucky-woman-rejects-26-million-offer-to-turn-her-farm-into-a-data-center/"
+    },
+    {
+      "id": "a9tvos753thhb6hsy02xbi",
+      "title": "Anthropic hands Claude Code more control, but keeps it on a leash",
+      "summary": "Anthropic’s new auto mode for Claude Code lets AI execute tasks with fewer approvals, reflecting a broader shift toward more autonomous tools that balance speed with safety through built-in safeguards...",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Anthropic",
+        "LLM",
+        "AI Safety"
+      ],
+      "publishedAt": "Tue, 24 Mar 2026 21:00:30 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/03/24/anthropic-hands-claude-code-more-control-but-keeps-it-on-a-leash/"
+    },
+    {
+      "id": "tsjcxo5qp9ulqd4e5v1b",
+      "title": "Spotify tests new tool to stop AI slop from being attributed to real artists",
+      "summary": "The idea behind the new tool is to give artists more control over which tracks are associated with their name on Spotify....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Tue, 24 Mar 2026 20:56:25 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/03/24/spotify-tests-new-tool-to-stop-ai-slop-from-being-attributed-to-real-artists/"
+    },
+    {
+      "id": "96t87rqdleefk2z2x5ll8",
+      "title": "Exclusive eBook: Are we ready to hand AI agents the keys?",
+      "summary": "We’re starting to give AI agents real autonomy, but are we prepared for what could happen next? This subscriber-only eBook explores this and angles from experts, such as “If we continue on the current...",
+      "source": {
+        "name": "MIT Technology Review",
+        "url": "https://www.technologyreview.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.technologyreview.com&sz=64"
+      },
+      "category": "Research",
+      "tags": [],
+      "publishedAt": "Tue, 24 Mar 2026 18:17:13 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.technologyreview.com/2026/03/24/1134531/exclusive-ebook-are-we-ready-to-hand-ai-agents-the-keys/"
+    },
+    {
+      "id": "gh5nazj0el8m3qs2ecaeni",
       "title": "This scientist rewarmed and studied pieces of his friend’s cryopreserved brain",
       "summary": "L. Stephen Coles’s brain sits cushioned in a vat at a storage facility in Arizona. It has been held there at a temperature of around −146 degrees °C for over a decade, largely undisturbed. That is, ap...",
       "source": {
@@ -18,41 +215,7 @@
       "originalUrl": "https://www.technologyreview.com/2026/03/24/1134562/cryopreservation-brain-cryonics-organ-transplantation/"
     },
     {
-      "id": "wcft7dsugdrv6z1di1th7",
-      "title": "Meet the former Apple designer building a new AI interface at Hark",
-      "summary": "The company said it would design models, hardware, and interfaces in tandem to deliver a \"seamless end-to-end personal intelligence product.\"...",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Tue, 24 Mar 2026 16:00:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/03/24/meet-the-former-apple-designer-building-a-new-ai-interface-at-hark/"
-    },
-    {
-      "id": "7hur2c813ms9h8hxfpdlq8",
-      "title": "Mirage raises $75M to continue building models for its AI video-editing app Captions",
-      "summary": "Mirage, the maker of video-editing app Captions, has raised $75 million in growth financing from General Catalyst's Customer Value Fund (CVF)....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Startup"
-      ],
-      "publishedAt": "Tue, 24 Mar 2026 13:00:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/03/24/mirage-raises-75m-to-continue-building-models-for-its-ai-video-editing-app-captions/"
-    },
-    {
-      "id": "53dbvkleh737x2txzk08xe",
+      "id": "svxdiq75959ylp174x6ro",
       "title": "The Download: tracing AI-fueled delusions, and OpenAI admits Microsoft risks",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The hardest question to answer about AI-fueled delusions  What...",
       "source": {
@@ -71,28 +234,9 @@
       "originalUrl": "https://www.technologyreview.com/2026/03/24/1134540/the-download-tracing-ai-fueled-delusions-openai-warns-microsoft-risks/"
     },
     {
-      "id": "5nvn37uuf03gcv3zfcvkx5",
-      "title": "Agile Robots becomes the latest robotics company to partner with Google DeepMind",
-      "summary": "Agile Robots will incorporate Google DeepMind's robotics foundation models into its bots while collecting data for the AI research lab....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Google",
-        "Robotics"
-      ],
-      "publishedAt": "Tue, 24 Mar 2026 12:05:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/03/24/agile-robots-becomes-the-latest-robotics-company-to-partner-with-google-deepmind/"
-    },
-    {
-      "id": "qco2bzy6dyqaqijlfp7n9",
-      "title": "Powering product discovery in ChatGPT",
-      "summary": "ChatGPT introduces richer, visually immersive shopping powered by the Agentic Commerce Protocol, enabling product discovery, side-by-side comparisons, and merchant integration....",
+      "id": "cppzbv8s2i2yrist738zl",
+      "title": "Helping developers build safer AI experiences for teens",
+      "summary": "OpenAI releases prompt-based teen safety policies for developers using gpt-oss-safeguard, helping moderate age-specific risks in AI systems....",
       "source": {
         "name": "OpenAI Blog",
         "url": "https://openai.com",
@@ -101,15 +245,16 @@
       "category": "Product",
       "tags": [
         "OpenAI",
-        "LLM"
+        "LLM",
+        "AI Safety"
       ],
-      "publishedAt": "Tue, 24 Mar 2026 09:00:00 GMT",
+      "publishedAt": "Tue, 24 Mar 2026 11:00:00 GMT",
       "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
       "readTime": 1,
-      "originalUrl": "https://openai.com/index/powering-product-discovery-in-chatgpt"
+      "originalUrl": "https://openai.com/index/teen-safety-policies-gpt-oss-safeguard"
     },
     {
-      "id": "2jon738h48ny0hasmjzjzc",
+      "id": "5kk68vrk8t8u93gjikzsm",
       "title": "Update on the OpenAI Foundation",
       "summary": "The OpenAI Foundation announces plans to invest at least $1 billion in curing diseases, economic opportunity, AI resilience, and community programs....",
       "source": {
@@ -128,138 +273,26 @@
       "originalUrl": "https://openai.com/index/update-on-the-openai-foundation"
     },
     {
-      "id": "2ofn3s1borvuc6gy4gr",
-      "title": "AgenticGEO: A Self-Evolving Agentic System for Generative Engine Optimization",
-      "summary": "arXiv:2603.20213v1 Announce Type: new \nAbstract: Generative search engines represent a transition from traditional ranking-based retrieval to Large Language Model (LLM)-based synthesis, transforming o...",
+      "id": "hyo15wmfvxq85n2xrupqz3",
+      "title": "Powering product discovery in ChatGPT",
+      "summary": "ChatGPT introduces richer, visually immersive shopping powered by the Agentic Commerce Protocol, enabling product discovery, side-by-side comparisons, and merchant integration....",
       "source": {
-        "name": "ArXiv AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
+        "name": "OpenAI Blog",
+        "url": "https://openai.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
       },
-      "category": "Research",
+      "category": "Product",
       "tags": [
-        "LLM",
-        "Hardware"
-      ],
-      "publishedAt": "Tue, 24 Mar 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2603.20213"
-    },
-    {
-      "id": "q2xp5jp44qqfjyo1q12v7",
-      "title": "ProMAS: Proactive Error Forecasting for Multi-Agent Systems Using Markov Transition Dynamics",
-      "summary": "arXiv:2603.20260v1 Announce Type: new \nAbstract: The integration of Large Language Models into Multi-Agent Systems (MAS) has enabled the so-lution of complex, long-horizon tasks through collaborative ...",
-      "source": {
-        "name": "ArXiv AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Research",
-      "tags": [
+        "OpenAI",
         "LLM"
       ],
-      "publishedAt": "Tue, 24 Mar 2026 00:00:00 -0400",
+      "publishedAt": "Tue, 24 Mar 2026 09:00:00 GMT",
       "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
       "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2603.20260"
+      "originalUrl": "https://openai.com/index/powering-product-discovery-in-chatgpt"
     },
     {
-      "id": "5pj0nqlpf4xqwxdetxiqo",
-      "title": "Domain-Specialized Tree of Thought through Plug-and-Play Predictors",
-      "summary": "arXiv:2603.20267v1 Announce Type: new \nAbstract: While Large Language Models (LLMs) have advanced complex reasoning, prominent methods like the Tree of Thoughts (ToT) framework face a critical trade-o...",
-      "source": {
-        "name": "ArXiv AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Research",
-      "tags": [
-        "LLM"
-      ],
-      "publishedAt": "Tue, 24 Mar 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2603.20267"
-    },
-    {
-      "id": "6tgf6lk4fv8qapawfoa8um",
-      "title": "FactorSmith: Agentic Simulation Generation via Markov Decision Process Decomposition with Planner-Designer-Critic Refinement",
-      "summary": "arXiv:2603.20270v1 Announce Type: new \nAbstract: Generating executable simulations from natural language specifications remains a challenging problem due to the limited reasoning capacity of large lan...",
-      "source": {
-        "name": "ArXiv AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Research",
-      "tags": [
-        "LLM",
-        "AI Safety"
-      ],
-      "publishedAt": "Tue, 24 Mar 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2603.20270"
-    },
-    {
-      "id": "59eazeml8rxy88thqghr3",
-      "title": "Me, Myself, and $\\pi$ : Evaluating and Explaining LLM Introspection",
-      "summary": "arXiv:2603.20276v1 Announce Type: new \nAbstract: A hallmark of human intelligence is Introspection-the ability to assess and reason about one's own cognitive processes. Introspection has emerged as a ...",
-      "source": {
-        "name": "ArXiv AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Research",
-      "tags": [
-        "Meta",
-        "LLM",
-        "Computer Vision"
-      ],
-      "publishedAt": "Tue, 24 Mar 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2603.20276"
-    },
-    {
-      "id": "xcm946gs1s2hqhoch6mcf",
-      "title": "Air Street becomes one of the largest solo VCs in Europe with $232M fund",
-      "summary": "London’s Air Street Capital has raised a large Fund III with eyes locked on backing early-stage European and North American AI companies....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Startup"
-      ],
-      "publishedAt": "Mon, 23 Mar 2026 22:36:39 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/03/23/air-street-becomes-one-of-the-largest-solo-vcs-in-europe-with-232m-fund/"
-    },
-    {
-      "id": "jztsok160594zwd3z103m",
-      "title": "Bernie Sanders’ AI ‘gotcha’ video flops, but the memes are great",
-      "summary": "Sen. Bernie Sanders thinks he's tricked Claude into revealing the AI industry's secrets, but he really just exposed how agreeable chatbots can become....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Anthropic",
-        "LLM"
-      ],
-      "publishedAt": "Mon, 23 Mar 2026 20:15:59 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/03/23/bernie-sanders-ai-gotcha-video-flops-but-the-memes-are-great/"
-    },
-    {
-      "id": "bo516wdl44mmrc6t4z7ksg",
+      "id": "gwzwuam6shfr7638ctc1",
       "title": "The hardest question to answer about AI-fueled delusions",
       "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. I was originally going to write this week’s newsletter about A...",
       "source": {
@@ -275,7 +308,7 @@
       "originalUrl": "https://www.technologyreview.com/2026/03/23/1134527/the-hardest-question-to-answer-about-ai-fueled-delusions/"
     },
     {
-      "id": "hjelgea593kc2ifufz6hna",
+      "id": "yexhkryzk7lzoywrrykw2r",
       "title": "The Download: animal welfare gets AGI-pilled, and the White House unveils its AI policy",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The Bay Area’s animal welfare movement wants to recruit AI  In...",
       "source": {
@@ -291,23 +324,7 @@
       "originalUrl": "https://www.technologyreview.com/2026/03/23/1134509/the-download-animal-welfare-agi-pilled-white-house-unveils-ai-policy/"
     },
     {
-      "id": "fqt6ktjqhsuw5g9ur97xl",
-      "title": "The Bay Area’s animal welfare movement wants to recruit AI",
-      "summary": "In early February, animal welfare advocates and AI researchers gathered in stocking feet at Mox, a scrappy, shoes-free coworking space in San Francisco. Yellow and red canopies billowed overhead, Pers...",
-      "source": {
-        "name": "MIT Technology Review",
-        "url": "https://www.technologyreview.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.technologyreview.com&sz=64"
-      },
-      "category": "Research",
-      "tags": [],
-      "publishedAt": "Mon, 23 Mar 2026 09:00:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.technologyreview.com/2026/03/23/1134491/the-bay-areas-animal-welfare-movement-wants-to-recruit-ai/"
-    },
-    {
-      "id": "1tv0uwol1ql8s9tgg4s9x8",
+      "id": "ped7ce65oeg6elym763n3d",
       "title": "Creating with Sora Safely",
       "summary": "To address the novel safety challenges posed by a state-of-the-art video model as well as a new social creation platform, we’ve built Sora 2 and the Sora app with safety at the foundation. Our approac...",
       "source": {
@@ -325,7 +342,7 @@
       "originalUrl": "https://openai.com/index/creating-with-sora-safely"
     },
     {
-      "id": "mci9b1caast7syjf0lkg",
+      "id": "vok7hgg37bi895s5s7i3fc",
       "title": "How we monitor internal coding agents for misalignment",
       "summary": "How OpenAI uses chain-of-thought monitoring to study misalignment in internal coding agents—analyzing real-world deployments to detect risks and strengthen AI safety safeguards....",
       "source": {
@@ -342,26 +359,8 @@
       "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
       "readTime": 1,
       "originalUrl": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment"
-    },
-    {
-      "id": "c1ffyj0u59jzt9m8jiz8t",
-      "title": "OpenAI to acquire Astral",
-      "summary": "Accelerates Codex growth to power the next generation of Python developer tools...",
-      "source": {
-        "name": "OpenAI Blog",
-        "url": "https://openai.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
-      },
-      "category": "Product",
-      "tags": [
-        "OpenAI"
-      ],
-      "publishedAt": "Thu, 19 Mar 2026 00:00:00 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
-      "readTime": 1,
-      "originalUrl": "https://openai.com/index/openai-to-acquire-astral"
     }
   ],
   "totalArticles": 25,
-  "lastUpdated": "2026-03-24T17:03:10.344Z"
+  "lastUpdated": "2026-03-25T05:02:48.772Z"
 }
