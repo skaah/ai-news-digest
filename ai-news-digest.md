@@ -1,6 +1,6 @@
 # 🤖 AI News Digest
 
-> **Digest du mercredi 25 mars 2026**
+> **Digest du jeudi 26 mars 2026**
 
 Votre quotidien des avancées en Intelligence Artificielle.
 
@@ -9,7 +9,7 @@ Votre quotidien des avancées en Intelligence Artificielle.
 ## 📊 Statistiques
 
 - **25** articles collectés
-- Dernière mise à jour: 25/03/2026 19:02:34
+- Dernière mise à jour: 26/03/2026 01:02:40
 - Sources: TechCrunch, The Verge, OpenAI, Anthropic, Google AI, ArXiv, MIT Tech Review
 
 ---
@@ -18,62 +18,106 @@ Votre quotidien des avancées en Intelligence Artificielle.
 
 ### 🏭 Industry
 
-#### Lucid Bots raises $20M to keep up with demand for its window-washing drones 
+#### Google launches Lyria 3 Pro music generation model
 
-> Lucid Bots has seen demand accelerate over the last year for its window cleaning drones and power washing robots....
+> Google is launching Lyria 3 Pro, an upgraded music model that generates longer, more customizable tracks, as it expands AI music tools across Gemini, enterprise products, and other services....
 
-- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/25/lucid-bots-raises-20m-to-keep-up-with-demand-for-its-window-washing-drones/)
-- **Tags:** #Robotics
+- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/25/google-launches-lyria-3-pro-music-generation-model/)
+- **Tags:** #Google, #LLM
 - **Temps de lecture:** 1 min
-- **Publié:** 25/03/2026 19:00:00
+- **Publié:** 26/03/2026 00:37:43
 
 ---
 
-#### With $3.5B in fresh capital, Kleiner Perkins is going all in on AI
+#### Reddit takes on the bots with new ‘human verification’ requirements for fishy behavior
 
-> The fundraise includes $1 billion for investing in early-stage startups, and $2.5 billion for late-stage growth businesses....
+> Reddit will require suspected automated accounts to verify they’re human, as it ramps up efforts to curb bot-driven spam and manipulation....
 
-- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/24/with-3-5b-in-fresh-capital-kleiner-perkins-is-going-all-in-on-ai/)
+- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/25/reddit-bots-new-human-verification-requirements/)
+- **Tags:** 
+- **Temps de lecture:** 1 min
+- **Publié:** 26/03/2026 00:10:00
+
+---
+
+#### Granola raises $125M, hits $1.5B valuation as it expands from meeting notetaker to enterprise AI app
+
+> Granola's valuation jumped from $250 million to $1.5 billion with this round, and it has added more support for AI agents after users previously complained....
+
+- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/25/granola-raises-125m-hits-1-5b-valuation-as-it-expands-from-meeting-notetaker-to-enterprise-ai-app/)
 - **Tags:** #Startup
 - **Temps de lecture:** 1 min
-- **Publié:** 25/03/2026 08:47:20
+- **Publié:** 25/03/2026 22:48:40
 
 ---
 
-#### OpenAI’s Sora was the creepiest app on your phone — now it’s shutting down
+#### Meta launches new initiative to support entrepreneurship, drive AI adoption
 
-> Though the underlying Sora 2 video- and audio-generation model is scarily impressive, there was not sustained interest in an AI-only social feed....
+> Meta CEO Mark Zuckerberg said in a memo to staff that small businesses have always been a big part of the company's business model, and that while tens of millions of entrepreneurs already use its pla...
 
-- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/24/openais-sora-was-the-creepiest-app-on-your-phone-now-its-shutting-down/)
-- **Tags:** #OpenAI
+- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/25/meta-launches-new-initiative-to-support-entrepreneurship-drive-ai-adoption/)
+- **Tags:** #Meta, #Startup
 - **Temps de lecture:** 1 min
-- **Publié:** 25/03/2026 07:57:55
+- **Publié:** 25/03/2026 22:45:20
 
 ---
 
-#### Kentucky woman rejects $26M offer to turn her farm into a data center
+#### Meta turns to AI to make shopping easier on Instagram and Facebook
 
-> A "major artificial intelligence company" reportedly offered a Kentucky family $26 million to build a data center on their farm....
+> Meta is using generative AI to provide more product and brand information to consumers when they're shopping in its apps....
 
-- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/24/kentucky-woman-rejects-26-million-offer-to-turn-her-farm-into-a-data-center/)
-- **Tags:** #Startup
+- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/25/meta-turns-to-ai-to-make-shopping-easier-on-instagram-and-facebook/)
+- **Tags:** #Meta
 - **Temps de lecture:** 1 min
-- **Publié:** 25/03/2026 06:22:57
-
----
-
-#### Anthropic hands Claude Code more control, but keeps it on a leash
-
-> Anthropic’s new auto mode for Claude Code lets AI execute tasks with fewer approvals, reflecting a broader shift toward more autonomous tools that balance speed with safety through built-in safeguards...
-
-- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/24/anthropic-hands-claude-code-more-control-but-keeps-it-on-a-leash/)
-- **Tags:** #Anthropic, #LLM, #AI Safety
-- **Temps de lecture:** 1 min
-- **Publié:** 25/03/2026 05:00:30
+- **Publié:** 25/03/2026 22:16:17
 
 ---
 
 ### 🔬 Research
+
+#### Why this battery company is pivoting to AI
+
+> Qichao Hu doesn’t mince words about how he sees the state of the battery industry. “Almost every Western battery company has either died or is going to die. It’s kind of the reality,” he says. Hu is t...
+
+- **Source:** [MIT Technology Review](https://www.technologyreview.com/2026/03/25/1134657/battery-company-ai-pivot-ses/)
+- **Tags:** 
+- **Temps de lecture:** 1 min
+- **Publié:** 25/03/2026 23:02:50
+
+---
+
+#### This startup wants to change how mathematicians do math
+
+> Axiom Math, a startup based in Palo Alto, California, has released a free new AI tool for mathematicians, designed to discover mathematical patterns that could unlock solutions to long-standing proble...
+
+- **Source:** [MIT Technology Review](https://www.technologyreview.com/2026/03/25/1134642/this-startup-wants-to-change-how-mathematicians-do-math/)
+- **Tags:** #Startup
+- **Temps de lecture:** 1 min
+- **Publié:** 25/03/2026 21:59:17
+
+---
+
+#### The Download: reawakening frozen brains, and the AI Hype Index returns
+
+> This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. This scientist rewarmed and studied pieces of his friend’s cry...
+
+- **Source:** [MIT Technology Review](https://www.technologyreview.com/2026/03/25/1134636/the-download-reawakening-frozen-brains-and-the-ai-hype-index-returns/)
+- **Tags:** 
+- **Temps de lecture:** 1 min
+- **Publié:** 25/03/2026 20:47:44
+
+---
+
+#### Agentic commerce runs on truth and context
+
+> Imagine telling a digital agent, “Use my points and book a family trip to Italy. Keep it within budget, pick hotels we’ve liked before, and handle the details.” Instead of returning a list of links, t...
+
+- **Source:** [MIT Technology Review](https://www.technologyreview.com/2026/03/25/1134516/agentic-commerce-runs-on-truth-and-context/)
+- **Tags:** 
+- **Temps de lecture:** 1 min
+- **Publié:** 25/03/2026 19:48:13
+
+---
 
 #### The AI Hype Index: AI goes to war
 
@@ -146,51 +190,29 @@ Abstract: Deterministic pre-execution safety gates evaluate whether individual a
 
 ---
 
-#### Exclusive eBook: Are we ready to hand AI agents the keys?
+### 🚀 Product
 
-> We’re starting to give AI agents real autonomy, but are we prepared for what could happen next? This subscriber-only eBook explores this and angles from experts, such as “If we continue on the current...
+#### Inside our approach to the Model Spec
 
-- **Source:** [MIT Technology Review](https://www.technologyreview.com/2026/03/24/1134531/exclusive-ebook-are-we-ready-to-hand-ai-agents-the-keys/)
-- **Tags:** 
-- **Temps de lecture:** 1 min
-- **Publié:** 25/03/2026 02:17:13
+> Learn how OpenAI’s Model Spec serves as a public framework for model behavior, balancing safety, user freedom, and accountability as AI systems advance....
 
----
-
-#### This scientist rewarmed and studied pieces of his friend’s cryopreserved brain
-
-> L. Stephen Coles’s brain sits cushioned in a vat at a storage facility in Arizona. It has been held there at a temperature of around −146 degrees °C for over a decade, largely undisturbed. That is, ap...
-
-- **Source:** [MIT Technology Review](https://www.technologyreview.com/2026/03/24/1134562/cryopreservation-brain-cryonics-organ-transplantation/)
-- **Tags:** 
-- **Temps de lecture:** 1 min
-- **Publié:** 25/03/2026 00:43:36
-
----
-
-#### The Download: tracing AI-fueled delusions, and OpenAI admits Microsoft risks
-
-> This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The hardest question to answer about AI-fueled delusions  What...
-
-- **Source:** [MIT Technology Review](https://www.technologyreview.com/2026/03/24/1134540/the-download-tracing-ai-fueled-delusions-openai-warns-microsoft-risks/)
+- **Source:** [OpenAI Blog](https://openai.com/index/our-approach-to-the-model-spec)
 - **Tags:** #OpenAI, #AI Safety
 - **Temps de lecture:** 1 min
-- **Publié:** 24/03/2026 20:28:27
+- **Publié:** 25/03/2026 18:00:00
 
 ---
 
-#### The hardest question to answer about AI-fueled delusions
+#### Introducing the OpenAI Safety Bug Bounty program
 
-> This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. I was originally going to write this week’s newsletter about A...
+> OpenAI launches a Safety Bug Bounty program to identify AI abuse and safety risks, including agentic vulnerabilities, prompt injection, and data exfiltration....
 
-- **Source:** [MIT Technology Review](https://www.technologyreview.com/2026/03/23/1134527/the-hardest-question-to-answer-about-ai-fueled-delusions/)
-- **Tags:** 
+- **Source:** [OpenAI Blog](https://openai.com/index/safety-bug-bounty)
+- **Tags:** #OpenAI, #AI Safety
 - **Temps de lecture:** 1 min
-- **Publié:** 24/03/2026 00:31:20
+- **Publié:** 25/03/2026 08:00:00
 
 ---
-
-### 🚀 Product
 
 #### Helping developers build safer AI experiences for teens
 
@@ -222,28 +244,6 @@ Abstract: Deterministic pre-execution safety gates evaluate whether individual a
 - **Tags:** #OpenAI, #LLM
 - **Temps de lecture:** 1 min
 - **Publié:** 24/03/2026 17:00:00
-
----
-
-#### Creating with Sora Safely
-
-> To address the novel safety challenges posed by a state-of-the-art video model as well as a new social creation platform, we’ve built Sora 2 and the Sora app with safety at the foundation. Our approac...
-
-- **Source:** [OpenAI Blog](https://openai.com/index/creating-with-sora-safely)
-- **Tags:** #AI Safety
-- **Temps de lecture:** 1 min
-- **Publié:** 23/03/2026 08:00:00
-
----
-
-#### How we monitor internal coding agents for misalignment
-
-> How OpenAI uses chain-of-thought monitoring to study misalignment in internal coding agents—analyzing real-world deployments to detect risks and strengthen AI safety safeguards....
-
-- **Source:** [OpenAI Blog](https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment)
-- **Tags:** #OpenAI, #AI Safety
-- **Temps de lecture:** 1 min
-- **Publié:** 19/03/2026 18:00:00
 
 ---
 
