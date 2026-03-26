@@ -1,8 +1,138 @@
 {
-  "date": "2026-03-25T23:03:31.239Z",
+  "date": "2026-03-26T05:03:27.987Z",
   "articles": [
     {
-      "id": "4t8g9x3nyjy33006ajswta",
+      "id": "elo76sa891ky9i500z27jc",
+      "title": "PLDR-LLMs Reason At Self-Organized Criticality",
+      "summary": "arXiv:2603.23539v1 Announce Type: new \nAbstract: We show that PLDR-LLMs pretrained at self-organized criticality exhibit reasoning at inference time. The characteristics of PLDR-LLM deductive outputs ...",
+      "source": {
+        "name": "ArXiv AI",
+        "url": "https://arxiv.org",
+        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
+      },
+      "category": "Research",
+      "tags": [
+        "Meta",
+        "LLM",
+        "Hardware"
+      ],
+      "publishedAt": "Thu, 26 Mar 2026 00:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
+      "readTime": 1,
+      "originalUrl": "https://arxiv.org/abs/2603.23539"
+    },
+    {
+      "id": "fg27lt4v38ch7x2qbdx1s6",
+      "title": "Environment Maps: Structured Environmental Representations for Long-Horizon Agents",
+      "summary": "arXiv:2603.23610v1 Announce Type: new \nAbstract: Although large language models (LLMs) have advanced rapidly, robust automation of complex software workflows remains an open problem. In long-horizon s...",
+      "source": {
+        "name": "ArXiv AI",
+        "url": "https://arxiv.org",
+        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
+      },
+      "category": "Research",
+      "tags": [
+        "LLM"
+      ],
+      "publishedAt": "Thu, 26 Mar 2026 00:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
+      "readTime": 1,
+      "originalUrl": "https://arxiv.org/abs/2603.23610"
+    },
+    {
+      "id": "bfo8lyk62ewof25mznw5h",
+      "title": "Evaluating a Multi-Agent Voice-Enabled Smart Speaker for Care Homes: A Safety-Focused Framework",
+      "summary": "arXiv:2603.23625v1 Announce Type: new \nAbstract: Artificial intelligence (AI) is increasingly being explored in health and social care to reduce administrative workload and allow staff to spend more t...",
+      "source": {
+        "name": "ArXiv AI",
+        "url": "https://arxiv.org",
+        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
+      },
+      "category": "Research",
+      "tags": [
+        "OpenAI",
+        "LLM",
+        "AI Safety",
+        "Healthcare"
+      ],
+      "publishedAt": "Thu, 26 Mar 2026 00:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
+      "readTime": 1,
+      "originalUrl": "https://arxiv.org/abs/2603.23625"
+    },
+    {
+      "id": "a404vgcju17obs8k7uqaq",
+      "title": "Can LLM Agents Be CFOs? A Benchmark for Resource Allocation in Dynamic Enterprise Environments",
+      "summary": "arXiv:2603.23638v1 Announce Type: new \nAbstract: Large language models (LLMs) have enabled agentic systems that can reason, plan, and act across complex tasks, but it remains unclear whether they can ...",
+      "source": {
+        "name": "ArXiv AI",
+        "url": "https://arxiv.org",
+        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
+      },
+      "category": "Research",
+      "tags": [
+        "LLM"
+      ],
+      "publishedAt": "Thu, 26 Mar 2026 00:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
+      "readTime": 1,
+      "originalUrl": "https://arxiv.org/abs/2603.23638"
+    },
+    {
+      "id": "yev1ayvh6d8ju7gejqdmn",
+      "title": "GTO Wizard Benchmark",
+      "summary": "arXiv:2603.23660v1 Announce Type: new \nAbstract: We introduce GTO Wizard Benchmark, a public API and standardized evaluation framework for benchmarking algorithms in Heads-Up No-Limit Texas Hold'em (H...",
+      "source": {
+        "name": "ArXiv AI",
+        "url": "https://arxiv.org",
+        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
+      },
+      "category": "Research",
+      "tags": [
+        "OpenAI",
+        "Anthropic",
+        "Google",
+        "LLM"
+      ],
+      "publishedAt": "Thu, 26 Mar 2026 00:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
+      "readTime": 1,
+      "originalUrl": "https://arxiv.org/abs/2603.23660"
+    },
+    {
+      "id": "g0cd3uxntxve5t31g2xsg",
+      "title": "The least surprising chapter of the Manus story is what’s happening right now",
+      "summary": "Did anyone think there would not be a reckoning over this tie-up?...",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Thu, 26 Mar 2026 02:46:48 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/03/25/the-least-surprising-chapter-of-the-manus-story-is-whats-happening-right-now/"
+    },
+    {
+      "id": "72zdu6a87s84uhuml0z6fx",
+      "title": "Mercor competitor Deccan AI raises $25M, sources experts from India",
+      "summary": "Deccan AI concentrates its workforce in India to manage quality in a fast-growing but fragmented AI training market....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Thu, 26 Mar 2026 00:30:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/03/25/deccan-ai-raises-25m-as-ai-training-push-relies-on-india-based-workforce/"
+    },
+    {
+      "id": "4nubz88p76bl4d45v0y0sf",
       "title": "The AI skills gap is here, says AI company, and power users are pulling ahead",
       "summary": "Anthropic finds AI isn’t replacing jobs yet, but early data shows growing inequality as experienced users gain an edge, raising concerns about future displacement and workforce divides....",
       "source": {
@@ -20,7 +150,7 @@
       "originalUrl": "https://techcrunch.com/2026/03/25/the-ai-skills-gap-is-here-says-ai-company-and-power-users-are-pulling-ahead/"
     },
     {
-      "id": "x1ceo6iefmhvwtq2rd5di",
+      "id": "lmja8sncshl0a4ljvj75g",
       "title": "Google unveils TurboQuant, a new AI memory compression algorithm — and yes, the internet is calling it ‘Pied Piper’",
       "summary": "Google’s TurboQuant has the internet joking about Pied Piper from HBO's \"Silicon Valley.\" The compression algorithm promises to shrink AI’s “working memory” by up to 6x, but it’s still just a lab expe...",
       "source": {
@@ -38,7 +168,7 @@
       "originalUrl": "https://techcrunch.com/2026/03/25/google-turboquant-ai-memory-compression-silicon-valley-pied-piper/"
     },
     {
-      "id": "b5tu4vbpp47lfp5y1jxgzm",
+      "id": "xilxwuv280g0uj9bxv21jlb",
       "title": "Melania Trump wants a robot to homeschool your child",
       "summary": "The first lady sees AI and robotics playing a prominent role in the future of American education....",
       "source": {
@@ -56,7 +186,7 @@
       "originalUrl": "https://techcrunch.com/2026/03/25/melania-trump-wants-a-robot-to-homeschool-your-child/"
     },
     {
-      "id": "5qcrj4xvz4gtdtfougalmc",
+      "id": "jb6v97oq9qgvs9sp7vuda9",
       "title": "Roundtables: The Next Era of Space Exploration",
       "summary": "Listen to the session or watch below Whether it’s the race to find life on Mars, the campaign to outsmart killer asteroids, or the quest to make the moon a permanent home to astronauts, scientists’ ef...",
       "source": {
@@ -72,42 +202,7 @@
       "originalUrl": "https://www.technologyreview.com/2026/03/25/1134664/roundtables-the-next-era-of-space-exploration/"
     },
     {
-      "id": "8hlkoqh4yhdm43602cd19",
-      "title": "Bernie Sanders and AOC propose a ban on data center construction",
-      "summary": "Senator Bernie Sanders and Rep. Alexandria Ocasio-Cortez introduced companion legislation to halt construction on new data centers until Congress passes comprehensive AI regulation....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Wed, 25 Mar 2026 17:15:50 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/03/25/bernie-sanders-and-aoc-propose-a-ban-on-data-center-construction/"
-    },
-    {
-      "id": "keaew433p1grsso4sz0co8",
-      "title": "Google launches Lyria 3 Pro music generation model",
-      "summary": "Google is launching Lyria 3 Pro, an upgraded music model that generates longer, more customizable tracks, as it expands AI music tools across Gemini, enterprise products, and other services....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Google",
-        "LLM"
-      ],
-      "publishedAt": "Wed, 25 Mar 2026 16:37:43 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/03/25/google-launches-lyria-3-pro-music-generation-model/"
-    },
-    {
-      "id": "8ttgbhqxwxr3jmy5wxcspz",
+      "id": "nuxe2k4w43e96x8xfveu2s",
       "title": "Why this battery company is pivoting to AI",
       "summary": "Qichao Hu doesn’t mince words about how he sees the state of the battery industry. “Almost every Western battery company has either died or is going to die. It’s kind of the reality,” he says. Hu is t...",
       "source": {
@@ -123,7 +218,7 @@
       "originalUrl": "https://www.technologyreview.com/2026/03/25/1134657/battery-company-ai-pivot-ses/"
     },
     {
-      "id": "wcprndvc7bdtxc17cvzjbi",
+      "id": "ru5f3urcgsq0g7olstcj8gc",
       "title": "This startup wants to change how mathematicians do math",
       "summary": "Axiom Math, a startup based in Palo Alto, California, has released a free new AI tool for mathematicians, designed to discover mathematical patterns that could unlock solutions to long-standing proble...",
       "source": {
@@ -141,7 +236,7 @@
       "originalUrl": "https://www.technologyreview.com/2026/03/25/1134642/this-startup-wants-to-change-how-mathematicians-do-math/"
     },
     {
-      "id": "wrxuiuwbt9xxuvdt85329",
+      "id": "9f4776wb8tui9ito4co9qo",
       "title": "The Download: reawakening frozen brains, and the AI Hype Index returns",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. This scientist rewarmed and studied pieces of his friend’s cry...",
       "source": {
@@ -157,7 +252,7 @@
       "originalUrl": "https://www.technologyreview.com/2026/03/25/1134636/the-download-reawakening-frozen-brains-and-the-ai-hype-index-returns/"
     },
     {
-      "id": "c1uun40fcxcpeyz93mguv",
+      "id": "hm320b5crke62ytft5y7hp",
       "title": "Agentic commerce runs on truth and context",
       "summary": "Imagine telling a digital agent, “Use my points and book a family trip to Italy. Keep it within budget, pick hotels we’ve liked before, and handle the details.” Instead of returning a list of links, t...",
       "source": {
@@ -173,7 +268,7 @@
       "originalUrl": "https://www.technologyreview.com/2026/03/25/1134516/agentic-commerce-runs-on-truth-and-context/"
     },
     {
-      "id": "0q1z2a3fg2ccoyciz2idwq",
+      "id": "hagob27apgbblsv45cf80w",
       "title": "Inside our approach to the Model Spec",
       "summary": "Learn how OpenAI’s Model Spec serves as a public framework for model behavior, balancing safety, user freedom, and accountability as AI systems advance....",
       "source": {
@@ -192,98 +287,7 @@
       "originalUrl": "https://openai.com/index/our-approach-to-the-model-spec"
     },
     {
-      "id": "9s7gmbakhmofruua48qey",
-      "title": "Memory Bear AI Memory Science Engine for Multimodal Affective Intelligence: A Technical Report",
-      "summary": "arXiv:2603.22306v1 Announce Type: new \nAbstract: Affective judgment in real interaction is rarely a purely local prediction problem. Emotional meaning often depends on prior trajectory, accumulated co...",
-      "source": {
-        "name": "ArXiv AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Research",
-      "tags": [
-        "Multimodal",
-        "Hardware"
-      ],
-      "publishedAt": "Wed, 25 Mar 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2603.22306"
-    },
-    {
-      "id": "5xn6436lqa9d786gj3hm49",
-      "title": "The Efficiency Attenuation Phenomenon: A Computational Challenge to the Language of Thought Hypothesis",
-      "summary": "arXiv:2603.22312v1 Announce Type: new \nAbstract: This paper computationally investigates whether thought requires a language-like format, as posited by the Language of Thought (LoT) hypothesis. We int...",
-      "source": {
-        "name": "ArXiv AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Research",
-      "tags": [
-        "AI Safety"
-      ],
-      "publishedAt": "Wed, 25 Mar 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2603.22312"
-    },
-    {
-      "id": "dh6mfsgntpj2e6fbsc8hd",
-      "title": "Dynamic Fusion-Aware Graph Convolutional Neural Network for Multimodal Emotion Recognition in Conversations",
-      "summary": "arXiv:2603.22345v1 Announce Type: new \nAbstract: Multimodal emotion recognition in conversations (MERC) aims to identify and understand the emotions expressed by speakers during utterance interaction ...",
-      "source": {
-        "name": "ArXiv AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Research",
-      "tags": [
-        "Computer Vision",
-        "Multimodal"
-      ],
-      "publishedAt": "Wed, 25 Mar 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2603.22345"
-    },
-    {
-      "id": "1d61mtwo4kpgrppnsrtfk",
-      "title": "Intelligence Inertia: Physical Principles and Applications",
-      "summary": "arXiv:2603.22347v1 Announce Type: new \nAbstract: While Landauer's principle establishes the fundamental thermodynamic floor for information erasure and Fisher Information provides a metric for local c...",
-      "source": {
-        "name": "ArXiv AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Research",
-      "tags": [],
-      "publishedAt": "Wed, 25 Mar 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2603.22347"
-    },
-    {
-      "id": "p6uvqnvj0ifwcs63jp6po",
-      "title": "Session Risk Memory (SRM): Temporal Authorization for Deterministic Pre-Execution Safety Gates",
-      "summary": "arXiv:2603.22350v1 Announce Type: new \nAbstract: Deterministic pre-execution safety gates evaluate whether individual agent actions are compatible with their assigned roles. While effective at per-act...",
-      "source": {
-        "name": "ArXiv AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Research",
-      "tags": [
-        "AI Safety",
-        "Hardware"
-      ],
-      "publishedAt": "Wed, 25 Mar 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2603.22350"
-    },
-    {
-      "id": "1wys9w3kb1hnh1e06xdim",
+      "id": "tdhc5807szeunni9zyx95",
       "title": "Introducing the OpenAI Safety Bug Bounty program",
       "summary": "OpenAI launches a Safety Bug Bounty program to identify AI abuse and safety risks, including agentic vulnerabilities, prompt injection, and data exfiltration....",
       "source": {
@@ -302,7 +306,7 @@
       "originalUrl": "https://openai.com/index/safety-bug-bounty"
     },
     {
-      "id": "9pz1r393r04qjsdrzdj9c",
+      "id": "eyo1y94j3v61i5d5pchko2i",
       "title": "Helping developers build safer AI experiences for teens",
       "summary": "OpenAI releases prompt-based teen safety policies for developers using gpt-oss-safeguard, helping moderate age-specific risks in AI systems....",
       "source": {
@@ -322,7 +326,7 @@
       "originalUrl": "https://openai.com/index/teen-safety-policies-gpt-oss-safeguard"
     },
     {
-      "id": "2fey5q7mklreweqmze6r1o",
+      "id": "1msxfsixgzce7rije6c1q6",
       "title": "Update on the OpenAI Foundation",
       "summary": "The OpenAI Foundation announces plans to invest at least $1 billion in curing diseases, economic opportunity, AI resilience, and community programs....",
       "source": {
@@ -341,7 +345,7 @@
       "originalUrl": "https://openai.com/index/update-on-the-openai-foundation"
     },
     {
-      "id": "nbcgo3a3fi2g0zn88jnd",
+      "id": "sd5brs1usybb98p2ahst8",
       "title": "Powering product discovery in ChatGPT",
       "summary": "ChatGPT introduces richer, visually immersive shopping powered by the Agentic Commerce Protocol, enabling product discovery, side-by-side comparisons, and merchant integration....",
       "source": {
@@ -361,5 +365,5 @@
     }
   ],
   "totalArticles": 25,
-  "lastUpdated": "2026-03-25T23:03:31.239Z"
+  "lastUpdated": "2026-03-26T05:03:27.987Z"
 }

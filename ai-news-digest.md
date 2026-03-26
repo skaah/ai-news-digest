@@ -9,71 +9,74 @@ Votre quotidien des avancées en Intelligence Artificielle.
 ## 📊 Statistiques
 
 - **25** articles collectés
-- Dernière mise à jour: 26/03/2026 07:03:31
+- Dernière mise à jour: 26/03/2026 13:03:27
 - Sources: TechCrunch, The Verge, OpenAI, Anthropic, Google AI, ArXiv, MIT Tech Review
 
 ---
 
 ## 📰 Articles du jour
 
-### 🏭 Industry
-
-#### The AI skills gap is here, says AI company, and power users are pulling ahead
-
-> Anthropic finds AI isn’t replacing jobs yet, but early data shows growing inequality as experienced users gain an edge, raising concerns about future displacement and workforce divides....
-
-- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/25/the-ai-skills-gap-is-here-says-ai-company-and-power-users-are-pulling-ahead/)
-- **Tags:** #Anthropic
-- **Temps de lecture:** 1 min
-- **Publié:** 26/03/2026 05:44:13
-
----
-
-#### Google unveils TurboQuant, a new AI memory compression algorithm — and yes, the internet is calling it ‘Pied Piper’
-
-> Google’s TurboQuant has the internet joking about Pied Piper from HBO's "Silicon Valley." The compression algorithm promises to shrink AI’s “working memory” by up to 6x, but it’s still just a lab expe...
-
-- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/25/google-turboquant-ai-memory-compression-silicon-valley-pied-piper/)
-- **Tags:** #Google
-- **Temps de lecture:** 1 min
-- **Publié:** 26/03/2026 04:38:45
-
----
-
-#### Melania Trump wants a robot to homeschool your child
-
-> The first lady sees AI and robotics playing a prominent role in the future of American education....
-
-- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/25/melania-trump-wants-a-robot-to-homeschool-your-child/)
-- **Tags:** #Robotics
-- **Temps de lecture:** 1 min
-- **Publié:** 26/03/2026 02:55:41
-
----
-
-#### Bernie Sanders and AOC propose a ban on data center construction
-
-> Senator Bernie Sanders and Rep. Alexandria Ocasio-Cortez introduced companion legislation to halt construction on new data centers until Congress passes comprehensive AI regulation....
-
-- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/25/bernie-sanders-and-aoc-propose-a-ban-on-data-center-construction/)
-- **Tags:** 
-- **Temps de lecture:** 1 min
-- **Publié:** 26/03/2026 01:15:50
-
----
-
-#### Google launches Lyria 3 Pro music generation model
-
-> Google is launching Lyria 3 Pro, an upgraded music model that generates longer, more customizable tracks, as it expands AI music tools across Gemini, enterprise products, and other services....
-
-- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/25/google-launches-lyria-3-pro-music-generation-model/)
-- **Tags:** #Google, #LLM
-- **Temps de lecture:** 1 min
-- **Publié:** 26/03/2026 00:37:43
-
----
-
 ### 🔬 Research
+
+#### PLDR-LLMs Reason At Self-Organized Criticality
+
+> arXiv:2603.23539v1 Announce Type: new 
+Abstract: We show that PLDR-LLMs pretrained at self-organized criticality exhibit reasoning at inference time. The characteristics of PLDR-LLM deductive outputs ...
+
+- **Source:** [ArXiv AI](https://arxiv.org/abs/2603.23539)
+- **Tags:** #Meta, #LLM, #Hardware
+- **Temps de lecture:** 1 min
+- **Publié:** 26/03/2026 12:00:00
+
+---
+
+#### Environment Maps: Structured Environmental Representations for Long-Horizon Agents
+
+> arXiv:2603.23610v1 Announce Type: new 
+Abstract: Although large language models (LLMs) have advanced rapidly, robust automation of complex software workflows remains an open problem. In long-horizon s...
+
+- **Source:** [ArXiv AI](https://arxiv.org/abs/2603.23610)
+- **Tags:** #LLM
+- **Temps de lecture:** 1 min
+- **Publié:** 26/03/2026 12:00:00
+
+---
+
+#### Evaluating a Multi-Agent Voice-Enabled Smart Speaker for Care Homes: A Safety-Focused Framework
+
+> arXiv:2603.23625v1 Announce Type: new 
+Abstract: Artificial intelligence (AI) is increasingly being explored in health and social care to reduce administrative workload and allow staff to spend more t...
+
+- **Source:** [ArXiv AI](https://arxiv.org/abs/2603.23625)
+- **Tags:** #OpenAI, #LLM, #AI Safety, #Healthcare
+- **Temps de lecture:** 1 min
+- **Publié:** 26/03/2026 12:00:00
+
+---
+
+#### Can LLM Agents Be CFOs? A Benchmark for Resource Allocation in Dynamic Enterprise Environments
+
+> arXiv:2603.23638v1 Announce Type: new 
+Abstract: Large language models (LLMs) have enabled agentic systems that can reason, plan, and act across complex tasks, but it remains unclear whether they can ...
+
+- **Source:** [ArXiv AI](https://arxiv.org/abs/2603.23638)
+- **Tags:** #LLM
+- **Temps de lecture:** 1 min
+- **Publié:** 26/03/2026 12:00:00
+
+---
+
+#### GTO Wizard Benchmark
+
+> arXiv:2603.23660v1 Announce Type: new 
+Abstract: We introduce GTO Wizard Benchmark, a public API and standardized evaluation framework for benchmarking algorithms in Heads-Up No-Limit Texas Hold'em (H...
+
+- **Source:** [ArXiv AI](https://arxiv.org/abs/2603.23660)
+- **Tags:** #OpenAI, #Anthropic, #Google, #LLM
+- **Temps de lecture:** 1 min
+- **Publié:** 26/03/2026 12:00:00
+
+---
 
 #### Roundtables: The Next Era of Space Exploration
 
@@ -130,63 +133,60 @@ Votre quotidien des avancées en Intelligence Artificielle.
 
 ---
 
-#### Memory Bear AI Memory Science Engine for Multimodal Affective Intelligence: A Technical Report
+### 🏭 Industry
 
-> arXiv:2603.22306v1 Announce Type: new 
-Abstract: Affective judgment in real interaction is rarely a purely local prediction problem. Emotional meaning often depends on prior trajectory, accumulated co...
+#### The least surprising chapter of the Manus story is what’s happening right now
 
-- **Source:** [ArXiv AI](https://arxiv.org/abs/2603.22306)
-- **Tags:** #Multimodal, #Hardware
-- **Temps de lecture:** 1 min
-- **Publié:** 25/03/2026 12:00:00
+> Did anyone think there would not be a reckoning over this tie-up?...
 
----
-
-#### The Efficiency Attenuation Phenomenon: A Computational Challenge to the Language of Thought Hypothesis
-
-> arXiv:2603.22312v1 Announce Type: new 
-Abstract: This paper computationally investigates whether thought requires a language-like format, as posited by the Language of Thought (LoT) hypothesis. We int...
-
-- **Source:** [ArXiv AI](https://arxiv.org/abs/2603.22312)
-- **Tags:** #AI Safety
-- **Temps de lecture:** 1 min
-- **Publié:** 25/03/2026 12:00:00
-
----
-
-#### Dynamic Fusion-Aware Graph Convolutional Neural Network for Multimodal Emotion Recognition in Conversations
-
-> arXiv:2603.22345v1 Announce Type: new 
-Abstract: Multimodal emotion recognition in conversations (MERC) aims to identify and understand the emotions expressed by speakers during utterance interaction ...
-
-- **Source:** [ArXiv AI](https://arxiv.org/abs/2603.22345)
-- **Tags:** #Computer Vision, #Multimodal
-- **Temps de lecture:** 1 min
-- **Publié:** 25/03/2026 12:00:00
-
----
-
-#### Intelligence Inertia: Physical Principles and Applications
-
-> arXiv:2603.22347v1 Announce Type: new 
-Abstract: While Landauer's principle establishes the fundamental thermodynamic floor for information erasure and Fisher Information provides a metric for local c...
-
-- **Source:** [ArXiv AI](https://arxiv.org/abs/2603.22347)
+- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/25/the-least-surprising-chapter-of-the-manus-story-is-whats-happening-right-now/)
 - **Tags:** 
 - **Temps de lecture:** 1 min
-- **Publié:** 25/03/2026 12:00:00
+- **Publié:** 26/03/2026 10:46:48
 
 ---
 
-#### Session Risk Memory (SRM): Temporal Authorization for Deterministic Pre-Execution Safety Gates
+#### Mercor competitor Deccan AI raises $25M, sources experts from India
 
-> arXiv:2603.22350v1 Announce Type: new 
-Abstract: Deterministic pre-execution safety gates evaluate whether individual agent actions are compatible with their assigned roles. While effective at per-act...
+> Deccan AI concentrates its workforce in India to manage quality in a fast-growing but fragmented AI training market....
 
-- **Source:** [ArXiv AI](https://arxiv.org/abs/2603.22350)
-- **Tags:** #AI Safety, #Hardware
+- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/25/deccan-ai-raises-25m-as-ai-training-push-relies-on-india-based-workforce/)
+- **Tags:** 
 - **Temps de lecture:** 1 min
-- **Publié:** 25/03/2026 12:00:00
+- **Publié:** 26/03/2026 08:30:00
+
+---
+
+#### The AI skills gap is here, says AI company, and power users are pulling ahead
+
+> Anthropic finds AI isn’t replacing jobs yet, but early data shows growing inequality as experienced users gain an edge, raising concerns about future displacement and workforce divides....
+
+- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/25/the-ai-skills-gap-is-here-says-ai-company-and-power-users-are-pulling-ahead/)
+- **Tags:** #Anthropic
+- **Temps de lecture:** 1 min
+- **Publié:** 26/03/2026 05:44:13
+
+---
+
+#### Google unveils TurboQuant, a new AI memory compression algorithm — and yes, the internet is calling it ‘Pied Piper’
+
+> Google’s TurboQuant has the internet joking about Pied Piper from HBO's "Silicon Valley." The compression algorithm promises to shrink AI’s “working memory” by up to 6x, but it’s still just a lab expe...
+
+- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/25/google-turboquant-ai-memory-compression-silicon-valley-pied-piper/)
+- **Tags:** #Google
+- **Temps de lecture:** 1 min
+- **Publié:** 26/03/2026 04:38:45
+
+---
+
+#### Melania Trump wants a robot to homeschool your child
+
+> The first lady sees AI and robotics playing a prominent role in the future of American education....
+
+- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/25/melania-trump-wants-a-robot-to-homeschool-your-child/)
+- **Tags:** #Robotics
+- **Temps de lecture:** 1 min
+- **Publié:** 26/03/2026 02:55:41
 
 ---
 
