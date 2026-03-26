@@ -9,7 +9,7 @@ Votre quotidien des avancées en Intelligence Artificielle.
 ## 📊 Statistiques
 
 - **25** articles collectés
-- Dernière mise à jour: 26/03/2026 13:03:27
+- Dernière mise à jour: 26/03/2026 19:02:24
 - Sources: TechCrunch, The Verge, OpenAI, Anthropic, Google AI, ArXiv, MIT Tech Review
 
 ---
@@ -17,6 +17,28 @@ Votre quotidien des avancées en Intelligence Artificielle.
 ## 📰 Articles du jour
 
 ### 🔬 Research
+
+#### The snow gods: How a couple of ski bums built the internet’s best weather app
+
+> The best snow-forecasting app for skiers and snowboarders isn’t from any of the federally funded weather services. Nor from any of the big-name brands. It’s an independent app startup that leverages g...
+
+- **Source:** [MIT Technology Review](https://www.technologyreview.com/2026/03/26/1134470/the-snow-gods-how-a-couple-of-ski-bums-built-the-internets-best-weather-app/)
+- **Tags:** #Startup
+- **Temps de lecture:** 1 min
+- **Publié:** 26/03/2026 18:00:00
+
+---
+
+#### Are high gas prices good news for EVs? It’s complicated.
+
+> I live in a dense city with plentiful public transportation options and limited parking, so I don’t own a car. I’m often utterly clueless about the current price of gasoline. But as the conflict in Ir...
+
+- **Source:** [MIT Technology Review](https://www.technologyreview.com/2026/03/26/1134677/gas-prices-electric-vehicles/)
+- **Tags:** 
+- **Temps de lecture:** 1 min
+- **Publié:** 26/03/2026 18:00:00
+
+---
 
 #### PLDR-LLMs Reason At Self-Organized Criticality
 
@@ -108,28 +130,6 @@ Abstract: We introduce GTO Wizard Benchmark, a public API and standardized evalu
 - **Tags:** #Startup
 - **Temps de lecture:** 1 min
 - **Publié:** 25/03/2026 21:59:17
-
----
-
-#### The Download: reawakening frozen brains, and the AI Hype Index returns
-
-> This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. This scientist rewarmed and studied pieces of his friend’s cry...
-
-- **Source:** [MIT Technology Review](https://www.technologyreview.com/2026/03/25/1134636/the-download-reawakening-frozen-brains-and-the-ai-hype-index-returns/)
-- **Tags:** 
-- **Temps de lecture:** 1 min
-- **Publié:** 25/03/2026 20:47:44
-
----
-
-#### Agentic commerce runs on truth and context
-
-> Imagine telling a digital agent, “Use my points and book a family trip to Italy. Keep it within budget, pick hotels we’ve liked before, and handle the details.” Instead of returning a list of links, t...
-
-- **Source:** [MIT Technology Review](https://www.technologyreview.com/2026/03/25/1134516/agentic-commerce-runs-on-truth-and-context/)
-- **Tags:** 
-- **Temps de lecture:** 1 min
-- **Publié:** 25/03/2026 19:48:13
 
 ---
 

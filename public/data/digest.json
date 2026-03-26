@@ -1,8 +1,42 @@
 {
-  "date": "2026-03-26T05:03:27.987Z",
+  "date": "2026-03-26T11:02:24.260Z",
   "articles": [
     {
-      "id": "elo76sa891ky9i500z27jc",
+      "id": "2ykrtx72cnlqiqlzcw2rsr",
+      "title": "The snow gods: How a couple of ski bums built the internet’s best weather app",
+      "summary": "The best snow-forecasting app for skiers and snowboarders isn’t from any of the federally funded weather services. Nor from any of the big-name brands. It’s an independent app startup that leverages g...",
+      "source": {
+        "name": "MIT Technology Review",
+        "url": "https://www.technologyreview.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.technologyreview.com&sz=64"
+      },
+      "category": "Research",
+      "tags": [
+        "Startup"
+      ],
+      "publishedAt": "Thu, 26 Mar 2026 10:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.technologyreview.com/2026/03/26/1134470/the-snow-gods-how-a-couple-of-ski-bums-built-the-internets-best-weather-app/"
+    },
+    {
+      "id": "wyh8d1ttssfoxlqmtmcqdo",
+      "title": "Are high gas prices good news for EVs? It’s complicated.",
+      "summary": "I live in a dense city with plentiful public transportation options and limited parking, so I don’t own a car. I’m often utterly clueless about the current price of gasoline. But as the conflict in Ir...",
+      "source": {
+        "name": "MIT Technology Review",
+        "url": "https://www.technologyreview.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.technologyreview.com&sz=64"
+      },
+      "category": "Research",
+      "tags": [],
+      "publishedAt": "Thu, 26 Mar 2026 10:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.technologyreview.com/2026/03/26/1134677/gas-prices-electric-vehicles/"
+    },
+    {
+      "id": "oqmpc5eysm8mabmtvtu3b",
       "title": "PLDR-LLMs Reason At Self-Organized Criticality",
       "summary": "arXiv:2603.23539v1 Announce Type: new \nAbstract: We show that PLDR-LLMs pretrained at self-organized criticality exhibit reasoning at inference time. The characteristics of PLDR-LLM deductive outputs ...",
       "source": {
@@ -22,7 +56,7 @@
       "originalUrl": "https://arxiv.org/abs/2603.23539"
     },
     {
-      "id": "fg27lt4v38ch7x2qbdx1s6",
+      "id": "m73vhnl2t72ouep8i0g96",
       "title": "Environment Maps: Structured Environmental Representations for Long-Horizon Agents",
       "summary": "arXiv:2603.23610v1 Announce Type: new \nAbstract: Although large language models (LLMs) have advanced rapidly, robust automation of complex software workflows remains an open problem. In long-horizon s...",
       "source": {
@@ -40,7 +74,7 @@
       "originalUrl": "https://arxiv.org/abs/2603.23610"
     },
     {
-      "id": "bfo8lyk62ewof25mznw5h",
+      "id": "df81pe1ao8osbc6as6k01f",
       "title": "Evaluating a Multi-Agent Voice-Enabled Smart Speaker for Care Homes: A Safety-Focused Framework",
       "summary": "arXiv:2603.23625v1 Announce Type: new \nAbstract: Artificial intelligence (AI) is increasingly being explored in health and social care to reduce administrative workload and allow staff to spend more t...",
       "source": {
@@ -61,7 +95,7 @@
       "originalUrl": "https://arxiv.org/abs/2603.23625"
     },
     {
-      "id": "a404vgcju17obs8k7uqaq",
+      "id": "0i9677tqie4jf6ekmd8otio",
       "title": "Can LLM Agents Be CFOs? A Benchmark for Resource Allocation in Dynamic Enterprise Environments",
       "summary": "arXiv:2603.23638v1 Announce Type: new \nAbstract: Large language models (LLMs) have enabled agentic systems that can reason, plan, and act across complex tasks, but it remains unclear whether they can ...",
       "source": {
@@ -79,7 +113,7 @@
       "originalUrl": "https://arxiv.org/abs/2603.23638"
     },
     {
-      "id": "yev1ayvh6d8ju7gejqdmn",
+      "id": "jbtuae5qo7x2kzildfjms",
       "title": "GTO Wizard Benchmark",
       "summary": "arXiv:2603.23660v1 Announce Type: new \nAbstract: We introduce GTO Wizard Benchmark, a public API and standardized evaluation framework for benchmarking algorithms in Heads-Up No-Limit Texas Hold'em (H...",
       "source": {
@@ -100,7 +134,7 @@
       "originalUrl": "https://arxiv.org/abs/2603.23660"
     },
     {
-      "id": "g0cd3uxntxve5t31g2xsg",
+      "id": "tc2h3ebr918momtnq0ml3",
       "title": "The least surprising chapter of the Manus story is what’s happening right now",
       "summary": "Did anyone think there would not be a reckoning over this tie-up?...",
       "source": {
@@ -116,7 +150,7 @@
       "originalUrl": "https://techcrunch.com/2026/03/25/the-least-surprising-chapter-of-the-manus-story-is-whats-happening-right-now/"
     },
     {
-      "id": "72zdu6a87s84uhuml0z6fx",
+      "id": "nx4j6s3i39np9qj0m6z38",
       "title": "Mercor competitor Deccan AI raises $25M, sources experts from India",
       "summary": "Deccan AI concentrates its workforce in India to manage quality in a fast-growing but fragmented AI training market....",
       "source": {
@@ -132,7 +166,7 @@
       "originalUrl": "https://techcrunch.com/2026/03/25/deccan-ai-raises-25m-as-ai-training-push-relies-on-india-based-workforce/"
     },
     {
-      "id": "4nubz88p76bl4d45v0y0sf",
+      "id": "nzd1jhb1qf5o2xr0nsxle",
       "title": "The AI skills gap is here, says AI company, and power users are pulling ahead",
       "summary": "Anthropic finds AI isn’t replacing jobs yet, but early data shows growing inequality as experienced users gain an edge, raising concerns about future displacement and workforce divides....",
       "source": {
@@ -150,7 +184,7 @@
       "originalUrl": "https://techcrunch.com/2026/03/25/the-ai-skills-gap-is-here-says-ai-company-and-power-users-are-pulling-ahead/"
     },
     {
-      "id": "lmja8sncshl0a4ljvj75g",
+      "id": "sb5gdqsad7vxc6meguy",
       "title": "Google unveils TurboQuant, a new AI memory compression algorithm — and yes, the internet is calling it ‘Pied Piper’",
       "summary": "Google’s TurboQuant has the internet joking about Pied Piper from HBO's \"Silicon Valley.\" The compression algorithm promises to shrink AI’s “working memory” by up to 6x, but it’s still just a lab expe...",
       "source": {
@@ -168,7 +202,7 @@
       "originalUrl": "https://techcrunch.com/2026/03/25/google-turboquant-ai-memory-compression-silicon-valley-pied-piper/"
     },
     {
-      "id": "xilxwuv280g0uj9bxv21jlb",
+      "id": "ktaltatlf2q5ikeh0aobb",
       "title": "Melania Trump wants a robot to homeschool your child",
       "summary": "The first lady sees AI and robotics playing a prominent role in the future of American education....",
       "source": {
@@ -186,7 +220,7 @@
       "originalUrl": "https://techcrunch.com/2026/03/25/melania-trump-wants-a-robot-to-homeschool-your-child/"
     },
     {
-      "id": "jb6v97oq9qgvs9sp7vuda9",
+      "id": "o86nag7sp8hzmkj5g0oub",
       "title": "Roundtables: The Next Era of Space Exploration",
       "summary": "Listen to the session or watch below Whether it’s the race to find life on Mars, the campaign to outsmart killer asteroids, or the quest to make the moon a permanent home to astronauts, scientists’ ef...",
       "source": {
@@ -202,7 +236,7 @@
       "originalUrl": "https://www.technologyreview.com/2026/03/25/1134664/roundtables-the-next-era-of-space-exploration/"
     },
     {
-      "id": "nuxe2k4w43e96x8xfveu2s",
+      "id": "w3nzpphxsb8k9moj2zyk4",
       "title": "Why this battery company is pivoting to AI",
       "summary": "Qichao Hu doesn’t mince words about how he sees the state of the battery industry. “Almost every Western battery company has either died or is going to die. It’s kind of the reality,” he says. Hu is t...",
       "source": {
@@ -218,7 +252,7 @@
       "originalUrl": "https://www.technologyreview.com/2026/03/25/1134657/battery-company-ai-pivot-ses/"
     },
     {
-      "id": "ru5f3urcgsq0g7olstcj8gc",
+      "id": "ftbp79ihz5rjbjtdyr05a",
       "title": "This startup wants to change how mathematicians do math",
       "summary": "Axiom Math, a startup based in Palo Alto, California, has released a free new AI tool for mathematicians, designed to discover mathematical patterns that could unlock solutions to long-standing proble...",
       "source": {
@@ -236,39 +270,7 @@
       "originalUrl": "https://www.technologyreview.com/2026/03/25/1134642/this-startup-wants-to-change-how-mathematicians-do-math/"
     },
     {
-      "id": "9f4776wb8tui9ito4co9qo",
-      "title": "The Download: reawakening frozen brains, and the AI Hype Index returns",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. This scientist rewarmed and studied pieces of his friend’s cry...",
-      "source": {
-        "name": "MIT Technology Review",
-        "url": "https://www.technologyreview.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.technologyreview.com&sz=64"
-      },
-      "category": "Research",
-      "tags": [],
-      "publishedAt": "Wed, 25 Mar 2026 12:47:44 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.technologyreview.com/2026/03/25/1134636/the-download-reawakening-frozen-brains-and-the-ai-hype-index-returns/"
-    },
-    {
-      "id": "hm320b5crke62ytft5y7hp",
-      "title": "Agentic commerce runs on truth and context",
-      "summary": "Imagine telling a digital agent, “Use my points and book a family trip to Italy. Keep it within budget, pick hotels we’ve liked before, and handle the details.” Instead of returning a list of links, t...",
-      "source": {
-        "name": "MIT Technology Review",
-        "url": "https://www.technologyreview.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.technologyreview.com&sz=64"
-      },
-      "category": "Research",
-      "tags": [],
-      "publishedAt": "Wed, 25 Mar 2026 11:48:13 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.technologyreview.com/2026/03/25/1134516/agentic-commerce-runs-on-truth-and-context/"
-    },
-    {
-      "id": "hagob27apgbblsv45cf80w",
+      "id": "yse2o01ho593pc9h05nru",
       "title": "Inside our approach to the Model Spec",
       "summary": "Learn how OpenAI’s Model Spec serves as a public framework for model behavior, balancing safety, user freedom, and accountability as AI systems advance....",
       "source": {
@@ -287,7 +289,7 @@
       "originalUrl": "https://openai.com/index/our-approach-to-the-model-spec"
     },
     {
-      "id": "tdhc5807szeunni9zyx95",
+      "id": "waujfkx55nmiaqk4jkqir",
       "title": "Introducing the OpenAI Safety Bug Bounty program",
       "summary": "OpenAI launches a Safety Bug Bounty program to identify AI abuse and safety risks, including agentic vulnerabilities, prompt injection, and data exfiltration....",
       "source": {
@@ -306,7 +308,7 @@
       "originalUrl": "https://openai.com/index/safety-bug-bounty"
     },
     {
-      "id": "eyo1y94j3v61i5d5pchko2i",
+      "id": "646qihvddaxj3flvld2ph9",
       "title": "Helping developers build safer AI experiences for teens",
       "summary": "OpenAI releases prompt-based teen safety policies for developers using gpt-oss-safeguard, helping moderate age-specific risks in AI systems....",
       "source": {
@@ -326,7 +328,7 @@
       "originalUrl": "https://openai.com/index/teen-safety-policies-gpt-oss-safeguard"
     },
     {
-      "id": "1msxfsixgzce7rije6c1q6",
+      "id": "xiuhj8rwgjtwwrxq1tkcn",
       "title": "Update on the OpenAI Foundation",
       "summary": "The OpenAI Foundation announces plans to invest at least $1 billion in curing diseases, economic opportunity, AI resilience, and community programs....",
       "source": {
@@ -345,7 +347,7 @@
       "originalUrl": "https://openai.com/index/update-on-the-openai-foundation"
     },
     {
-      "id": "sd5brs1usybb98p2ahst8",
+      "id": "8bf0ps0vm3iyubo40ohp2",
       "title": "Powering product discovery in ChatGPT",
       "summary": "ChatGPT introduces richer, visually immersive shopping powered by the Agentic Commerce Protocol, enabling product discovery, side-by-side comparisons, and merchant integration....",
       "source": {
@@ -365,5 +367,5 @@
     }
   ],
   "totalArticles": 25,
-  "lastUpdated": "2026-03-26T05:03:27.987Z"
+  "lastUpdated": "2026-03-26T11:02:24.260Z"
 }
