@@ -1,6 +1,6 @@
 # 🤖 AI News Digest
 
-> **Digest du jeudi 26 mars 2026**
+> **Digest du vendredi 27 mars 2026**
 
 Votre quotidien des avancées en Intelligence Artificielle.
 
@@ -9,14 +9,82 @@ Votre quotidien des avancées en Intelligence Artificielle.
 ## 📊 Statistiques
 
 - **25** articles collectés
-- Dernière mise à jour: 26/03/2026 19:02:24
+- Dernière mise à jour: 27/03/2026 01:02:32
 - Sources: TechCrunch, The Verge, OpenAI, Anthropic, Google AI, ArXiv, MIT Tech Review
 
 ---
 
 ## 📰 Articles du jour
 
+### 🏭 Industry
+
+#### ByteDance’s new AI video generation model, Dreamina Seedance 2.0, comes to CapCut
+
+> The new model in CapCut will have built-in protections for making video from real faces or unauthorized intellectual property....
+
+- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/26/bytedances-new-ai-video-generation-model-dreamina-seedance-2-0-comes-to-capcut/)
+- **Tags:** 
+- **Temps de lecture:** 1 min
+- **Publié:** 26/03/2026 23:25:13
+
+---
+
+#### Conntour raises $7M from General Catalyst, YC to build an AI search engine for security video systems
+
+> Conntour uses AI models to let security teams query camera feeds using natural language to find any object, person, or situation....
+
+- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/26/conntour-raises-7m-from-general-catalyst-yc-to-build-an-ai-search-engine-for-security-video-systems/)
+- **Tags:** 
+- **Temps de lecture:** 1 min
+- **Publié:** 26/03/2026 21:41:00
+
+---
+
+#### Cohere launches an open source voice model specifically for transcription
+
+> Relatively light at just 2 billion parameters, the model is meant for use with consumer-grade GPUs for those who want to self-host it. It currently supports 14 languages....
+
+- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/26/cohere-launches-an-open-source-voice-model-specifically-for-transcription/)
+- **Tags:** #Startup, #Hardware
+- **Temps de lecture:** 1 min
+- **Publié:** 26/03/2026 21:30:00
+
+---
+
+#### A ‘pound of flesh’ from data centers: one senator’s answer to AI job losses
+
+> Fears of AI-driven job loss are growing fast, and they’re fueling backlash against data centers. Sen. Mark Warner suggests taxing them to help workers survive the transition....
+
+- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/26/a-pound-of-flesh-from-data-centers-one-senators-answer-to-ai-job-losses/)
+- **Tags:** 
+- **Temps de lecture:** 1 min
+- **Publié:** 26/03/2026 20:00:00
+
+---
+
+#### Mistral releases a new open source model for speech generation
+
+> The model, which lets enterprises build voice agents for sales and customer engagement, puts Mistral in direct competition with the likes of ElevenLabs, Deepgram, and OpenAI....
+
+- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/26/mistral-releases-a-new-open-source-model-for-speech-generation/)
+- **Tags:** #OpenAI
+- **Temps de lecture:** 1 min
+- **Publié:** 26/03/2026 19:30:00
+
+---
+
 ### 🔬 Research
+
+#### The Download: a battery pivot to AI, and rewriting math
+
+> This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Why this battery company is pivoting to AI  Qichao Hu doesn’t ...
+
+- **Source:** [MIT Technology Review](https://www.technologyreview.com/2026/03/26/1134697/the-download-battery-ai-pivot-new-ai-tool-math/)
+- **Tags:** 
+- **Temps de lecture:** 1 min
+- **Publié:** 26/03/2026 20:42:53
+
+---
 
 #### The snow gods: How a couple of ski bums built the internet’s best weather app
 
@@ -119,74 +187,6 @@ Abstract: We introduce GTO Wizard Benchmark, a public API and standardized evalu
 - **Tags:** 
 - **Temps de lecture:** 1 min
 - **Publié:** 25/03/2026 23:02:50
-
----
-
-#### This startup wants to change how mathematicians do math
-
-> Axiom Math, a startup based in Palo Alto, California, has released a free new AI tool for mathematicians, designed to discover mathematical patterns that could unlock solutions to long-standing proble...
-
-- **Source:** [MIT Technology Review](https://www.technologyreview.com/2026/03/25/1134642/this-startup-wants-to-change-how-mathematicians-do-math/)
-- **Tags:** #Startup
-- **Temps de lecture:** 1 min
-- **Publié:** 25/03/2026 21:59:17
-
----
-
-### 🏭 Industry
-
-#### The least surprising chapter of the Manus story is what’s happening right now
-
-> Did anyone think there would not be a reckoning over this tie-up?...
-
-- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/25/the-least-surprising-chapter-of-the-manus-story-is-whats-happening-right-now/)
-- **Tags:** 
-- **Temps de lecture:** 1 min
-- **Publié:** 26/03/2026 10:46:48
-
----
-
-#### Mercor competitor Deccan AI raises $25M, sources experts from India
-
-> Deccan AI concentrates its workforce in India to manage quality in a fast-growing but fragmented AI training market....
-
-- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/25/deccan-ai-raises-25m-as-ai-training-push-relies-on-india-based-workforce/)
-- **Tags:** 
-- **Temps de lecture:** 1 min
-- **Publié:** 26/03/2026 08:30:00
-
----
-
-#### The AI skills gap is here, says AI company, and power users are pulling ahead
-
-> Anthropic finds AI isn’t replacing jobs yet, but early data shows growing inequality as experienced users gain an edge, raising concerns about future displacement and workforce divides....
-
-- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/25/the-ai-skills-gap-is-here-says-ai-company-and-power-users-are-pulling-ahead/)
-- **Tags:** #Anthropic
-- **Temps de lecture:** 1 min
-- **Publié:** 26/03/2026 05:44:13
-
----
-
-#### Google unveils TurboQuant, a new AI memory compression algorithm — and yes, the internet is calling it ‘Pied Piper’
-
-> Google’s TurboQuant has the internet joking about Pied Piper from HBO's "Silicon Valley." The compression algorithm promises to shrink AI’s “working memory” by up to 6x, but it’s still just a lab expe...
-
-- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/25/google-turboquant-ai-memory-compression-silicon-valley-pied-piper/)
-- **Tags:** #Google
-- **Temps de lecture:** 1 min
-- **Publié:** 26/03/2026 04:38:45
-
----
-
-#### Melania Trump wants a robot to homeschool your child
-
-> The first lady sees AI and robotics playing a prominent role in the future of American education....
-
-- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/25/melania-trump-wants-a-robot-to-homeschool-your-child/)
-- **Tags:** #Robotics
-- **Temps de lecture:** 1 min
-- **Publié:** 26/03/2026 02:55:41
 
 ---
 
