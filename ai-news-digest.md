@@ -1,6 +1,6 @@
 # 🤖 AI News Digest
 
-> **Digest du vendredi 27 mars 2026**
+> **Digest du jeudi 2 avril 2026**
 
 Votre quotidien des avancées en Intelligence Artificielle.
 
@@ -9,7 +9,7 @@ Votre quotidien des avancées en Intelligence Artificielle.
 ## 📊 Statistiques
 
 - **25** articles collectés
-- Dernière mise à jour: 27/03/2026 01:02:32
+- Dernière mise à jour: 02/04/2026 00:03:35
 - Sources: TechCrunch, The Verge, OpenAI, Anthropic, Google AI, ArXiv, MIT Tech Review
 
 ---
@@ -18,179 +18,223 @@ Votre quotidien des avancées en Intelligence Artificielle.
 
 ### 🏭 Industry
 
-#### ByteDance’s new AI video generation model, Dreamina Seedance 2.0, comes to CapCut
+#### Less than a month: StrictlyVC San Francisco brings leaders from TDK Ventures, Replit, and more together
 
-> The new model in CapCut will have built-in protections for making video from real faces or unauthorized intellectual property....
+> StrictlyVC San Francisco brings leaders from TDK Ventures, Replit, and more together on April 30. Space is limited. Register here for your pass....
 
-- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/26/bytedances-new-ai-video-generation-model-dreamina-seedance-2-0-comes-to-capcut/)
+- **Source:** [TechCrunch AI](https://techcrunch.com/2026/04/01/join-the-first-strictlyvc-of-2026-in-sf-with-leaders-from-tdk-ventures-and-replits-co-founder/)
 - **Tags:** 
 - **Temps de lecture:** 1 min
-- **Publié:** 26/03/2026 23:25:13
+- **Publié:** 01/04/2026 22:00:00
 
 ---
 
-#### Conntour raises $7M from General Catalyst, YC to build an AI search engine for security video systems
+#### Mercor says it was hit by cyberattack tied to compromise of open-source LiteLLM project
 
-> Conntour uses AI models to let security teams query camera feeds using natural language to find any object, person, or situation....
+> The AI recruiting startup confirmed a security incident after an extortion hacking crew took credit for stealing data from the company's systems....
 
-- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/26/conntour-raises-7m-from-general-catalyst-yc-to-build-an-ai-search-engine-for-security-video-systems/)
+- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/)
+- **Tags:** #LLM, #Startup
+- **Temps de lecture:** 1 min
+- **Publié:** 01/04/2026 09:42:59
+
+---
+
+#### Anthropic is having a month
+
+> A human really borks things at Anthropic for the second time this week....
+
+- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/31/anthropic-is-having-a-month/)
+- **Tags:** #Anthropic
+- **Temps de lecture:** 1 min
+- **Publié:** 01/04/2026 07:58:26
+
+---
+
+#### Salesforce announces an AI-heavy makeover for Slack, with 30 new features
+
+> Slack just got a whole lot more useful....
+
+- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/31/salesforce-announces-an-ai-heavy-makeover-for-slack-with-30-new-features/)
 - **Tags:** 
 - **Temps de lecture:** 1 min
-- **Publié:** 26/03/2026 21:41:00
+- **Publié:** 01/04/2026 06:46:25
 
 ---
 
-#### Cohere launches an open source voice model specifically for transcription
+#### OpenAI, not yet public, raises $3B from retail investors in monster $122B fund raise
 
-> Relatively light at just 2 billion parameters, the model is meant for use with consumer-grade GPUs for those who want to self-host it. It currently supports 14 languages....
+> OpenAI's latest funding round, led by Amazon, Nvidia, and SoftBank, values the AI lab at $852 billion as it nears an IPO....
 
-- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/26/cohere-launches-an-open-source-voice-model-specifically-for-transcription/)
-- **Tags:** #Startup, #Hardware
+- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/31/openai-not-yet-public-raises-3b-from-retail-investors-in-monster-122b-fund-raise/)
+- **Tags:** #OpenAI, #Startup, #Hardware
 - **Temps de lecture:** 1 min
-- **Publié:** 26/03/2026 21:30:00
-
----
-
-#### A ‘pound of flesh’ from data centers: one senator’s answer to AI job losses
-
-> Fears of AI-driven job loss are growing fast, and they’re fueling backlash against data centers. Sen. Mark Warner suggests taxing them to help workers survive the transition....
-
-- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/26/a-pound-of-flesh-from-data-centers-one-senators-answer-to-ai-job-losses/)
-- **Tags:** 
-- **Temps de lecture:** 1 min
-- **Publié:** 26/03/2026 20:00:00
-
----
-
-#### Mistral releases a new open source model for speech generation
-
-> The model, which lets enterprises build voice agents for sales and customer engagement, puts Mistral in direct competition with the likes of ElevenLabs, Deepgram, and OpenAI....
-
-- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/26/mistral-releases-a-new-open-source-model-for-speech-generation/)
-- **Tags:** #OpenAI
-- **Temps de lecture:** 1 min
-- **Publié:** 26/03/2026 19:30:00
+- **Publié:** 01/04/2026 05:25:04
 
 ---
 
 ### 🔬 Research
 
-#### The Download: a battery pivot to AI, and rewriting math
+#### The Download: gig workers training humanoids, and better AI benchmarks
 
-> This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Why this battery company is pivoting to AI  Qichao Hu doesn’t ...
+> This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The gig workers who are training humanoid robots at home  When...
 
-- **Source:** [MIT Technology Review](https://www.technologyreview.com/2026/03/26/1134697/the-download-battery-ai-pivot-new-ai-tool-math/)
+- **Source:** [MIT Technology Review](https://www.technologyreview.com/2026/04/01/1134993/the-download-gig-workers-training-humanoids-better-ai-benchmarks/)
+- **Tags:** #Robotics, #Healthcare
+- **Temps de lecture:** 1 min
+- **Publié:** 01/04/2026 20:10:00
+
+---
+
+#### The gig workers who are training humanoid robots at home
+
+> When Zeus, a medical student living in a hilltop city in central Nigeria, returns to his studio apartment from a long day at the hospital, he turns on his ring light, straps his iPhone to his forehead...
+
+- **Source:** [MIT Technology Review](https://www.technologyreview.com/2026/04/01/1134863/humanoid-data-training-gig-economy-2026-breakthrough-technology/)
+- **Tags:** #Robotics, #Healthcare
+- **Temps de lecture:** 1 min
+- **Publié:** 01/04/2026 19:00:00
+
+---
+
+#### ChartDiff: A Large-Scale Benchmark for Comprehending Pairs of Charts
+
+> arXiv:2603.28902v1 Announce Type: new 
+Abstract: Charts are central to analytical reasoning, yet existing benchmarks for chart understanding focus almost exclusively on single-chart interpretation rat...
+
+- **Source:** [ArXiv AI](https://arxiv.org/abs/2603.28902)
+- **Tags:** #OpenAI, #LLM, #Computer Vision
+- **Temps de lecture:** 1 min
+- **Publié:** 01/04/2026 12:00:00
+
+---
+
+#### Working Paper: Towards a Category-theoretic Comparative Framework for Artificial General Intelligence
+
+> arXiv:2603.28906v1 Announce Type: new 
+Abstract: AGI has become the Holly Grail of AI with the promise of level intelligence and the major Tech companies around the world are investing unprecedented a...
+
+- **Source:** [ArXiv AI](https://arxiv.org/abs/2603.28906)
 - **Tags:** 
 - **Temps de lecture:** 1 min
-- **Publié:** 26/03/2026 20:42:53
+- **Publié:** 01/04/2026 12:00:00
 
 ---
 
-#### The snow gods: How a couple of ski bums built the internet’s best weather app
+#### Towards Computational Social Dynamics of Semi-Autonomous AI Agents
 
-> The best snow-forecasting app for skiers and snowboarders isn’t from any of the federally funded weather services. Nor from any of the big-name brands. It’s an independent app startup that leverages g...
+> arXiv:2603.28928v1 Announce Type: new 
+Abstract: We present the first comprehensive study of emergent social organization among AI agents in hierarchical multi-agent systems, documenting the spontaneo...
 
-- **Source:** [MIT Technology Review](https://www.technologyreview.com/2026/03/26/1134470/the-snow-gods-how-a-couple-of-ski-bums-built-the-internets-best-weather-app/)
-- **Tags:** #Startup
+- **Source:** [ArXiv AI](https://arxiv.org/abs/2603.28928)
+- **Tags:** #AI Safety
 - **Temps de lecture:** 1 min
-- **Publié:** 26/03/2026 18:00:00
+- **Publié:** 01/04/2026 12:00:00
 
 ---
 
-#### Are high gas prices good news for EVs? It’s complicated.
+#### Enhancing Policy Learning with World-Action Model
 
-> I live in a dense city with plentiful public transportation options and limited parking, so I don’t own a car. I’m often utterly clueless about the current price of gasoline. But as the conflict in Ir...
+> arXiv:2603.28955v1 Announce Type: new 
+Abstract: This paper presents the World-Action Model (WAM), an action-regularized world model that jointly reasons over future visual observations and the action...
 
-- **Source:** [MIT Technology Review](https://www.technologyreview.com/2026/03/26/1134677/gas-prices-electric-vehicles/)
-- **Tags:** 
+- **Source:** [ArXiv AI](https://arxiv.org/abs/2603.28955)
+- **Tags:** #Computer Vision
 - **Temps de lecture:** 1 min
-- **Publié:** 26/03/2026 18:00:00
+- **Publié:** 01/04/2026 12:00:00
 
 ---
 
-#### PLDR-LLMs Reason At Self-Organized Criticality
+#### Mimosa Framework: Toward Evolving Multi-Agent Systems for Scientific Research
 
-> arXiv:2603.23539v1 Announce Type: new 
-Abstract: We show that PLDR-LLMs pretrained at self-organized criticality exhibit reasoning at inference time. The characteristics of PLDR-LLM deductive outputs ...
+> arXiv:2603.28986v1 Announce Type: new 
+Abstract: Current Autonomous Scientific Research (ASR) systems, despite leveraging large language models (LLMs) and agentic architectures, remain constrained by ...
 
-- **Source:** [ArXiv AI](https://arxiv.org/abs/2603.23539)
-- **Tags:** #Meta, #LLM, #Hardware
+- **Source:** [ArXiv AI](https://arxiv.org/abs/2603.28986)
+- **Tags:** #Meta, #LLM
 - **Temps de lecture:** 1 min
-- **Publié:** 26/03/2026 12:00:00
+- **Publié:** 01/04/2026 12:00:00
 
 ---
 
-#### Environment Maps: Structured Environmental Representations for Long-Horizon Agents
+#### Shifting to AI model customization is an architectural imperative
 
-> arXiv:2603.23610v1 Announce Type: new 
-Abstract: Although large language models (LLMs) have advanced rapidly, robust automation of complex software workflows remains an open problem. In long-horizon s...
+> In the early days of large language models (LLMs), we grew accustomed to massive 10x jumps in reasoning and coding capability with every new model iteration. Today, those jumps have flattened into inc...
 
-- **Source:** [ArXiv AI](https://arxiv.org/abs/2603.23610)
+- **Source:** [MIT Technology Review](https://www.technologyreview.com/2026/03/31/1134762/shifting-to-ai-model-customization-is-an-architectural-imperative/)
 - **Tags:** #LLM
 - **Temps de lecture:** 1 min
-- **Publié:** 26/03/2026 12:00:00
+- **Publié:** 31/03/2026 22:12:50
 
 ---
 
-#### Evaluating a Multi-Agent Voice-Enabled Smart Speaker for Care Homes: A Safety-Focused Framework
+#### The Download: AI health tools and the Pentagon’s Anthropic culture war
 
-> arXiv:2603.23625v1 Announce Type: new 
-Abstract: Artificial intelligence (AI) is increasingly being explored in health and social care to reduce administrative workload and allow staff to spend more t...
+> This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. There are more AI health tools than ever—but how well do they ...
 
-- **Source:** [ArXiv AI](https://arxiv.org/abs/2603.23625)
-- **Tags:** #OpenAI, #LLM, #AI Safety, #Healthcare
+- **Source:** [MIT Technology Review](https://www.technologyreview.com/2026/03/31/1134934/the-download-testing-ai-health-tools-pentagon-anthropic-culture-war-backfires/)
+- **Tags:** #OpenAI, #Anthropic, #Healthcare
 - **Temps de lecture:** 1 min
-- **Publié:** 26/03/2026 12:00:00
+- **Publié:** 31/03/2026 20:10:00
 
 ---
 
-#### Can LLM Agents Be CFOs? A Benchmark for Resource Allocation in Dynamic Enterprise Environments
+#### AI benchmarks are broken. Here’s what we need instead.
 
-> arXiv:2603.23638v1 Announce Type: new 
-Abstract: Large language models (LLMs) have enabled agentic systems that can reason, plan, and act across complex tasks, but it remains unclear whether they can ...
+> For decades, artificial intelligence has been evaluated through the question of whether machines outperform humans. From chess to advanced math, from coding to essay writing, the performance of AI mod...
 
-- **Source:** [ArXiv AI](https://arxiv.org/abs/2603.23638)
-- **Tags:** #LLM
-- **Temps de lecture:** 1 min
-- **Publié:** 26/03/2026 12:00:00
-
----
-
-#### GTO Wizard Benchmark
-
-> arXiv:2603.23660v1 Announce Type: new 
-Abstract: We introduce GTO Wizard Benchmark, a public API and standardized evaluation framework for benchmarking algorithms in Heads-Up No-Limit Texas Hold'em (H...
-
-- **Source:** [ArXiv AI](https://arxiv.org/abs/2603.23660)
-- **Tags:** #OpenAI, #Anthropic, #Google, #LLM
-- **Temps de lecture:** 1 min
-- **Publié:** 26/03/2026 12:00:00
-
----
-
-#### Roundtables: The Next Era of Space Exploration
-
-> Listen to the session or watch below Whether it’s the race to find life on Mars, the campaign to outsmart killer asteroids, or the quest to make the moon a permanent home to astronauts, scientists’ ef...
-
-- **Source:** [MIT Technology Review](https://www.technologyreview.com/2026/03/25/1134664/roundtables-the-next-era-of-space-exploration/)
+- **Source:** [MIT Technology Review](https://www.technologyreview.com/2026/03/31/1134833/ai-benchmarks-are-broken-heres-what-we-need-instead/)
 - **Tags:** 
 - **Temps de lecture:** 1 min
-- **Publié:** 26/03/2026 01:26:26
-
----
-
-#### Why this battery company is pivoting to AI
-
-> Qichao Hu doesn’t mince words about how he sees the state of the battery industry. “Almost every Western battery company has either died or is going to die. It’s kind of the reality,” he says. Hu is t...
-
-- **Source:** [MIT Technology Review](https://www.technologyreview.com/2026/03/25/1134657/battery-company-ai-pivot-ses/)
-- **Tags:** 
-- **Temps de lecture:** 1 min
-- **Publié:** 25/03/2026 23:02:50
+- **Publié:** 31/03/2026 20:01:08
 
 ---
 
 ### 🚀 Product
+
+#### Gradient Labs gives every bank customer an AI account manager
+
+> Gradient Labs uses GPT-4.1 and GPT-5.4 mini and nano to power AI agents that automate banking support workflows with low latency and high reliability....
+
+- **Source:** [OpenAI Blog](https://openai.com/index/gradient-labs)
+- **Tags:** #OpenAI, #LLM, #Finance
+- **Temps de lecture:** 1 min
+- **Publié:** 01/04/2026 10:00:00
+
+---
+
+#### Accelerating the next phase of AI
+
+> OpenAI raises $122 billion in new funding to expand frontier AI globally, invest in next-generation compute, and meet growing demand for ChatGPT, Codex, and enterprise AI....
+
+- **Source:** [OpenAI Blog](https://openai.com/index/accelerating-the-next-phase-ai)
+- **Tags:** #OpenAI, #LLM, #Startup
+- **Temps de lecture:** 1 min
+- **Publié:** 31/03/2026 21:00:00
+
+---
+
+#### Helping disaster response teams turn AI into action across Asia
+
+> AI for Disaster Response in Asia: OpenAI Workshop with Gates Foundation...
+
+- **Source:** [OpenAI Blog](https://openai.com/index/helping-disaster-response-teams-asia)
+- **Tags:** #OpenAI
+- **Temps de lecture:** 1 min
+- **Publié:** 30/03/2026 06:15:00
+
+---
+
+#### STADLER reshapes knowledge work at a 230-year-old company
+
+> Learn how STADLER uses ChatGPT to transform knowledge work, saving time and accelerating productivity across 650 employees....
+
+- **Source:** [OpenAI Blog](https://openai.com/index/stadler)
+- **Tags:** #OpenAI, #LLM
+- **Temps de lecture:** 1 min
+- **Publié:** 28/03/2026 06:00:00
+
+---
 
 #### Inside our approach to the Model Spec
 
@@ -200,50 +244,6 @@ Abstract: We introduce GTO Wizard Benchmark, a public API and standardized evalu
 - **Tags:** #OpenAI, #AI Safety
 - **Temps de lecture:** 1 min
 - **Publié:** 25/03/2026 18:00:00
-
----
-
-#### Introducing the OpenAI Safety Bug Bounty program
-
-> OpenAI launches a Safety Bug Bounty program to identify AI abuse and safety risks, including agentic vulnerabilities, prompt injection, and data exfiltration....
-
-- **Source:** [OpenAI Blog](https://openai.com/index/safety-bug-bounty)
-- **Tags:** #OpenAI, #AI Safety
-- **Temps de lecture:** 1 min
-- **Publié:** 25/03/2026 08:00:00
-
----
-
-#### Helping developers build safer AI experiences for teens
-
-> OpenAI releases prompt-based teen safety policies for developers using gpt-oss-safeguard, helping moderate age-specific risks in AI systems....
-
-- **Source:** [OpenAI Blog](https://openai.com/index/teen-safety-policies-gpt-oss-safeguard)
-- **Tags:** #OpenAI, #LLM, #AI Safety
-- **Temps de lecture:** 1 min
-- **Publié:** 24/03/2026 19:00:00
-
----
-
-#### Update on the OpenAI Foundation
-
-> The OpenAI Foundation announces plans to invest at least $1 billion in curing diseases, economic opportunity, AI resilience, and community programs....
-
-- **Source:** [OpenAI Blog](https://openai.com/index/update-on-the-openai-foundation)
-- **Tags:** #OpenAI, #Startup
-- **Temps de lecture:** 1 min
-- **Publié:** 24/03/2026 17:00:00
-
----
-
-#### Powering product discovery in ChatGPT
-
-> ChatGPT introduces richer, visually immersive shopping powered by the Agentic Commerce Protocol, enabling product discovery, side-by-side comparisons, and merchant integration....
-
-- **Source:** [OpenAI Blog](https://openai.com/index/powering-product-discovery-in-chatgpt)
-- **Tags:** #OpenAI, #LLM
-- **Temps de lecture:** 1 min
-- **Publié:** 24/03/2026 17:00:00
 
 ---
 
