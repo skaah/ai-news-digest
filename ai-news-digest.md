@@ -9,7 +9,7 @@ Votre quotidien des avancées en Intelligence Artificielle.
 ## 📊 Statistiques
 
 - **25** articles collectés
-- Dernière mise à jour: 02/04/2026 00:03:35
+- Dernière mise à jour: 02/04/2026 06:01:51
 - Sources: TechCrunch, The Verge, OpenAI, Anthropic, Google AI, ArXiv, MIT Tech Review
 
 ---
@@ -17,6 +17,28 @@ Votre quotidien des avancées en Intelligence Artificielle.
 ## 📰 Articles du jour
 
 ### 🏭 Industry
+
+#### Meta’s natural gas binge could power South Dakota
+
+> Meta's upcoming Hyperion AI data center will be powered by 10 new natural gas plants....
+
+- **Source:** [TechCrunch AI](https://techcrunch.com/2026/04/01/metas-natural-gas-binge-could-power-south-dakota/)
+- **Tags:** #Meta
+- **Temps de lecture:** 1 min
+- **Publié:** 02/04/2026 02:35:36
+
+---
+
+#### Cognichip wants AI to design the chips that power AI, and just raised $60M to try
+
+> The firm says it can reduce the cost of chip development by more than 75% and cut the timeline by more than half....
+
+- **Source:** [TechCrunch AI](https://techcrunch.com/2026/04/01/cognichip-wants-ai-to-design-the-chips-that-power-ai-and-just-raised-60m-to-try/)
+- **Tags:** #Startup, #Hardware
+- **Temps de lecture:** 1 min
+- **Publié:** 02/04/2026 00:00:00
+
+---
 
 #### Less than a month: StrictlyVC San Francisco brings leaders from TDK Ventures, Replit, and more together
 
@@ -29,7 +51,7 @@ Votre quotidien des avancées en Intelligence Artificielle.
 
 ---
 
-#### Mercor says it was hit by cyberattack tied to compromise of open-source LiteLLM project
+#### Mercor says it was hit by cyberattack tied to compromise of open source LiteLLM project
 
 > The AI recruiting startup confirmed a security incident after an extortion hacking crew took credit for stealing data from the company's systems....
 
@@ -48,28 +70,6 @@ Votre quotidien des avancées en Intelligence Artificielle.
 - **Tags:** #Anthropic
 - **Temps de lecture:** 1 min
 - **Publié:** 01/04/2026 07:58:26
-
----
-
-#### Salesforce announces an AI-heavy makeover for Slack, with 30 new features
-
-> Slack just got a whole lot more useful....
-
-- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/31/salesforce-announces-an-ai-heavy-makeover-for-slack-with-30-new-features/)
-- **Tags:** 
-- **Temps de lecture:** 1 min
-- **Publié:** 01/04/2026 06:46:25
-
----
-
-#### OpenAI, not yet public, raises $3B from retail investors in monster $122B fund raise
-
-> OpenAI's latest funding round, led by Amazon, Nvidia, and SoftBank, values the AI lab at $852 billion as it nears an IPO....
-
-- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/31/openai-not-yet-public-raises-3b-from-retail-investors-in-monster-122b-fund-raise/)
-- **Tags:** #OpenAI, #Startup, #Hardware
-- **Temps de lecture:** 1 min
-- **Publié:** 01/04/2026 05:25:04
 
 ---
 

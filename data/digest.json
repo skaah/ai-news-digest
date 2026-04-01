@@ -1,8 +1,45 @@
 {
-  "date": "2026-04-01T16:03:35.685Z",
+  "date": "2026-04-01T22:01:51.287Z",
   "articles": [
     {
-      "id": "l5wmm4ve1mjmcbqjsumgf",
+      "id": "qly6pjyouva4wpbhhzzym",
+      "title": "Meta’s natural gas binge could power South Dakota",
+      "summary": "Meta's upcoming Hyperion AI data center will be powered by 10 new natural gas plants....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Meta"
+      ],
+      "publishedAt": "Wed, 01 Apr 2026 18:35:36 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/04/01/metas-natural-gas-binge-could-power-south-dakota/"
+    },
+    {
+      "id": "mzy8oq53n3xqghakqzhx",
+      "title": "Cognichip wants AI to design the chips that power AI, and just raised $60M to try",
+      "summary": "The firm says it can reduce the cost of chip development by more than 75% and cut the timeline by more than half....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Startup",
+        "Hardware"
+      ],
+      "publishedAt": "Wed, 01 Apr 2026 16:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/04/01/cognichip-wants-ai-to-design-the-chips-that-power-ai-and-just-raised-60m-to-try/"
+    },
+    {
+      "id": "iqcuomld2mmtnbovrxkrsi",
       "title": "Less than a month: StrictlyVC San Francisco brings leaders from TDK Ventures, Replit, and more together",
       "summary": "StrictlyVC San Francisco brings leaders from TDK Ventures, Replit, and more together on April 30. Space is limited. Register here for your pass....",
       "source": {
@@ -18,7 +55,7 @@
       "originalUrl": "https://techcrunch.com/2026/04/01/join-the-first-strictlyvc-of-2026-in-sf-with-leaders-from-tdk-ventures-and-replits-co-founder/"
     },
     {
-      "id": "1g6ll081garqy5om57sgr",
+      "id": "yn4z5htsdq5cbbc4r17wp",
       "title": "The Download: gig workers training humanoids, and better AI benchmarks",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The gig workers who are training humanoid robots at home  When...",
       "source": {
@@ -37,7 +74,7 @@
       "originalUrl": "https://www.technologyreview.com/2026/04/01/1134993/the-download-gig-workers-training-humanoids-better-ai-benchmarks/"
     },
     {
-      "id": "515opygs0wclvnnchbnhm",
+      "id": "3zzfmm94bpy1xgirr1tvf6",
       "title": "The gig workers who are training humanoid robots at home",
       "summary": "When Zeus, a medical student living in a hilltop city in central Nigeria, returns to his studio apartment from a long day at the hospital, he turns on his ring light, straps his iPhone to his forehead...",
       "source": {
@@ -56,7 +93,7 @@
       "originalUrl": "https://www.technologyreview.com/2026/04/01/1134863/humanoid-data-training-gig-economy-2026-breakthrough-technology/"
     },
     {
-      "id": "ehqebby088p1yfhzl5rve",
+      "id": "1bgojjc2zjrcydpouclbl",
       "title": "ChartDiff: A Large-Scale Benchmark for Comprehending Pairs of Charts",
       "summary": "arXiv:2603.28902v1 Announce Type: new \nAbstract: Charts are central to analytical reasoning, yet existing benchmarks for chart understanding focus almost exclusively on single-chart interpretation rat...",
       "source": {
@@ -76,7 +113,7 @@
       "originalUrl": "https://arxiv.org/abs/2603.28902"
     },
     {
-      "id": "d4riyk3aubghrlqn258p3r",
+      "id": "w3buwzjd9ym08nddym0rzn",
       "title": "Working Paper: Towards a Category-theoretic Comparative Framework for Artificial General Intelligence",
       "summary": "arXiv:2603.28906v1 Announce Type: new \nAbstract: AGI has become the Holly Grail of AI with the promise of level intelligence and the major Tech companies around the world are investing unprecedented a...",
       "source": {
@@ -92,7 +129,7 @@
       "originalUrl": "https://arxiv.org/abs/2603.28906"
     },
     {
-      "id": "obiyw7rqp3rr34brwk65x",
+      "id": "bdjlzgfbqflp7sd467xhnn",
       "title": "Towards Computational Social Dynamics of Semi-Autonomous AI Agents",
       "summary": "arXiv:2603.28928v1 Announce Type: new \nAbstract: We present the first comprehensive study of emergent social organization among AI agents in hierarchical multi-agent systems, documenting the spontaneo...",
       "source": {
@@ -110,7 +147,7 @@
       "originalUrl": "https://arxiv.org/abs/2603.28928"
     },
     {
-      "id": "5n3cx597mqa2bm4m5yrh26",
+      "id": "wvrt5txrv2ayuqscsnxdc",
       "title": "Enhancing Policy Learning with World-Action Model",
       "summary": "arXiv:2603.28955v1 Announce Type: new \nAbstract: This paper presents the World-Action Model (WAM), an action-regularized world model that jointly reasons over future visual observations and the action...",
       "source": {
@@ -128,7 +165,7 @@
       "originalUrl": "https://arxiv.org/abs/2603.28955"
     },
     {
-      "id": "pjzdvikacpnm40l7bp4s9",
+      "id": "tcfgi51inbnfreays6qehb",
       "title": "Mimosa Framework: Toward Evolving Multi-Agent Systems for Scientific Research",
       "summary": "arXiv:2603.28986v1 Announce Type: new \nAbstract: Current Autonomous Scientific Research (ASR) systems, despite leveraging large language models (LLMs) and agentic architectures, remain constrained by ...",
       "source": {
@@ -147,7 +184,7 @@
       "originalUrl": "https://arxiv.org/abs/2603.28986"
     },
     {
-      "id": "jfkyqb6h9qfxqvyqw34hvf",
+      "id": "08tskepjhrgrc000bdw5osj",
       "title": "Gradient Labs gives every bank customer an AI account manager",
       "summary": "Gradient Labs uses GPT-4.1 and GPT-5.4 mini and nano to power AI agents that automate banking support workflows with low latency and high reliability....",
       "source": {
@@ -167,8 +204,8 @@
       "originalUrl": "https://openai.com/index/gradient-labs"
     },
     {
-      "id": "b8dgy777fzpzn3teamupi",
-      "title": "Mercor says it was hit by cyberattack tied to compromise of open-source LiteLLM project",
+      "id": "v8ae41q9h1di91pj9joajj",
+      "title": "Mercor says it was hit by cyberattack tied to compromise of open source LiteLLM project",
       "summary": "The AI recruiting startup confirmed a security incident after an extortion hacking crew took credit for stealing data from the company's systems....",
       "source": {
         "name": "TechCrunch AI",
@@ -186,7 +223,7 @@
       "originalUrl": "https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/"
     },
     {
-      "id": "0y0ngrx9fwillf9kjc4pb",
+      "id": "w8rdnuhe0rry7n6g3tgxal",
       "title": "Anthropic is having a month",
       "summary": "A human really borks things at Anthropic for the second time this week....",
       "source": {
@@ -204,43 +241,7 @@
       "originalUrl": "https://techcrunch.com/2026/03/31/anthropic-is-having-a-month/"
     },
     {
-      "id": "r94ilahuqkcuf94opudbfn",
-      "title": "Salesforce announces an AI-heavy makeover for Slack, with 30 new features",
-      "summary": "Slack just got a whole lot more useful....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Tue, 31 Mar 2026 22:46:25 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/03/31/salesforce-announces-an-ai-heavy-makeover-for-slack-with-30-new-features/"
-    },
-    {
-      "id": "own6kxrsvqq8g561icg545",
-      "title": "OpenAI, not yet public, raises $3B from retail investors in monster $122B fund raise",
-      "summary": "OpenAI's latest funding round, led by Amazon, Nvidia, and SoftBank, values the AI lab at $852 billion as it nears an IPO....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "OpenAI",
-        "Startup",
-        "Hardware"
-      ],
-      "publishedAt": "Tue, 31 Mar 2026 21:25:04 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/03/31/openai-not-yet-public-raises-3b-from-retail-investors-in-monster-122b-fund-raise/"
-    },
-    {
-      "id": "4bbxzecf2bpbvzyzzc1s",
+      "id": "lsghruiictxudb7g2gapg",
       "title": "Shifting to AI model customization is an architectural imperative",
       "summary": "In the early days of large language models (LLMs), we grew accustomed to massive 10x jumps in reasoning and coding capability with every new model iteration. Today, those jumps have flattened into inc...",
       "source": {
@@ -258,7 +259,7 @@
       "originalUrl": "https://www.technologyreview.com/2026/03/31/1134762/shifting-to-ai-model-customization-is-an-architectural-imperative/"
     },
     {
-      "id": "qqp3z2ehb2j96hd36htxya",
+      "id": "ypje0gk34wulef1kno87o",
       "title": "Accelerating the next phase of AI",
       "summary": "OpenAI raises $122 billion in new funding to expand frontier AI globally, invest in next-generation compute, and meet growing demand for ChatGPT, Codex, and enterprise AI....",
       "source": {
@@ -278,7 +279,7 @@
       "originalUrl": "https://openai.com/index/accelerating-the-next-phase-ai"
     },
     {
-      "id": "7m6xpu15j5x2d5pzs75nh9",
+      "id": "5prp8bwf9sthav3l2eb2q",
       "title": "The Download: AI health tools and the Pentagon’s Anthropic culture war",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. There are more AI health tools than ever—but how well do they ...",
       "source": {
@@ -298,7 +299,7 @@
       "originalUrl": "https://www.technologyreview.com/2026/03/31/1134934/the-download-testing-ai-health-tools-pentagon-anthropic-culture-war-backfires/"
     },
     {
-      "id": "sgreb226dtiwn4hyb724v",
+      "id": "8c3qco7mia2f65lyrg3fyq",
       "title": "AI benchmarks are broken. Here’s what we need instead.",
       "summary": "For decades, artificial intelligence has been evaluated through the question of whether machines outperform humans. From chess to advanced math, from coding to essay writing, the performance of AI mod...",
       "source": {
@@ -314,7 +315,7 @@
       "originalUrl": "https://www.technologyreview.com/2026/03/31/1134833/ai-benchmarks-are-broken-heres-what-we-need-instead/"
     },
     {
-      "id": "n5o42je31mq18q4ynn5gxd",
+      "id": "vrne9m2vicgbyqi5y6rz5",
       "title": "Helping disaster response teams turn AI into action across Asia",
       "summary": "AI for Disaster Response in Asia: OpenAI Workshop with Gates Foundation...",
       "source": {
@@ -332,7 +333,7 @@
       "originalUrl": "https://openai.com/index/helping-disaster-response-teams-asia"
     },
     {
-      "id": "upb6yfv2zsdych60um0bsr",
+      "id": "05y4t6zfz2bxa1sjokitxr",
       "title": "STADLER reshapes knowledge work at a 230-year-old company",
       "summary": "Learn how STADLER uses ChatGPT to transform knowledge work, saving time and accelerating productivity across 650 employees....",
       "source": {
@@ -351,7 +352,7 @@
       "originalUrl": "https://openai.com/index/stadler"
     },
     {
-      "id": "pttfnsm55fq18jdr5nvcf",
+      "id": "chsqpg5hbrgiim6j7lo1mc",
       "title": "Inside our approach to the Model Spec",
       "summary": "Learn how OpenAI’s Model Spec serves as a public framework for model behavior, balancing safety, user freedom, and accountability as AI systems advance....",
       "source": {
@@ -371,5 +372,5 @@
     }
   ],
   "totalArticles": 25,
-  "lastUpdated": "2026-04-01T16:03:35.685Z"
+  "lastUpdated": "2026-04-01T22:01:51.287Z"
 }
