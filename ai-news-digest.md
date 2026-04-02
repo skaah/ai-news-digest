@@ -1,6 +1,6 @@
 # 🤖 AI News Digest
 
-> **Digest du jeudi 2 avril 2026**
+> **Digest du vendredi 3 avril 2026**
 
 Votre quotidien des avancées en Intelligence Artificielle.
 
@@ -9,14 +9,142 @@ Votre quotidien des avancées en Intelligence Artificielle.
 ## 📊 Statistiques
 
 - **25** articles collectés
-- Dernière mise à jour: 02/04/2026 06:01:51
+- Dernière mise à jour: 03/04/2026 00:07:43
 - Sources: TechCrunch, The Verge, OpenAI, Anthropic, Google AI, ArXiv, MIT Tech Review
 
 ---
 
 ## 📰 Articles du jour
 
+### 🔬 Research
+
+#### The Download: plastic’s problem with fuel prices, and SpaceX’s blockbuster IPO
+
+> This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Fuel prices are soaring. Plastic could be next.  As the war in...
+
+- **Source:** [MIT Technology Review](https://www.technologyreview.com/2026/04/02/1135049/the-download-plastic-problem-fuel-prices-spacex-ipo/)
+- **Tags:** 
+- **Temps de lecture:** 1 min
+- **Publié:** 02/04/2026 20:10:00
+
+---
+
+#### Fuel prices are soaring. Plastic could be next.
+
+> As the war in Iran continues to engulf the Middle East and the Strait of Hormuz stays closed, one of the most visible global economic ripple effects has been fossil-fuel prices. In particular, you can...
+
+- **Source:** [MIT Technology Review](https://www.technologyreview.com/2026/04/02/1135045/plastic-economic-effects/)
+- **Tags:** 
+- **Temps de lecture:** 1 min
+- **Publié:** 02/04/2026 18:00:00
+
+---
+
+#### How Emotion Shapes the Behavior of LLMs and Agents: A Mechanistic Study
+
+> arXiv:2604.00005v1 Announce Type: new 
+Abstract: Emotion plays an important role in human cognition and performance. Motivated by this, we investigate whether analogous emotional signals can shape the...
+
+- **Source:** [ArXiv AI](https://arxiv.org/abs/2604.00005)
+- **Tags:** #LLM, #AI Safety
+- **Temps de lecture:** 1 min
+- **Publié:** 02/04/2026 12:00:00
+
+---
+
+#### One Panel Does Not Fit All: Case-Adaptive Multi-Agent Deliberation for Clinical Prediction
+
+> arXiv:2604.00085v1 Announce Type: new 
+Abstract: Large language models applied to clinical prediction exhibit case-level heterogeneity: simple cases yield consistent outputs, while complex cases produ...
+
+- **Source:** [ArXiv AI](https://arxiv.org/abs/2604.00085)
+- **Tags:** #LLM, #Hardware, #Healthcare
+- **Temps de lecture:** 1 min
+- **Publié:** 02/04/2026 12:00:00
+
+---
+
+#### Open, Reliable, and Collective: A Community-Driven Framework for Tool-Using AI Agents
+
+> arXiv:2604.00137v1 Announce Type: new 
+Abstract: Tool-integrated LLMs can retrieve, compute, and take real-world actions via external tools, but reliability remains a key bottleneck. We argue that fai...
+
+- **Source:** [ArXiv AI](https://arxiv.org/abs/2604.00137)
+- **Tags:** #LLM
+- **Temps de lecture:** 1 min
+- **Publié:** 02/04/2026 12:00:00
+
+---
+
+#### A Safety-Aware Role-Orchestrated Multi-Agent LLM Framework for Behavioral Health Communication Simulation
+
+> arXiv:2604.00249v1 Announce Type: new 
+Abstract: Single-agent large language model (LLM) systems struggle to simultaneously support diverse conversational functions and maintain safety in behavioral h...
+
+- **Source:** [ArXiv AI](https://arxiv.org/abs/2604.00249)
+- **Tags:** #LLM, #AI Safety, #Healthcare
+- **Temps de lecture:** 1 min
+- **Publié:** 02/04/2026 12:00:00
+
+---
+
+#### Human-in-the-Loop Control of Objective Drift in LLM-Assisted Computer Science Education
+
+> arXiv:2604.00281v1 Announce Type: new 
+Abstract: Large language models (LLMs) are increasingly embedded in computer science education through AI-assisted programming tools, yet such workflows often ex...
+
+- **Source:** [ArXiv AI](https://arxiv.org/abs/2604.00281)
+- **Tags:** #LLM, #Hardware, #Healthcare
+- **Temps de lecture:** 1 min
+- **Publié:** 02/04/2026 12:00:00
+
+---
+
+#### The Download: gig workers training humanoids, and better AI benchmarks
+
+> This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The gig workers who are training humanoid robots at home  When...
+
+- **Source:** [MIT Technology Review](https://www.technologyreview.com/2026/04/01/1134993/the-download-gig-workers-training-humanoids-better-ai-benchmarks/)
+- **Tags:** #Robotics, #Healthcare
+- **Temps de lecture:** 1 min
+- **Publié:** 01/04/2026 20:10:00
+
+---
+
+#### The gig workers who are training humanoid robots at home
+
+> When Zeus, a medical student living in a hilltop city in central Nigeria, returns to his studio apartment from a long day at the hospital, he turns on his ring light, straps his iPhone to his forehead...
+
+- **Source:** [MIT Technology Review](https://www.technologyreview.com/2026/04/01/1134863/humanoid-data-training-gig-economy-2026-breakthrough-technology/)
+- **Tags:** #Robotics, #Healthcare
+- **Temps de lecture:** 1 min
+- **Publié:** 01/04/2026 19:00:00
+
+---
+
+#### Shifting to AI model customization is an architectural imperative
+
+> In the early days of large language models (LLMs), we grew accustomed to massive 10x jumps in reasoning and coding capability with every new model iteration. Today, those jumps have flattened into inc...
+
+- **Source:** [MIT Technology Review](https://www.technologyreview.com/2026/03/31/1134762/shifting-to-ai-model-customization-is-an-architectural-imperative/)
+- **Tags:** #LLM
+- **Temps de lecture:** 1 min
+- **Publié:** 31/03/2026 22:12:50
+
+---
+
 ### 🏭 Industry
+
+#### Anthropic took down thousands of GitHub repos trying to yank its leaked source code — a move the company says was an accident
+
+> Anthropic executives said it was an accident and retracted the bulk of the takedown notices....
+
+- **Source:** [TechCrunch AI](https://techcrunch.com/2026/04/01/anthropic-took-down-thousands-of-github-repos-trying-to-yank-its-leaked-source-code-a-move-the-company-says-was-an-accident/)
+- **Tags:** #Anthropic
+- **Temps de lecture:** 1 min
+- **Publié:** 02/04/2026 06:12:13
+
+---
 
 #### Meta’s natural gas binge could power South Dakota
 
@@ -59,134 +187,6 @@ Votre quotidien des avancées en Intelligence Artificielle.
 - **Tags:** #LLM, #Startup
 - **Temps de lecture:** 1 min
 - **Publié:** 01/04/2026 09:42:59
-
----
-
-#### Anthropic is having a month
-
-> A human really borks things at Anthropic for the second time this week....
-
-- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/31/anthropic-is-having-a-month/)
-- **Tags:** #Anthropic
-- **Temps de lecture:** 1 min
-- **Publié:** 01/04/2026 07:58:26
-
----
-
-### 🔬 Research
-
-#### The Download: gig workers training humanoids, and better AI benchmarks
-
-> This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The gig workers who are training humanoid robots at home  When...
-
-- **Source:** [MIT Technology Review](https://www.technologyreview.com/2026/04/01/1134993/the-download-gig-workers-training-humanoids-better-ai-benchmarks/)
-- **Tags:** #Robotics, #Healthcare
-- **Temps de lecture:** 1 min
-- **Publié:** 01/04/2026 20:10:00
-
----
-
-#### The gig workers who are training humanoid robots at home
-
-> When Zeus, a medical student living in a hilltop city in central Nigeria, returns to his studio apartment from a long day at the hospital, he turns on his ring light, straps his iPhone to his forehead...
-
-- **Source:** [MIT Technology Review](https://www.technologyreview.com/2026/04/01/1134863/humanoid-data-training-gig-economy-2026-breakthrough-technology/)
-- **Tags:** #Robotics, #Healthcare
-- **Temps de lecture:** 1 min
-- **Publié:** 01/04/2026 19:00:00
-
----
-
-#### ChartDiff: A Large-Scale Benchmark for Comprehending Pairs of Charts
-
-> arXiv:2603.28902v1 Announce Type: new 
-Abstract: Charts are central to analytical reasoning, yet existing benchmarks for chart understanding focus almost exclusively on single-chart interpretation rat...
-
-- **Source:** [ArXiv AI](https://arxiv.org/abs/2603.28902)
-- **Tags:** #OpenAI, #LLM, #Computer Vision
-- **Temps de lecture:** 1 min
-- **Publié:** 01/04/2026 12:00:00
-
----
-
-#### Working Paper: Towards a Category-theoretic Comparative Framework for Artificial General Intelligence
-
-> arXiv:2603.28906v1 Announce Type: new 
-Abstract: AGI has become the Holly Grail of AI with the promise of level intelligence and the major Tech companies around the world are investing unprecedented a...
-
-- **Source:** [ArXiv AI](https://arxiv.org/abs/2603.28906)
-- **Tags:** 
-- **Temps de lecture:** 1 min
-- **Publié:** 01/04/2026 12:00:00
-
----
-
-#### Towards Computational Social Dynamics of Semi-Autonomous AI Agents
-
-> arXiv:2603.28928v1 Announce Type: new 
-Abstract: We present the first comprehensive study of emergent social organization among AI agents in hierarchical multi-agent systems, documenting the spontaneo...
-
-- **Source:** [ArXiv AI](https://arxiv.org/abs/2603.28928)
-- **Tags:** #AI Safety
-- **Temps de lecture:** 1 min
-- **Publié:** 01/04/2026 12:00:00
-
----
-
-#### Enhancing Policy Learning with World-Action Model
-
-> arXiv:2603.28955v1 Announce Type: new 
-Abstract: This paper presents the World-Action Model (WAM), an action-regularized world model that jointly reasons over future visual observations and the action...
-
-- **Source:** [ArXiv AI](https://arxiv.org/abs/2603.28955)
-- **Tags:** #Computer Vision
-- **Temps de lecture:** 1 min
-- **Publié:** 01/04/2026 12:00:00
-
----
-
-#### Mimosa Framework: Toward Evolving Multi-Agent Systems for Scientific Research
-
-> arXiv:2603.28986v1 Announce Type: new 
-Abstract: Current Autonomous Scientific Research (ASR) systems, despite leveraging large language models (LLMs) and agentic architectures, remain constrained by ...
-
-- **Source:** [ArXiv AI](https://arxiv.org/abs/2603.28986)
-- **Tags:** #Meta, #LLM
-- **Temps de lecture:** 1 min
-- **Publié:** 01/04/2026 12:00:00
-
----
-
-#### Shifting to AI model customization is an architectural imperative
-
-> In the early days of large language models (LLMs), we grew accustomed to massive 10x jumps in reasoning and coding capability with every new model iteration. Today, those jumps have flattened into inc...
-
-- **Source:** [MIT Technology Review](https://www.technologyreview.com/2026/03/31/1134762/shifting-to-ai-model-customization-is-an-architectural-imperative/)
-- **Tags:** #LLM
-- **Temps de lecture:** 1 min
-- **Publié:** 31/03/2026 22:12:50
-
----
-
-#### The Download: AI health tools and the Pentagon’s Anthropic culture war
-
-> This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. There are more AI health tools than ever—but how well do they ...
-
-- **Source:** [MIT Technology Review](https://www.technologyreview.com/2026/03/31/1134934/the-download-testing-ai-health-tools-pentagon-anthropic-culture-war-backfires/)
-- **Tags:** #OpenAI, #Anthropic, #Healthcare
-- **Temps de lecture:** 1 min
-- **Publié:** 31/03/2026 20:10:00
-
----
-
-#### AI benchmarks are broken. Here’s what we need instead.
-
-> For decades, artificial intelligence has been evaluated through the question of whether machines outperform humans. From chess to advanced math, from coding to essay writing, the performance of AI mod...
-
-- **Source:** [MIT Technology Review](https://www.technologyreview.com/2026/03/31/1134833/ai-benchmarks-are-broken-heres-what-we-need-instead/)
-- **Tags:** 
-- **Temps de lecture:** 1 min
-- **Publié:** 31/03/2026 20:01:08
 
 ---
 
