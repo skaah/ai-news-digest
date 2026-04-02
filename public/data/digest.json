@@ -1,8 +1,62 @@
 {
-  "date": "2026-04-02T16:07:43.113Z",
+  "date": "2026-04-02T22:02:26.322Z",
   "articles": [
     {
-      "id": "01smwmmj0jxn7yzdtxm9dqu",
+      "id": "3sy585wjxqyh71p7dle9",
+      "title": "OpenAI acquires TBPN, the buzzy founder-led business talk show",
+      "summary": "TBPN, Silicon Valley's cult-favorite tech podcast, will operate independently, even as it's overseen by chief political operative Chris Lehane....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "OpenAI"
+      ],
+      "publishedAt": "Thu, 02 Apr 2026 19:21:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/04/02/openai-acquires-tbpn-the-buzzy-founder-led-business-talk-show/"
+    },
+    {
+      "id": "c4j62xgmwu7mynazq2arog",
+      "title": "Microsoft takes on AI rivals with three new foundational models",
+      "summary": "MAI released models that can transcribe voice into text as well as generate audio and images after the group's formation six months ago....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Computer Vision"
+      ],
+      "publishedAt": "Thu, 02 Apr 2026 16:48:16 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/04/02/microsoft-takes-on-ai-rivals-with-three-new-foundational-models/"
+    },
+    {
+      "id": "7oky8nyj6bj6fzeu9zxqtg",
+      "title": "Google now lets you direct avatars through prompts in its Vids app",
+      "summary": "Google is adding a way to customize and instruct avatars for video creation in the Vids app....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Google"
+      ],
+      "publishedAt": "Thu, 02 Apr 2026 16:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/04/02/google-now-lets-you-direct-avatars-through-prompts-in-its-vids-app/"
+    },
+    {
+      "id": "2dcktxjo4sjbfqudgzowf",
       "title": "The Download: plastic’s problem with fuel prices, and SpaceX’s blockbuster IPO",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Fuel prices are soaring. Plastic could be next.  As the war in...",
       "source": {
@@ -18,7 +72,25 @@
       "originalUrl": "https://www.technologyreview.com/2026/04/02/1135049/the-download-plastic-problem-fuel-prices-spacex-ipo/"
     },
     {
-      "id": "godpgdkf7tlww7cbd22u09",
+      "id": "dj6sdi8ojf5fb5ppiixlo",
+      "title": "OpenAI acquires TBPN",
+      "summary": "OpenAI acquires TBPN to accelerate global conversations around AI and support independent media, expanding dialogue with builders, businesses, and the broader tech community....",
+      "source": {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
+      },
+      "category": "Product",
+      "tags": [
+        "OpenAI"
+      ],
+      "publishedAt": "Thu, 02 Apr 2026 10:30:00 GMT",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
+      "readTime": 1,
+      "originalUrl": "https://openai.com/index/openai-acquires-tbpn"
+    },
+    {
+      "id": "0w4xfjaq2bgqbgegf9oegww",
       "title": "Fuel prices are soaring. Plastic could be next.",
       "summary": "As the war in Iran continues to engulf the Middle East and the Strait of Hormuz stays closed, one of the most visible global economic ripple effects has been fossil-fuel prices. In particular, you can...",
       "source": {
@@ -34,7 +106,26 @@
       "originalUrl": "https://www.technologyreview.com/2026/04/02/1135045/plastic-economic-effects/"
     },
     {
-      "id": "bim4jn993jo9ixw9va81q4",
+      "id": "d6iioagr2jw3rn33rvm7f8",
+      "title": "Codex now offers more flexible pricing for teams",
+      "summary": "Codex now includes pay-as-you-go pricing for ChatGPT Business and Enterprise, providing teams a more flexible option to start and scale adoption....",
+      "source": {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
+      },
+      "category": "Product",
+      "tags": [
+        "OpenAI",
+        "LLM"
+      ],
+      "publishedAt": "Thu, 02 Apr 2026 10:00:00 GMT",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
+      "readTime": 1,
+      "originalUrl": "https://openai.com/index/codex-flexible-pricing-for-teams"
+    },
+    {
+      "id": "kh12fnuxukiza9zdcrfbso",
       "title": "How Emotion Shapes the Behavior of LLMs and Agents: A Mechanistic Study",
       "summary": "arXiv:2604.00005v1 Announce Type: new \nAbstract: Emotion plays an important role in human cognition and performance. Motivated by this, we investigate whether analogous emotional signals can shape the...",
       "source": {
@@ -53,7 +144,7 @@
       "originalUrl": "https://arxiv.org/abs/2604.00005"
     },
     {
-      "id": "bokft1net3pm3ih4urobm8",
+      "id": "r33inudk7m611ra25v9ta",
       "title": "One Panel Does Not Fit All: Case-Adaptive Multi-Agent Deliberation for Clinical Prediction",
       "summary": "arXiv:2604.00085v1 Announce Type: new \nAbstract: Large language models applied to clinical prediction exhibit case-level heterogeneity: simple cases yield consistent outputs, while complex cases produ...",
       "source": {
@@ -73,7 +164,7 @@
       "originalUrl": "https://arxiv.org/abs/2604.00085"
     },
     {
-      "id": "xrq3iak8nkrfsc1z2dvhx6",
+      "id": "3z6b9xc33vr9tuwxohz1x",
       "title": "Open, Reliable, and Collective: A Community-Driven Framework for Tool-Using AI Agents",
       "summary": "arXiv:2604.00137v1 Announce Type: new \nAbstract: Tool-integrated LLMs can retrieve, compute, and take real-world actions via external tools, but reliability remains a key bottleneck. We argue that fai...",
       "source": {
@@ -91,7 +182,7 @@
       "originalUrl": "https://arxiv.org/abs/2604.00137"
     },
     {
-      "id": "1n788t6zfxe3d9wyf5dkuj",
+      "id": "ppss1ygx2j54d7gnelnrc",
       "title": "A Safety-Aware Role-Orchestrated Multi-Agent LLM Framework for Behavioral Health Communication Simulation",
       "summary": "arXiv:2604.00249v1 Announce Type: new \nAbstract: Single-agent large language model (LLM) systems struggle to simultaneously support diverse conversational functions and maintain safety in behavioral h...",
       "source": {
@@ -111,7 +202,7 @@
       "originalUrl": "https://arxiv.org/abs/2604.00249"
     },
     {
-      "id": "0uztq6b9uffp6nj0rvo5fbr",
+      "id": "9zvbed1tyxbtgpgt0jgdsf",
       "title": "Human-in-the-Loop Control of Objective Drift in LLM-Assisted Computer Science Education",
       "summary": "arXiv:2604.00281v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly embedded in computer science education through AI-assisted programming tools, yet such workflows often ex...",
       "source": {
@@ -131,7 +222,7 @@
       "originalUrl": "https://arxiv.org/abs/2604.00281"
     },
     {
-      "id": "ofgmp6vxm1i3b7pyhjy1o",
+      "id": "j4ltgxg2z1nsoxnu162wq",
       "title": "Anthropic took down thousands of GitHub repos trying to yank its leaked source code — a move the company says was an accident",
       "summary": "Anthropic executives said it was an accident and retracted the bulk of the takedown notices....",
       "source": {
@@ -149,7 +240,7 @@
       "originalUrl": "https://techcrunch.com/2026/04/01/anthropic-took-down-thousands-of-github-repos-trying-to-yank-its-leaked-source-code-a-move-the-company-says-was-an-accident/"
     },
     {
-      "id": "asjrfgm4xn6qwx7zpgscw",
+      "id": "mckktca93xgtacnk15nocl",
       "title": "Meta’s natural gas binge could power South Dakota",
       "summary": "Meta's upcoming Hyperion AI data center will be powered by 10 new natural gas plants....",
       "source": {
@@ -167,42 +258,7 @@
       "originalUrl": "https://techcrunch.com/2026/04/01/metas-natural-gas-binge-could-power-south-dakota/"
     },
     {
-      "id": "q9bd92nd5kr16520ayp7jy",
-      "title": "Cognichip wants AI to design the chips that power AI, and just raised $60M to try",
-      "summary": "The firm says it can reduce the cost of chip development by more than 75% and cut the timeline by more than half....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Startup",
-        "Hardware"
-      ],
-      "publishedAt": "Wed, 01 Apr 2026 16:00:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/04/01/cognichip-wants-ai-to-design-the-chips-that-power-ai-and-just-raised-60m-to-try/"
-    },
-    {
-      "id": "3f8a28kgbu2buo2q6fjfqc",
-      "title": "Less than a month: StrictlyVC San Francisco brings leaders from TDK Ventures, Replit, and more together",
-      "summary": "StrictlyVC San Francisco brings leaders from TDK Ventures, Replit, and more together on April 30. Space is limited. Register here for your pass....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Wed, 01 Apr 2026 14:00:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/04/01/join-the-first-strictlyvc-of-2026-in-sf-with-leaders-from-tdk-ventures-and-replits-co-founder/"
-    },
-    {
-      "id": "egf3i8vgr0dwy3yneeseoi",
+      "id": "p3pl5q8fcwoq19ul07nba",
       "title": "The Download: gig workers training humanoids, and better AI benchmarks",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The gig workers who are training humanoid robots at home  When...",
       "source": {
@@ -221,7 +277,7 @@
       "originalUrl": "https://www.technologyreview.com/2026/04/01/1134993/the-download-gig-workers-training-humanoids-better-ai-benchmarks/"
     },
     {
-      "id": "kxhcls0ygfs9hdmj6d4tp",
+      "id": "m8tr3d6lk8cq589xfo0cnd",
       "title": "The gig workers who are training humanoid robots at home",
       "summary": "When Zeus, a medical student living in a hilltop city in central Nigeria, returns to his studio apartment from a long day at the hospital, he turns on his ring light, straps his iPhone to his forehead...",
       "source": {
@@ -240,7 +296,7 @@
       "originalUrl": "https://www.technologyreview.com/2026/04/01/1134863/humanoid-data-training-gig-economy-2026-breakthrough-technology/"
     },
     {
-      "id": "5n6alsboj7me57f5uh9b1d",
+      "id": "ftkala63b7hvbuzmk4677",
       "title": "Gradient Labs gives every bank customer an AI account manager",
       "summary": "Gradient Labs uses GPT-4.1 and GPT-5.4 mini and nano to power AI agents that automate banking support workflows with low latency and high reliability....",
       "source": {
@@ -260,26 +316,7 @@
       "originalUrl": "https://openai.com/index/gradient-labs"
     },
     {
-      "id": "w0uqwa8npmijkk4x6tl7l",
-      "title": "Mercor says it was hit by cyberattack tied to compromise of open source LiteLLM project",
-      "summary": "The AI recruiting startup confirmed a security incident after an extortion hacking crew took credit for stealing data from the company's systems....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "LLM",
-        "Startup"
-      ],
-      "publishedAt": "Wed, 01 Apr 2026 01:42:59 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/"
-    },
-    {
-      "id": "a28zj5p9t64gx3uqpu3uw",
+      "id": "233sm61op0pdaiamqlk77b",
       "title": "Shifting to AI model customization is an architectural imperative",
       "summary": "In the early days of large language models (LLMs), we grew accustomed to massive 10x jumps in reasoning and coding capability with every new model iteration. Today, those jumps have flattened into inc...",
       "source": {
@@ -297,7 +334,7 @@
       "originalUrl": "https://www.technologyreview.com/2026/03/31/1134762/shifting-to-ai-model-customization-is-an-architectural-imperative/"
     },
     {
-      "id": "tsupcdv6tcfnijvubn9yin",
+      "id": "l73l5wp4i7p44ks65ncteo",
       "title": "Accelerating the next phase of AI",
       "summary": "OpenAI raises $122 billion in new funding to expand frontier AI globally, invest in next-generation compute, and meet growing demand for ChatGPT, Codex, and enterprise AI....",
       "source": {
@@ -317,7 +354,7 @@
       "originalUrl": "https://openai.com/index/accelerating-the-next-phase-ai"
     },
     {
-      "id": "zt8l83epwqpsy15vtr693",
+      "id": "d7kr4pnw0nbowvjdlqi4gd",
       "title": "Helping disaster response teams turn AI into action across Asia",
       "summary": "AI for Disaster Response in Asia: OpenAI Workshop with Gates Foundation...",
       "source": {
@@ -333,46 +370,8 @@
       "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
       "readTime": 1,
       "originalUrl": "https://openai.com/index/helping-disaster-response-teams-asia"
-    },
-    {
-      "id": "m8qyt9r9g3bke95ms0e2gh",
-      "title": "STADLER reshapes knowledge work at a 230-year-old company",
-      "summary": "Learn how STADLER uses ChatGPT to transform knowledge work, saving time and accelerating productivity across 650 employees....",
-      "source": {
-        "name": "OpenAI Blog",
-        "url": "https://openai.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
-      },
-      "category": "Product",
-      "tags": [
-        "OpenAI",
-        "LLM"
-      ],
-      "publishedAt": "Fri, 27 Mar 2026 22:00:00 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
-      "readTime": 1,
-      "originalUrl": "https://openai.com/index/stadler"
-    },
-    {
-      "id": "uek9is441l8zj1xdch6kz",
-      "title": "Inside our approach to the Model Spec",
-      "summary": "Learn how OpenAI’s Model Spec serves as a public framework for model behavior, balancing safety, user freedom, and accountability as AI systems advance....",
-      "source": {
-        "name": "OpenAI Blog",
-        "url": "https://openai.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
-      },
-      "category": "Product",
-      "tags": [
-        "OpenAI",
-        "AI Safety"
-      ],
-      "publishedAt": "Wed, 25 Mar 2026 10:00:00 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
-      "readTime": 1,
-      "originalUrl": "https://openai.com/index/our-approach-to-the-model-spec"
     }
   ],
   "totalArticles": 25,
-  "lastUpdated": "2026-04-02T16:07:43.113Z"
+  "lastUpdated": "2026-04-02T22:02:26.322Z"
 }

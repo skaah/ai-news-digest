@@ -9,12 +9,69 @@ Votre quotidien des avancées en Intelligence Artificielle.
 ## 📊 Statistiques
 
 - **25** articles collectés
-- Dernière mise à jour: 03/04/2026 00:07:43
+- Dernière mise à jour: 03/04/2026 06:02:26
 - Sources: TechCrunch, The Verge, OpenAI, Anthropic, Google AI, ArXiv, MIT Tech Review
 
 ---
 
 ## 📰 Articles du jour
+
+### 🏭 Industry
+
+#### OpenAI acquires TBPN, the buzzy founder-led business talk show
+
+> TBPN, Silicon Valley's cult-favorite tech podcast, will operate independently, even as it's overseen by chief political operative Chris Lehane....
+
+- **Source:** [TechCrunch AI](https://techcrunch.com/2026/04/02/openai-acquires-tbpn-the-buzzy-founder-led-business-talk-show/)
+- **Tags:** #OpenAI
+- **Temps de lecture:** 1 min
+- **Publié:** 03/04/2026 03:21:00
+
+---
+
+#### Microsoft takes on AI rivals with three new foundational models
+
+> MAI released models that can transcribe voice into text as well as generate audio and images after the group's formation six months ago....
+
+- **Source:** [TechCrunch AI](https://techcrunch.com/2026/04/02/microsoft-takes-on-ai-rivals-with-three-new-foundational-models/)
+- **Tags:** #Computer Vision
+- **Temps de lecture:** 1 min
+- **Publié:** 03/04/2026 00:48:16
+
+---
+
+#### Google now lets you direct avatars through prompts in its Vids app
+
+> Google is adding a way to customize and instruct avatars for video creation in the Vids app....
+
+- **Source:** [TechCrunch AI](https://techcrunch.com/2026/04/02/google-now-lets-you-direct-avatars-through-prompts-in-its-vids-app/)
+- **Tags:** #Google
+- **Temps de lecture:** 1 min
+- **Publié:** 03/04/2026 00:00:00
+
+---
+
+#### Anthropic took down thousands of GitHub repos trying to yank its leaked source code — a move the company says was an accident
+
+> Anthropic executives said it was an accident and retracted the bulk of the takedown notices....
+
+- **Source:** [TechCrunch AI](https://techcrunch.com/2026/04/01/anthropic-took-down-thousands-of-github-repos-trying-to-yank-its-leaked-source-code-a-move-the-company-says-was-an-accident/)
+- **Tags:** #Anthropic
+- **Temps de lecture:** 1 min
+- **Publié:** 02/04/2026 06:12:13
+
+---
+
+#### Meta’s natural gas binge could power South Dakota
+
+> Meta's upcoming Hyperion AI data center will be powered by 10 new natural gas plants....
+
+- **Source:** [TechCrunch AI](https://techcrunch.com/2026/04/01/metas-natural-gas-binge-could-power-south-dakota/)
+- **Tags:** #Meta
+- **Temps de lecture:** 1 min
+- **Publié:** 02/04/2026 02:35:36
+
+---
 
 ### 🔬 Research
 
@@ -133,64 +190,29 @@ Abstract: Large language models (LLMs) are increasingly embedded in computer sci
 
 ---
 
-### 🏭 Industry
-
-#### Anthropic took down thousands of GitHub repos trying to yank its leaked source code — a move the company says was an accident
-
-> Anthropic executives said it was an accident and retracted the bulk of the takedown notices....
-
-- **Source:** [TechCrunch AI](https://techcrunch.com/2026/04/01/anthropic-took-down-thousands-of-github-repos-trying-to-yank-its-leaked-source-code-a-move-the-company-says-was-an-accident/)
-- **Tags:** #Anthropic
-- **Temps de lecture:** 1 min
-- **Publié:** 02/04/2026 06:12:13
-
----
-
-#### Meta’s natural gas binge could power South Dakota
-
-> Meta's upcoming Hyperion AI data center will be powered by 10 new natural gas plants....
-
-- **Source:** [TechCrunch AI](https://techcrunch.com/2026/04/01/metas-natural-gas-binge-could-power-south-dakota/)
-- **Tags:** #Meta
-- **Temps de lecture:** 1 min
-- **Publié:** 02/04/2026 02:35:36
-
----
-
-#### Cognichip wants AI to design the chips that power AI, and just raised $60M to try
-
-> The firm says it can reduce the cost of chip development by more than 75% and cut the timeline by more than half....
-
-- **Source:** [TechCrunch AI](https://techcrunch.com/2026/04/01/cognichip-wants-ai-to-design-the-chips-that-power-ai-and-just-raised-60m-to-try/)
-- **Tags:** #Startup, #Hardware
-- **Temps de lecture:** 1 min
-- **Publié:** 02/04/2026 00:00:00
-
----
-
-#### Less than a month: StrictlyVC San Francisco brings leaders from TDK Ventures, Replit, and more together
-
-> StrictlyVC San Francisco brings leaders from TDK Ventures, Replit, and more together on April 30. Space is limited. Register here for your pass....
-
-- **Source:** [TechCrunch AI](https://techcrunch.com/2026/04/01/join-the-first-strictlyvc-of-2026-in-sf-with-leaders-from-tdk-ventures-and-replits-co-founder/)
-- **Tags:** 
-- **Temps de lecture:** 1 min
-- **Publié:** 01/04/2026 22:00:00
-
----
-
-#### Mercor says it was hit by cyberattack tied to compromise of open source LiteLLM project
-
-> The AI recruiting startup confirmed a security incident after an extortion hacking crew took credit for stealing data from the company's systems....
-
-- **Source:** [TechCrunch AI](https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/)
-- **Tags:** #LLM, #Startup
-- **Temps de lecture:** 1 min
-- **Publié:** 01/04/2026 09:42:59
-
----
-
 ### 🚀 Product
+
+#### OpenAI acquires TBPN
+
+> OpenAI acquires TBPN to accelerate global conversations around AI and support independent media, expanding dialogue with builders, businesses, and the broader tech community....
+
+- **Source:** [OpenAI Blog](https://openai.com/index/openai-acquires-tbpn)
+- **Tags:** #OpenAI
+- **Temps de lecture:** 1 min
+- **Publié:** 02/04/2026 18:30:00
+
+---
+
+#### Codex now offers more flexible pricing for teams
+
+> Codex now includes pay-as-you-go pricing for ChatGPT Business and Enterprise, providing teams a more flexible option to start and scale adoption....
+
+- **Source:** [OpenAI Blog](https://openai.com/index/codex-flexible-pricing-for-teams)
+- **Tags:** #OpenAI, #LLM
+- **Temps de lecture:** 1 min
+- **Publié:** 02/04/2026 18:00:00
+
+---
 
 #### Gradient Labs gives every bank customer an AI account manager
 
@@ -222,28 +244,6 @@ Abstract: Large language models (LLMs) are increasingly embedded in computer sci
 - **Tags:** #OpenAI
 - **Temps de lecture:** 1 min
 - **Publié:** 30/03/2026 06:15:00
-
----
-
-#### STADLER reshapes knowledge work at a 230-year-old company
-
-> Learn how STADLER uses ChatGPT to transform knowledge work, saving time and accelerating productivity across 650 employees....
-
-- **Source:** [OpenAI Blog](https://openai.com/index/stadler)
-- **Tags:** #OpenAI, #LLM
-- **Temps de lecture:** 1 min
-- **Publié:** 28/03/2026 06:00:00
-
----
-
-#### Inside our approach to the Model Spec
-
-> Learn how OpenAI’s Model Spec serves as a public framework for model behavior, balancing safety, user freedom, and accountability as AI systems advance....
-
-- **Source:** [OpenAI Blog](https://openai.com/index/our-approach-to-the-model-spec)
-- **Tags:** #OpenAI, #AI Safety
-- **Temps de lecture:** 1 min
-- **Publié:** 25/03/2026 18:00:00
 
 ---
 
