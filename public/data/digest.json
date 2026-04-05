@@ -1,8 +1,81 @@
 {
-  "date": "2026-04-04T04:02:28.298Z",
+  "date": "2026-04-05T22:02:26.991Z",
   "articles": [
     {
-      "id": "pu7axuvhrhi1hr9y31ulf",
+      "id": "9ogdexrgg09lvfl1k7bocq",
+      "title": "Copilot is ‘for entertainment purposes only,’ according to Microsoft’s terms of use",
+      "summary": "AI skeptics aren’t the only ones warning users not to unthinkingly trust models’ outputs — that’s what the AI companies say themselves in their terms of service....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Hardware"
+      ],
+      "publishedAt": "Sun, 05 Apr 2026 18:51:37 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/04/05/copilot-is-for-entertainment-purposes-only-according-to-microsofts-terms-of-service/"
+    },
+    {
+      "id": "k9z5aeqiq4bdi08z90t0m",
+      "title": "Can orbital data centers help justify a massive valuation for SpaceX?",
+      "summary": "On the latest episode of TechCrunch’s Equity podcast, we debated Elon Musk's vision for data centers in space....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Computer Vision"
+      ],
+      "publishedAt": "Sun, 05 Apr 2026 15:40:58 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/04/05/can-orbital-data-centers-help-justify-a-massive-valuation-for-spacex/"
+    },
+    {
+      "id": "gjzpx4xyfgap2or8u551b",
+      "title": "In Japan, the robot isn’t coming for your job; it’s filling the one nobody wants",
+      "summary": "Driven by labor shortages, Japan is pushing physical AI from pilot projects into real-world deployment....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Robotics"
+      ],
+      "publishedAt": "Sun, 05 Apr 2026 14:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/"
+    },
+    {
+      "id": "n9t364o23y2l3rou4b2hj",
+      "title": "Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage",
+      "summary": "It’s about to become more expensive for Claude Code subscribers to use Anthropic’s coding assistant with OpenClaw and other third-party tools....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Anthropic",
+        "LLM"
+      ],
+      "publishedAt": "Sat, 04 Apr 2026 16:32:22 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/04/04/anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-support/"
+    },
+    {
+      "id": "1h90l38vgcdjya6j0s1d7dp",
       "title": "Anthropic is having a moment in the private markets; SpaceX could spoil the party",
       "summary": "Glen Anderson, president of Rainmaker Securities, says the secondary market for private shares has never been more active — with Anthropic the hottest trade around, OpenAI losing ground, and SpaceX's ...",
       "source": {
@@ -21,82 +94,7 @@
       "originalUrl": "https://techcrunch.com/2026/04/03/anthropic-is-having-a-moment-in-the-private-markets-spacex-could-spoil-the-party/"
     },
     {
-      "id": "yka5uy7idjuuj9xgflbj",
-      "title": "OpenAI executive shuffle includes new role for COO Brad Lightcap to lead ‘special projects’",
-      "summary": "In addition to Lightcap's new role, OpenAI CMO Kate Rouch will be stepping away from the company to focus on cancer recovery, with a plan to return when her health allows....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "OpenAI",
-        "Healthcare"
-      ],
-      "publishedAt": "Fri, 03 Apr 2026 20:35:34 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/04/03/openai-executive-shuffle-new-roles-coo-brad-lightcap-fidji-simo-kate-rouch/"
-    },
-    {
-      "id": "xoxcx4fyjhqmud9xsoju",
-      "title": "Anthropic buys biotech startup Coefficient Bio in $400M deal: Reports",
-      "summary": "Anthropic has purchased the stealth biotech AI startup Coefficient Bio in a $400 million stock deal, according to The Information and Eric Newcomer....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Anthropic",
-        "Startup"
-      ],
-      "publishedAt": "Fri, 03 Apr 2026 20:28:40 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/04/03/anthropic-buys-biotech-startup-coefficient-bio-in-400m-deal-reports/"
-    },
-    {
-      "id": "h0pilfyig5xwerp82hoz",
-      "title": "Anthropic ramps up its political activities with a new PAC",
-      "summary": "With the midterms right around the corner, the new group is positioned to back candidates who support the AI company's policy agenda....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Anthropic"
-      ],
-      "publishedAt": "Fri, 03 Apr 2026 20:22:18 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/04/03/anthropic-ramps-up-its-political-activities-with-a-new-pac/"
-    },
-    {
-      "id": "0cn2zi0nv8olfxcodxbt4lr",
-      "title": "AI companies are building huge natural gas plants to power data centers. What could go wrong?",
-      "summary": "Meta, Microsoft, and Google are all betting big on new natural gas power plants to run their AI data centers. They may regret it....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Google",
-        "Meta"
-      ],
-      "publishedAt": "Fri, 03 Apr 2026 19:48:22 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/04/03/ai-companies-are-building-huge-natural-gas-plants-to-power-data-centers-what-could-go-wrong/"
-    },
-    {
-      "id": "3hwuc0og2dnuqw3wyb0epi",
+      "id": "tnyi3koj7rv9d3kqdfm8g",
       "title": "Four things we’d need to put data centers in space",
       "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. In January, Elon Musk...",
       "source": {
@@ -114,7 +112,7 @@
       "originalUrl": "https://www.technologyreview.com/2026/04/03/1135073/four-things-wed-need-to-put-data-centers-in-space/"
     },
     {
-      "id": "g1akl1d52zpv4b9o7eq7b",
+      "id": "3qry0ujbmepvzfxxe9szw8",
       "title": "The Download: plastic’s problem with fuel prices, and SpaceX’s blockbuster IPO",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Fuel prices are soaring. Plastic could be next.  As the war in...",
       "source": {
@@ -130,7 +128,7 @@
       "originalUrl": "https://www.technologyreview.com/2026/04/02/1135049/the-download-plastic-problem-fuel-prices-spacex-ipo/"
     },
     {
-      "id": "uui2djfxo4a7heovb55t0p",
+      "id": "1kv2eoh0hc0m8g5560man8",
       "title": "OpenAI acquires TBPN",
       "summary": "OpenAI acquires TBPN to accelerate global conversations around AI and support independent media, expanding dialogue with builders, businesses, and the broader tech community....",
       "source": {
@@ -148,7 +146,7 @@
       "originalUrl": "https://openai.com/index/openai-acquires-tbpn"
     },
     {
-      "id": "ig5yonxhen8dbmv4lsmr9",
+      "id": "svfgekb53sdi9o3gysqucl",
       "title": "Fuel prices are soaring. Plastic could be next.",
       "summary": "As the war in Iran continues to engulf the Middle East and the Strait of Hormuz stays closed, one of the most visible global economic ripple effects has been fossil-fuel prices. In particular, you can...",
       "source": {
@@ -164,7 +162,7 @@
       "originalUrl": "https://www.technologyreview.com/2026/04/02/1135045/plastic-economic-effects/"
     },
     {
-      "id": "qz3pybd7znruq5ukl79jkd",
+      "id": "co05f5hj9i8p2jo28jb4k",
       "title": "Codex now offers more flexible pricing for teams",
       "summary": "Codex now includes pay-as-you-go pricing for ChatGPT Business and Enterprise, providing teams a more flexible option to start and scale adoption....",
       "source": {
@@ -183,7 +181,7 @@
       "originalUrl": "https://openai.com/index/codex-flexible-pricing-for-teams"
     },
     {
-      "id": "btazv6bk4k7e5idrw7n38a",
+      "id": "otihgz2l3lerql393bnjd",
       "title": "The Download: gig workers training humanoids, and better AI benchmarks",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The gig workers who are training humanoid robots at home  When...",
       "source": {
@@ -202,7 +200,7 @@
       "originalUrl": "https://www.technologyreview.com/2026/04/01/1134993/the-download-gig-workers-training-humanoids-better-ai-benchmarks/"
     },
     {
-      "id": "ziukaf3t03dq0vlvxprhrj",
+      "id": "9gj5eohtw6l89x40wtzuus",
       "title": "The gig workers who are training humanoid robots at home",
       "summary": "When Zeus, a medical student living in a hilltop city in central Nigeria, returns to his studio apartment from a long day at the hospital, he turns on his ring light, straps his iPhone to his forehead...",
       "source": {
@@ -221,7 +219,7 @@
       "originalUrl": "https://www.technologyreview.com/2026/04/01/1134863/humanoid-data-training-gig-economy-2026-breakthrough-technology/"
     },
     {
-      "id": "blqggicmg3sitv79n6ljt",
+      "id": "yl0foxtzxayfjvmmy80j",
       "title": "Gradient Labs gives every bank customer an AI account manager",
       "summary": "Gradient Labs uses GPT-4.1 and GPT-5.4 mini and nano to power AI agents that automate banking support workflows with low latency and high reliability....",
       "source": {
@@ -241,7 +239,7 @@
       "originalUrl": "https://openai.com/index/gradient-labs"
     },
     {
-      "id": "0k6buvivx7eoj1cilcxxpir",
+      "id": "ffck1xv3kc88q6v2mlt5l",
       "title": "Accelerating the next phase of AI",
       "summary": "OpenAI raises $122 billion in new funding to expand frontier AI globally, invest in next-generation compute, and meet growing demand for ChatGPT, Codex, and enterprise AI....",
       "source": {
@@ -261,7 +259,7 @@
       "originalUrl": "https://openai.com/index/accelerating-the-next-phase-ai"
     },
     {
-      "id": "2m7lfer7ys70256nfgu21ao",
+      "id": "780gqvs4o4hesjqx0itd6",
       "title": "Helping disaster response teams turn AI into action across Asia",
       "summary": "AI for Disaster Response in Asia: OpenAI Workshop with Gates Foundation...",
       "source": {
@@ -279,7 +277,7 @@
       "originalUrl": "https://openai.com/index/helping-disaster-response-teams-asia"
     },
     {
-      "id": "yld8kikd7hbyjdrac0bjo8",
+      "id": "04q3dkrb6kywm7g35xucin",
       "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
       "summary": "Railway, a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B fundi...",
       "source": {
@@ -301,7 +299,7 @@
       "originalUrl": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
     },
     {
-      "id": "7bj61xqrx0n58ujf95z92s",
+      "id": "ifekxw5rgxizw2zekb3bi",
       "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
       "summary": "The artificial intelligence coding revolution comes with a catch: it's expensive.\nClaude Code, Anthropic's terminal-based AI agent that can write, debug, and deploy code autonomously, has captured the...",
       "source": {
@@ -323,7 +321,7 @@
       "originalUrl": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free"
     },
     {
-      "id": "c7o4xng2unb1obvohjvncq",
+      "id": "nhubpw2ljelv2875523lj",
       "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
       "summary": "Alfred Wahlforss was running out of options. His startup, Listen Labs, needed to hire over 100 engineers, but competing against Mark Zuckerberg's $100 million offers seemed impossible. So he spent $5,...",
       "source": {
@@ -345,7 +343,7 @@
       "originalUrl": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai"
     },
     {
-      "id": "f7p684om6cp7kveq9olyg",
+      "id": "ihmik2vhlete3jd3cm63",
       "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
       "summary": "Salesforce on Tuesday launched an entirely rebuilt version of Slackbot, the company's workplace assistant, transforming it from a simple notification tool into what executives describe as a fully powe...",
       "source": {
@@ -367,7 +365,7 @@
       "originalUrl": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and"
     },
     {
-      "id": "jnuc1cwm57a2ypy7qdjvi",
+      "id": "so72wsy8ei65ng8dfjwa",
       "title": "Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required",
       "summary": "Anthropic released Cowork on Monday, a new AI agent capability that extends the power of its wildly successful Claude Code tool to non-technical users — and according to company insiders, the team bui...",
       "source": {
@@ -390,5 +388,5 @@
     }
   ],
   "totalArticles": 20,
-  "lastUpdated": "2026-04-04T04:02:28.298Z"
+  "lastUpdated": "2026-04-05T22:02:26.991Z"
 }

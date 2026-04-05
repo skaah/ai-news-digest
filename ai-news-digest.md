@@ -1,6 +1,6 @@
 # 🤖 AI News Digest
 
-> **Digest du samedi 4 avril 2026**
+> **Digest du lundi 6 avril 2026**
 
 Votre quotidien des avancées en Intelligence Artificielle.
 
@@ -9,7 +9,7 @@ Votre quotidien des avancées en Intelligence Artificielle.
 ## 📊 Statistiques
 
 - **20** articles collectés
-- Dernière mise à jour: 04/04/2026 12:02:28
+- Dernière mise à jour: 06/04/2026 06:02:26
 - Sources: TechCrunch, The Verge, OpenAI, Anthropic, Google AI, ArXiv, MIT Tech Review
 
 ---
@@ -17,6 +17,50 @@ Votre quotidien des avancées en Intelligence Artificielle.
 ## 📰 Articles du jour
 
 ### 🏭 Industry
+
+#### Copilot is ‘for entertainment purposes only,’ according to Microsoft’s terms of use
+
+> AI skeptics aren’t the only ones warning users not to unthinkingly trust models’ outputs — that’s what the AI companies say themselves in their terms of service....
+
+- **Source:** [TechCrunch AI](https://techcrunch.com/2026/04/05/copilot-is-for-entertainment-purposes-only-according-to-microsofts-terms-of-service/)
+- **Tags:** #Hardware
+- **Temps de lecture:** 1 min
+- **Publié:** 06/04/2026 02:51:37
+
+---
+
+#### Can orbital data centers help justify a massive valuation for SpaceX?
+
+> On the latest episode of TechCrunch’s Equity podcast, we debated Elon Musk's vision for data centers in space....
+
+- **Source:** [TechCrunch AI](https://techcrunch.com/2026/04/05/can-orbital-data-centers-help-justify-a-massive-valuation-for-spacex/)
+- **Tags:** #Computer Vision
+- **Temps de lecture:** 1 min
+- **Publié:** 05/04/2026 23:40:58
+
+---
+
+#### In Japan, the robot isn’t coming for your job; it’s filling the one nobody wants
+
+> Driven by labor shortages, Japan is pushing physical AI from pilot projects into real-world deployment....
+
+- **Source:** [TechCrunch AI](https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/)
+- **Tags:** #Robotics
+- **Temps de lecture:** 1 min
+- **Publié:** 05/04/2026 22:00:00
+
+---
+
+#### Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage
+
+> It’s about to become more expensive for Claude Code subscribers to use Anthropic’s coding assistant with OpenClaw and other third-party tools....
+
+- **Source:** [TechCrunch AI](https://techcrunch.com/2026/04/04/anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-support/)
+- **Tags:** #Anthropic, #LLM
+- **Temps de lecture:** 1 min
+- **Publié:** 05/04/2026 00:32:22
+
+---
 
 #### Anthropic is having a moment in the private markets; SpaceX could spoil the party
 
@@ -26,50 +70,6 @@ Votre quotidien des avancées en Intelligence Artificielle.
 - **Tags:** #OpenAI, #Anthropic
 - **Temps de lecture:** 1 min
 - **Publié:** 04/04/2026 09:31:00
-
----
-
-#### OpenAI executive shuffle includes new role for COO Brad Lightcap to lead ‘special projects’
-
-> In addition to Lightcap's new role, OpenAI CMO Kate Rouch will be stepping away from the company to focus on cancer recovery, with a plan to return when her health allows....
-
-- **Source:** [TechCrunch AI](https://techcrunch.com/2026/04/03/openai-executive-shuffle-new-roles-coo-brad-lightcap-fidji-simo-kate-rouch/)
-- **Tags:** #OpenAI, #Healthcare
-- **Temps de lecture:** 1 min
-- **Publié:** 04/04/2026 04:35:34
-
----
-
-#### Anthropic buys biotech startup Coefficient Bio in $400M deal: Reports
-
-> Anthropic has purchased the stealth biotech AI startup Coefficient Bio in a $400 million stock deal, according to The Information and Eric Newcomer....
-
-- **Source:** [TechCrunch AI](https://techcrunch.com/2026/04/03/anthropic-buys-biotech-startup-coefficient-bio-in-400m-deal-reports/)
-- **Tags:** #Anthropic, #Startup
-- **Temps de lecture:** 1 min
-- **Publié:** 04/04/2026 04:28:40
-
----
-
-#### Anthropic ramps up its political activities with a new PAC
-
-> With the midterms right around the corner, the new group is positioned to back candidates who support the AI company's policy agenda....
-
-- **Source:** [TechCrunch AI](https://techcrunch.com/2026/04/03/anthropic-ramps-up-its-political-activities-with-a-new-pac/)
-- **Tags:** #Anthropic
-- **Temps de lecture:** 1 min
-- **Publié:** 04/04/2026 04:22:18
-
----
-
-#### AI companies are building huge natural gas plants to power data centers. What could go wrong?
-
-> Meta, Microsoft, and Google are all betting big on new natural gas power plants to run their AI data centers. They may regret it....
-
-- **Source:** [TechCrunch AI](https://techcrunch.com/2026/04/03/ai-companies-are-building-huge-natural-gas-plants-to-power-data-centers-what-could-go-wrong/)
-- **Tags:** #Google, #Meta
-- **Temps de lecture:** 1 min
-- **Publié:** 04/04/2026 03:48:22
 
 ---
 
