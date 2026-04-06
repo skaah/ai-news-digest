@@ -8,72 +8,75 @@ Votre quotidien des avancées en Intelligence Artificielle.
 
 ## 📊 Statistiques
 
-- **20** articles collectés
-- Dernière mise à jour: 06/04/2026 06:02:26
+- **25** articles collectés
+- Dernière mise à jour: 06/04/2026 18:03:25
 - Sources: TechCrunch, The Verge, OpenAI, Anthropic, Google AI, ArXiv, MIT Tech Review
 
 ---
 
 ## 📰 Articles du jour
 
-### 🏭 Industry
-
-#### Copilot is ‘for entertainment purposes only,’ according to Microsoft’s terms of use
-
-> AI skeptics aren’t the only ones warning users not to unthinkingly trust models’ outputs — that’s what the AI companies say themselves in their terms of service....
-
-- **Source:** [TechCrunch AI](https://techcrunch.com/2026/04/05/copilot-is-for-entertainment-purposes-only-according-to-microsofts-terms-of-service/)
-- **Tags:** #Hardware
-- **Temps de lecture:** 1 min
-- **Publié:** 06/04/2026 02:51:37
-
----
-
-#### Can orbital data centers help justify a massive valuation for SpaceX?
-
-> On the latest episode of TechCrunch’s Equity podcast, we debated Elon Musk's vision for data centers in space....
-
-- **Source:** [TechCrunch AI](https://techcrunch.com/2026/04/05/can-orbital-data-centers-help-justify-a-massive-valuation-for-spacex/)
-- **Tags:** #Computer Vision
-- **Temps de lecture:** 1 min
-- **Publié:** 05/04/2026 23:40:58
-
----
-
-#### In Japan, the robot isn’t coming for your job; it’s filling the one nobody wants
-
-> Driven by labor shortages, Japan is pushing physical AI from pilot projects into real-world deployment....
-
-- **Source:** [TechCrunch AI](https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/)
-- **Tags:** #Robotics
-- **Temps de lecture:** 1 min
-- **Publié:** 05/04/2026 22:00:00
-
----
-
-#### Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage
-
-> It’s about to become more expensive for Claude Code subscribers to use Anthropic’s coding assistant with OpenClaw and other third-party tools....
-
-- **Source:** [TechCrunch AI](https://techcrunch.com/2026/04/04/anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-support/)
-- **Tags:** #Anthropic, #LLM
-- **Temps de lecture:** 1 min
-- **Publié:** 05/04/2026 00:32:22
-
----
-
-#### Anthropic is having a moment in the private markets; SpaceX could spoil the party
-
-> Glen Anderson, president of Rainmaker Securities, says the secondary market for private shares has never been more active — with Anthropic the hottest trade around, OpenAI losing ground, and SpaceX's ...
-
-- **Source:** [TechCrunch AI](https://techcrunch.com/2026/04/03/anthropic-is-having-a-moment-in-the-private-markets-spacex-could-spoil-the-party/)
-- **Tags:** #OpenAI, #Anthropic
-- **Temps de lecture:** 1 min
-- **Publié:** 04/04/2026 09:31:00
-
----
-
 ### 🔬 Research
+
+#### Holos: A Web-Scale LLM-Based Multi-Agent System for the Agentic Web
+
+> arXiv:2604.02334v1 Announce Type: new 
+Abstract: As large language models (LLM)-driven agents transition from isolated task solvers to persistent digital entities, the emergence of the Agentic Web, an...
+
+- **Source:** [ArXiv AI](https://arxiv.org/abs/2604.02334)
+- **Tags:** #LLM
+- **Temps de lecture:** 1 min
+- **Publié:** 06/04/2026 12:00:00
+
+---
+
+#### Xpertbench: Expert Level Tasks with Rubrics-Based Evaluation
+
+> arXiv:2604.02368v1 Announce Type: new 
+Abstract: As Large Language Models (LLMs) exhibit plateauing performance on conventional benchmarks, a pivotal challenge persists: evaluating their proficiency i...
+
+- **Source:** [ArXiv AI](https://arxiv.org/abs/2604.02368)
+- **Tags:** #LLM, #Healthcare, #Finance
+- **Temps de lecture:** 1 min
+- **Publié:** 06/04/2026 12:00:00
+
+---
+
+#### Compositional Neuro-Symbolic Reasoning
+
+> arXiv:2604.02434v1 Announce Type: new 
+Abstract: We study structured abstraction-based reasoning for the Abstraction and Reasoning Corpus (ARC) and compare its generalization to test-time approaches. ...
+
+- **Source:** [ArXiv AI](https://arxiv.org/abs/2604.02434)
+- **Tags:** #Meta, #LLM
+- **Temps de lecture:** 1 min
+- **Publié:** 06/04/2026 12:00:00
+
+---
+
+#### Understanding the Nature of Generative AI as Threshold Logic in High-Dimensional Space
+
+> arXiv:2604.02476v1 Announce Type: new 
+Abstract: This paper examines the role of threshold logic in understanding generative artificial intelligence. Threshold functions, originally studied in the 196...
+
+- **Source:** [ArXiv AI](https://arxiv.org/abs/2604.02476)
+- **Tags:** 
+- **Temps de lecture:** 1 min
+- **Publié:** 06/04/2026 12:00:00
+
+---
+
+#### AIVV: Neuro-Symbolic LLM Agent-Integrated Verification and Validation for Trustworthy Autonomous Systems
+
+> arXiv:2604.02478v1 Announce Type: new 
+Abstract: Deep learning models excel at detecting anomaly patterns in normal data. However, they do not provide a direct solution for anomaly classification and ...
+
+- **Source:** [ArXiv AI](https://arxiv.org/abs/2604.02478)
+- **Tags:** #LLM
+- **Temps de lecture:** 1 min
+- **Publié:** 06/04/2026 12:00:00
+
+---
 
 #### Four things we’d need to put data centers in space
 
@@ -132,6 +135,17 @@ Votre quotidien des avancées en Intelligence Artificielle.
 
 ### 🚀 Product
 
+#### Industrial policy for the Intelligence Age
+
+> Explore our ambitious, people-first industrial policy ideas for the AI era—focused on expanding opportunity, sharing prosperity, and building resilient institutions as advanced intelligence evolves....
+
+- **Source:** [OpenAI Blog](https://openai.com/index/industrial-policy-for-the-intelligence-age)
+- **Tags:** 
+- **Temps de lecture:** 1 min
+- **Publié:** 06/04/2026 10:30:00
+
+---
+
 #### OpenAI acquires TBPN
 
 > OpenAI acquires TBPN to accelerate global conversations around AI and support independent media, expanding dialogue with builders, businesses, and the broader tech community....
@@ -176,72 +190,60 @@ Votre quotidien des avancées en Intelligence Artificielle.
 
 ---
 
-#### Helping disaster response teams turn AI into action across Asia
+### 🏭 Industry
 
-> AI for Disaster Response in Asia: OpenAI Workshop with Gates Foundation...
+#### Copilot is ‘for entertainment purposes only,’ according to Microsoft’s terms of use
 
-- **Source:** [OpenAI Blog](https://openai.com/index/helping-disaster-response-teams-asia)
-- **Tags:** #OpenAI
+> AI skeptics aren’t the only ones warning users not to unthinkingly trust models’ outputs — that’s what the AI companies say themselves in their terms of service....
+
+- **Source:** [TechCrunch AI](https://techcrunch.com/2026/04/05/copilot-is-for-entertainment-purposes-only-according-to-microsofts-terms-of-service/)
+- **Tags:** #Hardware
 - **Temps de lecture:** 1 min
-- **Publié:** 30/03/2026 06:15:00
+- **Publié:** 06/04/2026 02:51:37
 
 ---
 
-### 💰 Funding
+#### Can orbital data centers help justify a massive valuation for SpaceX?
 
-#### Railway secures $100 million to challenge AWS with AI-native cloud infrastructure
+> On the latest episode of TechCrunch’s Equity podcast, we debated Elon Musk's vision for data centers in space....
 
-> Railway, a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B fundi...
-
-- **Source:** [VentureBeat AI](https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud)
-- **Tags:** #OpenAI, #Anthropic, #Google, #LLM, #Computer Vision
+- **Source:** [TechCrunch AI](https://techcrunch.com/2026/04/05/can-orbital-data-centers-help-justify-a-massive-valuation-for-spacex/)
+- **Tags:** #Computer Vision
 - **Temps de lecture:** 1 min
-- **Publié:** 22/01/2026 22:00:00
+- **Publié:** 05/04/2026 23:40:58
 
 ---
 
-#### Claude Code costs up to $200 a month. Goose does the same thing for free.
+#### In Japan, the robot isn’t coming for your job; it’s filling the one nobody wants
 
-> The artificial intelligence coding revolution comes with a catch: it's expensive.
-Claude Code, Anthropic's terminal-based AI agent that can write, debug, and deploy code autonomously, has captured the...
+> Driven by labor shortages, Japan is pushing physical AI from pilot projects into real-world deployment....
 
-- **Source:** [VentureBeat AI](https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free)
-- **Tags:** #OpenAI, #Anthropic, #Google, #Meta, #LLM
+- **Source:** [TechCrunch AI](https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/)
+- **Tags:** #Robotics
 - **Temps de lecture:** 1 min
-- **Publié:** 19/01/2026 22:00:00
+- **Publié:** 05/04/2026 22:00:00
 
 ---
 
-#### Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews
+#### Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage
 
-> Alfred Wahlforss was running out of options. His startup, Listen Labs, needed to hire over 100 engineers, but competing against Mark Zuckerberg's $100 million offers seemed impossible. So he spent $5,...
+> It’s about to become more expensive for Claude Code subscribers to use Anthropic’s coding assistant with OpenClaw and other third-party tools....
 
-- **Source:** [VentureBeat AI](https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai)
-- **Tags:** #Anthropic, #LLM, #Computer Vision, #Startup, #Healthcare
+- **Source:** [TechCrunch AI](https://techcrunch.com/2026/04/04/anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-support/)
+- **Tags:** #Anthropic, #LLM
 - **Temps de lecture:** 1 min
-- **Publié:** 16/01/2026 22:01:00
+- **Publié:** 05/04/2026 00:32:22
 
 ---
 
-#### Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI
+#### Anthropic is having a moment in the private markets; SpaceX could spoil the party
 
-> Salesforce on Tuesday launched an entirely rebuilt version of Slackbot, the company's workplace assistant, transforming it from a simple notification tool into what executives describe as a fully powe...
+> Glen Anderson, president of Rainmaker Securities, says the secondary market for private shares has never been more active — with Anthropic the hottest trade around, OpenAI losing ground, and SpaceX's ...
 
-- **Source:** [VentureBeat AI](https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and)
-- **Tags:** #OpenAI, #Anthropic, #Google, #LLM, #Computer Vision
+- **Source:** [TechCrunch AI](https://techcrunch.com/2026/04/03/anthropic-is-having-a-moment-in-the-private-markets-spacex-could-spoil-the-party/)
+- **Tags:** #OpenAI, #Anthropic
 - **Temps de lecture:** 1 min
-- **Publié:** 13/01/2026 21:00:00
-
----
-
-#### Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required
-
-> Anthropic released Cowork on Monday, a new AI agent capability that extends the power of its wildly successful Claude Code tool to non-technical users — and according to company insiders, the team bui...
-
-- **Source:** [VentureBeat AI](https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no)
-- **Tags:** #OpenAI, #Anthropic, #Google, #LLM, #AI Safety
-- **Temps de lecture:** 1 min
-- **Publié:** 12/01/2026 19:30:00
+- **Publié:** 04/04/2026 09:31:00
 
 ---
 
