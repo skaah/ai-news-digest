@@ -1,6 +1,6 @@
 # 🤖 AI News Digest
 
-> **Digest du lundi 6 avril 2026**
+> **Digest du mardi 7 avril 2026**
 
 Votre quotidien des avancées en Intelligence Artificielle.
 
@@ -9,72 +9,151 @@ Votre quotidien des avancées en Intelligence Artificielle.
 ## 📊 Statistiques
 
 - **25** articles collectés
-- Dernière mise à jour: 06/04/2026 18:03:25
+- Dernière mise à jour: 07/04/2026 18:03:35
 - Sources: TechCrunch, The Verge, OpenAI, Anthropic, Google AI, ArXiv, MIT Tech Review
 
 ---
 
 ## 📰 Articles du jour
 
-### 🔬 Research
+### 🏭 Industry
 
-#### Holos: A Web-Scale LLM-Based Multi-Agent System for the Agentic Web
+#### AI startup Rocket offers vibe McKinsey-style reports at a fraction of the cost
 
-> arXiv:2604.02334v1 Announce Type: new 
-Abstract: As large language models (LLM)-driven agents transition from isolated task solvers to persistent digital entities, the emergence of the Agentic Web, an...
+> Rocket's new AI platform combines strategy, product building, and competitive intelligence, aiming to move beyond code generation....
 
-- **Source:** [ArXiv AI](https://arxiv.org/abs/2604.02334)
-- **Tags:** #LLM
+- **Source:** [TechCrunch AI](https://techcrunch.com/2026/04/06/indian-startup-rocket-wants-its-ai-to-do-mckinsey-style-consulting-at-a-fraction-of-the-cost/)
+- **Tags:** #Startup
 - **Temps de lecture:** 1 min
-- **Publié:** 06/04/2026 12:00:00
+- **Publié:** 07/04/2026 13:30:00
 
 ---
 
-#### Xpertbench: Expert Level Tasks with Rubrics-Based Evaluation
+#### OpenAI alums have been quietly investing from a new, potentially $100M fund 
 
-> arXiv:2604.02368v1 Announce Type: new 
-Abstract: As Large Language Models (LLMs) exhibit plateauing performance on conventional benchmarks, a pivotal challenge persists: evaluating their proficiency i...
+> Zero Shot, a new venture capital fund with deep ties to OpenAI, is aiming to raise $100 million for its first fund. It has already written some checks....
 
-- **Source:** [ArXiv AI](https://arxiv.org/abs/2604.02368)
-- **Tags:** #LLM, #Healthcare, #Finance
+- **Source:** [TechCrunch AI](https://techcrunch.com/2026/04/06/openai-alums-have-been-quietly-investing-from-a-new-potentially-100m-fund/)
+- **Tags:** #OpenAI, #Startup
 - **Temps de lecture:** 1 min
-- **Publié:** 06/04/2026 12:00:00
+- **Publié:** 07/04/2026 05:54:26
 
 ---
 
-#### Compositional Neuro-Symbolic Reasoning
+#### Google quietly launched an AI dictation app that works offline
 
-> arXiv:2604.02434v1 Announce Type: new 
-Abstract: We study structured abstraction-based reasoning for the Abstraction and Reasoning Corpus (ARC) and compare its generalization to test-time approaches. ...
+> Google's new offline-first dictation app uses Gemma AI models to take on the apps like Wispr Flow....
 
-- **Source:** [ArXiv AI](https://arxiv.org/abs/2604.02434)
-- **Tags:** #Meta, #LLM
+- **Source:** [TechCrunch AI](https://techcrunch.com/2026/04/06/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/)
+- **Tags:** #Google
 - **Temps de lecture:** 1 min
-- **Publié:** 06/04/2026 12:00:00
+- **Publié:** 07/04/2026 02:54:33
 
 ---
 
-#### Understanding the Nature of Generative AI as Threshold Logic in High-Dimensional Space
+#### Iran threatens ‘Stargate’ AI data centers
 
-> arXiv:2604.02476v1 Announce Type: new 
-Abstract: This paper examines the role of threshold logic in understanding generative artificial intelligence. Threshold functions, originally studied in the 196...
+> Iran said it will target U.S.-linked data centers with new missile strikes, as the war between the U.S. and Iran escalates....
 
-- **Source:** [ArXiv AI](https://arxiv.org/abs/2604.02476)
+- **Source:** [TechCrunch AI](https://techcrunch.com/2026/04/06/iran-threatens-stargate-ai-data-centers/)
 - **Tags:** 
 - **Temps de lecture:** 1 min
-- **Publié:** 06/04/2026 12:00:00
+- **Publié:** 07/04/2026 02:06:28
 
 ---
 
-#### AIVV: Neuro-Symbolic LLM Agent-Integrated Verification and Validation for Trustworthy Autonomous Systems
+#### OpenAI’s vision for the AI economy: public wealth funds, robot taxes, and a four-day workweek
 
-> arXiv:2604.02478v1 Announce Type: new 
-Abstract: Deep learning models excel at detecting anomaly patterns in normal data. However, they do not provide a direct solution for anomaly classification and ...
+> OpenAI proposes taxes on AI profits, public wealth funds, and expanded safety nets to address job loss and inequality, blending redistribution with capitalism as policymakers debate AI’s economic impa...
 
-- **Source:** [ArXiv AI](https://arxiv.org/abs/2604.02478)
-- **Tags:** #LLM
+- **Source:** [TechCrunch AI](https://techcrunch.com/2026/04/06/openais-vision-for-the-ai-economy-public-wealth-funds-robot-taxes-and-a-four-day-work-week/)
+- **Tags:** #OpenAI, #Computer Vision, #Robotics, #AI Safety
 - **Temps de lecture:** 1 min
-- **Publié:** 06/04/2026 12:00:00
+- **Publié:** 06/04/2026 23:55:55
+
+---
+
+### 🔬 Research
+
+#### IC3-Evolve: Proof-/Witness-Gated Offline LLM-Driven Heuristic Evolution for IC3 Hardware Model Checking
+
+> arXiv:2604.03232v1 Announce Type: new 
+Abstract: IC3, also known as property-directed reachability (PDR), is a commonly-used algorithm for hardware safety model checking. It checks if a state transiti...
+
+- **Source:** [ArXiv AI](https://arxiv.org/abs/2604.03232)
+- **Tags:** #LLM, #AI Safety
+- **Temps de lecture:** 1 min
+- **Publié:** 07/04/2026 12:00:00
+
+---
+
+#### Structural Segmentation of the Minimum Set Cover Problem: Exploiting Universe Decomposability for Metaheuristic Optimization
+
+> arXiv:2604.03234v1 Announce Type: new 
+Abstract: The Minimum Set Cover Problem (MSCP) is a classical NP-hard combinatorial optimization problem with numerous applications in science and engineering. A...
+
+- **Source:** [ArXiv AI](https://arxiv.org/abs/2604.03234)
+- **Tags:** #Meta
+- **Temps de lecture:** 1 min
+- **Publié:** 07/04/2026 12:00:00
+
+---
+
+#### To Throw a Stone with Six Birds: On Agents and Agenthood
+
+> arXiv:2604.03239v1 Announce Type: new 
+Abstract: Six Birds Theory (SBT) treats macroscopic objects as induced closures rather than primitives. Empirical discussions of agency often conflate persistenc...
+
+- **Source:** [ArXiv AI](https://arxiv.org/abs/2604.03239)
+- **Tags:** 
+- **Temps de lecture:** 1 min
+- **Publié:** 07/04/2026 12:00:00
+
+---
+
+#### Position: Science of AI Evaluation Requires Item-level Benchmark Data
+
+> arXiv:2604.03244v1 Announce Type: new 
+Abstract: AI evaluations have become the primary evidence for deploying generative AI systems across high-stakes domains. However, current evaluation paradigms o...
+
+- **Source:** [ArXiv AI](https://arxiv.org/abs/2604.03244)
+- **Tags:** 
+- **Temps de lecture:** 1 min
+- **Publié:** 07/04/2026 12:00:00
+
+---
+
+#### Toward Full Autonomous Laboratory Instrumentation Control with Large Language Models
+
+> arXiv:2604.03286v1 Announce Type: new 
+Abstract: The control of complex laboratory instrumentation often requires significant programming expertise, creating a barrier for researchers lacking computat...
+
+- **Source:** [ArXiv AI](https://arxiv.org/abs/2604.03286)
+- **Tags:** #OpenAI, #LLM
+- **Temps de lecture:** 1 min
+- **Publié:** 07/04/2026 12:00:00
+
+---
+
+#### The one piece of data that could actually shed light on your job and AI
+
+> This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Within Silicon Valley’s orbit, an AI-fueled jobs apocalypse is...
+
+- **Source:** [MIT Technology Review](https://www.technologyreview.com/2026/04/06/1135187/the-one-piece-of-data-that-could-actually-shed-light-on-your-job-and-ai/)
+- **Tags:** #Anthropic
+- **Temps de lecture:** 1 min
+- **Publié:** 07/04/2026 00:33:35
+
+---
+
+#### AI is changing how small online sellers decide what to make
+
+> For years Mike McClary sold the Guardian LTE Flashlight, a heavy-duty black model, online through his small outdoor brand. The product, designed for brightness and durability, became one of his most p...
+
+- **Source:** [MIT Technology Review](https://www.technologyreview.com/2026/04/06/1135118/ai-online-seller-alibaba-accio/)
+- **Tags:** 
+- **Temps de lecture:** 1 min
+- **Publié:** 06/04/2026 19:00:00
 
 ---
 
@@ -111,29 +190,18 @@ Abstract: Deep learning models excel at detecting anomaly patterns in normal dat
 
 ---
 
-#### The Download: gig workers training humanoids, and better AI benchmarks
-
-> This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The gig workers who are training humanoid robots at home  When...
-
-- **Source:** [MIT Technology Review](https://www.technologyreview.com/2026/04/01/1134993/the-download-gig-workers-training-humanoids-better-ai-benchmarks/)
-- **Tags:** #Robotics, #Healthcare
-- **Temps de lecture:** 1 min
-- **Publié:** 01/04/2026 20:10:00
-
----
-
-#### The gig workers who are training humanoid robots at home
-
-> When Zeus, a medical student living in a hilltop city in central Nigeria, returns to his studio apartment from a long day at the hospital, he turns on his ring light, straps his iPhone to his forehead...
-
-- **Source:** [MIT Technology Review](https://www.technologyreview.com/2026/04/01/1134863/humanoid-data-training-gig-economy-2026-breakthrough-technology/)
-- **Tags:** #Robotics, #Healthcare
-- **Temps de lecture:** 1 min
-- **Publié:** 01/04/2026 19:00:00
-
----
-
 ### 🚀 Product
+
+#### Announcing the OpenAI Safety Fellowship
+
+> A pilot program to support independent safety and alignment research and develop the next generation of talent...
+
+- **Source:** [OpenAI Blog](https://openai.com/index/introducing-openai-safety-fellowship)
+- **Tags:** #OpenAI, #AI Safety
+- **Temps de lecture:** 1 min
+- **Publié:** 06/04/2026 18:00:00
+
+---
 
 #### Industrial policy for the Intelligence Age
 
@@ -176,74 +244,6 @@ Abstract: Deep learning models excel at detecting anomaly patterns in normal dat
 - **Tags:** #OpenAI, #LLM, #Finance
 - **Temps de lecture:** 1 min
 - **Publié:** 01/04/2026 10:00:00
-
----
-
-#### Accelerating the next phase of AI
-
-> OpenAI raises $122 billion in new funding to expand frontier AI globally, invest in next-generation compute, and meet growing demand for ChatGPT, Codex, and enterprise AI....
-
-- **Source:** [OpenAI Blog](https://openai.com/index/accelerating-the-next-phase-ai)
-- **Tags:** #OpenAI, #LLM, #Startup
-- **Temps de lecture:** 1 min
-- **Publié:** 31/03/2026 21:00:00
-
----
-
-### 🏭 Industry
-
-#### Copilot is ‘for entertainment purposes only,’ according to Microsoft’s terms of use
-
-> AI skeptics aren’t the only ones warning users not to unthinkingly trust models’ outputs — that’s what the AI companies say themselves in their terms of service....
-
-- **Source:** [TechCrunch AI](https://techcrunch.com/2026/04/05/copilot-is-for-entertainment-purposes-only-according-to-microsofts-terms-of-service/)
-- **Tags:** #Hardware
-- **Temps de lecture:** 1 min
-- **Publié:** 06/04/2026 02:51:37
-
----
-
-#### Can orbital data centers help justify a massive valuation for SpaceX?
-
-> On the latest episode of TechCrunch’s Equity podcast, we debated Elon Musk's vision for data centers in space....
-
-- **Source:** [TechCrunch AI](https://techcrunch.com/2026/04/05/can-orbital-data-centers-help-justify-a-massive-valuation-for-spacex/)
-- **Tags:** #Computer Vision
-- **Temps de lecture:** 1 min
-- **Publié:** 05/04/2026 23:40:58
-
----
-
-#### In Japan, the robot isn’t coming for your job; it’s filling the one nobody wants
-
-> Driven by labor shortages, Japan is pushing physical AI from pilot projects into real-world deployment....
-
-- **Source:** [TechCrunch AI](https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/)
-- **Tags:** #Robotics
-- **Temps de lecture:** 1 min
-- **Publié:** 05/04/2026 22:00:00
-
----
-
-#### Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage
-
-> It’s about to become more expensive for Claude Code subscribers to use Anthropic’s coding assistant with OpenClaw and other third-party tools....
-
-- **Source:** [TechCrunch AI](https://techcrunch.com/2026/04/04/anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-support/)
-- **Tags:** #Anthropic, #LLM
-- **Temps de lecture:** 1 min
-- **Publié:** 05/04/2026 00:32:22
-
----
-
-#### Anthropic is having a moment in the private markets; SpaceX could spoil the party
-
-> Glen Anderson, president of Rainmaker Securities, says the secondary market for private shares has never been more active — with Anthropic the hottest trade around, OpenAI losing ground, and SpaceX's ...
-
-- **Source:** [TechCrunch AI](https://techcrunch.com/2026/04/03/anthropic-is-having-a-moment-in-the-private-markets-spacex-could-spoil-the-party/)
-- **Tags:** #OpenAI, #Anthropic
-- **Temps de lecture:** 1 min
-- **Publié:** 04/04/2026 09:31:00
 
 ---
 

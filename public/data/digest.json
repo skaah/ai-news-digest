@@ -1,28 +1,28 @@
 {
-  "date": "2026-04-06T10:03:25.453Z",
+  "date": "2026-04-07T10:03:35.112Z",
   "articles": [
     {
-      "id": "vnffu6xnvjmapkvd1jzcnt",
-      "title": "Holos: A Web-Scale LLM-Based Multi-Agent System for the Agentic Web",
-      "summary": "arXiv:2604.02334v1 Announce Type: new \nAbstract: As large language models (LLM)-driven agents transition from isolated task solvers to persistent digital entities, the emergence of the Agentic Web, an...",
+      "id": "m9gm75ie3vllpf29gt90mn",
+      "title": "AI startup Rocket offers vibe McKinsey-style reports at a fraction of the cost",
+      "summary": "Rocket's new AI platform combines strategy, product building, and competitive intelligence, aiming to move beyond code generation....",
       "source": {
-        "name": "ArXiv AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
       },
-      "category": "Research",
+      "category": "Industry",
       "tags": [
-        "LLM"
+        "Startup"
       ],
-      "publishedAt": "Mon, 06 Apr 2026 00:00:00 -0400",
+      "publishedAt": "Tue, 07 Apr 2026 05:30:00 +0000",
       "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
       "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2604.02334"
+      "originalUrl": "https://techcrunch.com/2026/04/06/indian-startup-rocket-wants-its-ai-to-do-mckinsey-style-consulting-at-a-fraction-of-the-cost/"
     },
     {
-      "id": "5r3208c3jiiiaa9m4c132h",
-      "title": "Xpertbench: Expert Level Tasks with Rubrics-Based Evaluation",
-      "summary": "arXiv:2604.02368v1 Announce Type: new \nAbstract: As Large Language Models (LLMs) exhibit plateauing performance on conventional benchmarks, a pivotal challenge persists: evaluating their proficiency i...",
+      "id": "tftge067629m4u2i54o6p",
+      "title": "IC3-Evolve: Proof-/Witness-Gated Offline LLM-Driven Heuristic Evolution for IC3 Hardware Model Checking",
+      "summary": "arXiv:2604.03232v1 Announce Type: new \nAbstract: IC3, also known as property-directed reachability (PDR), is a commonly-used algorithm for hardware safety model checking. It checks if a state transiti...",
       "source": {
         "name": "ArXiv AI",
         "url": "https://arxiv.org",
@@ -31,18 +31,17 @@
       "category": "Research",
       "tags": [
         "LLM",
-        "Healthcare",
-        "Finance"
+        "AI Safety"
       ],
-      "publishedAt": "Mon, 06 Apr 2026 00:00:00 -0400",
+      "publishedAt": "Tue, 07 Apr 2026 00:00:00 -0400",
       "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
       "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2604.02368"
+      "originalUrl": "https://arxiv.org/abs/2604.03232"
     },
     {
-      "id": "rt3ymyo91778bpeyw7l8l",
-      "title": "Compositional Neuro-Symbolic Reasoning",
-      "summary": "arXiv:2604.02434v1 Announce Type: new \nAbstract: We study structured abstraction-based reasoning for the Abstraction and Reasoning Corpus (ARC) and compare its generalization to test-time approaches. ...",
+      "id": "b05egrkzcurifbjuvefka",
+      "title": "Structural Segmentation of the Minimum Set Cover Problem: Exploiting Universe Decomposability for Metaheuristic Optimization",
+      "summary": "arXiv:2604.03234v1 Announce Type: new \nAbstract: The Minimum Set Cover Problem (MSCP) is a classical NP-hard combinatorial optimization problem with numerous applications in science and engineering. A...",
       "source": {
         "name": "ArXiv AI",
         "url": "https://arxiv.org",
@@ -50,18 +49,17 @@
       },
       "category": "Research",
       "tags": [
-        "Meta",
-        "LLM"
+        "Meta"
       ],
-      "publishedAt": "Mon, 06 Apr 2026 00:00:00 -0400",
+      "publishedAt": "Tue, 07 Apr 2026 00:00:00 -0400",
       "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
       "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2604.02434"
+      "originalUrl": "https://arxiv.org/abs/2604.03234"
     },
     {
-      "id": "r82amopfj0bl5dp7kf10o",
-      "title": "Understanding the Nature of Generative AI as Threshold Logic in High-Dimensional Space",
-      "summary": "arXiv:2604.02476v1 Announce Type: new \nAbstract: This paper examines the role of threshold logic in understanding generative artificial intelligence. Threshold functions, originally studied in the 196...",
+      "id": "91117pm2hcu9hmwogy2zoc",
+      "title": "To Throw a Stone with Six Birds: On Agents and Agenthood",
+      "summary": "arXiv:2604.03239v1 Announce Type: new \nAbstract: Six Birds Theory (SBT) treats macroscopic objects as induced closures rather than primitives. Empirical discussions of agency often conflate persistenc...",
       "source": {
         "name": "ArXiv AI",
         "url": "https://arxiv.org",
@@ -69,15 +67,31 @@
       },
       "category": "Research",
       "tags": [],
-      "publishedAt": "Mon, 06 Apr 2026 00:00:00 -0400",
+      "publishedAt": "Tue, 07 Apr 2026 00:00:00 -0400",
       "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
       "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2604.02476"
+      "originalUrl": "https://arxiv.org/abs/2604.03239"
     },
     {
-      "id": "7e3xnnotuz369fzndpqddw",
-      "title": "AIVV: Neuro-Symbolic LLM Agent-Integrated Verification and Validation for Trustworthy Autonomous Systems",
-      "summary": "arXiv:2604.02478v1 Announce Type: new \nAbstract: Deep learning models excel at detecting anomaly patterns in normal data. However, they do not provide a direct solution for anomaly classification and ...",
+      "id": "5zb2r56bd32nstjzn8md2",
+      "title": "Position: Science of AI Evaluation Requires Item-level Benchmark Data",
+      "summary": "arXiv:2604.03244v1 Announce Type: new \nAbstract: AI evaluations have become the primary evidence for deploying generative AI systems across high-stakes domains. However, current evaluation paradigms o...",
+      "source": {
+        "name": "ArXiv AI",
+        "url": "https://arxiv.org",
+        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
+      },
+      "category": "Research",
+      "tags": [],
+      "publishedAt": "Tue, 07 Apr 2026 00:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
+      "readTime": 1,
+      "originalUrl": "https://arxiv.org/abs/2604.03244"
+    },
+    {
+      "id": "sg5rwh6jf6j2nvg89xtphu",
+      "title": "Toward Full Autonomous Laboratory Instrumentation Control with Large Language Models",
+      "summary": "arXiv:2604.03286v1 Announce Type: new \nAbstract: The control of complex laboratory instrumentation often requires significant programming expertise, creating a barrier for researchers lacking computat...",
       "source": {
         "name": "ArXiv AI",
         "url": "https://arxiv.org",
@@ -85,15 +99,143 @@
       },
       "category": "Research",
       "tags": [
+        "OpenAI",
         "LLM"
       ],
-      "publishedAt": "Mon, 06 Apr 2026 00:00:00 -0400",
+      "publishedAt": "Tue, 07 Apr 2026 00:00:00 -0400",
       "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
       "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2604.02478"
+      "originalUrl": "https://arxiv.org/abs/2604.03286"
     },
     {
-      "id": "21o4vvadu2efal5hjg1os4",
+      "id": "jyge3e5nq87on6grcp20si",
+      "title": "OpenAI alums have been quietly investing from a new, potentially $100M fund ",
+      "summary": "Zero Shot, a new venture capital fund with deep ties to OpenAI, is aiming to raise $100 million for its first fund. It has already written some checks....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "OpenAI",
+        "Startup"
+      ],
+      "publishedAt": "Mon, 06 Apr 2026 21:54:26 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/04/06/openai-alums-have-been-quietly-investing-from-a-new-potentially-100m-fund/"
+    },
+    {
+      "id": "35xhdix2qof871vzmlk7to",
+      "title": "Google quietly launched an AI dictation app that works offline",
+      "summary": "Google's new offline-first dictation app uses Gemma AI models to take on the apps like Wispr Flow....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Google"
+      ],
+      "publishedAt": "Mon, 06 Apr 2026 18:54:33 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/04/06/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/"
+    },
+    {
+      "id": "7askk26xwrddrizt3hyzz",
+      "title": "Iran threatens ‘Stargate’ AI data centers",
+      "summary": "Iran said it will target U.S.-linked data centers with new missile strikes, as the war between the U.S. and Iran escalates....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Mon, 06 Apr 2026 18:06:28 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/04/06/iran-threatens-stargate-ai-data-centers/"
+    },
+    {
+      "id": "wp1c5uqbhihcpq9qvxwqqe",
+      "title": "The one piece of data that could actually shed light on your job and AI",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Within Silicon Valley’s orbit, an AI-fueled jobs apocalypse is...",
+      "source": {
+        "name": "MIT Technology Review",
+        "url": "https://www.technologyreview.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.technologyreview.com&sz=64"
+      },
+      "category": "Research",
+      "tags": [
+        "Anthropic"
+      ],
+      "publishedAt": "Mon, 06 Apr 2026 16:33:35 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.technologyreview.com/2026/04/06/1135187/the-one-piece-of-data-that-could-actually-shed-light-on-your-job-and-ai/"
+    },
+    {
+      "id": "9x1jbcvij7qx25pg4wme8",
+      "title": "OpenAI’s vision for the AI economy: public wealth funds, robot taxes, and a four-day workweek",
+      "summary": "OpenAI proposes taxes on AI profits, public wealth funds, and expanded safety nets to address job loss and inequality, blending redistribution with capitalism as policymakers debate AI’s economic impa...",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "OpenAI",
+        "Computer Vision",
+        "Robotics",
+        "AI Safety"
+      ],
+      "publishedAt": "Mon, 06 Apr 2026 15:55:55 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/04/06/openais-vision-for-the-ai-economy-public-wealth-funds-robot-taxes-and-a-four-day-work-week/"
+    },
+    {
+      "id": "gt1wdknavsn015apnklgwd1",
+      "title": "AI is changing how small online sellers decide what to make",
+      "summary": "For years Mike McClary sold the Guardian LTE Flashlight, a heavy-duty black model, online through his small outdoor brand. The product, designed for brightness and durability, became one of his most p...",
+      "source": {
+        "name": "MIT Technology Review",
+        "url": "https://www.technologyreview.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.technologyreview.com&sz=64"
+      },
+      "category": "Research",
+      "tags": [],
+      "publishedAt": "Mon, 06 Apr 2026 11:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.technologyreview.com/2026/04/06/1135118/ai-online-seller-alibaba-accio/"
+    },
+    {
+      "id": "u84jf43j93fyii77t9n8cj",
+      "title": "Announcing the OpenAI Safety Fellowship",
+      "summary": "A pilot program to support independent safety and alignment research and develop the next generation of talent...",
+      "source": {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
+      },
+      "category": "Product",
+      "tags": [
+        "OpenAI",
+        "AI Safety"
+      ],
+      "publishedAt": "Mon, 06 Apr 2026 10:00:00 GMT",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
+      "readTime": 1,
+      "originalUrl": "https://openai.com/index/introducing-openai-safety-fellowship"
+    },
+    {
+      "id": "tt5hufsqrgoruepfa27lph",
       "title": "Industrial policy for the Intelligence Age",
       "summary": "Explore our ambitious, people-first industrial policy ideas for the AI era—focused on expanding opportunity, sharing prosperity, and building resilient institutions as advanced intelligence evolves....",
       "source": {
@@ -109,99 +251,7 @@
       "originalUrl": "https://openai.com/index/industrial-policy-for-the-intelligence-age"
     },
     {
-      "id": "pfui8t1mzse2e49bcdpdpa",
-      "title": "Copilot is ‘for entertainment purposes only,’ according to Microsoft’s terms of use",
-      "summary": "AI skeptics aren’t the only ones warning users not to unthinkingly trust models’ outputs — that’s what the AI companies say themselves in their terms of service....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Hardware"
-      ],
-      "publishedAt": "Sun, 05 Apr 2026 18:51:37 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/04/05/copilot-is-for-entertainment-purposes-only-according-to-microsofts-terms-of-service/"
-    },
-    {
-      "id": "1gcauh94e0smuaawjasou9",
-      "title": "Can orbital data centers help justify a massive valuation for SpaceX?",
-      "summary": "On the latest episode of TechCrunch’s Equity podcast, we debated Elon Musk's vision for data centers in space....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Computer Vision"
-      ],
-      "publishedAt": "Sun, 05 Apr 2026 15:40:58 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/04/05/can-orbital-data-centers-help-justify-a-massive-valuation-for-spacex/"
-    },
-    {
-      "id": "po2pyz3awfiowjusht2a",
-      "title": "In Japan, the robot isn’t coming for your job; it’s filling the one nobody wants",
-      "summary": "Driven by labor shortages, Japan is pushing physical AI from pilot projects into real-world deployment....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Robotics"
-      ],
-      "publishedAt": "Sun, 05 Apr 2026 14:00:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/"
-    },
-    {
-      "id": "sak02d1jxyk7mmb4sbilj8",
-      "title": "Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage",
-      "summary": "It’s about to become more expensive for Claude Code subscribers to use Anthropic’s coding assistant with OpenClaw and other third-party tools....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Anthropic",
-        "LLM"
-      ],
-      "publishedAt": "Sat, 04 Apr 2026 16:32:22 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/04/04/anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-support/"
-    },
-    {
-      "id": "jj0lpm8cpuiagcrx62y4uc",
-      "title": "Anthropic is having a moment in the private markets; SpaceX could spoil the party",
-      "summary": "Glen Anderson, president of Rainmaker Securities, says the secondary market for private shares has never been more active — with Anthropic the hottest trade around, OpenAI losing ground, and SpaceX's ...",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "OpenAI",
-        "Anthropic"
-      ],
-      "publishedAt": "Sat, 04 Apr 2026 01:31:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/04/03/anthropic-is-having-a-moment-in-the-private-markets-spacex-could-spoil-the-party/"
-    },
-    {
-      "id": "wgeyxpq7n65zi643usejr",
+      "id": "7nw3qac9atqw3tgnn21mz",
       "title": "Four things we’d need to put data centers in space",
       "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. In January, Elon Musk...",
       "source": {
@@ -219,7 +269,7 @@
       "originalUrl": "https://www.technologyreview.com/2026/04/03/1135073/four-things-wed-need-to-put-data-centers-in-space/"
     },
     {
-      "id": "xzewchxagqj6j979rqxipq",
+      "id": "knjbwe5w37aq2e91iq51zi",
       "title": "The Download: plastic’s problem with fuel prices, and SpaceX’s blockbuster IPO",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Fuel prices are soaring. Plastic could be next.  As the war in...",
       "source": {
@@ -235,7 +285,7 @@
       "originalUrl": "https://www.technologyreview.com/2026/04/02/1135049/the-download-plastic-problem-fuel-prices-spacex-ipo/"
     },
     {
-      "id": "yldrq5zarcs0qs8h4xsamkk",
+      "id": "4dh16w4xu0g0hfm95eump2k",
       "title": "OpenAI acquires TBPN",
       "summary": "OpenAI acquires TBPN to accelerate global conversations around AI and support independent media, expanding dialogue with builders, businesses, and the broader tech community....",
       "source": {
@@ -253,7 +303,7 @@
       "originalUrl": "https://openai.com/index/openai-acquires-tbpn"
     },
     {
-      "id": "mmety54r6w5qcnk5kztfs",
+      "id": "lx5yolzupzj6ca3hv6v53u",
       "title": "Fuel prices are soaring. Plastic could be next.",
       "summary": "As the war in Iran continues to engulf the Middle East and the Strait of Hormuz stays closed, one of the most visible global economic ripple effects has been fossil-fuel prices. In particular, you can...",
       "source": {
@@ -269,7 +319,7 @@
       "originalUrl": "https://www.technologyreview.com/2026/04/02/1135045/plastic-economic-effects/"
     },
     {
-      "id": "tx6xldomvvqqh6kfjpep8",
+      "id": "7jc5nklqmi5lc7h8jb7jtd",
       "title": "Codex now offers more flexible pricing for teams",
       "summary": "Codex now includes pay-as-you-go pricing for ChatGPT Business and Enterprise, providing teams a more flexible option to start and scale adoption....",
       "source": {
@@ -288,45 +338,7 @@
       "originalUrl": "https://openai.com/index/codex-flexible-pricing-for-teams"
     },
     {
-      "id": "ghhlimch1z8m9yr7i4uajb",
-      "title": "The Download: gig workers training humanoids, and better AI benchmarks",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The gig workers who are training humanoid robots at home  When...",
-      "source": {
-        "name": "MIT Technology Review",
-        "url": "https://www.technologyreview.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.technologyreview.com&sz=64"
-      },
-      "category": "Research",
-      "tags": [
-        "Robotics",
-        "Healthcare"
-      ],
-      "publishedAt": "Wed, 01 Apr 2026 12:10:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.technologyreview.com/2026/04/01/1134993/the-download-gig-workers-training-humanoids-better-ai-benchmarks/"
-    },
-    {
-      "id": "xz105lk9gh09467lj94l6t",
-      "title": "The gig workers who are training humanoid robots at home",
-      "summary": "When Zeus, a medical student living in a hilltop city in central Nigeria, returns to his studio apartment from a long day at the hospital, he turns on his ring light, straps his iPhone to his forehead...",
-      "source": {
-        "name": "MIT Technology Review",
-        "url": "https://www.technologyreview.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.technologyreview.com&sz=64"
-      },
-      "category": "Research",
-      "tags": [
-        "Robotics",
-        "Healthcare"
-      ],
-      "publishedAt": "Wed, 01 Apr 2026 11:00:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.technologyreview.com/2026/04/01/1134863/humanoid-data-training-gig-economy-2026-breakthrough-technology/"
-    },
-    {
-      "id": "yvzpmtftwha46kpz02t38n",
+      "id": "8g7cdxtwyrjxsi69rt1qv",
       "title": "Gradient Labs gives every bank customer an AI account manager",
       "summary": "Gradient Labs uses GPT-4.1 and GPT-5.4 mini and nano to power AI agents that automate banking support workflows with low latency and high reliability....",
       "source": {
@@ -344,28 +356,8 @@
       "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
       "readTime": 1,
       "originalUrl": "https://openai.com/index/gradient-labs"
-    },
-    {
-      "id": "ftuvoz9shrt2lm24w4lbvg",
-      "title": "Accelerating the next phase of AI",
-      "summary": "OpenAI raises $122 billion in new funding to expand frontier AI globally, invest in next-generation compute, and meet growing demand for ChatGPT, Codex, and enterprise AI....",
-      "source": {
-        "name": "OpenAI Blog",
-        "url": "https://openai.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
-      },
-      "category": "Product",
-      "tags": [
-        "OpenAI",
-        "LLM",
-        "Startup"
-      ],
-      "publishedAt": "Tue, 31 Mar 2026 13:00:00 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
-      "readTime": 1,
-      "originalUrl": "https://openai.com/index/accelerating-the-next-phase-ai"
     }
   ],
   "totalArticles": 25,
-  "lastUpdated": "2026-04-06T10:03:25.453Z"
+  "lastUpdated": "2026-04-07T10:03:35.112Z"
 }
