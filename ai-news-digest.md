@@ -9,7 +9,7 @@ Votre quotidien des avancées en Intelligence Artificielle.
 ## 📊 Statistiques
 
 - **25** articles collectés
-- Dernière mise à jour: 08/04/2026 00:03:01
+- Dernière mise à jour: 08/04/2026 06:04:45
 - Sources: TechCrunch, The Verge, OpenAI, Anthropic, Google AI, ArXiv, MIT Tech Review
 
 ---
@@ -18,58 +18,58 @@ Votre quotidien des avancées en Intelligence Artificielle.
 
 ### 🏭 Industry
 
-#### Google Maps can now write captions for your photos using AI
+#### I can’t help rooting for tiny open source AI model maker Arcee
 
-> Gemini can now create captions when users are looking to share a photo or video....
+> Arcee is a tiny 26-person U.S. startup that built a high-performing, massive, open source LLM. And it's gaining popularity with OpenClaw users....
 
-- **Source:** [TechCrunch AI](https://techcrunch.com/2026/04/07/google-maps-can-now-write-captions-for-your-photos-using-ai/)
-- **Tags:** #Google, #LLM
+- **Source:** [TechCrunch AI](https://techcrunch.com/2026/04/07/i-cant-help-rooting-for-tiny-open-source-ai-model-maker-arcee/)
+- **Tags:** #LLM, #Startup
 - **Temps de lecture:** 1 min
-- **Publié:** 07/04/2026 23:30:00
+- **Publié:** 08/04/2026 05:35:02
 
 ---
 
-#### 4 days left to save close to $500 on TechCrunch Disrupt 2026 passes
+#### Firmus, the ‘Southgate’ AI data center builder backed by Nvidia, hits $5.5B valuation
 
-> 4 days left to save up to $482 on your TechCrunch disrupt 2026 ticket. These low rates will disappear on April 10 at 11:59 p.m. PT. Register here....
+> Nvidia-backed Asia AI data center provider Firmus has now raised $1.35 billion in six months....
 
-- **Source:** [TechCrunch AI](https://techcrunch.com/2026/04/07/4-days-left-to-save-close-to-500-on-techcrunch-disrupt-2026-passes/)
-- **Tags:** 
+- **Source:** [TechCrunch AI](https://techcrunch.com/2026/04/07/firmus-the-southgate-ai-datacenter-builder-backed-by-nvidia-hits-5-5b-valuation/)
+- **Tags:** #Startup, #Hardware
 - **Temps de lecture:** 1 min
-- **Publié:** 07/04/2026 22:00:00
+- **Publié:** 08/04/2026 02:46:55
 
 ---
 
-#### The AI gold rush is pulling private wealth into riskier, earlier bets 
+#### Intel signs on to Elon Musk’s Terafab chips project
 
-> On a recent episode of Equity, we  talked to Arena Private Wealth to explore a growing trend: family offices bypassing VCs to gain direct exposure to AI startups, turning them from passive investors i...
+> Intel will join SpaceX and Tesla in an effort to build a new U.S. semiconductor factory in Texas, although the scope of its contributions are unclear....
 
-- **Source:** [TechCrunch AI](https://techcrunch.com/2026/04/07/the-ai-gold-rush-is-pulling-private-wealth-into-riskier-earlier-bets/)
-- **Tags:** #Startup
+- **Source:** [TechCrunch AI](https://techcrunch.com/2026/04/07/intel-signs-on-to-elon-musks-terafab-chips-project/)
+- **Tags:** #Hardware
 - **Temps de lecture:** 1 min
-- **Publié:** 07/04/2026 21:00:00
+- **Publié:** 08/04/2026 02:10:01
 
 ---
 
-#### AI startup Rocket offers vibe McKinsey-style reports at a fraction of the cost
+#### Anthropic debuts preview of powerful new AI model Mythos in new cybersecurity initiative
 
-> Rocket's new AI platform combines strategy, product building, and competitive intelligence, aiming to move beyond code generation....
+> The new model will be used by a small number of high-profile companies to engage in defensive cybersecurity work....
 
-- **Source:** [TechCrunch AI](https://techcrunch.com/2026/04/06/indian-startup-rocket-wants-its-ai-to-do-mckinsey-style-consulting-at-a-fraction-of-the-cost/)
-- **Tags:** #Startup
+- **Source:** [TechCrunch AI](https://techcrunch.com/2026/04/07/anthropic-mythos-ai-model-preview-security/)
+- **Tags:** #Anthropic
 - **Temps de lecture:** 1 min
-- **Publié:** 07/04/2026 13:30:00
+- **Publié:** 08/04/2026 02:00:00
 
 ---
 
-#### OpenAI alums have been quietly investing from a new, potentially $100M fund 
+#### Uber is the latest to be won over by Amazon’s AI chips
 
-> Zero Shot, a new venture capital fund with deep ties to OpenAI, is aiming to raise $100 million for its first fund. It has already written some checks....
+> Uber is expanding its AWS contract to run more of its ride-sharing features on Amazon's chips. This is a thumb-of-the nose at Oracle and Google....
 
-- **Source:** [TechCrunch AI](https://techcrunch.com/2026/04/06/openai-alums-have-been-quietly-investing-from-a-new-potentially-100m-fund/)
-- **Tags:** #OpenAI, #Startup
+- **Source:** [TechCrunch AI](https://techcrunch.com/2026/04/07/uber-is-the-latest-to-be-won-over-by-amazons-ai-chips/)
+- **Tags:** #Google, #Hardware
 - **Temps de lecture:** 1 min
-- **Publié:** 07/04/2026 05:54:26
+- **Publié:** 08/04/2026 00:46:59
 
 ---
 
