@@ -1,6 +1,6 @@
 # 🤖 AI News Digest
 
-> **Digest du mardi 7 avril 2026**
+> **Digest du mercredi 8 avril 2026**
 
 Votre quotidien des avancées en Intelligence Artificielle.
 
@@ -9,7 +9,7 @@ Votre quotidien des avancées en Intelligence Artificielle.
 ## 📊 Statistiques
 
 - **25** articles collectés
-- Dernière mise à jour: 07/04/2026 18:03:35
+- Dernière mise à jour: 08/04/2026 00:03:01
 - Sources: TechCrunch, The Verge, OpenAI, Anthropic, Google AI, ArXiv, MIT Tech Review
 
 ---
@@ -17,6 +17,39 @@ Votre quotidien des avancées en Intelligence Artificielle.
 ## 📰 Articles du jour
 
 ### 🏭 Industry
+
+#### Google Maps can now write captions for your photos using AI
+
+> Gemini can now create captions when users are looking to share a photo or video....
+
+- **Source:** [TechCrunch AI](https://techcrunch.com/2026/04/07/google-maps-can-now-write-captions-for-your-photos-using-ai/)
+- **Tags:** #Google, #LLM
+- **Temps de lecture:** 1 min
+- **Publié:** 07/04/2026 23:30:00
+
+---
+
+#### 4 days left to save close to $500 on TechCrunch Disrupt 2026 passes
+
+> 4 days left to save up to $482 on your TechCrunch disrupt 2026 ticket. These low rates will disappear on April 10 at 11:59 p.m. PT. Register here....
+
+- **Source:** [TechCrunch AI](https://techcrunch.com/2026/04/07/4-days-left-to-save-close-to-500-on-techcrunch-disrupt-2026-passes/)
+- **Tags:** 
+- **Temps de lecture:** 1 min
+- **Publié:** 07/04/2026 22:00:00
+
+---
+
+#### The AI gold rush is pulling private wealth into riskier, earlier bets 
+
+> On a recent episode of Equity, we  talked to Arena Private Wealth to explore a growing trend: family offices bypassing VCs to gain direct exposure to AI startups, turning them from passive investors i...
+
+- **Source:** [TechCrunch AI](https://techcrunch.com/2026/04/07/the-ai-gold-rush-is-pulling-private-wealth-into-riskier-earlier-bets/)
+- **Tags:** #Startup
+- **Temps de lecture:** 1 min
+- **Publié:** 07/04/2026 21:00:00
+
+---
 
 #### AI startup Rocket offers vibe McKinsey-style reports at a fraction of the cost
 
@@ -40,40 +73,40 @@ Votre quotidien des avancées en Intelligence Artificielle.
 
 ---
 
-#### Google quietly launched an AI dictation app that works offline
+### 🔬 Research
 
-> Google's new offline-first dictation app uses Gemma AI models to take on the apps like Wispr Flow....
+#### Desalination plants in the Middle East are increasingly vulnerable
 
-- **Source:** [TechCrunch AI](https://techcrunch.com/2026/04/06/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/)
-- **Tags:** #Google
-- **Temps de lecture:** 1 min
-- **Publié:** 07/04/2026 02:54:33
+> MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. As the conflict in Ir...
 
----
-
-#### Iran threatens ‘Stargate’ AI data centers
-
-> Iran said it will target U.S.-linked data centers with new missile strikes, as the war between the U.S. and Iran escalates....
-
-- **Source:** [TechCrunch AI](https://techcrunch.com/2026/04/06/iran-threatens-stargate-ai-data-centers/)
+- **Source:** [MIT Technology Review](https://www.technologyreview.com/2026/04/07/1135235/desalination-technology-water/)
 - **Tags:** 
 - **Temps de lecture:** 1 min
-- **Publié:** 07/04/2026 02:06:28
+- **Publié:** 07/04/2026 22:54:06
 
 ---
 
-#### OpenAI’s vision for the AI economy: public wealth funds, robot taxes, and a four-day workweek
+#### Enabling agent-first process redesign
 
-> OpenAI proposes taxes on AI profits, public wealth funds, and expanded safety nets to address job loss and inequality, blending redistribution with capitalism as policymakers debate AI’s economic impa...
+> Unlike static, rules-based systems, AI agents can learn, adapt, and optimize processes dynamically. As they interact with data, systems, people, and other agents in real time, AI agents can execute en...
 
-- **Source:** [TechCrunch AI](https://techcrunch.com/2026/04/06/openais-vision-for-the-ai-economy-public-wealth-funds-robot-taxes-and-a-four-day-work-week/)
-- **Tags:** #OpenAI, #Computer Vision, #Robotics, #AI Safety
+- **Source:** [MIT Technology Review](https://www.technologyreview.com/2026/04/07/1134966/enabling-agent-first-process-redesign/)
+- **Tags:** 
 - **Temps de lecture:** 1 min
-- **Publié:** 06/04/2026 23:55:55
+- **Publié:** 07/04/2026 22:00:00
 
 ---
 
-### 🔬 Research
+#### The Download: AI’s impact on jobs, and data centres in space
+
+> This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The one piece of data that could actually shed light on your j...
+
+- **Source:** [MIT Technology Review](https://www.technologyreview.com/2026/04/07/1135208/the-download-ai-impact-jobs-data-centres-space/)
+- **Tags:** 
+- **Temps de lecture:** 1 min
+- **Publié:** 07/04/2026 20:10:00
+
+---
 
 #### IC3-Evolve: Proof-/Witness-Gated Offline LLM-Driven Heuristic Evolution for IC3 Hardware Model Checking
 
@@ -154,39 +187,6 @@ Abstract: The control of complex laboratory instrumentation often requires signi
 - **Tags:** 
 - **Temps de lecture:** 1 min
 - **Publié:** 06/04/2026 19:00:00
-
----
-
-#### Four things we’d need to put data centers in space
-
-> MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. In January, Elon Musk...
-
-- **Source:** [MIT Technology Review](https://www.technologyreview.com/2026/04/03/1135073/four-things-wed-need-to-put-data-centers-in-space/)
-- **Tags:** #Startup
-- **Temps de lecture:** 1 min
-- **Publié:** 04/04/2026 01:03:19
-
----
-
-#### The Download: plastic’s problem with fuel prices, and SpaceX’s blockbuster IPO
-
-> This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Fuel prices are soaring. Plastic could be next.  As the war in...
-
-- **Source:** [MIT Technology Review](https://www.technologyreview.com/2026/04/02/1135049/the-download-plastic-problem-fuel-prices-spacex-ipo/)
-- **Tags:** 
-- **Temps de lecture:** 1 min
-- **Publié:** 02/04/2026 20:10:00
-
----
-
-#### Fuel prices are soaring. Plastic could be next.
-
-> As the war in Iran continues to engulf the Middle East and the Strait of Hormuz stays closed, one of the most visible global economic ripple effects has been fossil-fuel prices. In particular, you can...
-
-- **Source:** [MIT Technology Review](https://www.technologyreview.com/2026/04/02/1135045/plastic-economic-effects/)
-- **Tags:** 
-- **Temps de lecture:** 1 min
-- **Publié:** 02/04/2026 18:00:00
 
 ---
 
