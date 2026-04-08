@@ -1,6 +1,6 @@
 # 🤖 AI News Digest
 
-> **Digest du mercredi 8 avril 2026**
+> **Digest du jeudi 9 avril 2026**
 
 Votre quotidien des avancées en Intelligence Artificielle.
 
@@ -9,7 +9,7 @@ Votre quotidien des avancées en Intelligence Artificielle.
 ## 📊 Statistiques
 
 - **25** articles collectés
-- Dernière mise à jour: 08/04/2026 18:04:39
+- Dernière mise à jour: 09/04/2026 00:02:52
 - Sources: TechCrunch, The Verge, OpenAI, Anthropic, Google AI, ArXiv, MIT Tech Review
 
 ---
@@ -18,62 +18,84 @@ Votre quotidien des avancées en Intelligence Artificielle.
 
 ### 🏭 Industry
 
-#### Google quietly launched an AI dictation app that works offline
+#### Astropad’s Workbench reimagines remote desktop for AI agents, not IT support
 
-> Google's new offline-first dictation app uses Gemma AI models to take on the apps like Wispr Flow....
+> Astropad’s Workbench lets users remotely monitor and control AI agents on Mac Minis from iPhone or iPad, with low-latency streaming and mobile access....
 
-- **Source:** [TechCrunch AI](https://techcrunch.com/2026/04/07/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/)
-- **Tags:** #Google
+- **Source:** [TechCrunch AI](https://techcrunch.com/2026/04/08/astropads-workbench-reimagines-remote-desktop-for-ai-agents-not-it-support/)
+- **Tags:** 
 - **Temps de lecture:** 1 min
-- **Publié:** 08/04/2026 13:40:19
+- **Publié:** 09/04/2026 00:01:09
 
 ---
 
-#### I can’t help rooting for tiny open source AI model maker Arcee
+#### OpenAI releases a new safety blueprint to address the rise in child sexual exploitation
 
-> Arcee is a tiny 26-person U.S. startup that built a high-performing, massive, open source LLM. And it's gaining popularity with OpenClaw users....
+> OpenAI's new Child Safety Blueprint aims to tackle the alarming rise in child sexual exploitation linked to advancements in AI....
 
-- **Source:** [TechCrunch AI](https://techcrunch.com/2026/04/07/i-cant-help-rooting-for-tiny-open-source-ai-model-maker-arcee/)
-- **Tags:** #LLM, #Startup
+- **Source:** [TechCrunch AI](https://techcrunch.com/2026/04/08/openai-releases-a-new-safety-blueprint-to-address-the-rise-in-child-sexual-exploitation/)
+- **Tags:** #OpenAI, #AI Safety
 - **Temps de lecture:** 1 min
-- **Publié:** 08/04/2026 05:35:02
+- **Publié:** 08/04/2026 23:23:44
 
 ---
 
-#### Firmus, the ‘Southgate’ AI data center builder backed by Nvidia, hits $5.5B valuation
+#### Databricks co-founder wins prestigious ACM award, says ‘AGI is here already’
 
-> Nvidia-backed Asia AI data center provider Firmus has now raised $1.35 billion in six months....
+> Matei Zaharia has won the top honor from the Association for Computing Machinery. Now he's working on AI for research and says AGI is simply misunderstood....
 
-- **Source:** [TechCrunch AI](https://techcrunch.com/2026/04/07/firmus-the-southgate-ai-datacenter-builder-backed-by-nvidia-hits-5-5b-valuation/)
-- **Tags:** #Startup, #Hardware
+- **Source:** [TechCrunch AI](https://techcrunch.com/2026/04/08/databricks-matei-zaharia-wins-acm-computing-prize-agi/)
+- **Tags:** 
 - **Temps de lecture:** 1 min
-- **Publié:** 08/04/2026 02:46:55
+- **Publié:** 08/04/2026 23:00:00
 
 ---
 
-#### Intel signs on to Elon Musk’s Terafab chips project
+#### Final 3 days to save up to $500 on your TechCrunch Disrupt 2026 pass
 
-> Intel will join SpaceX and Tesla in an effort to build a new U.S. semiconductor factory in Texas, although the scope of its contributions are unclear....
+> Save up to $500 on your TechCrunch Disrupt 2026 pass until April 10, 11:59 p.m. PT. Secure your spot at the center of the tech ecosystem. Register here....
 
-- **Source:** [TechCrunch AI](https://techcrunch.com/2026/04/07/intel-signs-on-to-elon-musks-terafab-chips-project/)
-- **Tags:** #Hardware
+- **Source:** [TechCrunch AI](https://techcrunch.com/2026/04/08/final-3-days-to-save-up-to-500-on-your-techcrunch-disrupt-2026-pass/)
+- **Tags:** 
 - **Temps de lecture:** 1 min
-- **Publié:** 08/04/2026 02:10:01
+- **Publié:** 08/04/2026 22:00:00
 
 ---
 
-#### Anthropic debuts preview of powerful new AI model Mythos in new cybersecurity initiative
+#### Atlassian launches visual AI tools and third-party agents in Confluence
 
-> The new model will be used by a small number of high-profile companies to engage in defensive cybersecurity work....
+> Confluence users can now create visual assets within the software in addition to new third-party agents working with Lovable, Replit, and Gamma....
 
-- **Source:** [TechCrunch AI](https://techcrunch.com/2026/04/07/anthropic-mythos-ai-model-preview-security/)
-- **Tags:** #Anthropic
+- **Source:** [TechCrunch AI](https://techcrunch.com/2026/04/08/atlassian-confluence-visual-ai-tools-agents/)
+- **Tags:** 
 - **Temps de lecture:** 1 min
-- **Publié:** 08/04/2026 02:00:00
+- **Publié:** 08/04/2026 21:00:00
 
 ---
 
 ### 🔬 Research
+
+#### Mustafa Suleyman: AI development won’t hit a wall anytime soon—here’s why
+
+> We evolved for a linear world. If you walk for an hour, you cover a certain distance. Walk for two hours and you cover double that distance. This intuition served us well on the savannah. But it catas...
+
+- **Source:** [MIT Technology Review](https://www.technologyreview.com/2026/04/08/1135398/mustafa-suleyman-ai-future/)
+- **Tags:** 
+- **Temps de lecture:** 1 min
+- **Publié:** 08/04/2026 22:00:00
+
+---
+
+#### The Download: water threats in Iran and AI’s impact on what entrepreneurs make
+
+> This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Desalination plants in the Middle East are increasingly vulner...
+
+- **Source:** [MIT Technology Review](https://www.technologyreview.com/2026/04/08/1135405/the-download-water-threats-iran-ais-impact-on-entrepreneurs-make/)
+- **Tags:** 
+- **Temps de lecture:** 1 min
+- **Publié:** 08/04/2026 20:10:00
+
+---
 
 #### Pramana: Fine-Tuning Large Language Models for Epistemic Reasoning through Navya-Nyaya
 
@@ -168,29 +190,18 @@ Abstract: Many combinatorial optimisation problems hide algebraic structures tha
 
 ---
 
-#### The one piece of data that could actually shed light on your job and AI
-
-> This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Within Silicon Valley’s orbit, an AI-fueled jobs apocalypse is...
-
-- **Source:** [MIT Technology Review](https://www.technologyreview.com/2026/04/06/1135187/the-one-piece-of-data-that-could-actually-shed-light-on-your-job-and-ai/)
-- **Tags:** #Anthropic
-- **Temps de lecture:** 1 min
-- **Publié:** 07/04/2026 00:33:35
-
----
-
-#### AI is changing how small online sellers decide what to make
-
-> For years Mike McClary sold the Guardian LTE Flashlight, a heavy-duty black model, online through his small outdoor brand. The product, designed for brightness and durability, became one of his most p...
-
-- **Source:** [MIT Technology Review](https://www.technologyreview.com/2026/04/06/1135118/ai-online-seller-alibaba-accio/)
-- **Tags:** 
-- **Temps de lecture:** 1 min
-- **Publié:** 06/04/2026 19:00:00
-
----
-
 ### 🚀 Product
+
+#### Introducing the Child Safety Blueprint
+
+> Discover OpenAI’s Child Safety Blueprint—a roadmap for building AI responsibly with safeguards, age-appropriate design, and collaboration to protect and empower young people online....
+
+- **Source:** [OpenAI Blog](https://openai.com/index/introducing-child-safety-blueprint)
+- **Tags:** #OpenAI, #AI Safety
+- **Temps de lecture:** 1 min
+- **Publié:** 08/04/2026 13:00:00
+
+---
 
 #### Announcing the OpenAI Safety Fellowship
 
@@ -233,17 +244,6 @@ Abstract: Many combinatorial optimisation problems hide algebraic structures tha
 - **Tags:** #OpenAI, #LLM
 - **Temps de lecture:** 1 min
 - **Publié:** 02/04/2026 18:00:00
-
----
-
-#### Gradient Labs gives every bank customer an AI account manager
-
-> Gradient Labs uses GPT-4.1 and GPT-5.4 mini and nano to power AI agents that automate banking support workflows with low latency and high reliability....
-
-- **Source:** [OpenAI Blog](https://openai.com/index/gradient-labs)
-- **Tags:** #OpenAI, #LLM, #Finance
-- **Temps de lecture:** 1 min
-- **Publié:** 01/04/2026 10:00:00
 
 ---
 
