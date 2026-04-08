@@ -9,7 +9,7 @@ Votre quotidien des avancées en Intelligence Artificielle.
 ## 📊 Statistiques
 
 - **25** articles collectés
-- Dernière mise à jour: 09/04/2026 00:02:52
+- Dernière mise à jour: 09/04/2026 06:03:32
 - Sources: TechCrunch, The Verge, OpenAI, Anthropic, Google AI, ArXiv, MIT Tech Review
 
 ---
@@ -17,6 +17,39 @@ Votre quotidien des avancées en Intelligence Artificielle.
 ## 📰 Articles du jour
 
 ### 🏭 Industry
+
+#### Poke makes AI agents as easy as sending a text
+
+> Poke brings AI agents to everyday users via text message by handling tasks and automations without complex setup, apps, or technical know-how....
+
+- **Source:** [TechCrunch AI](https://techcrunch.com/2026/04/08/poke-makes-ai-agents-as-easy-as-sending-a-text/)
+- **Tags:** 
+- **Temps de lecture:** 1 min
+- **Publié:** 09/04/2026 05:05:13
+
+---
+
+#### AWS boss explains why investing billions in both Anthropic and OpenAI is an OK conflict
+
+> AWS has an ingrained culture of handling competition, he explained, because the cloud giant also competes with its partners....
+
+- **Source:** [TechCrunch AI](https://techcrunch.com/2026/04/08/aws-boss-explains-why-investing-billions-in-both-anthropic-and-openai-is-an-ok-conflict/)
+- **Tags:** #OpenAI, #Anthropic, #Startup
+- **Temps de lecture:** 1 min
+- **Publié:** 09/04/2026 04:09:14
+
+---
+
+#### Tubi is the first streamer to launch a native app within ChatGPT
+
+> Tubi becomes the first streaming service to offer an app integration within ChatGPT, the AI chatbot that millions of users turn to for answers....
+
+- **Source:** [TechCrunch AI](https://techcrunch.com/2026/04/08/tubi-is-the-first-streamer-to-launch-a-native-app-within-chatgpt/)
+- **Tags:** #OpenAI, #LLM, #Startup
+- **Temps de lecture:** 1 min
+- **Publié:** 09/04/2026 02:23:06
+
+---
 
 #### Astropad’s Workbench reimagines remote desktop for AI agents, not IT support
 
@@ -37,39 +70,6 @@ Votre quotidien des avancées en Intelligence Artificielle.
 - **Tags:** #OpenAI, #AI Safety
 - **Temps de lecture:** 1 min
 - **Publié:** 08/04/2026 23:23:44
-
----
-
-#### Databricks co-founder wins prestigious ACM award, says ‘AGI is here already’
-
-> Matei Zaharia has won the top honor from the Association for Computing Machinery. Now he's working on AI for research and says AGI is simply misunderstood....
-
-- **Source:** [TechCrunch AI](https://techcrunch.com/2026/04/08/databricks-matei-zaharia-wins-acm-computing-prize-agi/)
-- **Tags:** 
-- **Temps de lecture:** 1 min
-- **Publié:** 08/04/2026 23:00:00
-
----
-
-#### Final 3 days to save up to $500 on your TechCrunch Disrupt 2026 pass
-
-> Save up to $500 on your TechCrunch Disrupt 2026 pass until April 10, 11:59 p.m. PT. Secure your spot at the center of the tech ecosystem. Register here....
-
-- **Source:** [TechCrunch AI](https://techcrunch.com/2026/04/08/final-3-days-to-save-up-to-500-on-your-techcrunch-disrupt-2026-pass/)
-- **Tags:** 
-- **Temps de lecture:** 1 min
-- **Publié:** 08/04/2026 22:00:00
-
----
-
-#### Atlassian launches visual AI tools and third-party agents in Confluence
-
-> Confluence users can now create visual assets within the software in addition to new third-party agents working with Lovable, Replit, and Gamma....
-
-- **Source:** [TechCrunch AI](https://techcrunch.com/2026/04/08/atlassian-confluence-visual-ai-tools-agents/)
-- **Tags:** 
-- **Temps de lecture:** 1 min
-- **Publié:** 08/04/2026 21:00:00
 
 ---
 
@@ -192,6 +192,17 @@ Abstract: Many combinatorial optimisation problems hide algebraic structures tha
 
 ### 🚀 Product
 
+#### The next phase of enterprise AI
+
+> OpenAI outlines the next phase of enterprise AI, as adoption accelerates across industries with Frontier, ChatGPT Enterprise, Codex, and company-wide AI agents....
+
+- **Source:** [OpenAI Blog](https://openai.com/index/next-phase-of-enterprise-ai)
+- **Tags:** #OpenAI, #LLM
+- **Temps de lecture:** 1 min
+- **Publié:** 08/04/2026 22:00:00
+
+---
+
 #### Introducing the Child Safety Blueprint
 
 > Discover OpenAI’s Child Safety Blueprint—a roadmap for building AI responsibly with safeguards, age-appropriate design, and collaboration to protect and empower young people online....
@@ -233,17 +244,6 @@ Abstract: Many combinatorial optimisation problems hide algebraic structures tha
 - **Tags:** #OpenAI
 - **Temps de lecture:** 1 min
 - **Publié:** 02/04/2026 18:30:00
-
----
-
-#### Codex now offers more flexible pricing for teams
-
-> Codex now includes pay-as-you-go pricing for ChatGPT Business and Enterprise, providing teams a more flexible option to start and scale adoption....
-
-- **Source:** [OpenAI Blog](https://openai.com/index/codex-flexible-pricing-for-teams)
-- **Tags:** #OpenAI, #LLM
-- **Temps de lecture:** 1 min
-- **Publié:** 02/04/2026 18:00:00
 
 ---
 
