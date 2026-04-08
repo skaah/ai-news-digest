@@ -9,7 +9,7 @@ Votre quotidien des avancées en Intelligence Artificielle.
 ## 📊 Statistiques
 
 - **25** articles collectés
-- Dernière mise à jour: 08/04/2026 06:04:45
+- Dernière mise à jour: 08/04/2026 18:04:39
 - Sources: TechCrunch, The Verge, OpenAI, Anthropic, Google AI, ArXiv, MIT Tech Review
 
 ---
@@ -17,6 +17,17 @@ Votre quotidien des avancées en Intelligence Artificielle.
 ## 📰 Articles du jour
 
 ### 🏭 Industry
+
+#### Google quietly launched an AI dictation app that works offline
+
+> Google's new offline-first dictation app uses Gemma AI models to take on the apps like Wispr Flow....
+
+- **Source:** [TechCrunch AI](https://techcrunch.com/2026/04/07/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/)
+- **Tags:** #Google
+- **Temps de lecture:** 1 min
+- **Publié:** 08/04/2026 13:40:19
+
+---
 
 #### I can’t help rooting for tiny open source AI model maker Arcee
 
@@ -62,18 +73,67 @@ Votre quotidien des avancées en Intelligence Artificielle.
 
 ---
 
-#### Uber is the latest to be won over by Amazon’s AI chips
+### 🔬 Research
 
-> Uber is expanding its AWS contract to run more of its ride-sharing features on Amazon's chips. This is a thumb-of-the nose at Oracle and Google....
+#### Pramana: Fine-Tuning Large Language Models for Epistemic Reasoning through Navya-Nyaya
 
-- **Source:** [TechCrunch AI](https://techcrunch.com/2026/04/07/uber-is-the-latest-to-be-won-over-by-amazons-ai-chips/)
-- **Tags:** #Google, #Hardware
+> arXiv:2604.04937v1 Announce Type: new 
+Abstract: Large language models produce fluent text but struggle with systematic reasoning, often hallucinating confident but unfounded claims. When Apple resear...
+
+- **Source:** [ArXiv AI](https://arxiv.org/abs/2604.04937)
+- **Tags:** #Meta, #LLM
 - **Temps de lecture:** 1 min
-- **Publié:** 08/04/2026 00:46:59
+- **Publié:** 08/04/2026 12:00:00
 
 ---
 
-### 🔬 Research
+#### Operational Noncommutativity in Sequential Metacognitive Judgments
+
+> arXiv:2604.04938v1 Announce Type: new 
+Abstract: Metacognition, understood as the monitoring and regulation of one's own cognitive processes, is inherently sequential: an agent evaluates an internal s...
+
+- **Source:** [ArXiv AI](https://arxiv.org/abs/2604.04938)
+- **Tags:** #Meta, #Hardware
+- **Temps de lecture:** 1 min
+- **Publié:** 08/04/2026 12:00:00
+
+---
+
+#### Proximity Measure of Information Object Features for Solving the Problem of Their Identification in Information Systems
+
+> arXiv:2604.04939v1 Announce Type: new 
+Abstract: The paper considers a new quantitative-qualitative proximity measure for the features of information objects, where data enters a common information re...
+
+- **Source:** [ArXiv AI](https://arxiv.org/abs/2604.04939)
+- **Tags:** 
+- **Temps de lecture:** 1 min
+- **Publié:** 08/04/2026 12:00:00
+
+---
+
+#### ReVEL: Multi-Turn Reflective LLM-Guided Heuristic Evolution via Structured Performance Feedback
+
+> arXiv:2604.04940v1 Announce Type: new 
+Abstract: Designing effective heuristics for NP-hard combinatorial optimization problems remains a challenging and expertise-intensive task. Existing application...
+
+- **Source:** [ArXiv AI](https://arxiv.org/abs/2604.04940)
+- **Tags:** #Meta, #LLM
+- **Temps de lecture:** 1 min
+- **Publié:** 08/04/2026 12:00:00
+
+---
+
+#### Algebraic Structure Discovery for Real World Combinatorial Optimisation Problems: A General Framework from Abstract Algebra to Quotient Space Learning
+
+> arXiv:2604.04941v1 Announce Type: new 
+Abstract: Many combinatorial optimisation problems hide algebraic structures that, once exposed, shrink the search space and improve the chance of finding the gl...
+
+- **Source:** [ArXiv AI](https://arxiv.org/abs/2604.04941)
+- **Tags:** 
+- **Temps de lecture:** 1 min
+- **Publié:** 08/04/2026 12:00:00
+
+---
 
 #### Desalination plants in the Middle East are increasingly vulnerable
 
@@ -105,66 +165,6 @@ Votre quotidien des avancées en Intelligence Artificielle.
 - **Tags:** 
 - **Temps de lecture:** 1 min
 - **Publié:** 07/04/2026 20:10:00
-
----
-
-#### IC3-Evolve: Proof-/Witness-Gated Offline LLM-Driven Heuristic Evolution for IC3 Hardware Model Checking
-
-> arXiv:2604.03232v1 Announce Type: new 
-Abstract: IC3, also known as property-directed reachability (PDR), is a commonly-used algorithm for hardware safety model checking. It checks if a state transiti...
-
-- **Source:** [ArXiv AI](https://arxiv.org/abs/2604.03232)
-- **Tags:** #LLM, #AI Safety
-- **Temps de lecture:** 1 min
-- **Publié:** 07/04/2026 12:00:00
-
----
-
-#### Structural Segmentation of the Minimum Set Cover Problem: Exploiting Universe Decomposability for Metaheuristic Optimization
-
-> arXiv:2604.03234v1 Announce Type: new 
-Abstract: The Minimum Set Cover Problem (MSCP) is a classical NP-hard combinatorial optimization problem with numerous applications in science and engineering. A...
-
-- **Source:** [ArXiv AI](https://arxiv.org/abs/2604.03234)
-- **Tags:** #Meta
-- **Temps de lecture:** 1 min
-- **Publié:** 07/04/2026 12:00:00
-
----
-
-#### To Throw a Stone with Six Birds: On Agents and Agenthood
-
-> arXiv:2604.03239v1 Announce Type: new 
-Abstract: Six Birds Theory (SBT) treats macroscopic objects as induced closures rather than primitives. Empirical discussions of agency often conflate persistenc...
-
-- **Source:** [ArXiv AI](https://arxiv.org/abs/2604.03239)
-- **Tags:** 
-- **Temps de lecture:** 1 min
-- **Publié:** 07/04/2026 12:00:00
-
----
-
-#### Position: Science of AI Evaluation Requires Item-level Benchmark Data
-
-> arXiv:2604.03244v1 Announce Type: new 
-Abstract: AI evaluations have become the primary evidence for deploying generative AI systems across high-stakes domains. However, current evaluation paradigms o...
-
-- **Source:** [ArXiv AI](https://arxiv.org/abs/2604.03244)
-- **Tags:** 
-- **Temps de lecture:** 1 min
-- **Publié:** 07/04/2026 12:00:00
-
----
-
-#### Toward Full Autonomous Laboratory Instrumentation Control with Large Language Models
-
-> arXiv:2604.03286v1 Announce Type: new 
-Abstract: The control of complex laboratory instrumentation often requires significant programming expertise, creating a barrier for researchers lacking computat...
-
-- **Source:** [ArXiv AI](https://arxiv.org/abs/2604.03286)
-- **Tags:** #OpenAI, #LLM
-- **Temps de lecture:** 1 min
-- **Publié:** 07/04/2026 12:00:00
 
 ---
 

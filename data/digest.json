@@ -1,8 +1,115 @@
 {
-  "date": "2026-04-07T22:04:45.467Z",
+  "date": "2026-04-08T10:04:39.261Z",
   "articles": [
     {
-      "id": "nmvsqza76fvneyqeisfv",
+      "id": "3o5jwy0wqpfg0lhrn6nja",
+      "title": "Google quietly launched an AI dictation app that works offline",
+      "summary": "Google's new offline-first dictation app uses Gemma AI models to take on the apps like Wispr Flow....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Google"
+      ],
+      "publishedAt": "Wed, 08 Apr 2026 05:40:19 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/04/07/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/"
+    },
+    {
+      "id": "dt935cml9mwdwl3ijw52v7",
+      "title": "Pramana: Fine-Tuning Large Language Models for Epistemic Reasoning through Navya-Nyaya",
+      "summary": "arXiv:2604.04937v1 Announce Type: new \nAbstract: Large language models produce fluent text but struggle with systematic reasoning, often hallucinating confident but unfounded claims. When Apple resear...",
+      "source": {
+        "name": "ArXiv AI",
+        "url": "https://arxiv.org",
+        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
+      },
+      "category": "Research",
+      "tags": [
+        "Meta",
+        "LLM"
+      ],
+      "publishedAt": "Wed, 08 Apr 2026 00:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
+      "readTime": 1,
+      "originalUrl": "https://arxiv.org/abs/2604.04937"
+    },
+    {
+      "id": "6q55s8svxpqhpr92d2jewr",
+      "title": "Operational Noncommutativity in Sequential Metacognitive Judgments",
+      "summary": "arXiv:2604.04938v1 Announce Type: new \nAbstract: Metacognition, understood as the monitoring and regulation of one's own cognitive processes, is inherently sequential: an agent evaluates an internal s...",
+      "source": {
+        "name": "ArXiv AI",
+        "url": "https://arxiv.org",
+        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
+      },
+      "category": "Research",
+      "tags": [
+        "Meta",
+        "Hardware"
+      ],
+      "publishedAt": "Wed, 08 Apr 2026 00:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
+      "readTime": 1,
+      "originalUrl": "https://arxiv.org/abs/2604.04938"
+    },
+    {
+      "id": "h9yprwaxy5fxoxnrhaj3pk",
+      "title": "Proximity Measure of Information Object Features for Solving the Problem of Their Identification in Information Systems",
+      "summary": "arXiv:2604.04939v1 Announce Type: new \nAbstract: The paper considers a new quantitative-qualitative proximity measure for the features of information objects, where data enters a common information re...",
+      "source": {
+        "name": "ArXiv AI",
+        "url": "https://arxiv.org",
+        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
+      },
+      "category": "Research",
+      "tags": [],
+      "publishedAt": "Wed, 08 Apr 2026 00:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
+      "readTime": 1,
+      "originalUrl": "https://arxiv.org/abs/2604.04939"
+    },
+    {
+      "id": "0rf4ld75f9xk3qc6dnuwfn",
+      "title": "ReVEL: Multi-Turn Reflective LLM-Guided Heuristic Evolution via Structured Performance Feedback",
+      "summary": "arXiv:2604.04940v1 Announce Type: new \nAbstract: Designing effective heuristics for NP-hard combinatorial optimization problems remains a challenging and expertise-intensive task. Existing application...",
+      "source": {
+        "name": "ArXiv AI",
+        "url": "https://arxiv.org",
+        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
+      },
+      "category": "Research",
+      "tags": [
+        "Meta",
+        "LLM"
+      ],
+      "publishedAt": "Wed, 08 Apr 2026 00:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
+      "readTime": 1,
+      "originalUrl": "https://arxiv.org/abs/2604.04940"
+    },
+    {
+      "id": "tbvd9noewpg8ulx70xxao2",
+      "title": "Algebraic Structure Discovery for Real World Combinatorial Optimisation Problems: A General Framework from Abstract Algebra to Quotient Space Learning",
+      "summary": "arXiv:2604.04941v1 Announce Type: new \nAbstract: Many combinatorial optimisation problems hide algebraic structures that, once exposed, shrink the search space and improve the chance of finding the gl...",
+      "source": {
+        "name": "ArXiv AI",
+        "url": "https://arxiv.org",
+        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
+      },
+      "category": "Research",
+      "tags": [],
+      "publishedAt": "Wed, 08 Apr 2026 00:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
+      "readTime": 1,
+      "originalUrl": "https://arxiv.org/abs/2604.04941"
+    },
+    {
+      "id": "5oaj9u3249w6lt7wqddi3v",
       "title": "I can’t help rooting for tiny open source AI model maker Arcee",
       "summary": "Arcee is a tiny 26-person U.S. startup that built a high-performing, massive, open source LLM. And it's gaining popularity with OpenClaw users....",
       "source": {
@@ -21,7 +128,7 @@
       "originalUrl": "https://techcrunch.com/2026/04/07/i-cant-help-rooting-for-tiny-open-source-ai-model-maker-arcee/"
     },
     {
-      "id": "m83khuco6edlbw5fl2bsym",
+      "id": "lbialo4r9njnonhdclxj",
       "title": "Firmus, the ‘Southgate’ AI data center builder backed by Nvidia, hits $5.5B valuation",
       "summary": "Nvidia-backed Asia AI data center provider Firmus has now raised $1.35 billion in six months....",
       "source": {
@@ -40,7 +147,7 @@
       "originalUrl": "https://techcrunch.com/2026/04/07/firmus-the-southgate-ai-datacenter-builder-backed-by-nvidia-hits-5-5b-valuation/"
     },
     {
-      "id": "24z7ixtukvkcqmg4ujwpkd",
+      "id": "nd7orrry488hqpiwtrvcg",
       "title": "Intel signs on to Elon Musk’s Terafab chips project",
       "summary": "Intel will join SpaceX and Tesla in an effort to build a new U.S. semiconductor factory in Texas, although the scope of its contributions are unclear....",
       "source": {
@@ -58,7 +165,7 @@
       "originalUrl": "https://techcrunch.com/2026/04/07/intel-signs-on-to-elon-musks-terafab-chips-project/"
     },
     {
-      "id": "drcliag1brs14vado2ihyd",
+      "id": "3tvznn9ukwm24yyl24pn",
       "title": "Anthropic debuts preview of powerful new AI model Mythos in new cybersecurity initiative",
       "summary": "The new model will be used by a small number of high-profile companies to engage in defensive cybersecurity work....",
       "source": {
@@ -76,26 +183,7 @@
       "originalUrl": "https://techcrunch.com/2026/04/07/anthropic-mythos-ai-model-preview-security/"
     },
     {
-      "id": "4bh8k79rtz6lvqmrsh3k6h",
-      "title": "Uber is the latest to be won over by Amazon’s AI chips",
-      "summary": "Uber is expanding its AWS contract to run more of its ride-sharing features on Amazon's chips. This is a thumb-of-the nose at Oracle and Google....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Google",
-        "Hardware"
-      ],
-      "publishedAt": "Tue, 07 Apr 2026 16:46:59 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/04/07/uber-is-the-latest-to-be-won-over-by-amazons-ai-chips/"
-    },
-    {
-      "id": "cgm6q7zm3pigijsh77h3",
+      "id": "1n4hxmr9ryya3k1dtp8pvq",
       "title": "Desalination plants in the Middle East are increasingly vulnerable",
       "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. As the conflict in Ir...",
       "source": {
@@ -111,7 +199,7 @@
       "originalUrl": "https://www.technologyreview.com/2026/04/07/1135235/desalination-technology-water/"
     },
     {
-      "id": "ryrpuhjp21jwv2td4u1j9",
+      "id": "0kx5fqjnr0cthuvv1divd",
       "title": "Enabling agent-first process redesign",
       "summary": "Unlike static, rules-based systems, AI agents can learn, adapt, and optimize processes dynamically. As they interact with data, systems, people, and other agents in real time, AI agents can execute en...",
       "source": {
@@ -127,7 +215,7 @@
       "originalUrl": "https://www.technologyreview.com/2026/04/07/1134966/enabling-agent-first-process-redesign/"
     },
     {
-      "id": "vw69undwidq7r42s9iqdc",
+      "id": "qa1yk7se8n8lz2kcylt5c",
       "title": "The Download: AI’s impact on jobs, and data centres in space",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The one piece of data that could actually shed light on your j...",
       "source": {
@@ -143,95 +231,7 @@
       "originalUrl": "https://www.technologyreview.com/2026/04/07/1135208/the-download-ai-impact-jobs-data-centres-space/"
     },
     {
-      "id": "uzsjsa3c83mp7ooyxsp97p",
-      "title": "IC3-Evolve: Proof-/Witness-Gated Offline LLM-Driven Heuristic Evolution for IC3 Hardware Model Checking",
-      "summary": "arXiv:2604.03232v1 Announce Type: new \nAbstract: IC3, also known as property-directed reachability (PDR), is a commonly-used algorithm for hardware safety model checking. It checks if a state transiti...",
-      "source": {
-        "name": "ArXiv AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Research",
-      "tags": [
-        "LLM",
-        "AI Safety"
-      ],
-      "publishedAt": "Tue, 07 Apr 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2604.03232"
-    },
-    {
-      "id": "dhartatts24phrs03xddgm",
-      "title": "Structural Segmentation of the Minimum Set Cover Problem: Exploiting Universe Decomposability for Metaheuristic Optimization",
-      "summary": "arXiv:2604.03234v1 Announce Type: new \nAbstract: The Minimum Set Cover Problem (MSCP) is a classical NP-hard combinatorial optimization problem with numerous applications in science and engineering. A...",
-      "source": {
-        "name": "ArXiv AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Research",
-      "tags": [
-        "Meta"
-      ],
-      "publishedAt": "Tue, 07 Apr 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2604.03234"
-    },
-    {
-      "id": "cyaebw07v7khtzy593aoef",
-      "title": "To Throw a Stone with Six Birds: On Agents and Agenthood",
-      "summary": "arXiv:2604.03239v1 Announce Type: new \nAbstract: Six Birds Theory (SBT) treats macroscopic objects as induced closures rather than primitives. Empirical discussions of agency often conflate persistenc...",
-      "source": {
-        "name": "ArXiv AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Research",
-      "tags": [],
-      "publishedAt": "Tue, 07 Apr 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2604.03239"
-    },
-    {
-      "id": "np5nzq7pmmp7fd2zmm6jxo",
-      "title": "Position: Science of AI Evaluation Requires Item-level Benchmark Data",
-      "summary": "arXiv:2604.03244v1 Announce Type: new \nAbstract: AI evaluations have become the primary evidence for deploying generative AI systems across high-stakes domains. However, current evaluation paradigms o...",
-      "source": {
-        "name": "ArXiv AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Research",
-      "tags": [],
-      "publishedAt": "Tue, 07 Apr 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2604.03244"
-    },
-    {
-      "id": "e6uxxk4ewusxz5f1fylm7",
-      "title": "Toward Full Autonomous Laboratory Instrumentation Control with Large Language Models",
-      "summary": "arXiv:2604.03286v1 Announce Type: new \nAbstract: The control of complex laboratory instrumentation often requires significant programming expertise, creating a barrier for researchers lacking computat...",
-      "source": {
-        "name": "ArXiv AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Research",
-      "tags": [
-        "OpenAI",
-        "LLM"
-      ],
-      "publishedAt": "Tue, 07 Apr 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2604.03286"
-    },
-    {
-      "id": "j63cw4aiefv1vmmdgo3y",
+      "id": "z1aqz3l5islpswd369v0u9",
       "title": "The one piece of data that could actually shed light on your job and AI",
       "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Within Silicon Valley’s orbit, an AI-fueled jobs apocalypse is...",
       "source": {
@@ -249,7 +249,7 @@
       "originalUrl": "https://www.technologyreview.com/2026/04/06/1135187/the-one-piece-of-data-that-could-actually-shed-light-on-your-job-and-ai/"
     },
     {
-      "id": "jrnptjmpg2bc6ygv0ga9e",
+      "id": "y2geox3295mxbr6l9x4vq",
       "title": "AI is changing how small online sellers decide what to make",
       "summary": "For years Mike McClary sold the Guardian LTE Flashlight, a heavy-duty black model, online through his small outdoor brand. The product, designed for brightness and durability, became one of his most p...",
       "source": {
@@ -265,7 +265,7 @@
       "originalUrl": "https://www.technologyreview.com/2026/04/06/1135118/ai-online-seller-alibaba-accio/"
     },
     {
-      "id": "tj2hbu5mlfi8b65c0gr7",
+      "id": "ogjw4jet92hz8usazj2tr",
       "title": "Announcing the OpenAI Safety Fellowship",
       "summary": "A pilot program to support independent safety and alignment research and develop the next generation of talent...",
       "source": {
@@ -284,7 +284,7 @@
       "originalUrl": "https://openai.com/index/introducing-openai-safety-fellowship"
     },
     {
-      "id": "uu9omc0klriqpvyzxfdb7",
+      "id": "x7qyb3ipzfttl9jyb4xpp",
       "title": "Industrial policy for the Intelligence Age",
       "summary": "Explore our ambitious, people-first industrial policy ideas for the AI era—focused on expanding opportunity, sharing prosperity, and building resilient institutions as advanced intelligence evolves....",
       "source": {
@@ -300,7 +300,7 @@
       "originalUrl": "https://openai.com/index/industrial-policy-for-the-intelligence-age"
     },
     {
-      "id": "eazrkxgps8ozhpkhvgq44",
+      "id": "r27aevs4wxd5il94ib8pma",
       "title": "OpenAI acquires TBPN",
       "summary": "OpenAI acquires TBPN to accelerate global conversations around AI and support independent media, expanding dialogue with builders, businesses, and the broader tech community....",
       "source": {
@@ -318,7 +318,7 @@
       "originalUrl": "https://openai.com/index/openai-acquires-tbpn"
     },
     {
-      "id": "eayzqvc5ukn2eufg8r8gwo",
+      "id": "k30abnj4r1bwah8hk8bolj",
       "title": "Codex now offers more flexible pricing for teams",
       "summary": "Codex now includes pay-as-you-go pricing for ChatGPT Business and Enterprise, providing teams a more flexible option to start and scale adoption....",
       "source": {
@@ -337,7 +337,7 @@
       "originalUrl": "https://openai.com/index/codex-flexible-pricing-for-teams"
     },
     {
-      "id": "o22nqmagyjjc56ew1oagn",
+      "id": "3rl8vusmya8yw5skl1xn1",
       "title": "Gradient Labs gives every bank customer an AI account manager",
       "summary": "Gradient Labs uses GPT-4.1 and GPT-5.4 mini and nano to power AI agents that automate banking support workflows with low latency and high reliability....",
       "source": {
@@ -358,5 +358,5 @@
     }
   ],
   "totalArticles": 25,
-  "lastUpdated": "2026-04-07T22:04:45.467Z"
+  "lastUpdated": "2026-04-08T10:04:39.261Z"
 }
