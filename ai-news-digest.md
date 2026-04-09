@@ -9,16 +9,133 @@ Votre quotidien des avancées en Intelligence Artificielle.
 ## 📊 Statistiques
 
 - **25** articles collectés
-- Dernière mise à jour: 09/04/2026 06:03:32
+- Dernière mise à jour: 09/04/2026 12:02:33
 - Sources: TechCrunch, The Verge, OpenAI, Anthropic, Google AI, ArXiv, MIT Tech Review
 
 ---
 
 ## 📰 Articles du jour
 
+### 🔬 Research
+
+#### High-Precision Estimation of the State-Space Complexity of Shogi via the Monte Carlo Method
+
+> arXiv:2604.06189v1 Announce Type: new 
+Abstract: Determining the state-space complexity of the game of Shogi (Japanese Chess) has been a challenging problem, with previous combinatorial estimates leav...
+
+- **Source:** [ArXiv AI](https://arxiv.org/abs/2604.06189)
+- **Tags:** #Startup
+- **Temps de lecture:** 1 min
+- **Publié:** 09/04/2026 12:00:00
+
+---
+
+#### Blind Refusal: Language Models Refuse to Help Users Evade Unjust, Absurd, and Illegitimate Rules
+
+> arXiv:2604.06233v1 Announce Type: new 
+Abstract: Safety-trained language models routinely refuse requests for help circumventing rules. But not all rules deserve compliance. When users ask for help ev...
+
+- **Source:** [ArXiv AI](https://arxiv.org/abs/2604.06233)
+- **Tags:** #OpenAI, #LLM, #AI Safety
+- **Temps de lecture:** 1 min
+- **Publié:** 09/04/2026 12:00:00
+
+---
+
+#### Toward Reducing Unproductive Container Moves: Predicting Service Requirements and Dwell Times
+
+> arXiv:2604.06251v1 Announce Type: new 
+Abstract: This article presents the results of a data science study conducted at a container terminal, aimed at reducing unproductive container moves through the...
+
+- **Source:** [ArXiv AI](https://arxiv.org/abs/2604.06251)
+- **Tags:** 
+- **Temps de lecture:** 1 min
+- **Publié:** 09/04/2026 12:00:00
+
+---
+
+#### Weakly Supervised Distillation of Hallucination Signals into Transformer Representations
+
+> arXiv:2604.06277v1 Announce Type: new 
+Abstract: Existing hallucination detection methods for large language models (LLMs) rely on external verification at inference time, requiring gold answers, retr...
+
+- **Source:** [ArXiv AI](https://arxiv.org/abs/2604.06277)
+- **Tags:** #Meta, #LLM, #Computer Vision
+- **Temps de lecture:** 1 min
+- **Publié:** 09/04/2026 12:00:00
+
+---
+
+#### SymptomWise: A Deterministic Reasoning Layer for Reliable and Efficient AI Systems
+
+> arXiv:2604.06375v1 Announce Type: new 
+Abstract: AI-driven symptom analysis systems face persistent challenges in reliability, interpretability, and hallucination. End-to-end generative approaches oft...
+
+- **Source:** [ArXiv AI](https://arxiv.org/abs/2604.06375)
+- **Tags:** #LLM, #AI Safety, #Hardware, #Healthcare
+- **Temps de lecture:** 1 min
+- **Publié:** 09/04/2026 12:00:00
+
+---
+
+#### Mustafa Suleyman: AI development won’t hit a wall anytime soon—here’s why
+
+> We evolved for a linear world. If you walk for an hour, you cover a certain distance. Walk for two hours and you cover double that distance. This intuition served us well on the savannah. But it catas...
+
+- **Source:** [MIT Technology Review](https://www.technologyreview.com/2026/04/08/1135398/mustafa-suleyman-ai-future/)
+- **Tags:** 
+- **Temps de lecture:** 1 min
+- **Publié:** 08/04/2026 22:00:00
+
+---
+
+#### The Download: water threats in Iran and AI’s impact on what entrepreneurs make
+
+> This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Desalination plants in the Middle East are increasingly vulner...
+
+- **Source:** [MIT Technology Review](https://www.technologyreview.com/2026/04/08/1135405/the-download-water-threats-iran-ais-impact-on-entrepreneurs-make/)
+- **Tags:** 
+- **Temps de lecture:** 1 min
+- **Publié:** 08/04/2026 20:10:00
+
+---
+
+#### Desalination plants in the Middle East are increasingly vulnerable
+
+> MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. As the conflict in Ir...
+
+- **Source:** [MIT Technology Review](https://www.technologyreview.com/2026/04/07/1135235/desalination-technology-water/)
+- **Tags:** 
+- **Temps de lecture:** 1 min
+- **Publié:** 07/04/2026 22:54:06
+
+---
+
+#### Enabling agent-first process redesign
+
+> Unlike static, rules-based systems, AI agents can learn, adapt, and optimize processes dynamically. As they interact with data, systems, people, and other agents in real time, AI agents can execute en...
+
+- **Source:** [MIT Technology Review](https://www.technologyreview.com/2026/04/07/1134966/enabling-agent-first-process-redesign/)
+- **Tags:** 
+- **Temps de lecture:** 1 min
+- **Publié:** 07/04/2026 22:00:00
+
+---
+
+#### The Download: AI’s impact on jobs, and data centres in space
+
+> This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The one piece of data that could actually shed light on your j...
+
+- **Source:** [MIT Technology Review](https://www.technologyreview.com/2026/04/07/1135208/the-download-ai-impact-jobs-data-centres-space/)
+- **Tags:** 
+- **Temps de lecture:** 1 min
+- **Publié:** 07/04/2026 20:10:00
+
+---
+
 ### 🏭 Industry
 
-#### Poke makes AI agents as easy as sending a text
+#### Poke makes using AI agents as easy as sending a text
 
 > Poke brings AI agents to everyday users via text message by handling tasks and automations without complex setup, apps, or technical know-how....
 
@@ -70,123 +187,6 @@ Votre quotidien des avancées en Intelligence Artificielle.
 - **Tags:** #OpenAI, #AI Safety
 - **Temps de lecture:** 1 min
 - **Publié:** 08/04/2026 23:23:44
-
----
-
-### 🔬 Research
-
-#### Mustafa Suleyman: AI development won’t hit a wall anytime soon—here’s why
-
-> We evolved for a linear world. If you walk for an hour, you cover a certain distance. Walk for two hours and you cover double that distance. This intuition served us well on the savannah. But it catas...
-
-- **Source:** [MIT Technology Review](https://www.technologyreview.com/2026/04/08/1135398/mustafa-suleyman-ai-future/)
-- **Tags:** 
-- **Temps de lecture:** 1 min
-- **Publié:** 08/04/2026 22:00:00
-
----
-
-#### The Download: water threats in Iran and AI’s impact on what entrepreneurs make
-
-> This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Desalination plants in the Middle East are increasingly vulner...
-
-- **Source:** [MIT Technology Review](https://www.technologyreview.com/2026/04/08/1135405/the-download-water-threats-iran-ais-impact-on-entrepreneurs-make/)
-- **Tags:** 
-- **Temps de lecture:** 1 min
-- **Publié:** 08/04/2026 20:10:00
-
----
-
-#### Pramana: Fine-Tuning Large Language Models for Epistemic Reasoning through Navya-Nyaya
-
-> arXiv:2604.04937v1 Announce Type: new 
-Abstract: Large language models produce fluent text but struggle with systematic reasoning, often hallucinating confident but unfounded claims. When Apple resear...
-
-- **Source:** [ArXiv AI](https://arxiv.org/abs/2604.04937)
-- **Tags:** #Meta, #LLM
-- **Temps de lecture:** 1 min
-- **Publié:** 08/04/2026 12:00:00
-
----
-
-#### Operational Noncommutativity in Sequential Metacognitive Judgments
-
-> arXiv:2604.04938v1 Announce Type: new 
-Abstract: Metacognition, understood as the monitoring and regulation of one's own cognitive processes, is inherently sequential: an agent evaluates an internal s...
-
-- **Source:** [ArXiv AI](https://arxiv.org/abs/2604.04938)
-- **Tags:** #Meta, #Hardware
-- **Temps de lecture:** 1 min
-- **Publié:** 08/04/2026 12:00:00
-
----
-
-#### Proximity Measure of Information Object Features for Solving the Problem of Their Identification in Information Systems
-
-> arXiv:2604.04939v1 Announce Type: new 
-Abstract: The paper considers a new quantitative-qualitative proximity measure for the features of information objects, where data enters a common information re...
-
-- **Source:** [ArXiv AI](https://arxiv.org/abs/2604.04939)
-- **Tags:** 
-- **Temps de lecture:** 1 min
-- **Publié:** 08/04/2026 12:00:00
-
----
-
-#### ReVEL: Multi-Turn Reflective LLM-Guided Heuristic Evolution via Structured Performance Feedback
-
-> arXiv:2604.04940v1 Announce Type: new 
-Abstract: Designing effective heuristics for NP-hard combinatorial optimization problems remains a challenging and expertise-intensive task. Existing application...
-
-- **Source:** [ArXiv AI](https://arxiv.org/abs/2604.04940)
-- **Tags:** #Meta, #LLM
-- **Temps de lecture:** 1 min
-- **Publié:** 08/04/2026 12:00:00
-
----
-
-#### Algebraic Structure Discovery for Real World Combinatorial Optimisation Problems: A General Framework from Abstract Algebra to Quotient Space Learning
-
-> arXiv:2604.04941v1 Announce Type: new 
-Abstract: Many combinatorial optimisation problems hide algebraic structures that, once exposed, shrink the search space and improve the chance of finding the gl...
-
-- **Source:** [ArXiv AI](https://arxiv.org/abs/2604.04941)
-- **Tags:** 
-- **Temps de lecture:** 1 min
-- **Publié:** 08/04/2026 12:00:00
-
----
-
-#### Desalination plants in the Middle East are increasingly vulnerable
-
-> MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. As the conflict in Ir...
-
-- **Source:** [MIT Technology Review](https://www.technologyreview.com/2026/04/07/1135235/desalination-technology-water/)
-- **Tags:** 
-- **Temps de lecture:** 1 min
-- **Publié:** 07/04/2026 22:54:06
-
----
-
-#### Enabling agent-first process redesign
-
-> Unlike static, rules-based systems, AI agents can learn, adapt, and optimize processes dynamically. As they interact with data, systems, people, and other agents in real time, AI agents can execute en...
-
-- **Source:** [MIT Technology Review](https://www.technologyreview.com/2026/04/07/1134966/enabling-agent-first-process-redesign/)
-- **Tags:** 
-- **Temps de lecture:** 1 min
-- **Publié:** 07/04/2026 22:00:00
-
----
-
-#### The Download: AI’s impact on jobs, and data centres in space
-
-> This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The one piece of data that could actually shed light on your j...
-
-- **Source:** [MIT Technology Review](https://www.technologyreview.com/2026/04/07/1135208/the-download-ai-impact-jobs-data-centres-space/)
-- **Tags:** 
-- **Temps de lecture:** 1 min
-- **Publié:** 07/04/2026 20:10:00
 
 ---
 
