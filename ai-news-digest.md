@@ -1,6 +1,6 @@
 # 🤖 AI News Digest
 
-> **Digest du jeudi 9 avril 2026**
+> **Digest du vendredi 10 avril 2026**
 
 Votre quotidien des avancées en Intelligence Artificielle.
 
@@ -9,14 +9,104 @@ Votre quotidien des avancées en Intelligence Artificielle.
 ## 📊 Statistiques
 
 - **25** articles collectés
-- Dernière mise à jour: 09/04/2026 18:02:44
+- Dernière mise à jour: 10/04/2026 06:02:33
 - Sources: TechCrunch, The Verge, OpenAI, Anthropic, Google AI, ArXiv, MIT Tech Review
 
 ---
 
 ## 📰 Articles du jour
 
+### 🏭 Industry
+
+#### ChatGPT finally offers $100/month Pro plan
+
+> OpenAI announced on Thursday something that power users have been asking for: a $100/month plan. Previously subscriptions jumped from $20 to $200 per month....
+
+- **Source:** [TechCrunch AI](https://techcrunch.com/2026/04/09/chatgpt-pro-plan-100-month-codex/)
+- **Tags:** #OpenAI, #LLM
+- **Temps de lecture:** 1 min
+- **Publié:** 10/04/2026 05:29:11
+
+---
+
+#### Florida AG announces investigation into OpenAI over shooting that allegedly involved ChatGPT
+
+> ChatGPT had reportedly been used to plan the attack that killed two and injured five at Florida State University last April. The family of one victim has said that they plan to sue OpenAI over the inc...
+
+- **Source:** [TechCrunch AI](https://techcrunch.com/2026/04/09/florida-ag-investigation-openai-chatgpt-shooting/)
+- **Tags:** #OpenAI, #LLM
+- **Temps de lecture:** 1 min
+- **Publié:** 10/04/2026 04:11:55
+
+---
+
+#### After data breach, $10B-valued startup Mercor is having a month
+
+> After falling victim to a hacker, Mercor is facing lawsuits and reportedly losing big-name customers....
+
+- **Source:** [TechCrunch AI](https://techcrunch.com/2026/04/09/after-data-breach-10b-valued-startup-mercor-is-having-a-month/)
+- **Tags:** #Startup
+- **Temps de lecture:** 1 min
+- **Publié:** 10/04/2026 03:33:54
+
+---
+
+#### Meta AI app climbs to No. 5 on the App Store after Muse Spark launch
+
+> The app was ranking No. 57 on the App Store just before Meta AI's new model launched. Now it's No. 5 — and rising....
+
+- **Source:** [TechCrunch AI](https://techcrunch.com/2026/04/09/meta-ai-app-climbs-to-no-5-on-the-app-store-after-muse-spark-launch/)
+- **Tags:** #Meta
+- **Temps de lecture:** 1 min
+- **Publié:** 10/04/2026 03:10:07
+
+---
+
+#### Is Anthropic limiting the release of Mythos to protect the internet — or Anthropic?
+
+> Anthropic said this week that it limited the release of its newest model, dubbed Mythos, because it is too capable of finding security exploits in software relied upon by users around the world. Are r...
+
+- **Source:** [TechCrunch AI](https://techcrunch.com/2026/04/09/is-anthropic-limiting-the-release-of-mythos-to-protect-the-internet-or-anthropic/)
+- **Tags:** #Anthropic
+- **Temps de lecture:** 1 min
+- **Publié:** 10/04/2026 02:50:05
+
+---
+
 ### 🔬 Research
+
+#### The Download: AstroTurf wars and exponential AI growth
+
+> This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Is fake grass a bad idea? The AstroTurf wars are far from over...
+
+- **Source:** [MIT Technology Review](https://www.technologyreview.com/2026/04/09/1135514/the-download-astroturf-wars-exponential-ai-growth-desalination-numbers/)
+- **Tags:** #Startup
+- **Temps de lecture:** 1 min
+- **Publié:** 09/04/2026 20:25:10
+
+---
+
+#### Is fake grass a bad idea? The AstroTurf wars are far from over.
+
+> A rare warm spell in January melted enough snow to uncover Cornell University’s newest athletic field, built for field hockey. Months before, it was a meadow teeming with birds and bugs; now it’s more...
+
+- **Source:** [MIT Technology Review](https://www.technologyreview.com/2026/04/09/1135092/astroturf-fake-grass-artificial-heated-debates/)
+- **Tags:** 
+- **Temps de lecture:** 1 min
+- **Publié:** 09/04/2026 18:00:00
+
+---
+
+#### Desalination technology, by the numbers
+
+> When I started digging into desalination technology for a new story, I couldn’t help but obsess over the numbers. I’d known on some level that desalination—pulling salt out of seawater to produce fres...
+
+- **Source:** [MIT Technology Review](https://www.technologyreview.com/2026/04/09/1135495/desalination-technology-numbers/)
+- **Tags:** 
+- **Temps de lecture:** 1 min
+- **Publié:** 09/04/2026 18:00:00
+
+---
 
 #### High-Precision Estimation of the State-Space Complexity of Shogi via the Monte Carlo Method
 
@@ -100,97 +190,29 @@ Abstract: AI-driven symptom analysis systems face persistent challenges in relia
 
 ---
 
-#### Desalination plants in the Middle East are increasingly vulnerable
-
-> MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. As the conflict in Ir...
-
-- **Source:** [MIT Technology Review](https://www.technologyreview.com/2026/04/07/1135235/desalination-technology-water/)
-- **Tags:** 
-- **Temps de lecture:** 1 min
-- **Publié:** 07/04/2026 22:54:06
-
----
-
-#### Enabling agent-first process redesign
-
-> Unlike static, rules-based systems, AI agents can learn, adapt, and optimize processes dynamically. As they interact with data, systems, people, and other agents in real time, AI agents can execute en...
-
-- **Source:** [MIT Technology Review](https://www.technologyreview.com/2026/04/07/1134966/enabling-agent-first-process-redesign/)
-- **Tags:** 
-- **Temps de lecture:** 1 min
-- **Publié:** 07/04/2026 22:00:00
-
----
-
-#### The Download: AI’s impact on jobs, and data centres in space
-
-> This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The one piece of data that could actually shed light on your j...
-
-- **Source:** [MIT Technology Review](https://www.technologyreview.com/2026/04/07/1135208/the-download-ai-impact-jobs-data-centres-space/)
-- **Tags:** 
-- **Temps de lecture:** 1 min
-- **Publié:** 07/04/2026 20:10:00
-
----
-
-### 🏭 Industry
-
-#### Poke makes using AI agents as easy as sending a text
-
-> Poke brings AI agents to everyday users via text message by handling tasks and automations without complex setup, apps, or technical know-how....
-
-- **Source:** [TechCrunch AI](https://techcrunch.com/2026/04/08/poke-makes-ai-agents-as-easy-as-sending-a-text/)
-- **Tags:** 
-- **Temps de lecture:** 1 min
-- **Publié:** 09/04/2026 05:05:13
-
----
-
-#### AWS boss explains why investing billions in both Anthropic and OpenAI is an OK conflict
-
-> AWS has an ingrained culture of handling competition, he explained, because the cloud giant also competes with its partners....
-
-- **Source:** [TechCrunch AI](https://techcrunch.com/2026/04/08/aws-boss-explains-why-investing-billions-in-both-anthropic-and-openai-is-an-ok-conflict/)
-- **Tags:** #OpenAI, #Anthropic, #Startup
-- **Temps de lecture:** 1 min
-- **Publié:** 09/04/2026 04:09:14
-
----
-
-#### Tubi is the first streamer to launch a native app within ChatGPT
-
-> Tubi becomes the first streaming service to offer an app integration within ChatGPT, the AI chatbot that millions of users turn to for answers....
-
-- **Source:** [TechCrunch AI](https://techcrunch.com/2026/04/08/tubi-is-the-first-streamer-to-launch-a-native-app-within-chatgpt/)
-- **Tags:** #OpenAI, #LLM, #Startup
-- **Temps de lecture:** 1 min
-- **Publié:** 09/04/2026 02:23:06
-
----
-
-#### Astropad’s Workbench reimagines remote desktop for AI agents, not IT support
-
-> Astropad’s Workbench lets users remotely monitor and control AI agents on Mac Minis from iPhone or iPad, with low-latency streaming and mobile access....
-
-- **Source:** [TechCrunch AI](https://techcrunch.com/2026/04/08/astropads-workbench-reimagines-remote-desktop-for-ai-agents-not-it-support/)
-- **Tags:** 
-- **Temps de lecture:** 1 min
-- **Publié:** 09/04/2026 00:01:09
-
----
-
-#### OpenAI releases a new safety blueprint to address the rise in child sexual exploitation
-
-> OpenAI's new Child Safety Blueprint aims to tackle the alarming rise in child sexual exploitation linked to advancements in AI....
-
-- **Source:** [TechCrunch AI](https://techcrunch.com/2026/04/08/openai-releases-a-new-safety-blueprint-to-address-the-rise-in-child-sexual-exploitation/)
-- **Tags:** #OpenAI, #AI Safety
-- **Temps de lecture:** 1 min
-- **Publié:** 08/04/2026 23:23:44
-
----
-
 ### 🚀 Product
+
+#### CyberAgent moves faster with ChatGPT Enterprise and Codex
+
+> CyberAgent uses ChatGPT Enterprise and Codex to securely scale AI adoption, improve quality, and accelerate decisions across advertising, media, and gaming....
+
+- **Source:** [OpenAI Blog](https://openai.com/index/cyber-agent)
+- **Tags:** #OpenAI, #LLM
+- **Temps de lecture:** 1 min
+- **Publié:** 09/04/2026 08:00:00
+
+---
+
+#### OpenAI Full Fan Mode Contest: Terms & Conditions
+
+> Explore the official terms and conditions for the OpenAI Full Fan Mode Contest, including eligibility, entry steps, judging criteria, and prize details. Learn how to participate, submit your entry on ...
+
+- **Source:** [OpenAI Blog](https://openai.com/index/full-fan-mode-contest-terms-conditions)
+- **Tags:** #OpenAI
+- **Temps de lecture:** 1 min
+- **Publié:** 09/04/2026 08:00:00
+
+---
 
 #### The next phase of enterprise AI
 
@@ -222,28 +244,6 @@ Abstract: AI-driven symptom analysis systems face persistent challenges in relia
 - **Tags:** #OpenAI, #AI Safety
 - **Temps de lecture:** 1 min
 - **Publié:** 06/04/2026 18:00:00
-
----
-
-#### Industrial policy for the Intelligence Age
-
-> Explore our ambitious, people-first industrial policy ideas for the AI era—focused on expanding opportunity, sharing prosperity, and building resilient institutions as advanced intelligence evolves....
-
-- **Source:** [OpenAI Blog](https://openai.com/index/industrial-policy-for-the-intelligence-age)
-- **Tags:** 
-- **Temps de lecture:** 1 min
-- **Publié:** 06/04/2026 10:30:00
-
----
-
-#### OpenAI acquires TBPN
-
-> OpenAI acquires TBPN to accelerate global conversations around AI and support independent media, expanding dialogue with builders, businesses, and the broader tech community....
-
-- **Source:** [OpenAI Blog](https://openai.com/index/openai-acquires-tbpn)
-- **Tags:** #OpenAI
-- **Temps de lecture:** 1 min
-- **Publié:** 02/04/2026 18:30:00
 
 ---
 
