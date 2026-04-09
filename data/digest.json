@@ -1,8 +1,8 @@
 {
-  "date": "2026-04-09T04:02:33.361Z",
+  "date": "2026-04-09T10:02:44.130Z",
   "articles": [
     {
-      "id": "87mv4idrwz66yf74y52smw",
+      "id": "6iapgsirprxprq2iibg9l",
       "title": "High-Precision Estimation of the State-Space Complexity of Shogi via the Monte Carlo Method",
       "summary": "arXiv:2604.06189v1 Announce Type: new \nAbstract: Determining the state-space complexity of the game of Shogi (Japanese Chess) has been a challenging problem, with previous combinatorial estimates leav...",
       "source": {
@@ -20,7 +20,7 @@
       "originalUrl": "https://arxiv.org/abs/2604.06189"
     },
     {
-      "id": "mke00xi8l8iahbcaxi4r4u",
+      "id": "0ngtmj9saen1ecoy3j04sk",
       "title": "Blind Refusal: Language Models Refuse to Help Users Evade Unjust, Absurd, and Illegitimate Rules",
       "summary": "arXiv:2604.06233v1 Announce Type: new \nAbstract: Safety-trained language models routinely refuse requests for help circumventing rules. But not all rules deserve compliance. When users ask for help ev...",
       "source": {
@@ -40,7 +40,7 @@
       "originalUrl": "https://arxiv.org/abs/2604.06233"
     },
     {
-      "id": "kftko1ghy4tt1bp0d5rc",
+      "id": "pw9wh37e2dfpi5zih7ondb",
       "title": "Toward Reducing Unproductive Container Moves: Predicting Service Requirements and Dwell Times",
       "summary": "arXiv:2604.06251v1 Announce Type: new \nAbstract: This article presents the results of a data science study conducted at a container terminal, aimed at reducing unproductive container moves through the...",
       "source": {
@@ -56,7 +56,7 @@
       "originalUrl": "https://arxiv.org/abs/2604.06251"
     },
     {
-      "id": "bqixmr8q3bmzasen7wan2n",
+      "id": "s3r6gw7ty2eooq01k1p0k",
       "title": "Weakly Supervised Distillation of Hallucination Signals into Transformer Representations",
       "summary": "arXiv:2604.06277v1 Announce Type: new \nAbstract: Existing hallucination detection methods for large language models (LLMs) rely on external verification at inference time, requiring gold answers, retr...",
       "source": {
@@ -76,7 +76,7 @@
       "originalUrl": "https://arxiv.org/abs/2604.06277"
     },
     {
-      "id": "1b6ihp432vew0mqncg1his",
+      "id": "02pc184h4cpvox72oiw4vp",
       "title": "SymptomWise: A Deterministic Reasoning Layer for Reliable and Efficient AI Systems",
       "summary": "arXiv:2604.06375v1 Announce Type: new \nAbstract: AI-driven symptom analysis systems face persistent challenges in reliability, interpretability, and hallucination. End-to-end generative approaches oft...",
       "source": {
@@ -97,7 +97,7 @@
       "originalUrl": "https://arxiv.org/abs/2604.06375"
     },
     {
-      "id": "fwtizbsedfrksikgsnfeqf",
+      "id": "5vd7ecd99vlhxlehf9b7in",
       "title": "Poke makes using AI agents as easy as sending a text",
       "summary": "Poke brings AI agents to everyday users via text message by handling tasks and automations without complex setup, apps, or technical know-how....",
       "source": {
@@ -113,7 +113,7 @@
       "originalUrl": "https://techcrunch.com/2026/04/08/poke-makes-ai-agents-as-easy-as-sending-a-text/"
     },
     {
-      "id": "m2uj5h1to1hnu5qbr1323",
+      "id": "7596ik64wnasktkrgifbwl",
       "title": "AWS boss explains why investing billions in both Anthropic and OpenAI is an OK conflict",
       "summary": "AWS has an ingrained culture of handling competition, he explained, because the cloud giant also competes with its partners....",
       "source": {
@@ -133,7 +133,7 @@
       "originalUrl": "https://techcrunch.com/2026/04/08/aws-boss-explains-why-investing-billions-in-both-anthropic-and-openai-is-an-ok-conflict/"
     },
     {
-      "id": "kbyqnu9rmjp516e94krsla",
+      "id": "x3snwaapjm9w1soouw1ky",
       "title": "Tubi is the first streamer to launch a native app within ChatGPT",
       "summary": "Tubi becomes the first streaming service to offer an app integration within ChatGPT, the AI chatbot that millions of users turn to for answers....",
       "source": {
@@ -153,7 +153,7 @@
       "originalUrl": "https://techcrunch.com/2026/04/08/tubi-is-the-first-streamer-to-launch-a-native-app-within-chatgpt/"
     },
     {
-      "id": "tikj2dw9zim9mhz8app57b",
+      "id": "3s3eqx8h7biqligvkvm40i",
       "title": "Astropad’s Workbench reimagines remote desktop for AI agents, not IT support",
       "summary": "Astropad’s Workbench lets users remotely monitor and control AI agents on Mac Minis from iPhone or iPad, with low-latency streaming and mobile access....",
       "source": {
@@ -169,7 +169,7 @@
       "originalUrl": "https://techcrunch.com/2026/04/08/astropads-workbench-reimagines-remote-desktop-for-ai-agents-not-it-support/"
     },
     {
-      "id": "ov5xptbbd2k62srlkytsho",
+      "id": "m6i08hyh1gnh97npqbjosg",
       "title": "OpenAI releases a new safety blueprint to address the rise in child sexual exploitation",
       "summary": "OpenAI's new Child Safety Blueprint aims to tackle the alarming rise in child sexual exploitation linked to advancements in AI....",
       "source": {
@@ -188,7 +188,7 @@
       "originalUrl": "https://techcrunch.com/2026/04/08/openai-releases-a-new-safety-blueprint-to-address-the-rise-in-child-sexual-exploitation/"
     },
     {
-      "id": "f4da3v3gcncxdwtsyonjj",
+      "id": "6bncpx0xgdmrx0u20nqh",
       "title": "Mustafa Suleyman: AI development won’t hit a wall anytime soon—here’s why",
       "summary": "We evolved for a linear world. If you walk for an hour, you cover a certain distance. Walk for two hours and you cover double that distance. This intuition served us well on the savannah. But it catas...",
       "source": {
@@ -204,7 +204,7 @@
       "originalUrl": "https://www.technologyreview.com/2026/04/08/1135398/mustafa-suleyman-ai-future/"
     },
     {
-      "id": "3lzvb11zx8xnclea0ik4fi",
+      "id": "n97hyc1htkq0ewky7fqncw",
       "title": "The next phase of enterprise AI",
       "summary": "OpenAI outlines the next phase of enterprise AI, as adoption accelerates across industries with Frontier, ChatGPT Enterprise, Codex, and company-wide AI agents....",
       "source": {
@@ -223,7 +223,7 @@
       "originalUrl": "https://openai.com/index/next-phase-of-enterprise-ai"
     },
     {
-      "id": "ejbabgujfj5ac6f6curse",
+      "id": "2xjl59imi3tgxc5w9hvblq",
       "title": "The Download: water threats in Iran and AI’s impact on what entrepreneurs make",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Desalination plants in the Middle East are increasingly vulner...",
       "source": {
@@ -239,7 +239,7 @@
       "originalUrl": "https://www.technologyreview.com/2026/04/08/1135405/the-download-water-threats-iran-ais-impact-on-entrepreneurs-make/"
     },
     {
-      "id": "9u1lifvt8857cbmxqw4gmu",
+      "id": "o34riskzgzxwxyr90xkki",
       "title": "Introducing the Child Safety Blueprint",
       "summary": "Discover OpenAI’s Child Safety Blueprint—a roadmap for building AI responsibly with safeguards, age-appropriate design, and collaboration to protect and empower young people online....",
       "source": {
@@ -258,7 +258,7 @@
       "originalUrl": "https://openai.com/index/introducing-child-safety-blueprint"
     },
     {
-      "id": "qfg1o6mm0ysd28k8o9tbp",
+      "id": "dz8i7gh3hg86agqvgmufcp",
       "title": "Desalination plants in the Middle East are increasingly vulnerable",
       "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. As the conflict in Ir...",
       "source": {
@@ -274,7 +274,7 @@
       "originalUrl": "https://www.technologyreview.com/2026/04/07/1135235/desalination-technology-water/"
     },
     {
-      "id": "t1sxtu262qec9n4catx9",
+      "id": "cszy9rczm32hgn1ruim6o",
       "title": "Enabling agent-first process redesign",
       "summary": "Unlike static, rules-based systems, AI agents can learn, adapt, and optimize processes dynamically. As they interact with data, systems, people, and other agents in real time, AI agents can execute en...",
       "source": {
@@ -290,7 +290,7 @@
       "originalUrl": "https://www.technologyreview.com/2026/04/07/1134966/enabling-agent-first-process-redesign/"
     },
     {
-      "id": "04r7oozznp6xglo08oxua44",
+      "id": "8flvoi5k8dkgr29zjwq1al",
       "title": "The Download: AI’s impact on jobs, and data centres in space",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The one piece of data that could actually shed light on your j...",
       "source": {
@@ -306,7 +306,7 @@
       "originalUrl": "https://www.technologyreview.com/2026/04/07/1135208/the-download-ai-impact-jobs-data-centres-space/"
     },
     {
-      "id": "l7khb6vyksg1gii3chvil5",
+      "id": "oddracmsjiodrjx0fy6q2",
       "title": "Announcing the OpenAI Safety Fellowship",
       "summary": "A pilot program to support independent safety and alignment research and develop the next generation of talent...",
       "source": {
@@ -325,7 +325,7 @@
       "originalUrl": "https://openai.com/index/introducing-openai-safety-fellowship"
     },
     {
-      "id": "6kazjwyw9t3948o2rysqut",
+      "id": "lqqmf47wp1anp578h0y5q",
       "title": "Industrial policy for the Intelligence Age",
       "summary": "Explore our ambitious, people-first industrial policy ideas for the AI era—focused on expanding opportunity, sharing prosperity, and building resilient institutions as advanced intelligence evolves....",
       "source": {
@@ -341,7 +341,7 @@
       "originalUrl": "https://openai.com/index/industrial-policy-for-the-intelligence-age"
     },
     {
-      "id": "olfvfaai5ehf7j4k0jx37",
+      "id": "g2uunq4caq9p9xnzhuknm",
       "title": "OpenAI acquires TBPN",
       "summary": "OpenAI acquires TBPN to accelerate global conversations around AI and support independent media, expanding dialogue with builders, businesses, and the broader tech community....",
       "source": {
@@ -360,5 +360,5 @@
     }
   ],
   "totalArticles": 25,
-  "lastUpdated": "2026-04-09T04:02:33.361Z"
+  "lastUpdated": "2026-04-09T10:02:44.130Z"
 }
