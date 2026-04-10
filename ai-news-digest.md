@@ -9,12 +9,69 @@ Votre quotidien des avancées en Intelligence Artificielle.
 ## 📊 Statistiques
 
 - **25** articles collectés
-- Dernière mise à jour: 11/04/2026 00:03:22
+- Dernière mise à jour: 11/04/2026 06:02:28
 - Sources: TechCrunch, The Verge, OpenAI, Anthropic, Google AI, ArXiv, MIT Tech Review
 
 ---
 
 ## 📰 Articles du jour
+
+### 🏭 Industry
+
+#### Anthropic temporarily banned OpenClaw’s creator from accessing Claude
+
+> This ban took place after Claude's pricing changed for OpenClaw users last week....
+
+- **Source:** [TechCrunch AI](https://techcrunch.com/2026/04/10/anthropic-temporarily-banned-openclaws-creator-from-accessing-claude/)
+- **Tags:** #Anthropic, #LLM
+- **Temps de lecture:** 1 min
+- **Publié:** 11/04/2026 04:27:52
+
+---
+
+#### Stalking victim sues OpenAI, claims ChatGPT fueled her abuser’s delusions and ignored her warnings
+
+> OpenAI ignored three warnings that a ChatGPT user was dangerous — including its own mass-casualty flag — while he stalked and harassed his ex-girlfriend, a new lawsuit alleges....
+
+- **Source:** [TechCrunch AI](https://techcrunch.com/2026/04/10/stalking-victim-sues-openai-claims-chatgpt-fueled-her-abusers-delusions-and-ignored-her-warnings/)
+- **Tags:** #OpenAI, #LLM
+- **Temps de lecture:** 1 min
+- **Publié:** 11/04/2026 00:41:34
+
+---
+
+#### TechCrunch is heading to Tokyo — and bringing the Startup Battlefield with it
+
+> SusHi Tech 2026 is zeroing in on four technology domains reshaping society: AI, Robotics, Resilience, and Entertainment. Expect live demos of humanoid robots, sessions on autonomous driving's software...
+
+- **Source:** [TechCrunch AI](https://techcrunch.com/2026/04/10/techcrunch-is-heading-to-tokyo-and-bringing-the-startup-battlefield-with-it/)
+- **Tags:** #Robotics, #Startup
+- **Temps de lecture:** 1 min
+- **Publié:** 11/04/2026 00:38:43
+
+---
+
+#### Last 24 hours: Save up to $500 on your TechCrunch Disrupt 2026 pass
+
+> This is it. Tonight is your last chance to lock in savings of up to $500 for your TechCrunch Disrupt 2026 pass. These discounts end at 11:59 p.m. PT....
+
+- **Source:** [TechCrunch AI](https://techcrunch.com/2026/04/10/final-24-hours-save-up-to-500-on-your-techcrunch-disrupt-2026-pass/)
+- **Tags:** 
+- **Temps de lecture:** 1 min
+- **Publié:** 10/04/2026 22:00:00
+
+---
+
+#### ChatGPT finally offers $100/month Pro plan
+
+> OpenAI announced on Thursday something that power users have been asking for: a $100/month plan. Previously, subscriptions jumped from $20 to $200 per month....
+
+- **Source:** [TechCrunch AI](https://techcrunch.com/2026/04/09/chatgpt-pro-plan-100-month-codex/)
+- **Tags:** #OpenAI, #LLM
+- **Temps de lecture:** 1 min
+- **Publié:** 10/04/2026 05:29:11
+
+---
 
 ### 🔬 Research
 
@@ -133,117 +190,60 @@ Abstract: AI-driven symptom analysis systems face persistent challenges in relia
 
 ---
 
-### 🏭 Industry
-
-#### Last 24 hours: Save up to $500 on your TechCrunch Disrupt 2026 pass
-
-> This is it. Tonight is your last chance to lock in savings of up to $500 for your TechCrunch Disrupt 2026 pass. These discounts end at 11:59 p.m. PT....
-
-- **Source:** [TechCrunch AI](https://techcrunch.com/2026/04/10/final-24-hours-save-up-to-500-on-your-techcrunch-disrupt-2026-pass/)
-- **Tags:** 
-- **Temps de lecture:** 1 min
-- **Publié:** 10/04/2026 22:00:00
-
----
-
-#### ChatGPT finally offers $100/month Pro plan
-
-> OpenAI announced on Thursday something that power users have been asking for: a $100/month plan. Previously, subscriptions jumped from $20 to $200 per month....
-
-- **Source:** [TechCrunch AI](https://techcrunch.com/2026/04/09/chatgpt-pro-plan-100-month-codex/)
-- **Tags:** #OpenAI, #LLM
-- **Temps de lecture:** 1 min
-- **Publié:** 10/04/2026 05:29:11
-
----
-
-#### Florida AG announces investigation into OpenAI over shooting that allegedly involved ChatGPT
-
-> ChatGPT had reportedly been used to plan the attack that killed two and injured five at Florida State University last April. The family of one victim has said that they plan to sue OpenAI over the inc...
-
-- **Source:** [TechCrunch AI](https://techcrunch.com/2026/04/09/florida-ag-investigation-openai-chatgpt-shooting/)
-- **Tags:** #OpenAI, #LLM
-- **Temps de lecture:** 1 min
-- **Publié:** 10/04/2026 04:11:55
-
----
-
-#### After data breach, $10B-valued startup Mercor is having a month
-
-> After falling victim to a hacker, Mercor is facing lawsuits and reportedly losing big-name customers....
-
-- **Source:** [TechCrunch AI](https://techcrunch.com/2026/04/09/after-data-breach-10b-valued-startup-mercor-is-having-a-month/)
-- **Tags:** #Startup
-- **Temps de lecture:** 1 min
-- **Publié:** 10/04/2026 03:33:54
-
----
-
-#### Meta AI app climbs to No. 5 on the App Store after Muse Spark launch
-
-> The app was ranking No. 57 on the App Store just before Meta AI's new model launched. Now it's No. 5 — and rising....
-
-- **Source:** [TechCrunch AI](https://techcrunch.com/2026/04/09/meta-ai-app-climbs-to-no-5-on-the-app-store-after-muse-spark-launch/)
-- **Tags:** #Meta
-- **Temps de lecture:** 1 min
-- **Publié:** 10/04/2026 03:10:07
-
----
-
 ### 🚀 Product
 
-#### OpenAI Full Fan Mode Contest: Terms & Conditions
+#### Research with ChatGPT
 
-> Explore the official terms and conditions for the OpenAI Full Fan Mode Contest, including eligibility, entry steps, judging criteria, and prize details. Learn how to participate, submit your entry on ...
+> Learn how to research with ChatGPT using search and deep research to find up-to-date information, analyze sources, and generate structured insights....
 
-- **Source:** [OpenAI Blog](https://openai.com/index/full-fan-mode-contest-terms-conditions)
-- **Tags:** #OpenAI
-- **Temps de lecture:** 1 min
-- **Publié:** 09/04/2026 08:00:00
-
----
-
-#### CyberAgent moves faster with ChatGPT Enterprise and Codex
-
-> CyberAgent uses ChatGPT Enterprise and Codex to securely scale AI adoption, improve quality, and accelerate decisions across advertising, media, and gaming....
-
-- **Source:** [OpenAI Blog](https://openai.com/index/cyberagent)
+- **Source:** [OpenAI Blog](https://openai.com/academy/search-and-deep-research)
 - **Tags:** #OpenAI, #LLM
 - **Temps de lecture:** 1 min
-- **Publié:** 09/04/2026 08:00:00
+- **Publié:** 10/04/2026 08:00:00
 
 ---
 
-#### The next phase of enterprise AI
+#### Working with files in ChatGPT
 
-> OpenAI outlines the next phase of enterprise AI, as adoption accelerates across industries with Frontier, ChatGPT Enterprise, Codex, and company-wide AI agents....
+> Learn how to upload and work with files in ChatGPT to analyze data, summarize documents, and generate content from PDFs, spreadsheets, and more....
 
-- **Source:** [OpenAI Blog](https://openai.com/index/next-phase-of-enterprise-ai)
+- **Source:** [OpenAI Blog](https://openai.com/academy/working-with-files)
 - **Tags:** #OpenAI, #LLM
 - **Temps de lecture:** 1 min
-- **Publié:** 08/04/2026 22:00:00
+- **Publié:** 10/04/2026 08:00:00
 
 ---
 
-#### Introducing the Child Safety Blueprint
+#### Using custom GPTs
 
-> Discover OpenAI’s Child Safety Blueprint—a roadmap for building AI responsibly with safeguards, age-appropriate design, and collaboration to protect and empower young people online....
+> Learn how to build and use custom GPTs to automate workflows, maintain consistent outputs, and create purpose-built AI assistants....
 
-- **Source:** [OpenAI Blog](https://openai.com/index/introducing-child-safety-blueprint)
-- **Tags:** #OpenAI, #AI Safety
+- **Source:** [OpenAI Blog](https://openai.com/academy/custom-gpts)
+- **Tags:** #OpenAI, #LLM, #Hardware
 - **Temps de lecture:** 1 min
-- **Publié:** 08/04/2026 13:00:00
+- **Publié:** 10/04/2026 08:00:00
 
 ---
 
-#### Announcing the OpenAI Safety Fellowship
+#### Analyzing data with ChatGPT
 
-> A pilot program to support independent safety and alignment research and develop the next generation of talent...
+> Learn how to analyze data with ChatGPT by exploring datasets, generating insights, creating visualizations, and turning findings into actionable decisions....
 
-- **Source:** [OpenAI Blog](https://openai.com/index/introducing-openai-safety-fellowship)
-- **Tags:** #OpenAI, #AI Safety
+- **Source:** [OpenAI Blog](https://openai.com/academy/data-analysis)
+- **Tags:** #OpenAI, #LLM
 - **Temps de lecture:** 1 min
-- **Publié:** 06/04/2026 18:00:00
+- **Publié:** 10/04/2026 08:00:00
+
+---
+
+#### Prompting fundamentals
+
+> Learn prompting fundamentals and how to write clear, effective prompts to get better, more useful responses from ChatGPT....
+
+- **Source:** [OpenAI Blog](https://openai.com/academy/prompting)
+- **Tags:** #OpenAI, #LLM
+- **Temps de lecture:** 1 min
+- **Publié:** 10/04/2026 08:00:00
 
 ---
 

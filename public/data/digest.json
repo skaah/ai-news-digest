@@ -1,8 +1,65 @@
 {
-  "date": "2026-04-10T16:03:22.323Z",
+  "date": "2026-04-10T22:02:28.666Z",
   "articles": [
     {
-      "id": "78pm5f8wfwrtcakgz5xoun",
+      "id": "ldc993ctweqe9xo2mjh76v",
+      "title": "Anthropic temporarily banned OpenClaw’s creator from accessing Claude",
+      "summary": "This ban took place after Claude's pricing changed for OpenClaw users last week....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Anthropic",
+        "LLM"
+      ],
+      "publishedAt": "Fri, 10 Apr 2026 20:27:52 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/04/10/anthropic-temporarily-banned-openclaws-creator-from-accessing-claude/"
+    },
+    {
+      "id": "dbw97ngfrhsxb4udl5pvw",
+      "title": "Stalking victim sues OpenAI, claims ChatGPT fueled her abuser’s delusions and ignored her warnings",
+      "summary": "OpenAI ignored three warnings that a ChatGPT user was dangerous — including its own mass-casualty flag — while he stalked and harassed his ex-girlfriend, a new lawsuit alleges....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "OpenAI",
+        "LLM"
+      ],
+      "publishedAt": "Fri, 10 Apr 2026 16:41:34 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/04/10/stalking-victim-sues-openai-claims-chatgpt-fueled-her-abusers-delusions-and-ignored-her-warnings/"
+    },
+    {
+      "id": "48kryl9xw830dfwmwe6yvh",
+      "title": "TechCrunch is heading to Tokyo — and bringing the Startup Battlefield with it",
+      "summary": "SusHi Tech 2026 is zeroing in on four technology domains reshaping society: AI, Robotics, Resilience, and Entertainment. Expect live demos of humanoid robots, sessions on autonomous driving's software...",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Robotics",
+        "Startup"
+      ],
+      "publishedAt": "Fri, 10 Apr 2026 16:38:43 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/04/10/techcrunch-is-heading-to-tokyo-and-bringing-the-startup-battlefield-with-it/"
+    },
+    {
+      "id": "edg2ftlczsrbe7l8vycna7",
       "title": "What’s in a name? Moderna’s “vaccine” vs. “therapy” dilemma",
       "summary": "Is it the Department of Defense or the Department of War? The Gulf of Mexico or the Gulf of America? A vaccine—or an “individualized neoantigen treatment”? That’s the Trump-era vocabulary paradox faci...",
       "source": {
@@ -18,7 +75,7 @@
       "originalUrl": "https://www.technologyreview.com/2026/04/10/1135631/whats-in-a-name-modernas-vaccine-vs-therapy-dilemma/"
     },
     {
-      "id": "ca0sa7hu55vucvo10rzzf",
+      "id": "sgdnby52oulf1unkfxj58t",
       "title": "Last 24 hours: Save up to $500 on your TechCrunch Disrupt 2026 pass",
       "summary": "This is it. Tonight is your last chance to lock in savings of up to $500 for your TechCrunch Disrupt 2026 pass. These discounts end at 11:59 p.m. PT....",
       "source": {
@@ -34,7 +91,7 @@
       "originalUrl": "https://techcrunch.com/2026/04/10/final-24-hours-save-up-to-500-on-your-techcrunch-disrupt-2026-pass/"
     },
     {
-      "id": "jkq0lfa9k5fqbtn1ae84xs",
+      "id": "g2zpkzvmj9uusl9u7zbnf",
       "title": "The Download: an exclusive Jeff VanderMeer story and AI models too scary to release",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Constellations  —Constellations is a short story by Jeff Vande...",
       "source": {
@@ -50,7 +107,7 @@
       "originalUrl": "https://www.technologyreview.com/2026/04/10/1135618/the-download-jeff-vandermeer-short-story-and-ai-models-too-danger-to-release/"
     },
     {
-      "id": "znkgseoh12evsjhxr5hu5f",
+      "id": "9dx0brhxsxw89zwpchown",
       "title": "Constellations",
       "summary": "I. We had crash-landed on the planet. We were far from home. The spaceship could not be repaired, and the rescue beacon had failed. Besides me, only the astrogator, part of the captain, and the ship’s...",
       "source": {
@@ -66,7 +123,7 @@
       "originalUrl": "https://www.technologyreview.com/2026/04/10/1135106/jeff-vandermeer-constellations-science-fiction/"
     },
     {
-      "id": "w371qyidxwsludxtwn8ib",
+      "id": "11tabvf7hyio41tcrnow4yj",
       "title": "High-Precision Estimation of the State-Space Complexity of Shogi via the Monte Carlo Method",
       "summary": "arXiv:2604.06189v1 Announce Type: new \nAbstract: Determining the state-space complexity of the game of Shogi (Japanese Chess) has been a challenging problem, with previous combinatorial estimates leav...",
       "source": {
@@ -84,7 +141,7 @@
       "originalUrl": "https://arxiv.org/abs/2604.06189"
     },
     {
-      "id": "cwdzi1mc9vj0y7jbld7uzt",
+      "id": "apwprftlia49prx3dq29za",
       "title": "Blind Refusal: Language Models Refuse to Help Users Evade Unjust, Absurd, and Illegitimate Rules",
       "summary": "arXiv:2604.06233v1 Announce Type: new \nAbstract: Safety-trained language models routinely refuse requests for help circumventing rules. But not all rules deserve compliance. When users ask for help ev...",
       "source": {
@@ -104,7 +161,7 @@
       "originalUrl": "https://arxiv.org/abs/2604.06233"
     },
     {
-      "id": "5b3v8p0gcklyngy12nkwzq",
+      "id": "99pig50bsss01zges6mc",
       "title": "Toward Reducing Unproductive Container Moves: Predicting Service Requirements and Dwell Times",
       "summary": "arXiv:2604.06251v1 Announce Type: new \nAbstract: This article presents the results of a data science study conducted at a container terminal, aimed at reducing unproductive container moves through the...",
       "source": {
@@ -120,7 +177,7 @@
       "originalUrl": "https://arxiv.org/abs/2604.06251"
     },
     {
-      "id": "jnydi8el6i4m5ec7h4o1e",
+      "id": "cnc35ga2oyiit47kyoxt7o",
       "title": "Weakly Supervised Distillation of Hallucination Signals into Transformer Representations",
       "summary": "arXiv:2604.06277v1 Announce Type: new \nAbstract: Existing hallucination detection methods for large language models (LLMs) rely on external verification at inference time, requiring gold answers, retr...",
       "source": {
@@ -140,7 +197,7 @@
       "originalUrl": "https://arxiv.org/abs/2604.06277"
     },
     {
-      "id": "a9laf2qzedvifzcu441oc",
+      "id": "bd4x5n6y30mh1m22i7gt1",
       "title": "SymptomWise: A Deterministic Reasoning Layer for Reliable and Efficient AI Systems",
       "summary": "arXiv:2604.06375v1 Announce Type: new \nAbstract: AI-driven symptom analysis systems face persistent challenges in reliability, interpretability, and hallucination. End-to-end generative approaches oft...",
       "source": {
@@ -161,7 +218,103 @@
       "originalUrl": "https://arxiv.org/abs/2604.06375"
     },
     {
-      "id": "xp43ba5wu5a9fincensl8w",
+      "id": "cztdw82nh357ebv1ffe3yc",
+      "title": "Research with ChatGPT",
+      "summary": "Learn how to research with ChatGPT using search and deep research to find up-to-date information, analyze sources, and generate structured insights....",
+      "source": {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
+      },
+      "category": "Product",
+      "tags": [
+        "OpenAI",
+        "LLM"
+      ],
+      "publishedAt": "Fri, 10 Apr 2026 00:00:00 GMT",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
+      "readTime": 1,
+      "originalUrl": "https://openai.com/academy/search-and-deep-research"
+    },
+    {
+      "id": "av2wvt3277utk19gq5z42r",
+      "title": "Working with files in ChatGPT",
+      "summary": "Learn how to upload and work with files in ChatGPT to analyze data, summarize documents, and generate content from PDFs, spreadsheets, and more....",
+      "source": {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
+      },
+      "category": "Product",
+      "tags": [
+        "OpenAI",
+        "LLM"
+      ],
+      "publishedAt": "Fri, 10 Apr 2026 00:00:00 GMT",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
+      "readTime": 1,
+      "originalUrl": "https://openai.com/academy/working-with-files"
+    },
+    {
+      "id": "tnuzds25dcl3urp2bu9h7g",
+      "title": "Using custom GPTs",
+      "summary": "Learn how to build and use custom GPTs to automate workflows, maintain consistent outputs, and create purpose-built AI assistants....",
+      "source": {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
+      },
+      "category": "Product",
+      "tags": [
+        "OpenAI",
+        "LLM",
+        "Hardware"
+      ],
+      "publishedAt": "Fri, 10 Apr 2026 00:00:00 GMT",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
+      "readTime": 1,
+      "originalUrl": "https://openai.com/academy/custom-gpts"
+    },
+    {
+      "id": "hw81f7bj5zjwtjpm14ftdr",
+      "title": "Analyzing data with ChatGPT",
+      "summary": "Learn how to analyze data with ChatGPT by exploring datasets, generating insights, creating visualizations, and turning findings into actionable decisions....",
+      "source": {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
+      },
+      "category": "Product",
+      "tags": [
+        "OpenAI",
+        "LLM"
+      ],
+      "publishedAt": "Fri, 10 Apr 2026 00:00:00 GMT",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
+      "readTime": 1,
+      "originalUrl": "https://openai.com/academy/data-analysis"
+    },
+    {
+      "id": "gek8f238u0u8c7pymxyjkn",
+      "title": "Prompting fundamentals",
+      "summary": "Learn prompting fundamentals and how to write clear, effective prompts to get better, more useful responses from ChatGPT....",
+      "source": {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
+      },
+      "category": "Product",
+      "tags": [
+        "OpenAI",
+        "LLM"
+      ],
+      "publishedAt": "Fri, 10 Apr 2026 00:00:00 GMT",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
+      "readTime": 1,
+      "originalUrl": "https://openai.com/academy/prompting"
+    },
+    {
+      "id": "5tob70ff84d2fey1inuvri",
       "title": "ChatGPT finally offers $100/month Pro plan",
       "summary": "OpenAI announced on Thursday something that power users have been asking for: a $100/month plan. Previously, subscriptions jumped from $20 to $200 per month....",
       "source": {
@@ -180,62 +333,7 @@
       "originalUrl": "https://techcrunch.com/2026/04/09/chatgpt-pro-plan-100-month-codex/"
     },
     {
-      "id": "dgzpillyjk6789eva1elju",
-      "title": "Florida AG announces investigation into OpenAI over shooting that allegedly involved ChatGPT",
-      "summary": "ChatGPT had reportedly been used to plan the attack that killed two and injured five at Florida State University last April. The family of one victim has said that they plan to sue OpenAI over the inc...",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "OpenAI",
-        "LLM"
-      ],
-      "publishedAt": "Thu, 09 Apr 2026 20:11:55 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/04/09/florida-ag-investigation-openai-chatgpt-shooting/"
-    },
-    {
-      "id": "0g2ayv0b3mvd4x6g7adrpd",
-      "title": "After data breach, $10B-valued startup Mercor is having a month",
-      "summary": "After falling victim to a hacker, Mercor is facing lawsuits and reportedly losing big-name customers....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Startup"
-      ],
-      "publishedAt": "Thu, 09 Apr 2026 19:33:54 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/04/09/after-data-breach-10b-valued-startup-mercor-is-having-a-month/"
-    },
-    {
-      "id": "uc73hkka89knzjwydtrvpr",
-      "title": "Meta AI app climbs to No. 5 on the App Store after Muse Spark launch",
-      "summary": "The app was ranking No. 57 on the App Store just before Meta AI's new model launched. Now it's No. 5 — and rising....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Meta"
-      ],
-      "publishedAt": "Thu, 09 Apr 2026 19:10:07 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/04/09/meta-ai-app-climbs-to-no-5-on-the-app-store-after-muse-spark-launch/"
-    },
-    {
-      "id": "b10gl77wg8ol8szm15z5",
+      "id": "75bqno8fnujj8hlwld4ko",
       "title": "The Download: AstroTurf wars and exponential AI growth",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Is fake grass a bad idea? The AstroTurf wars are far from over...",
       "source": {
@@ -253,7 +351,7 @@
       "originalUrl": "https://www.technologyreview.com/2026/04/09/1135514/the-download-astroturf-wars-exponential-ai-growth-desalination-numbers/"
     },
     {
-      "id": "e1z83sxem4unltl6zwjgk",
+      "id": "ux21nvgb0ikudqqnvzmjwc",
       "title": "Is fake grass a bad idea? The AstroTurf wars are far from over.",
       "summary": "A rare warm spell in January melted enough snow to uncover Cornell University’s newest athletic field, built for field hockey. Months before, it was a meadow teeming with birds and bugs; now it’s more...",
       "source": {
@@ -267,102 +365,8 @@
       "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
       "readTime": 1,
       "originalUrl": "https://www.technologyreview.com/2026/04/09/1135092/astroturf-fake-grass-artificial-heated-debates/"
-    },
-    {
-      "id": "plrcddjy47p6eoe8n2e4g4",
-      "title": "OpenAI Full Fan Mode Contest: Terms & Conditions",
-      "summary": "Explore the official terms and conditions for the OpenAI Full Fan Mode Contest, including eligibility, entry steps, judging criteria, and prize details. Learn how to participate, submit your entry on ...",
-      "source": {
-        "name": "OpenAI Blog",
-        "url": "https://openai.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
-      },
-      "category": "Product",
-      "tags": [
-        "OpenAI"
-      ],
-      "publishedAt": "Thu, 09 Apr 2026 00:00:00 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
-      "readTime": 1,
-      "originalUrl": "https://openai.com/index/full-fan-mode-contest-terms-conditions"
-    },
-    {
-      "id": "eafzdj4uynrcw4w97wuymu",
-      "title": "CyberAgent moves faster with ChatGPT Enterprise and Codex",
-      "summary": "CyberAgent uses ChatGPT Enterprise and Codex to securely scale AI adoption, improve quality, and accelerate decisions across advertising, media, and gaming....",
-      "source": {
-        "name": "OpenAI Blog",
-        "url": "https://openai.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
-      },
-      "category": "Product",
-      "tags": [
-        "OpenAI",
-        "LLM"
-      ],
-      "publishedAt": "Thu, 09 Apr 2026 00:00:00 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
-      "readTime": 1,
-      "originalUrl": "https://openai.com/index/cyberagent"
-    },
-    {
-      "id": "76e5b6o06jrms4r62ks9",
-      "title": "The next phase of enterprise AI",
-      "summary": "OpenAI outlines the next phase of enterprise AI, as adoption accelerates across industries with Frontier, ChatGPT Enterprise, Codex, and company-wide AI agents....",
-      "source": {
-        "name": "OpenAI Blog",
-        "url": "https://openai.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
-      },
-      "category": "Product",
-      "tags": [
-        "OpenAI",
-        "LLM"
-      ],
-      "publishedAt": "Wed, 08 Apr 2026 14:00:00 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
-      "readTime": 1,
-      "originalUrl": "https://openai.com/index/next-phase-of-enterprise-ai"
-    },
-    {
-      "id": "ghvr2lzgpvdknzfyhazft",
-      "title": "Introducing the Child Safety Blueprint",
-      "summary": "Discover OpenAI’s Child Safety Blueprint—a roadmap for building AI responsibly with safeguards, age-appropriate design, and collaboration to protect and empower young people online....",
-      "source": {
-        "name": "OpenAI Blog",
-        "url": "https://openai.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
-      },
-      "category": "Product",
-      "tags": [
-        "OpenAI",
-        "AI Safety"
-      ],
-      "publishedAt": "Wed, 08 Apr 2026 05:00:00 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
-      "readTime": 1,
-      "originalUrl": "https://openai.com/index/introducing-child-safety-blueprint"
-    },
-    {
-      "id": "xsvxz6r1sbfr35fbyk5q0j",
-      "title": "Announcing the OpenAI Safety Fellowship",
-      "summary": "A pilot program to support independent safety and alignment research and develop the next generation of talent...",
-      "source": {
-        "name": "OpenAI Blog",
-        "url": "https://openai.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
-      },
-      "category": "Product",
-      "tags": [
-        "OpenAI",
-        "AI Safety"
-      ],
-      "publishedAt": "Mon, 06 Apr 2026 10:00:00 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
-      "readTime": 1,
-      "originalUrl": "https://openai.com/index/introducing-openai-safety-fellowship"
     }
   ],
   "totalArticles": 25,
-  "lastUpdated": "2026-04-10T16:03:22.323Z"
+  "lastUpdated": "2026-04-10T22:02:28.666Z"
 }
