@@ -1,6 +1,6 @@
 # 🤖 AI News Digest
 
-> **Digest du vendredi 10 avril 2026**
+> **Digest du samedi 11 avril 2026**
 
 Votre quotidien des avancées en Intelligence Artificielle.
 
@@ -9,7 +9,7 @@ Votre quotidien des avancées en Intelligence Artificielle.
 ## 📊 Statistiques
 
 - **25** articles collectés
-- Dernière mise à jour: 10/04/2026 18:02:45
+- Dernière mise à jour: 11/04/2026 00:03:22
 - Sources: TechCrunch, The Verge, OpenAI, Anthropic, Google AI, ArXiv, MIT Tech Review
 
 ---
@@ -17,6 +17,39 @@ Votre quotidien des avancées en Intelligence Artificielle.
 ## 📰 Articles du jour
 
 ### 🔬 Research
+
+#### What’s in a name? Moderna’s “vaccine” vs. “therapy” dilemma
+
+> Is it the Department of Defense or the Department of War? The Gulf of Mexico or the Gulf of America? A vaccine—or an “individualized neoantigen treatment”? That’s the Trump-era vocabulary paradox faci...
+
+- **Source:** [MIT Technology Review](https://www.technologyreview.com/2026/04/10/1135631/whats-in-a-name-modernas-vaccine-vs-therapy-dilemma/)
+- **Tags:** 
+- **Temps de lecture:** 1 min
+- **Publié:** 10/04/2026 22:04:20
+
+---
+
+#### The Download: an exclusive Jeff VanderMeer story and AI models too scary to release
+
+> This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Constellations  —Constellations is a short story by Jeff Vande...
+
+- **Source:** [MIT Technology Review](https://www.technologyreview.com/2026/04/10/1135618/the-download-jeff-vandermeer-short-story-and-ai-models-too-danger-to-release/)
+- **Tags:** 
+- **Temps de lecture:** 1 min
+- **Publié:** 10/04/2026 20:10:00
+
+---
+
+#### Constellations
+
+> I. We had crash-landed on the planet. We were far from home. The spaceship could not be repaired, and the rescue beacon had failed. Besides me, only the astrogator, part of the captain, and the ship’s...
+
+- **Source:** [MIT Technology Review](https://www.technologyreview.com/2026/04/10/1135106/jeff-vandermeer-constellations-science-fiction/)
+- **Tags:** 
+- **Temps de lecture:** 1 min
+- **Publié:** 10/04/2026 18:00:00
+
+---
 
 #### High-Precision Estimation of the State-Space Complexity of Shogi via the Monte Carlo Method
 
@@ -100,40 +133,18 @@ Abstract: AI-driven symptom analysis systems face persistent challenges in relia
 
 ---
 
-#### Desalination technology, by the numbers
-
-> When I started digging into desalination technology for a new story, I couldn’t help but obsess over the numbers. I’d known on some level that desalination—pulling salt out of seawater to produce fres...
-
-- **Source:** [MIT Technology Review](https://www.technologyreview.com/2026/04/09/1135495/desalination-technology-numbers/)
-- **Tags:** 
-- **Temps de lecture:** 1 min
-- **Publié:** 09/04/2026 18:00:00
-
----
-
-#### Mustafa Suleyman: AI development won’t hit a wall anytime soon—here’s why
-
-> We evolved for a linear world. If you walk for an hour, you cover a certain distance. Walk for two hours and you cover double that distance. This intuition served us well on the savannah. But it catas...
-
-- **Source:** [MIT Technology Review](https://www.technologyreview.com/2026/04/08/1135398/mustafa-suleyman-ai-future/)
-- **Tags:** 
-- **Temps de lecture:** 1 min
-- **Publié:** 08/04/2026 22:00:00
-
----
-
-#### The Download: water threats in Iran and AI’s impact on what entrepreneurs make
-
-> This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Desalination plants in the Middle East are increasingly vulner...
-
-- **Source:** [MIT Technology Review](https://www.technologyreview.com/2026/04/08/1135405/the-download-water-threats-iran-ais-impact-on-entrepreneurs-make/)
-- **Tags:** 
-- **Temps de lecture:** 1 min
-- **Publié:** 08/04/2026 20:10:00
-
----
-
 ### 🏭 Industry
+
+#### Last 24 hours: Save up to $500 on your TechCrunch Disrupt 2026 pass
+
+> This is it. Tonight is your last chance to lock in savings of up to $500 for your TechCrunch Disrupt 2026 pass. These discounts end at 11:59 p.m. PT....
+
+- **Source:** [TechCrunch AI](https://techcrunch.com/2026/04/10/final-24-hours-save-up-to-500-on-your-techcrunch-disrupt-2026-pass/)
+- **Tags:** 
+- **Temps de lecture:** 1 min
+- **Publié:** 10/04/2026 22:00:00
+
+---
 
 #### ChatGPT finally offers $100/month Pro plan
 
@@ -179,29 +190,7 @@ Abstract: AI-driven symptom analysis systems face persistent challenges in relia
 
 ---
 
-#### Is Anthropic limiting the release of Mythos to protect the internet — or Anthropic?
-
-> Anthropic said this week that it limited the release of its newest model, dubbed Mythos, because it is too capable of finding security exploits in software relied upon by users around the world. Are r...
-
-- **Source:** [TechCrunch AI](https://techcrunch.com/2026/04/09/is-anthropic-limiting-the-release-of-mythos-to-protect-the-internet-or-anthropic/)
-- **Tags:** #Anthropic
-- **Temps de lecture:** 1 min
-- **Publié:** 10/04/2026 02:50:05
-
----
-
 ### 🚀 Product
-
-#### CyberAgent moves faster with ChatGPT Enterprise and Codex
-
-> CyberAgent uses ChatGPT Enterprise and Codex to securely scale AI adoption, improve quality, and accelerate decisions across advertising, media, and gaming....
-
-- **Source:** [OpenAI Blog](https://openai.com/index/cyberagent)
-- **Tags:** #OpenAI, #LLM
-- **Temps de lecture:** 1 min
-- **Publié:** 09/04/2026 08:00:00
-
----
 
 #### OpenAI Full Fan Mode Contest: Terms & Conditions
 
@@ -209,6 +198,17 @@ Abstract: AI-driven symptom analysis systems face persistent challenges in relia
 
 - **Source:** [OpenAI Blog](https://openai.com/index/full-fan-mode-contest-terms-conditions)
 - **Tags:** #OpenAI
+- **Temps de lecture:** 1 min
+- **Publié:** 09/04/2026 08:00:00
+
+---
+
+#### CyberAgent moves faster with ChatGPT Enterprise and Codex
+
+> CyberAgent uses ChatGPT Enterprise and Codex to securely scale AI adoption, improve quality, and accelerate decisions across advertising, media, and gaming....
+
+- **Source:** [OpenAI Blog](https://openai.com/index/cyberagent)
+- **Tags:** #OpenAI, #LLM
 - **Temps de lecture:** 1 min
 - **Publié:** 09/04/2026 08:00:00
 
