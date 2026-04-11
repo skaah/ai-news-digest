@@ -8,8 +8,8 @@ Votre quotidien des avancées en Intelligence Artificielle.
 
 ## 📊 Statistiques
 
-- **25** articles collectés
-- Dernière mise à jour: 11/04/2026 06:02:28
+- **20** articles collectés
+- Dernière mise à jour: 11/04/2026 12:02:24
 - Sources: TechCrunch, The Verge, OpenAI, Anthropic, Google AI, ArXiv, MIT Tech Review
 
 ---
@@ -108,66 +108,6 @@ Votre quotidien des avancées en Intelligence Artificielle.
 
 ---
 
-#### High-Precision Estimation of the State-Space Complexity of Shogi via the Monte Carlo Method
-
-> arXiv:2604.06189v1 Announce Type: new 
-Abstract: Determining the state-space complexity of the game of Shogi (Japanese Chess) has been a challenging problem, with previous combinatorial estimates leav...
-
-- **Source:** [ArXiv AI](https://arxiv.org/abs/2604.06189)
-- **Tags:** #Startup
-- **Temps de lecture:** 1 min
-- **Publié:** 10/04/2026 12:00:00
-
----
-
-#### Blind Refusal: Language Models Refuse to Help Users Evade Unjust, Absurd, and Illegitimate Rules
-
-> arXiv:2604.06233v1 Announce Type: new 
-Abstract: Safety-trained language models routinely refuse requests for help circumventing rules. But not all rules deserve compliance. When users ask for help ev...
-
-- **Source:** [ArXiv AI](https://arxiv.org/abs/2604.06233)
-- **Tags:** #OpenAI, #LLM, #AI Safety
-- **Temps de lecture:** 1 min
-- **Publié:** 10/04/2026 12:00:00
-
----
-
-#### Toward Reducing Unproductive Container Moves: Predicting Service Requirements and Dwell Times
-
-> arXiv:2604.06251v1 Announce Type: new 
-Abstract: This article presents the results of a data science study conducted at a container terminal, aimed at reducing unproductive container moves through the...
-
-- **Source:** [ArXiv AI](https://arxiv.org/abs/2604.06251)
-- **Tags:** 
-- **Temps de lecture:** 1 min
-- **Publié:** 10/04/2026 12:00:00
-
----
-
-#### Weakly Supervised Distillation of Hallucination Signals into Transformer Representations
-
-> arXiv:2604.06277v1 Announce Type: new 
-Abstract: Existing hallucination detection methods for large language models (LLMs) rely on external verification at inference time, requiring gold answers, retr...
-
-- **Source:** [ArXiv AI](https://arxiv.org/abs/2604.06277)
-- **Tags:** #Meta, #LLM, #Computer Vision
-- **Temps de lecture:** 1 min
-- **Publié:** 10/04/2026 12:00:00
-
----
-
-#### SymptomWise: A Deterministic Reasoning Layer for Reliable and Efficient AI Systems
-
-> arXiv:2604.06375v1 Announce Type: new 
-Abstract: AI-driven symptom analysis systems face persistent challenges in reliability, interpretability, and hallucination. End-to-end generative approaches oft...
-
-- **Source:** [ArXiv AI](https://arxiv.org/abs/2604.06375)
-- **Tags:** #LLM, #AI Safety, #Hardware, #Healthcare
-- **Temps de lecture:** 1 min
-- **Publié:** 10/04/2026 12:00:00
-
----
-
 #### The Download: AstroTurf wars and exponential AI growth
 
 > This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Is fake grass a bad idea? The AstroTurf wars are far from over...
@@ -192,34 +132,45 @@ Abstract: AI-driven symptom analysis systems face persistent challenges in relia
 
 ### 🚀 Product
 
-#### Research with ChatGPT
-
-> Learn how to research with ChatGPT using search and deep research to find up-to-date information, analyze sources, and generate structured insights....
-
-- **Source:** [OpenAI Blog](https://openai.com/academy/search-and-deep-research)
-- **Tags:** #OpenAI, #LLM
-- **Temps de lecture:** 1 min
-- **Publié:** 10/04/2026 08:00:00
-
----
-
-#### Working with files in ChatGPT
-
-> Learn how to upload and work with files in ChatGPT to analyze data, summarize documents, and generate content from PDFs, spreadsheets, and more....
-
-- **Source:** [OpenAI Blog](https://openai.com/academy/working-with-files)
-- **Tags:** #OpenAI, #LLM
-- **Temps de lecture:** 1 min
-- **Publié:** 10/04/2026 08:00:00
-
----
-
 #### Using custom GPTs
 
 > Learn how to build and use custom GPTs to automate workflows, maintain consistent outputs, and create purpose-built AI assistants....
 
 - **Source:** [OpenAI Blog](https://openai.com/academy/custom-gpts)
 - **Tags:** #OpenAI, #LLM, #Hardware
+- **Temps de lecture:** 1 min
+- **Publié:** 10/04/2026 08:00:00
+
+---
+
+#### ChatGPT for customer success teams
+
+> Learn how customer success teams use ChatGPT to manage accounts, improve communication, reduce churn, and drive adoption and renewals....
+
+- **Source:** [OpenAI Blog](https://openai.com/academy/customer-success)
+- **Tags:** #OpenAI, #LLM
+- **Temps de lecture:** 1 min
+- **Publié:** 10/04/2026 08:00:00
+
+---
+
+#### Applications of AI at OpenAI
+
+> Explore how OpenAI products like ChatGPT, Codex, and APIs bring AI into real-world use for work, development, and everyday tasks....
+
+- **Source:** [OpenAI Blog](https://openai.com/academy/applications-of-ai)
+- **Tags:** #OpenAI, #LLM
+- **Temps de lecture:** 1 min
+- **Publié:** 10/04/2026 08:00:00
+
+---
+
+#### Research with ChatGPT
+
+> Learn how to research with ChatGPT using search and deep research to find up-to-date information, analyze sources, and generate structured insights....
+
+- **Source:** [OpenAI Blog](https://openai.com/academy/search-and-deep-research)
+- **Tags:** #OpenAI, #LLM
 - **Temps de lecture:** 1 min
 - **Publié:** 10/04/2026 08:00:00
 
@@ -236,14 +187,61 @@ Abstract: AI-driven symptom analysis systems face persistent challenges in relia
 
 ---
 
-#### Prompting fundamentals
+### 💰 Funding
 
-> Learn prompting fundamentals and how to write clear, effective prompts to get better, more useful responses from ChatGPT....
+#### Railway secures $100 million to challenge AWS with AI-native cloud infrastructure
 
-- **Source:** [OpenAI Blog](https://openai.com/academy/prompting)
-- **Tags:** #OpenAI, #LLM
+> Railway, a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B fundi...
+
+- **Source:** [VentureBeat AI](https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud)
+- **Tags:** #OpenAI, #Anthropic, #Google, #LLM, #Computer Vision
 - **Temps de lecture:** 1 min
-- **Publié:** 10/04/2026 08:00:00
+- **Publié:** 22/01/2026 22:00:00
+
+---
+
+#### Claude Code costs up to $200 a month. Goose does the same thing for free.
+
+> The artificial intelligence coding revolution comes with a catch: it's expensive.
+Claude Code, Anthropic's terminal-based AI agent that can write, debug, and deploy code autonomously, has captured the...
+
+- **Source:** [VentureBeat AI](https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free)
+- **Tags:** #OpenAI, #Anthropic, #Google, #Meta, #LLM
+- **Temps de lecture:** 1 min
+- **Publié:** 19/01/2026 22:00:00
+
+---
+
+#### Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews
+
+> Alfred Wahlforss was running out of options. His startup, Listen Labs, needed to hire over 100 engineers, but competing against Mark Zuckerberg's $100 million offers seemed impossible. So he spent $5,...
+
+- **Source:** [VentureBeat AI](https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai)
+- **Tags:** #Anthropic, #LLM, #Computer Vision, #Startup, #Healthcare
+- **Temps de lecture:** 1 min
+- **Publié:** 16/01/2026 22:01:00
+
+---
+
+#### Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI
+
+> Salesforce on Tuesday launched an entirely rebuilt version of Slackbot, the company's workplace assistant, transforming it from a simple notification tool into what executives describe as a fully powe...
+
+- **Source:** [VentureBeat AI](https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and)
+- **Tags:** #OpenAI, #Anthropic, #Google, #LLM, #Computer Vision
+- **Temps de lecture:** 1 min
+- **Publié:** 13/01/2026 21:00:00
+
+---
+
+#### Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required
+
+> Anthropic released Cowork on Monday, a new AI agent capability that extends the power of its wildly successful Claude Code tool to non-technical users — and according to company insiders, the team bui...
+
+- **Source:** [VentureBeat AI](https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no)
+- **Tags:** #OpenAI, #Anthropic, #Google, #LLM, #AI Safety
+- **Temps de lecture:** 1 min
+- **Publié:** 12/01/2026 19:30:00
 
 ---
 
