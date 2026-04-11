@@ -1,6 +1,6 @@
 # 🤖 AI News Digest
 
-> **Digest du samedi 11 avril 2026**
+> **Digest du dimanche 12 avril 2026**
 
 Votre quotidien des avancées en Intelligence Artificielle.
 
@@ -9,7 +9,7 @@ Votre quotidien des avancées en Intelligence Artificielle.
 ## 📊 Statistiques
 
 - **20** articles collectés
-- Dernière mise à jour: 11/04/2026 12:02:24
+- Dernière mise à jour: 12/04/2026 00:02:30
 - Sources: TechCrunch, The Verge, OpenAI, Anthropic, Google AI, ArXiv, MIT Tech Review
 
 ---
