@@ -1,19 +1,28 @@
-name: Update AI News Digest
+name: Auto-Update AI News Digest
 
 on:
   schedule:
-    - cron: '0 */6 * * *'  # Every 6 hours
+    - cron: '17 */6 * * *'  # Every 6 hours at minute 17 (off-peak)
   workflow_dispatch:
 
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: 'update-and-deploy'
+  cancel-in-progress: false
+
 jobs:
-  update:
+  update-and-deploy:
     runs-on: ubuntu-latest
     
     steps:
     - name: Checkout repository
       uses: actions/checkout@v4
       with:
-        token: ${{ secrets.GITHUB_TOKEN }}
+        fetch-depth: 0
     
     - name: Setup Node.js
       uses: actions/setup-node@v4
@@ -22,31 +31,39 @@ jobs:
         cache: 'npm'
     
     - name: Install dependencies
-      run: npm install
+      run: npm ci
     
-    - name: Collect news
+    - name: Collect latest AI News (FR/EN)
       run: node scripts/collect-news.js
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     
-    - name: Update digest markdown
-      run: node scripts/update-digest.js
+    - name: Copy digest to public
+      run: mkdir -p public/data && cp data/digest.json public/data/digest.json
+    
+    - name: Build with Next.js
+      run: npm run build
     
     - name: Configure Git
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
     
-    - name: Commit and push changes
+    - name: Commit changes if any
       run: |
         git add -A
-        git diff --staged --quiet || git commit -m "📰 Auto-update: $(date +'%Y-%m-%d %H:%M')"
-        git push
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        if ! git diff --cached --quiet; then
+          git commit -m "📰 Auto-update: $(date +'%Y-%m-%d %H:%M') - New AI News"
+          git push
+        else
+          echo "No changes to commit"
+        fi
     
-    - name: Deploy to Vercel
-      uses: amondnet/vercel-action@v25
+    - name: Upload artifact
+      uses: actions/upload-pages-artifact@v3
       with:
-        vercel-token: ${{ secrets.VERCEL_TOKEN }}
-        vercel-org-id: ${{ secrets.VERCEL_ORG_ID }}
-        vercel-project-id: ${{ secrets.VERCEL_PROJECT_ID }}
-        vercel-args: '--prod'
+        path: ./dist
+    
+    - name: Deploy to GitHub Pages
+      id: deployment
+      uses: actions/deploy-pages@v4
