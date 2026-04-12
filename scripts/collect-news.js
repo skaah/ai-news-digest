@@ -25,7 +25,10 @@ const CONFIG = {
     { name: 'Usine Digitale', url: 'https://www.usine-digitale.fr/rss', lang: 'fr' },
     { name: '01Net', url: 'https://www.01net.com/rss/', lang: 'fr' },
     { name: 'Le Monde Tech', url: 'https://www.lemonde.fr/technologies/rss_full.xml', lang: 'fr' }
-  ]
+  ],
+  // Sources à ignorer
+  blockedSources: ['GitHub AI News'],
+  blockedUrls: ['github.com/ikaijua']
 };
 
 // Parser RSS simple
@@ -137,6 +140,19 @@ async function saveDigest(digest) {
   await fs.writeFile(CONFIG.publicPath, JSON.stringify(digest, null, 2));
 }
 
+// Vérifier si une source ou URL est bloquée
+function isBlocked(sourceName, url) {
+  // Vérifier le nom de la source
+  if (CONFIG.blockedSources.some(blocked => sourceName?.includes(blocked))) {
+    return true;
+  }
+  // Vérifier l'URL
+  if (CONFIG.blockedUrls.some(blocked => url?.includes(blocked))) {
+    return true;
+  }
+  return false;
+}
+
 // Collecter les news
 async function collectNews() {
   console.log('🔍 Collecting AI News...\n');
@@ -155,6 +171,12 @@ async function collectNews() {
       
       for (const item of items) {
         if (!item.title || !item.link) continue;
+        
+        // Vérifier si source/URL bloquée
+        if (isBlocked(source.name, item.link)) {
+          console.log(`   🚫 Skip (blocked source): ${item.title.substring(0, 50)}...`);
+          continue;
+        }
         
         // Vérifier doublon
         if (isDuplicate(item, [...existing, ...newArticles])) {

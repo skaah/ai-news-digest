@@ -50,22 +50,6 @@
       "originalUrl": "https://techcrunch.com/2026/04/09/openai-gpt5-multimodal/"
     },
     {
-      "id": "nvidia-5trillion-2025",
-      "title": "Nvidia première entreprise à 5 000 milliards $ - Vera Rubin dévoilé",
-      "summary": "GTC 2025 : Nvidia devient la première entreprise à 5000 milliards $ de capitalisation. Dévoilement du superchip Vera Rubin (2026), partenariat avec Nokia pour la 6G IA-native, et collaboration avec Uber pour 100 000 véhicules autonomes L4 dès 2027.",
-      "source": {
-        "name": "GitHub AI News",
-        "url": "https://github.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=github.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": ["Nvidia", "Hardware", "Vera Rubin", "Autonomous", "5G"],
-      "publishedAt": "Wed, 29 Oct 2025 14:00:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800",
-      "readTime": 4,
-      "originalUrl": "https://github.com/ikaijua/Awesome-AITools/discussions/222"
-    },
-    {
       "id": "deepseek-r1-china",
       "title": "DeepSeek-R1 : le modèle chinois qui fait trembler la Silicon Valley",
       "summary": "DeepSeek lance R1, un modèle open source coûtant bien moins cher que les concurrents occidentaux mais classé 2ème mondial. Résultat : Nvidia perd 500 milliards $ en une journée. Trump qualifie cela de 'coup de semonce'. La Chine domine désormais l'open source IA.",
@@ -96,22 +80,6 @@
       "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800",
       "readTime": 4,
       "originalUrl": "https://www.theverge.com/2026/4/8/anthropic-claude4-context-window"
-    },
-    {
-      "id": "cursor-2-composer",
-      "title": "Cursor 2.0 lance Composer : 250 tokens/sec pour coder 400% plus vite",
-      "summary": "Cursor 2.0 intègre Composer, son propre modèle de programmation. Basé sur RL et architecture MoE, il génère du code à 250 tokens/sec (2x plus rapide). Nouveautés : outil navigateur natif, code vocal et architecture multi-agent.",
-      "source": {
-        "name": "GitHub AI News",
-        "url": "https://github.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=github.com&sz=64"
-      },
-      "category": "Product",
-      "tags": ["Cursor", "Coding", "Agent", "MoE", "Developer Tools"],
-      "publishedAt": "Thu, 30 Oct 2025 09:00:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=800",
-      "readTime": 3,
-      "originalUrl": "https://github.com/ikaijua/Awesome-AITools/discussions/222"
     },
     {
       "id": "stargate-project-2025",
@@ -146,22 +114,6 @@
       "originalUrl": "https://techcrunch.com/2026/04/07/google-gemini-workspace-integration/"
     },
     {
-      "id": "neo-robot-1x",
-      "title": "Neo : le premier robot domestique humanoïde est en vente à 20 000 $",
-      "summary": "1X Technologies lance Neo, premier robot ménager grand public. 1,68m pour 30kg, équipé NVIDIA Jetson. Prix : 20 000 $ ou 499 $/mois. Il plie le linge et range, mais les tâches complexes nécessitent un opérateur humain à distance.",
-      "source": {
-        "name": "GitHub AI News",
-        "url": "https://github.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=github.com&sz=64"
-      },
-      "category": "Product",
-      "tags": ["Robotics", "1X", "Neo", "Consumer", "Nvidia"],
-      "publishedAt": "Sun, 02 Nov 2025 10:00:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800",
-      "readTime": 4,
-      "originalUrl": "https://github.com/ikaijua/Awesome-AITools/discussions/222"
-    },
-    {
       "id": "anthropic-cowork",
       "title": "Anthropic lance Cowork : l'agent Claude pour les non-développeurs",
       "summary": "Anthropic dévoile Cowork, qui étend Claude Code aux utilisateurs non-techniques. Cet agent IA travaille dans vos fichiers sans code. L'équipe considère cette fonctionnalité comme plus transformatrice que Claude Code lui-même.",
@@ -194,6 +146,6 @@
       "originalUrl": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and"
     }
   ],
-  "totalArticles": 12,
-  "lastUpdated": "2026-04-14T10:00:00.000Z"
+  "totalArticles": 9,
+  "lastUpdated": "2026-04-14T12:00:00.000Z"
 }
