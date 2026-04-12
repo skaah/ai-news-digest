@@ -3,8 +3,6 @@ name: Deploy to GitHub Pages
 on:
   push:
     branches: [main]
-  schedule:
-    - cron: '0 */6 * * *'  # Every 6 hours
   workflow_dispatch:
 
 permissions:
@@ -32,11 +30,8 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
-      - name: Collect news
-        run: node scripts/collect-news.js || echo "Using sample data"
-
-      - name: Update digest
-        run: node scripts/update-digest.js || echo "Using sample data"
+      - name: Copy digest to public
+        run: mkdir -p public/data && cp data/digest.json public/data/digest.json
 
       - name: Build with Next.js
         run: npm run build
