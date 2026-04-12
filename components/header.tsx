@@ -12,18 +12,16 @@ import {
   Newspaper,
   Archive,
   Grid3X3,
-  Info,
   Mail
 } from 'lucide-react';
 import { useTheme } from 'next-themes';
 import { cn } from '@/lib/utils';
 
 const navItems = [
-  { label: 'Accueil', href: '#', icon: Brain },
-  { label: 'News du Jour', href: '#news', icon: Newspaper },
-  { label: 'Archives', href: '#archives', icon: Archive },
-  { label: 'Catégories', href: '#categories', icon: Grid3X3 },
-  { label: 'À Propos', href: '#about', icon: Info },
+  { label: 'Accueil', href: '/', icon: Brain },
+  { label: 'News du Jour', href: '/#news', icon: Newspaper },
+  { label: 'Archives', href: '/archives', icon: Archive },
+  { label: 'Catégories', href: '/categories', icon: Grid3X3 },
 ];
 
 export function Header() {
