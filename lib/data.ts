@@ -100,12 +100,15 @@ export const sampleArticles: NewsArticle[] = [
   },
 ];
 
+// This function is only used server-side in page.tsx
+// Client-side should use the initialData prop
 export function getDigestData(): DigestData {
-  const articles = sampleArticles;
+  // Return sample data as fallback
+  // Real data is loaded in page.tsx via fs
   return {
     date: new Date().toISOString(),
-    articles,
-    totalArticles: articles.length,
+    articles: sampleArticles,
+    totalArticles: sampleArticles.length,
     lastUpdated: new Date().toISOString(),
   };
 }

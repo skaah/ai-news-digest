@@ -1,101 +1,30 @@
-# 🚀 GitHub Pages Deployment Guide
+# AI News Digest
 
-## Option 1: Script Automatique (Recommandé)
+Votre digest quotidien des avancées en Intelligence Artificielle.
 
-```bash
-cd /root/.openclaw/workspace/ai-news-digest
-./push-to-github.sh
-```
+🔗 **Site en ligne** : https://skaah.github.io/ai-news-digest
 
-Le script va :
-1. Demander ton username/email GitHub
-2. Configurer le remote
-3. Push tous les fichiers
-4. Te donner les instructions pour activer GitHub Pages
+## GitHub Pages Setup
 
----
+Pour activer le site :
 
-## Option 2: Commandes Manuelles
+1. Allez sur **Settings > Pages** du repository
+2. Source : Sélectionnez **GitHub Actions**
+3. Sauvegardez
 
-### Étape 1: Créer le repo sur GitHub
+Le site sera déployé automatiquement à chaque push sur `main`.
 
-Va sur https://github.com/new
-- **Repository name**: `ai-news-digest`
-- **Visibility**: Public
-- ✅ Initialize with README (optionnel)
-- Clique sur **Create repository**
-
-### Étape 2: Push le code
+## Développement local
 
 ```bash
-cd /root/.openclaw/workspace/ai-news-digest
-
-# Configurer Git (si pas déjà fait)
-git config user.name "Ton Nom"
-git config user.email "ton@email.com"
-
-# Ajouter le remote
-git remote add origin https://github.com/TON_USERNAME/ai-news-digest.git
-
-# Push
-git branch -M main
-git push -u origin main
+npm install
+npm run dev
 ```
 
-### Étape 3: Activer GitHub Pages
+## Build
 
-1. Va sur `https://github.com/TON_USERNAME/ai-news-digest/settings/pages`
-2. Sous **Build and deployment** → **Source**, sélectionne **GitHub Actions**
-3. Le workflow `.github/workflows/pages.yml` va s'exécuter automatiquement
-
-### Étape 4: Voir le résultat
-
-Attends 2-3 minutes, puis va sur :
-```
-https://TON_USERNAME.github.io/ai-news-digest/
-```
-
----
-
-## 🔄 Mise à jour automatique
-
-Le workflow GitHub Actions est configuré pour :
-- **Se déclencher** à chaque push sur `main`
-- **Collecter** les news toutes les 6h (cron)
-- **Déployer** automatiquement sur GitHub Pages
-
----
-
-## 🐛 Si ça ne marche pas
-
-### Erreur d'authentification
 ```bash
-# Si tu as un token GitHub
-git remote set-url origin https://TOKEN@github.com/USERNAME/ai-news-digest.git
+npm run build
 ```
 
-### Erreur "branch main already exists"
-```bash
-git push -f origin main
-```
-
-### Vérifier le statut
-```bash
-git status
-git log --oneline -3
-git remote -v
-```
-
----
-
-## 📦 Structure du zip
-
-Le fichier `ai-news-digest.zip` contient :
-- ✅ Tout le code source Next.js
-- ✅ Scripts de collecte automatique
-- ✅ Workflows GitHub Actions
-- ✅ Documentation complète
-
----
-
-*Projet prêt au déploiement !*
+Les fichiers statiques sont générés dans le dossier `dist/`.
