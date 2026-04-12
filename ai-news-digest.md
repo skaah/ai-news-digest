@@ -1,6 +1,6 @@
 # 🤖 AI News Digest
 
-> **Digest du dimanche 12 avril 2026**
+> **Digest du lundi 13 avril 2026**
 
 Votre quotidien des avancées en Intelligence Artificielle.
 
@@ -9,7 +9,7 @@ Votre quotidien des avancées en Intelligence Artificielle.
 ## 📊 Statistiques
 
 - **20** articles collectés
-- Dernière mise à jour: 12/04/2026 00:02:30
+- Dernière mise à jour: 13/04/2026 01:34:00
 - Sources: TechCrunch, The Verge, OpenAI, Anthropic, Google AI, ArXiv, MIT Tech Review
 
 ---
@@ -17,6 +17,39 @@ Votre quotidien des avancées en Intelligence Artificielle.
 ## 📰 Articles du jour
 
 ### 🏭 Industry
+
+#### From LLMs to hallucinations, here’s a simple guide to common AI terms
+
+> The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter....
+
+- **Source:** [TechCrunch AI](https://techcrunch.com/2026/04/12/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/)
+- **Tags:** #LLM
+- **Temps de lecture:** 1 min
+- **Publié:** 12/04/2026 23:07:08
+
+---
+
+#### At the HumanX conference, everyone was talking about Claude
+
+> Anthropic was the star of the show at San Francisco's AI-centric conference....
+
+- **Source:** [TechCrunch AI](https://techcrunch.com/2026/04/12/at-the-humanx-conference-everyone-was-talking-about-claude/)
+- **Tags:** #Anthropic, #LLM
+- **Temps de lecture:** 1 min
+- **Publié:** 12/04/2026 23:00:00
+
+---
+
+#### Sam Altman responds to ‘incendiary’ New Yorker article after attack on his home
+
+> The OpenAI CEO's new blog post responds to both an apparent attack on his home and an in-depth New Yorker profile raising questions about his trustworthiness....
+
+- **Source:** [TechCrunch AI](https://techcrunch.com/2026/04/11/sam-altman-responds-to-incendiary-new-yorker-article-after-attack-on-his-home/)
+- **Tags:** #OpenAI
+- **Temps de lecture:** 1 min
+- **Publié:** 12/04/2026 01:18:22
+
+---
 
 #### Anthropic temporarily banned OpenClaw’s creator from accessing Claude
 
@@ -37,39 +70,6 @@ Votre quotidien des avancées en Intelligence Artificielle.
 - **Tags:** #OpenAI, #LLM
 - **Temps de lecture:** 1 min
 - **Publié:** 11/04/2026 00:41:34
-
----
-
-#### TechCrunch is heading to Tokyo — and bringing the Startup Battlefield with it
-
-> SusHi Tech 2026 is zeroing in on four technology domains reshaping society: AI, Robotics, Resilience, and Entertainment. Expect live demos of humanoid robots, sessions on autonomous driving's software...
-
-- **Source:** [TechCrunch AI](https://techcrunch.com/2026/04/10/techcrunch-is-heading-to-tokyo-and-bringing-the-startup-battlefield-with-it/)
-- **Tags:** #Robotics, #Startup
-- **Temps de lecture:** 1 min
-- **Publié:** 11/04/2026 00:38:43
-
----
-
-#### Last 24 hours: Save up to $500 on your TechCrunch Disrupt 2026 pass
-
-> This is it. Tonight is your last chance to lock in savings of up to $500 for your TechCrunch Disrupt 2026 pass. These discounts end at 11:59 p.m. PT....
-
-- **Source:** [TechCrunch AI](https://techcrunch.com/2026/04/10/final-24-hours-save-up-to-500-on-your-techcrunch-disrupt-2026-pass/)
-- **Tags:** 
-- **Temps de lecture:** 1 min
-- **Publié:** 10/04/2026 22:00:00
-
----
-
-#### ChatGPT finally offers $100/month Pro plan
-
-> OpenAI announced on Thursday something that power users have been asking for: a $100/month plan. Previously, subscriptions jumped from $20 to $200 per month....
-
-- **Source:** [TechCrunch AI](https://techcrunch.com/2026/04/09/chatgpt-pro-plan-100-month-codex/)
-- **Tags:** #OpenAI, #LLM
-- **Temps de lecture:** 1 min
-- **Publié:** 10/04/2026 05:29:11
 
 ---
 
@@ -132,45 +132,45 @@ Votre quotidien des avancées en Intelligence Artificielle.
 
 ### 🚀 Product
 
+#### Using projects in ChatGPT
+
+> Learn how to use orojects in ChatGPT to organize chats, files, and instructions, manage ongoing work, and collaborate more effectively....
+
+- **Source:** [OpenAI Blog](https://openai.com/academy/projects)
+- **Tags:** #OpenAI, #LLM
+- **Temps de lecture:** 1 min
+- **Publié:** 10/04/2026 08:00:00
+
+---
+
+#### ChatGPT for marketing teams
+
+> Learn how marketing teams use ChatGPT to plan campaigns, generate content, analyze performance, and move from ideas to execution faster....
+
+- **Source:** [OpenAI Blog](https://openai.com/academy/marketing)
+- **Tags:** #OpenAI, #LLM
+- **Temps de lecture:** 1 min
+- **Publié:** 10/04/2026 08:00:00
+
+---
+
+#### Our response to the Axios developer tool compromise
+
+> OpenAI responds to the Axios supply chain attack by rotating macOS code signing certificates, updating apps, and confirming no user data was compromised....
+
+- **Source:** [OpenAI Blog](https://openai.com/index/axios-developer-tool-compromise)
+- **Tags:** #OpenAI
+- **Temps de lecture:** 1 min
+- **Publié:** 10/04/2026 08:00:00
+
+---
+
 #### Using custom GPTs
 
 > Learn how to build and use custom GPTs to automate workflows, maintain consistent outputs, and create purpose-built AI assistants....
 
 - **Source:** [OpenAI Blog](https://openai.com/academy/custom-gpts)
 - **Tags:** #OpenAI, #LLM, #Hardware
-- **Temps de lecture:** 1 min
-- **Publié:** 10/04/2026 08:00:00
-
----
-
-#### ChatGPT for customer success teams
-
-> Learn how customer success teams use ChatGPT to manage accounts, improve communication, reduce churn, and drive adoption and renewals....
-
-- **Source:** [OpenAI Blog](https://openai.com/academy/customer-success)
-- **Tags:** #OpenAI, #LLM
-- **Temps de lecture:** 1 min
-- **Publié:** 10/04/2026 08:00:00
-
----
-
-#### Applications of AI at OpenAI
-
-> Explore how OpenAI products like ChatGPT, Codex, and APIs bring AI into real-world use for work, development, and everyday tasks....
-
-- **Source:** [OpenAI Blog](https://openai.com/academy/applications-of-ai)
-- **Tags:** #OpenAI, #LLM
-- **Temps de lecture:** 1 min
-- **Publié:** 10/04/2026 08:00:00
-
----
-
-#### Research with ChatGPT
-
-> Learn how to research with ChatGPT using search and deep research to find up-to-date information, analyze sources, and generate structured insights....
-
-- **Source:** [OpenAI Blog](https://openai.com/academy/search-and-deep-research)
-- **Tags:** #OpenAI, #LLM
 - **Temps de lecture:** 1 min
 - **Publié:** 10/04/2026 08:00:00
 
