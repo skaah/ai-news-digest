@@ -1,387 +1,199 @@
 {
-  "date": "2026-04-12T17:34:00.393Z",
+  "date": "2026-04-14T10:00:00.000Z",
   "articles": [
     {
-      "id": "vymhmv3iyn87r1lm634vc",
-      "title": "From LLMs to hallucinations, here’s a simple guide to common AI terms",
-      "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter....",
+      "id": "ali-restruct-2026",
+      "title": "阿里AI再集结：大刀阔斧重塑组织架构优化算力分配",
+      "summary": "阿里巴巴进行重大AI组织架构重组：创立悟空事业部（B端AI原生工作平台），千问事业部主导C端应用（Qwen 3-Max），AI创新事业部推出Qoder Work和JVS Claw智能体应用。集团面临算力利用率仅50%的紧迫问题。",
       "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+        "name": "财新周刊",
+        "url": "https://weekly.caixin.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=caixin.com&sz=64"
       },
       "category": "Industry",
-      "tags": [
-        "LLM"
-      ],
-      "publishedAt": "Sun, 12 Apr 2026 15:07:08 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/04/12/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/"
+      "tags": ["Alibaba", "Qwen", "Organization", "China"],
+      "publishedAt": "Sat, 11 Apr 2026 08:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1667372393119-c8f473882e8e?w=800",
+      "readTime": 4,
+      "originalUrl": "https://weekly.caixin.com/2026-04-11/102432833.html"
     },
     {
-      "id": "xb3r08tdibd7g9mwt0cgv",
-      "title": "At the HumanX conference, everyone was talking about Claude",
-      "summary": "Anthropic was the star of the show at San Francisco's AI-centric conference....",
+      "id": "meta-muse-spark-2026",
+      "title": "Meta发布闭源模型Muse Spark 股价拉涨6.5%",
+      "summary": "时隔9个月，Meta发布全新闭源多模态模型Muse Spark，具备强大的图像识别和交互能力（如从瑜伽照片标注肌肉群、生成可玩数独游戏）。此前Llama 4因基准测试优化争议受挫，Meta已招募Scale AI CEO Alexander Wang担任首席AI官。",
       "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+        "name": "财新",
+        "url": "https://www.caixin.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=caixin.com&sz=64"
+      },
+      "category": "Product",
+      "tags": ["Meta", "Muse Spark", "Multimodal", "LLM"],
+      "publishedAt": "Thu, 09 Apr 2026 10:30:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=800",
+      "readTime": 3,
+      "originalUrl": "https://www.caixin.com/2026-04-09/102432004.html"
+    },
+    {
+      "id": "china-ai-trillion-2026",
+      "title": "2025年我国人工智能核心产业规模突破1.2万亿元",
+      "summary": "据中国信息通信研究院，2025年中国AI产业加速发展：AI企业数量超6000家，核心产业规模突破1.2万亿元（增速24%），智能算力规模达1590 EFLOPS。国产大模型引领全球开源生态，AI芯片企业包揽胡润AI企业50强前10中的7席。",
+      "source": {
+        "name": "IT之家",
+        "url": "https://www.ithome.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=ithome.com&sz=64"
       },
       "category": "Industry",
-      "tags": [
-        "Anthropic",
-        "LLM"
-      ],
-      "publishedAt": "Sun, 12 Apr 2026 15:00:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/04/12/at-the-humanx-conference-everyone-was-talking-about-claude/"
+      "tags": ["China", "Market", "Policy", "Hardware"],
+      "publishedAt": "Tue, 21 Jan 2026 09:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1535242208474-9a2793260ca8?w=800",
+      "readTime": 3,
+      "originalUrl": "https://www.ithome.com/0/915/017.htm"
     },
     {
-      "id": "d9idhu9a61vhxo1ovjonq",
-      "title": "Sam Altman responds to ‘incendiary’ New Yorker article after attack on his home",
-      "summary": "The OpenAI CEO's new blog post responds to both an apparent attack on his home and an in-depth New Yorker profile raising questions about his trustworthiness....",
+      "id": "stargate-project-2025",
+      "title": "Stargate Project：特朗普宣布5000亿美元AI基础设施计划",
+      "summary": "2025年1月，美国总统特朗普正式宣布启动'星际之门计划'，由OpenAI、软银和甲骨文牵头，计划未来4年投入5000亿美元建设美国AI基础设施，重塑美国在AI领域的领先地位，应对中国竞争。",
       "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+        "name": "Qiia",
+        "url": "https://www.qiia.org",
+        "favicon": "https://www.google.com/s2/favicons?domain=qiia.org&sz=64"
+      },
+      "category": "Policy",
+      "tags": ["Stargate", "OpenAI", "SoftBank", "Oracle", "US", "Infrastructure"],
+      "publishedAt": "Wed, 08 Jan 2025 12:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800",
+      "readTime": 5,
+      "originalUrl": "https://www.qiia.org/zh-hans/node/1766"
+    },
+    {
+      "id": "nvidia-5trillion-2025",
+      "title": "英伟达成史上首家超5万亿美元市值公司 Vera Rubin芯片首亮相",
+      "summary": "英伟达GTC 2025大会发布多项突破：市值首次突破5万亿美元成为全球首家；Vera Rubin超级芯片（CPU+双GPU）2026年量产；与诺基亚合作AI原生6G；推出NVLink量子GPU互连；与Uber合作2027年部署10万辆L4自动驾驶汽车。",
+      "source": {
+        "name": "GitHub AI News",
+        "url": "https://github.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=github.com&sz=64"
       },
       "category": "Industry",
-      "tags": [
-        "OpenAI"
-      ],
-      "publishedAt": "Sat, 11 Apr 2026 17:18:22 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/04/11/sam-altman-responds-to-incendiary-new-yorker-article-after-attack-on-his-home/"
+      "tags": ["Nvidia", "Hardware", "Vera Rubin", "Autonomous", "5G"],
+      "publishedAt": "Wed, 29 Oct 2025 14:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800",
+      "readTime": 4,
+      "originalUrl": "https://github.com/ikaijua/Awesome-AITools/discussions/222"
     },
     {
-      "id": "nu3c4oxdwx9hn077qmg399",
-      "title": "Anthropic temporarily banned OpenClaw’s creator from accessing Claude",
-      "summary": "This ban took place after Claude's pricing changed for OpenClaw users last week....",
+      "id": "deepseek-r1-china",
+      "title": "DeepSeek-R1震撼硅谷：中国开源模型引发全球关注",
+      "summary": "深度求索(DeepSeek)发布的R1模型以远低于西方竞争对手的训练成本，在AI分析网排行榜飙升至第二位，导致英伟达市值单日蒸发5000亿美元。特朗普称之为'一记警钟'，标志着中国领跑全球开源AI市场。",
       "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Anthropic",
-        "LLM"
-      ],
-      "publishedAt": "Fri, 10 Apr 2026 20:27:52 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/04/10/anthropic-temporarily-banned-openclaws-creator-from-accessing-claude/"
-    },
-    {
-      "id": "wdjkjpg6r28t4j6c38dnl",
-      "title": "Stalking victim sues OpenAI, claims ChatGPT fueled her abuser’s delusions and ignored her warnings",
-      "summary": "OpenAI ignored three warnings that a ChatGPT user was dangerous — including its own mass-casualty flag — while he stalked and harassed his ex-girlfriend, a new lawsuit alleges....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "OpenAI",
-        "LLM"
-      ],
-      "publishedAt": "Fri, 10 Apr 2026 16:41:34 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/04/10/stalking-victim-sues-openai-claims-chatgpt-fueled-her-abusers-delusions-and-ignored-her-warnings/"
-    },
-    {
-      "id": "lpsmwuu8igwezqrmbjtlk",
-      "title": "What’s in a name? Moderna’s “vaccine” vs. “therapy” dilemma",
-      "summary": "Is it the Department of Defense or the Department of War? The Gulf of Mexico or the Gulf of America? A vaccine—or an “individualized neoantigen treatment”? That’s the Trump-era vocabulary paradox faci...",
-      "source": {
-        "name": "MIT Technology Review",
-        "url": "https://www.technologyreview.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.technologyreview.com&sz=64"
+        "name": "新华网",
+        "url": "http://www.news.cn",
+        "favicon": "https://www.google.com/s2/favicons?domain=news.cn&sz=64"
       },
       "category": "Research",
-      "tags": [],
-      "publishedAt": "Fri, 10 Apr 2026 14:04:20 +0000",
+      "tags": ["DeepSeek", "China", "Open Source", "LLM", "R1"],
+      "publishedAt": "Mon, 20 Jan 2025 10:00:00 +0000",
       "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.technologyreview.com/2026/04/10/1135631/whats-in-a-name-modernas-vaccine-vs-therapy-dilemma/"
+      "readTime": 4,
+      "originalUrl": "http://www.news.cn/liangzi/20260107/cc829b2b09b9403099eaabb676be9acc/c.html"
     },
     {
-      "id": "babw6gphgqarnsgv55r9zp",
-      "title": "The Download: an exclusive Jeff VanderMeer story and AI models too scary to release",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Constellations  —Constellations is a short story by Jeff Vande...",
+      "id": "cursor-2-composer",
+      "title": "Cursor 2.0发布首个编程大模型Composer 效率提升400%",
+      "summary": "Cursor 2.0搭载内部大模型Composer，能在30秒内完成复杂编程任务，效率提升400%。基于强化学习和MoE架构，代码生成速度达250 tokens/秒，是当前最快模型的两倍。新增原生浏览器工具、语音生成代码和多Agent协作架构。",
       "source": {
-        "name": "MIT Technology Review",
-        "url": "https://www.technologyreview.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.technologyreview.com&sz=64"
-      },
-      "category": "Research",
-      "tags": [],
-      "publishedAt": "Fri, 10 Apr 2026 12:10:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.technologyreview.com/2026/04/10/1135618/the-download-jeff-vandermeer-short-story-and-ai-models-too-danger-to-release/"
-    },
-    {
-      "id": "xjvi2wuq0yol2cj1r7vk4r",
-      "title": "Constellations",
-      "summary": "I. We had crash-landed on the planet. We were far from home. The spaceship could not be repaired, and the rescue beacon had failed. Besides me, only the astrogator, part of the captain, and the ship’s...",
-      "source": {
-        "name": "MIT Technology Review",
-        "url": "https://www.technologyreview.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.technologyreview.com&sz=64"
-      },
-      "category": "Research",
-      "tags": [],
-      "publishedAt": "Fri, 10 Apr 2026 10:00:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.technologyreview.com/2026/04/10/1135106/jeff-vandermeer-constellations-science-fiction/"
-    },
-    {
-      "id": "20aoikcpxiquzo2h7ikik",
-      "title": "Using projects in ChatGPT",
-      "summary": "Learn how to use orojects in ChatGPT to organize chats, files, and instructions, manage ongoing work, and collaborate more effectively....",
-      "source": {
-        "name": "OpenAI Blog",
-        "url": "https://openai.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
+        "name": "GitHub AI News",
+        "url": "https://github.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=github.com&sz=64"
       },
       "category": "Product",
-      "tags": [
-        "OpenAI",
-        "LLM"
-      ],
-      "publishedAt": "Fri, 10 Apr 2026 00:00:00 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
-      "readTime": 1,
-      "originalUrl": "https://openai.com/academy/projects"
+      "tags": ["Cursor", "Coding", "Agent", "MoE", "Developer Tools"],
+      "publishedAt": "Thu, 30 Oct 2025 09:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=800",
+      "readTime": 3,
+      "originalUrl": "https://github.com/ikaijua/Awesome-AITools/discussions/222"
     },
     {
-      "id": "e86jtau4gckzqwajshxjaq",
-      "title": "ChatGPT for marketing teams",
-      "summary": "Learn how marketing teams use ChatGPT to plan campaigns, generate content, analyze performance, and move from ideas to execution faster....",
+      "id": "openai-ipo-losses",
+      "title": "OpenAI季度净亏损115亿美元 计划2026-2027年IPO",
+      "summary": "微软财报显示OpenAI最新季度净亏损115亿美元，导致微软净利润减少31亿美元（持股27%）。尽管每月订阅+API收入约10亿美元，但巨额研发投入持续。OpenAI计划2026下半年或2027年IPO，估值可能高达1万亿美元。",
       "source": {
-        "name": "OpenAI Blog",
-        "url": "https://openai.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
+        "name": "GitHub AI News",
+        "url": "https://github.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=github.com&sz=64"
+      },
+      "category": "Funding",
+      "tags": ["OpenAI", "Microsoft", "IPO", "Finance"],
+      "publishedAt": "Sat, 01 Nov 2025 11:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800",
+      "readTime": 3,
+      "originalUrl": "https://github.com/ikaijua/Awesome-AITools/discussions/222"
+    },
+    {
+      "id": "neo-robot-1x",
+      "title": "全球首个家务机器人Neo开卖：月租3600元 远程操控",
+      "summary": "1X公司推出全球首款面向消费者的人形家务机器人Neo，售价2万美元或月租499美元。身高1.68米、重30公斤，搭载NVIDIA Jetson平台。可折叠衣物、整理家务，复杂任务依赖远程人类操作员实时控制，被视为Beta测试阶段产品。",
+      "source": {
+        "name": "GitHub AI News",
+        "url": "https://github.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=github.com&sz=64"
       },
       "category": "Product",
-      "tags": [
-        "OpenAI",
-        "LLM"
-      ],
-      "publishedAt": "Fri, 10 Apr 2026 00:00:00 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
-      "readTime": 1,
-      "originalUrl": "https://openai.com/academy/marketing"
+      "tags": ["Robotics", "1X", "Neo", "Consumer", "Nvidia"],
+      "publishedAt": "Sun, 02 Nov 2025 10:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800",
+      "readTime": 4,
+      "originalUrl": "https://github.com/ikaijua/Awesome-AITools/discussions/222"
     },
     {
-      "id": "jso5y7sqkixsas01w33uo",
-      "title": "Our response to the Axios developer tool compromise",
-      "summary": "OpenAI responds to the Axios supply chain attack by rotating macOS code signing certificates, updating apps, and confirming no user data was compromised....",
+      "id": "qualcomm-ai-chips",
+      "title": "高通发布AI200/AI250云端芯片 进军数据中心市场",
+      "summary": "高通发布AI200和AI250两款数据中心AI芯片，正式进军该市场。AI200聚焦机架级推理加速，AI250引入近存计算架构。已获沙特AI公司Humain订单。市值一夜暴涨197.4亿美元，数据中心市场2030年预计达6.7万亿美元。",
       "source": {
-        "name": "OpenAI Blog",
-        "url": "https://openai.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
+        "name": "GitHub AI News",
+        "url": "https://github.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=github.com&sz=64"
       },
-      "category": "Product",
-      "tags": [
-        "OpenAI"
-      ],
-      "publishedAt": "Fri, 10 Apr 2026 00:00:00 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
-      "readTime": 1,
-      "originalUrl": "https://openai.com/index/axios-developer-tool-compromise"
+      "category": "Hardware",
+      "tags": ["Qualcomm", "AI200", "AI250", "Data Center", "Inference"],
+      "publishedAt": "Wed, 29 Oct 2025 16:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800",
+      "readTime": 3,
+      "originalUrl": "https://github.com/ikaijua/Awesome-AITools/discussions/222"
     },
     {
-      "id": "dtglz6tyj4yj43ohncjr",
-      "title": "Using custom GPTs",
-      "summary": "Learn how to build and use custom GPTs to automate workflows, maintain consistent outputs, and create purpose-built AI assistants....",
+      "id": "anthropic-cowork",
+      "title": "Anthropic推出Cowork：无需编码的Claude桌面智能体",
+      "summary": "Anthropic发布Cowork，将Claude Code的能力扩展到非技术用户。这款AI智能体可在用户文件中自主工作，无需编程知识。据内部人士透露，团队认为这一功能比Claude Code更具变革潜力。",
       "source": {
-        "name": "OpenAI Blog",
-        "url": "https://openai.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
-      },
-      "category": "Product",
-      "tags": [
-        "OpenAI",
-        "LLM",
-        "Hardware"
-      ],
-      "publishedAt": "Fri, 10 Apr 2026 00:00:00 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
-      "readTime": 1,
-      "originalUrl": "https://openai.com/academy/custom-gpts"
-    },
-    {
-      "id": "ptx8acthmf956kxgvq8bp7",
-      "title": "Analyzing data with ChatGPT",
-      "summary": "Learn how to analyze data with ChatGPT by exploring datasets, generating insights, creating visualizations, and turning findings into actionable decisions....",
-      "source": {
-        "name": "OpenAI Blog",
-        "url": "https://openai.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
-      },
-      "category": "Product",
-      "tags": [
-        "OpenAI",
-        "LLM"
-      ],
-      "publishedAt": "Fri, 10 Apr 2026 00:00:00 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
-      "readTime": 1,
-      "originalUrl": "https://openai.com/academy/data-analysis"
-    },
-    {
-      "id": "880oy80q4mlrnuryb2qqrh",
-      "title": "The Download: AstroTurf wars and exponential AI growth",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Is fake grass a bad idea? The AstroTurf wars are far from over...",
-      "source": {
-        "name": "MIT Technology Review",
-        "url": "https://www.technologyreview.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.technologyreview.com&sz=64"
-      },
-      "category": "Research",
-      "tags": [
-        "Startup"
-      ],
-      "publishedAt": "Thu, 09 Apr 2026 12:25:10 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.technologyreview.com/2026/04/09/1135514/the-download-astroturf-wars-exponential-ai-growth-desalination-numbers/"
-    },
-    {
-      "id": "p2uye8wb6vpjox1fvw0lfo",
-      "title": "Is fake grass a bad idea? The AstroTurf wars are far from over.",
-      "summary": "A rare warm spell in January melted enough snow to uncover Cornell University’s newest athletic field, built for field hockey. Months before, it was a meadow teeming with birds and bugs; now it’s more...",
-      "source": {
-        "name": "MIT Technology Review",
-        "url": "https://www.technologyreview.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.technologyreview.com&sz=64"
-      },
-      "category": "Research",
-      "tags": [],
-      "publishedAt": "Thu, 09 Apr 2026 10:00:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.technologyreview.com/2026/04/09/1135092/astroturf-fake-grass-artificial-heated-debates/"
-    },
-    {
-      "id": "jukdiwhslrph51tyzau8o",
-      "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
-      "summary": "Railway, a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B fundi...",
-      "source": {
-        "name": "VentureBeat AI",
+        "name": "VentureBeat",
         "url": "https://venturebeat.com",
         "favicon": "https://www.google.com/s2/favicons?domain=venturebeat.com&sz=64"
       },
-      "category": "Funding",
-      "tags": [
-        "OpenAI",
-        "Anthropic",
-        "Google",
-        "LLM",
-        "Computer Vision"
-      ],
-      "publishedAt": "Thu, 22 Jan 2026 14:00:00 GMT",
-      "imageUrl": "https://images.ctfassets.net/jdtwqhzvc2n1/5RLyQIpBeVXxv0RpcXZxWQ/fd9680c6d82acd8208ac341fc575f5fb/nuneybits_Vector_art_of_a_sleek_bullet_train_bursting_from_a_cl_32a805aa-272c-4b34-ac16-cf20508b7ff4.webp?w=300&q=30",
-      "readTime": 1,
-      "originalUrl": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
-    },
-    {
-      "id": "9krg8uzgtbauni2926s8v",
-      "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
-      "summary": "The artificial intelligence coding revolution comes with a catch: it's expensive.\nClaude Code, Anthropic's terminal-based AI agent that can write, debug, and deploy code autonomously, has captured the...",
-      "source": {
-        "name": "VentureBeat AI",
-        "url": "https://venturebeat.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=venturebeat.com&sz=64"
-      },
-      "category": "Funding",
-      "tags": [
-        "OpenAI",
-        "Anthropic",
-        "Google",
-        "Meta",
-        "LLM"
-      ],
-      "publishedAt": "Mon, 19 Jan 2026 14:00:00 GMT",
-      "imageUrl": "https://images.ctfassets.net/jdtwqhzvc2n1/1U9H8GLIqoGqKpitVfgw3T/ba56292f99409eca709dac0b176ec245/nuneybits_Vector_art_of_white_goose_silhouette_flying_through_c_8100d5a7-9e36-4ed6-a188-016470e1d0e1.webp?w=300&q=30",
-      "readTime": 1,
-      "originalUrl": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free"
-    },
-    {
-      "id": "gna05yic1tu726vvqs2dl3",
-      "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
-      "summary": "Alfred Wahlforss was running out of options. His startup, Listen Labs, needed to hire over 100 engineers, but competing against Mark Zuckerberg's $100 million offers seemed impossible. So he spent $5,...",
-      "source": {
-        "name": "VentureBeat AI",
-        "url": "https://venturebeat.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=venturebeat.com&sz=64"
-      },
-      "category": "Funding",
-      "tags": [
-        "Anthropic",
-        "LLM",
-        "Computer Vision",
-        "Startup",
-        "Healthcare"
-      ],
-      "publishedAt": "Fri, 16 Jan 2026 14:01:00 GMT",
-      "imageUrl": "https://images.ctfassets.net/jdtwqhzvc2n1/4gD12ThOmNHZuosqC4xCTz/277b1e8968da602108a29fae2eaca440/nuneybits_Vector_art_of_billboard_with_cryptic_code_dbe5b0ff-7644-45e6-a1ca-4a5dceeff986.webp?w=300&q=30",
-      "readTime": 1,
-      "originalUrl": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai"
-    },
-    {
-      "id": "qmvxmksomjebn1b432nh",
-      "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
-      "summary": "Salesforce on Tuesday launched an entirely rebuilt version of Slackbot, the company's workplace assistant, transforming it from a simple notification tool into what executives describe as a fully powe...",
-      "source": {
-        "name": "VentureBeat AI",
-        "url": "https://venturebeat.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=venturebeat.com&sz=64"
-      },
-      "category": "Funding",
-      "tags": [
-        "OpenAI",
-        "Anthropic",
-        "Google",
-        "LLM",
-        "Computer Vision"
-      ],
-      "publishedAt": "Tue, 13 Jan 2026 13:00:00 GMT",
-      "imageUrl": "https://images.ctfassets.net/jdtwqhzvc2n1/4Xrcg14GLKFlwSEnuEzxyS/21c85d29d03c4c974076475c009e3b38/nuneybits_Vector_art_of_chat_bubbles_on_a_computer_screen_in_th_5018a7ea-3496-4103-8453-7ba1b129189a.webp?w=300&q=30",
-      "readTime": 1,
-      "originalUrl": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and"
-    },
-    {
-      "id": "vof91986uufd77tt3walqv",
-      "title": "Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required",
-      "summary": "Anthropic released Cowork on Monday, a new AI agent capability that extends the power of its wildly successful Claude Code tool to non-technical users — and according to company insiders, the team bui...",
-      "source": {
-        "name": "VentureBeat AI",
-        "url": "https://venturebeat.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=venturebeat.com&sz=64"
-      },
-      "category": "Funding",
-      "tags": [
-        "OpenAI",
-        "Anthropic",
-        "Google",
-        "LLM",
-        "AI Safety"
-      ],
+      "category": "Product",
+      "tags": ["Anthropic", "Claude", "Cowork", "Agent", "No-code"],
       "publishedAt": "Mon, 12 Jan 2026 11:30:00 GMT",
-      "imageUrl": "https://images.ctfassets.net/jdtwqhzvc2n1/wHv1Wez7Ps9wYVYAo9fwT/14b41f606dbf1f5b17994be510407449/nuneybits_Hyper-realistic_image_of_a_retro_computer_with_a_glos_61ffb6e2-7c33-4d45-85f7-69c28693b3ec.webp?w=300&q=30",
-      "readTime": 1,
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
+      "readTime": 2,
       "originalUrl": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no"
+    },
+    {
+      "id": "salesforce-slackbot",
+      "title": "Salesforce重构Slackbot为AI Agent 迎战微软谷歌",
+      "summary": "Salesforce推出全新Slackbot，从简单通知工具转型为全功能AI Agent，可自主执行复杂工作流程。此举正值企业与微软Copilot、Google Workspace AI激烈竞争之际。",
+      "source": {
+        "name": "VentureBeat",
+        "url": "https://venturebeat.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=venturebeat.com&sz=64"
+      },
+      "category": "Product",
+      "tags": ["Salesforce", "Slack", "AI Agent", "Enterprise"],
+      "publishedAt": "Tue, 13 Jan 2026 13:00:00 GMT",
+      "imageUrl": "https://images.unsplash.com/photo-1611162616305-c69b3fa7fbe0?w=800",
+      "readTime": 2,
+      "originalUrl": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and"
     }
   ],
-  "totalArticles": 20,
-  "lastUpdated": "2026-04-12T17:34:00.393Z"
+  "totalArticles": 12,
+  "lastUpdated": "2026-04-14T10:00:00.000Z"
 }
