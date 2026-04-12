@@ -10,7 +10,6 @@ import {
 } from 'lucide-react';
 import { NewsArticle, CATEGORY_COLORS } from '@/lib/types';
 import { formatTimeAgo, cn } from '@/lib/utils';
-import Image from 'next/image';
 
 interface NewsCardProps {
   article: NewsArticle;
@@ -24,7 +23,8 @@ export function NewsCard({ article, index }: NewsCardProps) {
       whileInView={{ opacity: 1, y: 0 }}
       viewport={{ once: true, margin: '-50px' }}
       transition={{ duration: 0.5, delay: index * 0.1 }}
-      className="group relative glass rounded-2xl overflow-hidden hover-lift"
+      className="group relative glass rounded-2xl overflow-hidden hover-lift cursor-pointer"
+      onClick={() => window.open(article.originalUrl, '_blank', 'noopener,noreferrer')}
     >
       {/* Image */}
       <div className="relative aspect-video overflow-hidden">
@@ -45,13 +45,27 @@ export function NewsCard({ article, index }: NewsCardProps) {
           </span>
         </div>
 
-        {/* Actions */}
-        <div className="absolute top-3 right-3 flex gap-2 opacity-0 group-hover:opacity-100 transition-opacity"
+        {/* Actions - stop propagation to prevent card click */}
+        <div 
+          className="absolute top-3 right-3 flex gap-2 opacity-0 group-hover:opacity-100 transition-opacity"
+          onClick={(e) => e.stopPropagation()}
         >
-          <button className="p-2 rounded-lg bg-background/80 backdrop-blur hover:bg-background transition-colors">
+          <button 
+            className="p-2 rounded-lg bg-background/80 backdrop-blur hover:bg-background transition-colors"
+            onClick={(e) => {
+              e.stopPropagation();
+              // Bookmark logic here
+            }}
+          >
             <Bookmark className="w-4 h-4" />
           </button>
-          <button className="p-2 rounded-lg bg-background/80 backdrop-blur hover:bg-background transition-colors">
+          <button 
+            className="p-2 rounded-lg bg-background/80 backdrop-blur hover:bg-background transition-colors"
+            onClick={(e) => {
+              e.stopPropagation();
+              // Share logic here
+            }}
+          >
             <Share2 className="w-4 h-4" />
           </button>
         </div>
@@ -82,8 +96,7 @@ export function NewsCard({ article, index }: NewsCardProps) {
         </div>
 
         {/* Meta */}
-        <div className="flex items-center justify-between pt-4 border-t border-border"
-        >
+        <div className="flex items-center justify-between pt-4 border-t border-border">
           <div className="flex items-center gap-3">
             {/* Source */}
             <div className="flex items-center gap-2">
@@ -112,16 +125,10 @@ export function NewsCard({ article, index }: NewsCardProps) {
             </div>
           </div>
 
-          {/* Link */}
-          <a
-            href={article.originalUrl}
-            target="_blank"
-            rel="noopener noreferrer"
-            className="flex items-center gap-1 text-xs text-primary hover:underline"
-          >
-            Lire
+          {/* Link indicator */}
+          <div className="flex items-center gap-1 text-xs text-primary">
             <ExternalLink className="w-3 h-3" />
-          </a>
+          </div>
         </div>
       </div>
     </motion.article>

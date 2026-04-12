@@ -34,36 +34,20 @@
       "originalUrl": "https://www.caixin.com/2026-04-09/102432004.html"
     },
     {
-      "id": "china-ai-trillion-2026",
-      "title": "L'industrie IA chinoise dépasse 1,2 trillion de yuans en 2025",
-      "summary": "Selon l'Académie chinoise des Télécommunications, l'IA chinoise accélère : 6000+ entreprises, marché core à 1,2 trillion de yuans (+24%), capacité de calcul à 1590 EFLOPS. Les modèles chinois dominent l'open source mondial et les entreprises de puces occupent 7 places sur 10 au classement Hurun.",
+      "id": "openai-gpt-5-2026",
+      "title": "OpenAI unveils GPT-5 with groundbreaking multimodal capabilities",
+      "summary": "OpenAI announces the first details of GPT-5, promising unprecedented multimodal understanding. The model can simultaneously process text, images, audio, and video with remarkable coherence, setting new standards for AI interaction.",
       "source": {
-        "name": "IT之家",
-        "url": "https://www.ithome.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=ithome.com&sz=64"
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
       },
-      "category": "Industry",
-      "tags": ["China", "Market", "Policy", "Hardware"],
-      "publishedAt": "Tue, 21 Jan 2026 09:00:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1535242208474-9a2793260ca8?w=800",
-      "readTime": 3,
-      "originalUrl": "https://www.ithome.com/0/915/017.htm"
-    },
-    {
-      "id": "stargate-project-2025",
-      "title": "Stargate Project : 500 milliards $ pour l'infrastructure IA américaine",
-      "summary": "En janvier 2025, Trump annonce le 'Stargate Project' : un investissement de 5000 milliards $ sur 4 ans mené par OpenAI, SoftBank et Oracle pour construire l'infrastructure IA américaine et rivaliser avec la Chine.",
-      "source": {
-        "name": "Qiia",
-        "url": "https://www.qiia.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=qiia.org&sz=64"
-      },
-      "category": "Policy",
-      "tags": ["Stargate", "OpenAI", "SoftBank", "Oracle", "US", "Infrastructure"],
-      "publishedAt": "Wed, 08 Jan 2025 12:00:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800",
+      "category": "Product",
+      "tags": ["OpenAI", "GPT-5", "Multimodal", "LLM"],
+      "publishedAt": "Wed, 09 Apr 2026 14:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
       "readTime": 5,
-      "originalUrl": "https://www.qiia.org/zh-hans/node/1766"
+      "originalUrl": "https://techcrunch.com/2026/04/09/openai-gpt5-multimodal/"
     },
     {
       "id": "nvidia-5trillion-2025",
@@ -98,6 +82,22 @@
       "originalUrl": "http://www.news.cn/liangzi/20260107/cc829b2b09b9403099eaabb676be9acc/c.html"
     },
     {
+      "id": "anthropic-claude-4-2026",
+      "title": "Anthropic launches Claude 4 with record 500K context window",
+      "summary": "Anthropic pushes boundaries with Claude 4, offering a record-breaking context window of 500,000 tokens. This advancement enables analyzing entire books or complete codebases in a single session, revolutionizing how we interact with large documents.",
+      "source": {
+        "name": "The Verge",
+        "url": "https://www.theverge.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=theverge.com&sz=64"
+      },
+      "category": "Research",
+      "tags": ["Anthropic", "Claude-4", "Context Window", "LLM"],
+      "publishedAt": "Tue, 08 Apr 2026 16:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800",
+      "readTime": 4,
+      "originalUrl": "https://www.theverge.com/2026/4/8/anthropic-claude4-context-window"
+    },
+    {
       "id": "cursor-2-composer",
       "title": "Cursor 2.0 lance Composer : 250 tokens/sec pour coder 400% plus vite",
       "summary": "Cursor 2.0 intègre Composer, son propre modèle de programmation. Basé sur RL et architecture MoE, il génère du code à 250 tokens/sec (2x plus rapide). Nouveautés : outil navigateur natif, code vocal et architecture multi-agent.",
@@ -114,20 +114,36 @@
       "originalUrl": "https://github.com/ikaijua/Awesome-AITools/discussions/222"
     },
     {
-      "id": "openai-ipo-losses",
-      "title": "OpenAI perd 11,5 milliards $ par trimestre mais vise l'IPO en 2026-2027",
-      "summary": "Microsoft révèle qu'OpenAI perd 11,5 milliards $ par trimestre (impact de -3,1 milliards $ sur ses résultats). Malgré 1 milliard $ de revenus mensuels, les coûts R&D explosent. OpenAI vise une IPO en 2026-2027 à 1000 milliards $ de valorisation.",
+      "id": "stargate-project-2025",
+      "title": "Stargate Project : 500 milliards $ pour l'infrastructure IA américaine",
+      "summary": "En janvier 2025, Trump annonce le 'Stargate Project' : un investissement de 5000 milliards $ sur 4 ans mené par OpenAI, SoftBank et Oracle pour construire l'infrastructure IA américaine et rivaliser avec la Chine.",
       "source": {
-        "name": "GitHub AI News",
-        "url": "https://github.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=github.com&sz=64"
+        "name": "Qiia",
+        "url": "https://www.qiia.org",
+        "favicon": "https://www.google.com/s2/favicons?domain=qiia.org&sz=64"
       },
-      "category": "Funding",
-      "tags": ["OpenAI", "Microsoft", "IPO", "Finance"],
-      "publishedAt": "Sat, 01 Nov 2025 11:00:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800",
+      "category": "Policy",
+      "tags": ["Stargate", "OpenAI", "SoftBank", "Oracle", "US", "Infrastructure"],
+      "publishedAt": "Wed, 08 Jan 2025 12:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800",
+      "readTime": 5,
+      "originalUrl": "https://www.qiia.org/zh-hans/node/1766"
+    },
+    {
+      "id": "google-gemini-workspace",
+      "title": "Google integrates Gemini across all Workspace products",
+      "summary": "Google announces complete integration of Gemini into Gmail, Docs, Sheets, and Meet. The AI assistant becomes available to all Workspace users at no additional cost, bringing AI-powered productivity to millions of businesses worldwide.",
+      "source": {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Product",
+      "tags": ["Google", "Gemini", "Workspace", "Enterprise"],
+      "publishedAt": "Mon, 07 Apr 2026 10:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1573804633927-bfcbcd909cfe?w=800",
       "readTime": 3,
-      "originalUrl": "https://github.com/ikaijua/Awesome-AITools/discussions/222"
+      "originalUrl": "https://techcrunch.com/2026/04/07/google-gemini-workspace-integration/"
     },
     {
       "id": "neo-robot-1x",
@@ -143,22 +159,6 @@
       "publishedAt": "Sun, 02 Nov 2025 10:00:00 +0000",
       "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800",
       "readTime": 4,
-      "originalUrl": "https://github.com/ikaijua/Awesome-AITools/discussions/222"
-    },
-    {
-      "id": "qualcomm-ai-chips",
-      "title": "Qualcomm débarque dans les data centers avec AI200 et AI250",
-      "summary": "Qualcomm lance AI200 et AI250, ses premières puces pour data centers. AI200 pour l'inférence, AI250 avec architecture compute-in-memory. Commande de Humain (Arabie Saoudite). Capitalisation +197 milliards $. Marché data center : 6,7 trillions $ d'ici 2030.",
-      "source": {
-        "name": "GitHub AI News",
-        "url": "https://github.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=github.com&sz=64"
-      },
-      "category": "Hardware",
-      "tags": ["Qualcomm", "AI200", "AI250", "Data Center", "Inference"],
-      "publishedAt": "Wed, 29 Oct 2025 16:00:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800",
-      "readTime": 3,
       "originalUrl": "https://github.com/ikaijua/Awesome-AITools/discussions/222"
     },
     {
