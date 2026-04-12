@@ -1,7 +1,7 @@
 import type { Metadata } from 'next';
 import { Inter, Space_Grotesk } from 'next/font/google';
 import './globals.css';
-import { ThemeProvider } from '@/components/theme-provider';
+import { ThemeProvider } from 'next-themes';
 
 const inter = Inter({ 
   subsets: ['latin'],
@@ -33,7 +33,7 @@ export default function RootLayout({
   return (
     <html lang="fr" suppressHydrationWarning>
       <body className={`${inter.variable} ${spaceGrotesk.variable} font-sans`}>
-        <ThemeProvider defaultTheme="dark" storageKey="ai-news-theme">
+        <ThemeProvider attribute="class" defaultTheme="dark" enableSystem storageKey="ai-news-theme">
           {children}
         </ThemeProvider>
       </body>

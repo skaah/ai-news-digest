@@ -51,11 +51,13 @@
 
 @layer utilities {
   .glass {
-    @apply backdrop-blur-xl bg-card/60 border border-border;
+    @apply backdrop-blur-xl border border-border;
+    background-color: var(--card);
   }
   
   .glass-strong {
-    @apply backdrop-blur-2xl bg-card/80 border border-border;
+    @apply backdrop-blur-2xl border border-border;
+    background-color: rgba(30, 30, 46, 0.8);
   }
   
   .gradient-mesh {
