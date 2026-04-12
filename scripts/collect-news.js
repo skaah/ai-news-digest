@@ -28,7 +28,7 @@ const CONFIG = {
   ],
   // Sources à ignorer
   blockedSources: ['GitHub AI News'],
-  blockedUrls: ['github.com/ikaijua']
+  blockedUrls: ['github.com/ikaijua', 'ia-info.fr']
 };
 
 // Parser RSS simple
