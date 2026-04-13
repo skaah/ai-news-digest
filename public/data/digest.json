@@ -1,6 +1,88 @@
 {
-  "date": "2026-04-13T14:11:08.826Z",
+  "date": "2026-04-13T19:41:29.179Z",
   "articles": [
+    {
+      "id": "mnxllyu5suefbkdit7j",
+      "title": "Microsoft is working on yet another OpenClaw-like agent",
+      "summary": "The company has also previously introduced agents that are able to complete tasks, Cowork and Copilot Tasks. ...",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Policy",
+      "tags": [
+        "Microsoft"
+      ],
+      "publishedAt": "Mon, 13 Apr 2026 19:05:19 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1555848962-6e79363ec58f?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/04/13/microsoft-is-working-on-yet-another-openclaw-like-agent/"
+    },
+    {
+      "id": "mnxllyu6wgy7z5jnpt",
+      "title": "Stanford report highlights growing disconnect between AI insiders and everyone else",
+      "summary": "Stanford’s latest AI Index shows a widening gap between experts and the public, with rising anxiety over jobs, healthcare, and the economy....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Mon, 13 Apr 2026 18:55:37 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else/"
+    },
+    {
+      "id": "mnxlm0aakeh4c7o2cw",
+      "title": "Why opinion on AI is so divided",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. In an industry that doesn’t stand still, Stanford’s AI Index, an annual roundup of key results and trends, is a chance to take a breath. (It’s...",
+      "source": {
+        "name": "MIT Tech Review",
+        "url": "https://www.technologyreview.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.technologyreview.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Mon, 13 Apr 2026 15:48:28 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.technologyreview.com/2026/04/13/1135720/why-opinion-on-ai-is-so-divided/"
+    },
+    {
+      "id": "mnxllyu7j4hv37ai00f",
+      "title": "Vercel CEO Guillermo Rauch signals IPO readiness as AI agents fuel revenue surge",
+      "summary": "\"The company is ready and getting more ready for every day,\" Rauch said about an IPO at the HumanX conference. ...",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Mon, 13 Apr 2026 15:22:29 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/04/13/vercel-ceo-guillermo-rauch-signals-ipo-readiness-as-ai-agents-fuel-revenue-surge/"
+    },
+    {
+      "id": "mnxlm21y9b5xrlv00f",
+      "title": "L’intelligence artificielle vous a induit en erreur au point de provoquer une mésaventure mémorable ? Racontez-nous",
+      "summary": "Ce fut un moment désopilant, ou peut-être un jour à oublier, mais l’IA vous a mis dans la panade quand vous lui aviez fait confiance. Expliquez-nous comment et pourquoi....",
+      "source": {
+        "name": "Le Monde Tech",
+        "url": "https://www.lemonde.fr",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.lemonde.fr&sz=64"
+      },
+      "category": "Policy",
+      "tags": [],
+      "publishedAt": "Mon, 13 Apr 2026 16:59:59 +0200",
+      "imageUrl": "https://images.unsplash.com/photo-1575517111839-3a3843ee7f5d?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.lemonde.fr/pixels/appel-temoignages/2026/04/13/l-intelligence-artificielle-vous-a-induit-en-erreur-au-point-de-provoquer-une-mesaventure-memorable-racontez-nous_6679733_4408996.html"
+    },
     {
       "id": "mnx9t6uht23ixcnyed",
       "title": "Want to understand the current state of AI? Check out these charts.",
@@ -187,6 +269,6 @@
       "originalUrl": "https://www.lemonde.fr/pixels/article/2026/04/12/openclaw-cet-agent-ia-autonome-qui-agite-la-silicon-valley_6679530_4408996.html"
     }
   ],
-  "totalArticles": 11,
-  "lastUpdated": "2026-04-13T14:11:08.826Z"
+  "totalArticles": 16,
+  "lastUpdated": "2026-04-13T19:41:29.179Z"
 }
