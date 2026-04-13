@@ -8,7 +8,7 @@ import {
   Share2,
   Calendar
 } from 'lucide-react';
-import { NewsArticle, CATEGORY_COLORS } from '@/lib/types';
+import { NewsArticle, CATEGORY_COLORS, getCategoryImage } from '@/lib/types';
 import { formatTimeAgo, cn } from '@/lib/utils';
 
 interface NewsCardProps {
@@ -17,6 +17,11 @@ interface NewsCardProps {
 }
 
 export function NewsCard({ article, index }: NewsCardProps) {
+  // Utiliser l'image de l'article ou une image de catégorie variée
+  const imageUrl = article.imageUrl && !article.imageUrl.includes('1677442136019-21780ecad995')
+    ? article.imageUrl 
+    : getCategoryImage(article.category, index);
+
   return (
     <motion.article
       initial={{ opacity: 0, y: 30 }}
@@ -29,7 +34,7 @@ export function NewsCard({ article, index }: NewsCardProps) {
       {/* Image */}
       <div className="relative aspect-video overflow-hidden">
         <img
-          src={article.imageUrl || '/placeholder-ai.jpg'}
+          src={imageUrl}
           alt={article.title}
           className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
         />
@@ -43,6 +48,20 @@ export function NewsCard({ article, index }: NewsCardProps) {
           )}>
             {article.category}
           </span>
+        </div>
+
+        {/* Source Favicon Overlay */}
+        <div className="absolute bottom-3 right-3">
+          <div className="w-10 h-10 rounded-full bg-background/90 backdrop-blur flex items-center justify-center shadow-lg">
+            <img 
+              src={article.source.favicon || '/favicon.ico'} 
+              alt=""
+              className="w-6 h-6 rounded-sm"
+              onError={(e) => {
+                (e.target as HTMLImageElement).src = '/favicon.ico';
+              }}
+            />
+          </div>
         </div>
 
         {/* Actions - stop propagation to prevent card click */}
