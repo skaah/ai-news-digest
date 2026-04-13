@@ -14,10 +14,10 @@ import {
 
 const footerLinks = {
   product: [
-    { label: 'News du Jour', href: '#news' },
-    { label: 'Archives', href: '#archives' },
-    { label: 'Catégories', href: '#categories' },
-    { label: 'Newsletter', href: '#newsletter' },
+    { label: 'News du Jour', href: '/' },
+    { label: 'Archives', href: '/archives' },
+    { label: 'Catégories', href: '/categories' },
+    { label: 'Newsletter', href: '/' },
   ],
   resources: [
     { label: 'RSS Feed', href: '/feed.xml' },
@@ -25,7 +25,7 @@ const footerLinks = {
     { label: 'Documentation', href: '/docs' },
   ],
   legal: [
-    { label: 'À Propos', href: '#about' },
+    { label: 'À Propos', href: '/' },
     { label: 'Mentions légales', href: '/legal' },
     { label: 'Confidentialité', href: '/privacy' },
   ],

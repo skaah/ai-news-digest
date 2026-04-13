@@ -19,7 +19,7 @@ import { cn } from '@/lib/utils';
 
 const navItems = [
   { label: 'Accueil', href: '/', icon: Brain },
-  { label: 'News du Jour', href: '/#news', icon: Newspaper },
+  { label: 'News du Jour', href: '/', icon: Newspaper },
   { label: 'Archives', href: '/archives', icon: Archive },
   { label: 'Catégories', href: '/categories', icon: Grid3X3 },
 ];
