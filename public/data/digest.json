@@ -2,28 +2,6 @@
   "date": "2026-04-12T22:02:23.857Z",
   "articles": [
     {
-      "id": "openai-google-partnership-2026",
-      "title": "OpenAI et Google s'associent pour un cloud IA nouvelle génération",
-      "summary": "Dans un revirement stratégique majeur, OpenAI et Google Cloud annoncent un partenariat pour déployer des infrastructures IA de nouvelle génération. Cette alliance combine les modèles GPT avec l'infrastructure cloud de Google, créant une alternative aux services propriétaires d'AWS et Microsoft Azure.",
-      "source": {
-        "name": "TechCrunch",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "OpenAI",
-        "Google",
-        "Partnership",
-        "Cloud",
-        "Infrastructure"
-      ],
-      "publishedAt": "Mon, 13 Apr 2026 08:00:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800",
-      "readTime": 4,
-      "originalUrl": "https://techcrunch.com/2026/04/openai-google-partnership"
-    },
-    {
       "id": "mnwb7cadwzmey7phbpe",
       "title": "Trump officials may be encouraging banks to test Anthropic’s Mythos model",
       "summary": "The report is particularly surprising since the Department of Defense recently declared Anthropic a supply-chain risk....",
@@ -145,28 +123,6 @@
       "originalUrl": "https://techcrunch.com/2026/04/11/sam-altman-responds-to-incendiary-new-yorker-article-after-attack-on-his-home/"
     },
     {
-      "id": "eu-ai-act-enforcement-2026",
-      "title": "L'UE commence à sanctionner les entreprises non conformes à l'AI Act",
-      "summary": "La Commission européenne émet ses premières amendes en vertu de l'AI Act. Plusieurs entreprises technologiques majeures ont été condamnées pour non-respect des obligations de transparence sur leurs modèles. Les montants atteignent plusieurs centaines de millions d'euros, marquant un tournant dans la régulation de l'IA.",
-      "source": {
-        "name": "Reuters",
-        "url": "https://www.reuters.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
-      },
-      "category": "Policy",
-      "tags": [
-        "EU",
-        "AI Act",
-        "Regulation",
-        "Fines",
-        "Compliance"
-      ],
-      "publishedAt": "Fri, 10 Apr 2026 11:00:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1520523839897-bd0b52f945a0?w=800",
-      "readTime": 5,
-      "originalUrl": "https://www.reuters.com/technology/ai/eu-ai-act-fines-2026"
-    },
-    {
       "id": "waymo-texas-incidents-2026",
       "title": "Waymo : les voitures autonomes peinent à s'arrêter derrière les bus scolaires au Texas",
       "summary": "Malgré des mises à jour, un rappel officiel et une collecte de données, les véhicules autonomes de Waymo ont continué de dépasser les bus scolaires à l'arrêt au Texas. Une série d'incidents qui met en lumière les difficultés persistantes de l'IA à comprendre certaines situations.",
@@ -188,51 +144,7 @@
       "readTime": 3,
       "originalUrl": "https://www.bfmtv.com/tech/waymo-bus-texas-incidents"
     },
-    {
-      "id": "france-ai-public-services-2026",
-      "title": "France : 2 milliards d'euros pour l'IA dans les services publics",
-      "summary": "La France lance un plan IA de 2 milliards d'euros pour moderniser les services publics. L'État déploie également une offre de services d'IA générative sécurisés et souverains. Cette initiative vise à garantir la souveraineté numérique tout en accélérant l'adoption de l'IA.",
-      "source": {
-        "name": "Usine Digitale",
-        "url": "https://www.usine-digitale.fr",
-        "favicon": "https://www.google.com/s2/favicons?domain=usine-digitale.fr&sz=64"
-      },
-      "category": "Policy",
-      "tags": [
-        "France",
-        "Public Services",
-        "Investment",
-        "Sovereignty",
-        "Generative AI"
-      ],
-      "publishedAt": "Wed, 09 Apr 2026 11:00:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=800",
-      "readTime": 4,
-      "originalUrl": "https://www.usine-digitale.fr/intelligence-artificielle/france-plan-ia-public"
-    },
-    {
-      "id": "alphaevolve-math-2026",
-      "title": "AlphaEvolve de DeepMind résout un problème mathématique vieux de 50 ans",
-      "summary": "Google DeepMind annonce que son agent AlphaEvolve, combinant Gemini et des algorithmes évolutionnaires, a résolu un problème ouvert en théorie des nombres datant de 1974. Cette découverte pourrait avoir des implications majeures pour la cryptographie moderne.",
-      "source": {
-        "name": "MIT Technology Review",
-        "url": "https://www.technologyreview.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=technologyreview.com&sz=64"
-      },
-      "category": "Research",
-      "tags": [
-        "DeepMind",
-        "AlphaEvolve",
-        "Mathematics",
-        "Gemini",
-        "Breakthrough"
-      ],
-      "publishedAt": "Tue, 08 Apr 2026 13:00:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800",
-      "readTime": 5,
-      "originalUrl": "https://www.technologyreview.com/2026/04/alphaevolve-mathematics"
-    }
   ],
-  "totalArticles": 12,
+  "totalArticles": 8,
   "lastUpdated": "2026-04-12T22:02:23.856Z"
 }
