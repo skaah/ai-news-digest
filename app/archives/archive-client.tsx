@@ -1,7 +1,6 @@
 'use client';
 
 import { useState, useMemo } from 'react';
-import { motion } from 'framer-motion';
 import { Search, Calendar, Clock, ExternalLink, ArrowLeft } from 'lucide-react';
 import Link from 'next/link';
 import { DigestData, NewsArticle, CATEGORY_COLORS } from '@/lib/types';
@@ -18,16 +17,13 @@ export default function ArchiveClient({ initialData }: ArchiveClientProps) {
 
   const allArticles = initialData.articles || [];
   
-  // Extraire toutes les catégories uniques
   const categories = useMemo(() => {
     const cats = new Set(allArticles.map(a => a.category));
     return Array.from(cats).sort();
   }, [allArticles]);
 
-  // Filtrer les articles
   const filteredArticles = useMemo(() => {
     return allArticles.filter(article => {
-      // Filtre recherche
       if (searchQuery) {
         const query = searchQuery.toLowerCase();
         const matchesTitle = article.title.toLowerCase().includes(query);
@@ -36,12 +32,10 @@ export default function ArchiveClient({ initialData }: ArchiveClientProps) {
         if (!matchesTitle && !matchesSummary && !matchesTags) return false;
       }
       
-      // Filtre catégorie
       if (selectedCategory !== 'all' && article.category !== selectedCategory) {
         return false;
       }
       
-      // Filtre date
       if (dateFilter !== 'all') {
         const articleDate = new Date(article.publishedAt);
         const now = new Date();
@@ -56,7 +50,6 @@ export default function ArchiveClient({ initialData }: ArchiveClientProps) {
     }).sort((a, b) => new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime());
   }, [allArticles, searchQuery, selectedCategory, dateFilter]);
 
-  // Grouper par mois pour l'affichage
   const groupedArticles = useMemo(() => {
     const groups: Record<string, NewsArticle[]> = {};
     filteredArticles.forEach(article => {
@@ -69,37 +62,27 @@ export default function ArchiveClient({ initialData }: ArchiveClientProps) {
   }, [filteredArticles]);
 
   return (
-    <div className="pt-24 pb-12 px-4 sm:px-6 lg:px-8 max-w-7xl mx-auto">
+    <div className="pt-32 pb-12 px-4 sm:px-6 lg:px-8 max-w-7xl mx-auto">
       {/* Header */}
-      <motion.div
-        initial={{ opacity: 0, y: 20 }}
-        animate={{ opacity: 1, y: 0 }}
-        className="mb-8"
-      >
+      <div className="paper-rule-double pb-6 mb-8">
         <Link 
           href="/" 
-          className="inline-flex items-center gap-2 text-muted-foreground hover:text-foreground transition-colors mb-4"
+          className="inline-flex items-center gap-2 text-muted-foreground hover:text-foreground transition-colors mb-4 text-sm uppercase tracking-wider"
         >
           <ArrowLeft className="w-4 h-4" />
           Retour à l'accueil
         </Link>
-        <h1 className="font-display text-4xl sm:text-5xl font-bold mb-4">
+        <h1 className="font-display text-4xl sm:text-5xl font-black mb-2">
           Archives
         </h1>
-        <p className="text-muted-foreground text-lg">
-          {allArticles.length} articles dans l'historique • Recherchez par mot-clé, catégorie ou date
+        <p className="text-muted-foreground">
+          {allArticles.length} articles dans l'historique
         </p>
-      </motion.div>
+      </div>
 
       {/* Filtres */}
-      <motion.div
-        initial={{ opacity: 0, y: 20 }}
-        animate={{ opacity: 1, y: 0 }}
-        transition={{ delay: 0.1 }}
-        className="glass rounded-2xl p-6 mb-8"
-      >
+      <div className="paper-border bg-card p-6 mb-8">
         <div className="grid md:grid-cols-3 gap-4">
-          {/* Recherche */}
           <div className="relative">
             <Search className="absolute left-3 top-1/2 -translate-y-1/2 w-4 h-4 text-muted-foreground" />
             <input
@@ -107,15 +90,14 @@ export default function ArchiveClient({ initialData }: ArchiveClientProps) {
               placeholder="Rechercher dans les archives..."
               value={searchQuery}
               onChange={(e) => setSearchQuery(e.target.value)}
-              className="w-full pl-10 pr-4 py-3 rounded-lg bg-muted/50 border border-border focus:outline-none focus:ring-2 focus:ring-primary/50"
+              className="w-full pl-10 pr-4 py-3 bg-background border border-border focus:outline-none focus:ring-1 focus:ring-primary"
             />
           </div>
 
-          {/* Filtre catégorie */}
           <select
             value={selectedCategory}
             onChange={(e) => setSelectedCategory(e.target.value)}
-            className="w-full px-4 py-3 rounded-lg bg-muted/50 border border-border focus:outline-none focus:ring-2 focus:ring-primary/50"
+            className="w-full px-4 py-3 bg-background border border-border focus:outline-none focus:ring-1 focus:ring-primary"
           >
             <option value="all">Toutes les catégories</option>
             {categories.map(cat => (
@@ -123,11 +105,10 @@ export default function ArchiveClient({ initialData }: ArchiveClientProps) {
             ))}
           </select>
 
-          {/* Filtre date */}
           <select
             value={dateFilter}
             onChange={(e) => setDateFilter(e.target.value)}
-            className="w-full px-4 py-3 rounded-lg bg-muted/50 border border-border focus:outline-none focus:ring-2 focus:ring-primary/50"
+            className="w-full px-4 py-3 bg-background border border-border focus:outline-none focus:ring-1 focus:ring-primary"
           >
             <option value="all">Toutes les dates</option>
             <option value="week">7 derniers jours</option>
@@ -136,61 +117,47 @@ export default function ArchiveClient({ initialData }: ArchiveClientProps) {
           </select>
         </div>
 
-        {/* Tags rapides */}
-        <div className="flex flex-wrap gap-2 mt-4">
-          <span className="text-sm text-muted-foreground">Tags populaires:</span>
+        <div className="flex flex-wrap items-center gap-2 mt-4 pt-4 border-t border-border">
+          <span className="text-xs uppercase tracking-wider text-muted-foreground">Tags populaires:</span>
           {['OpenAI', 'Google', 'Anthropic', 'LLM', 'Robotics', 'Policy'].map(tag => (
             <button
               key={tag}
               onClick={() => setSearchQuery(tag)}
-              className="text-sm px-3 py-1 rounded-full bg-muted/50 hover:bg-primary/20 transition-colors"
+              className="text-xs px-2 py-1 border border-border hover:bg-primary hover:text-primary-foreground hover:border-primary transition-colors uppercase tracking-wider"
             >
               #{tag}
             </button>
           ))}
         </div>
-      </motion.div>
+      </div>
 
       {/* Résultats */}
       <div className="space-y-8">
         {filteredArticles.length === 0 ? (
-          <motion.div
-            initial={{ opacity: 0 }}
-            animate={{ opacity: 1 }}
-            className="text-center py-16"
-          >
+          <div className="text-center py-16 paper-border bg-card">
             <Search className="w-16 h-16 mx-auto text-muted-foreground mb-4" />
-            <h3 className="text-xl font-semibold mb-2">Aucun article trouvé</h3>
+            <h3 className="font-display text-xl font-bold mb-2">Aucun article trouvé</h3>
             <p className="text-muted-foreground">
               Essayez avec d'autres termes de recherche ou filtres
             </p>
-          </motion.div>
+          </div>
         ) : (
-          Object.entries(groupedArticles).map(([month, articles], groupIndex) => (
-            <motion.div
-              key={month}
-              initial={{ opacity: 0, y: 20 }}
-              animate={{ opacity: 1, y: 0 }}
-              transition={{ delay: groupIndex * 0.1 }}
-            >
-              <h2 className="text-xl font-bold mb-4 flex items-center gap-2">
+          Object.entries(groupedArticles).map(([month, articles]) => (
+            <div key={month}>
+              <h2 className="font-display text-xl font-bold mb-4 flex items-center gap-2 paper-rule pb-2">
                 <Calendar className="w-5 h-5 text-primary" />
                 {month}
               </h2>
               
               <div className="space-y-4">
-                {articles.map((article, index) => (
-                  <motion.article
+                {articles.map((article) => (
+                  <article
                     key={article.id}
-                    initial={{ opacity: 0, x: -20 }}
-                    animate={{ opacity: 1, x: 0 }}
-                    transition={{ delay: index * 0.05 }}
-                    className="glass rounded-xl p-4 hover:shadow-lg transition-shadow cursor-pointer group"
+                    className="paper-border bg-card p-4 hover-lift cursor-pointer group"
                     onClick={() => window.open(article.originalUrl, '_blank', 'noopener,noreferrer')}
                   >
                     <div className="flex flex-col md:flex-row md:items-start gap-4">
-                      {/* Image */}
-                      <div className="w-full md:w-48 h-28 rounded-lg overflow-hidden flex-shrink-0">
+                      <div className="w-full md:w-48 h-28 overflow-hidden flex-shrink-0 paper-border">
                         <img
                           src={article.imageUrl}
                           alt={article.title}
@@ -198,11 +165,10 @@ export default function ArchiveClient({ initialData }: ArchiveClientProps) {
                         />
                       </div>
                       
-                      {/* Content */}
                       <div className="flex-1">
                         <div className="flex items-center gap-2 mb-2">
                           <span className={cn(
-                            'px-2 py-0.5 rounded-full text-xs font-medium border',
+                            'px-2 py-0.5 text-[10px] font-bold uppercase tracking-wider',
                             CATEGORY_COLORS[article.category]
                           )}>
                             {article.category}
@@ -213,7 +179,7 @@ export default function ArchiveClient({ initialData }: ArchiveClientProps) {
                           </span>
                         </div>
                         
-                        <h3 className="font-bold text-lg mb-2 group-hover:text-primary transition-colors">
+                        <h3 className="font-display text-lg font-bold mb-2 group-hover:text-primary transition-colors">
                           {article.title}
                         </h3>
                         
@@ -226,7 +192,7 @@ export default function ArchiveClient({ initialData }: ArchiveClientProps) {
                             <img
                               src={article.source.favicon}
                               alt=""
-                              className="w-4 h-4 rounded"
+                              className="w-4 h-4 rounded-sm"
                             />
                             <span className="text-xs text-muted-foreground">
                               {article.source.name}
@@ -241,10 +207,10 @@ export default function ArchiveClient({ initialData }: ArchiveClientProps) {
                         </div>
                       </div>
                     </div>
-                  </motion.article>
+                  </article>
                 ))}
               </div>
-            </motion.div>
+            </div>
           ))
         )}
       </div>

@@ -7,7 +7,7 @@ import { CATEGORIES, Category } from '@/lib/types';
 import { CategoriesContent } from './categories-client';
 
 export const metadata: Metadata = {
-  title: 'Catégories | AI News Digest',
+  title: 'Catégories | The AI Gazette',
   description: 'Explorez les actualités IA par catégorie',
 };
 
@@ -36,10 +36,10 @@ export default async function CategoriesPage() {
   const counts = await getCategoryCounts();
   
   return (
-    <main className="min-h-screen gradient-mesh">
+    <main className="min-h-screen bg-background">
       <Header />
       
-      <div className="pt-24 pb-12 px-4 sm:px-6 lg:px-8 max-w-7xl mx-auto">
+      <div className="pt-32 pb-12 px-4 sm:px-6 lg:px-8 max-w-7xl mx-auto">
         <CategoriesContent counts={counts} />
       </div>
       

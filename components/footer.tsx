@@ -1,29 +1,13 @@
 'use client';
 
-import { motion } from 'framer-motion';
 import Link from 'next/link';
-import { 
-  Github, 
-  Twitter, 
-  Linkedin, 
-  Rss, 
-  Heart,
-  Coffee,
-  Mail,
-  ArrowUp
-} from 'lucide-react';
+import { Newspaper, Mail, ArrowUp } from 'lucide-react';
 
 const footerLinks = {
-  product: [
-    { label: 'News du Jour', href: '/' },
+  sections: [
+    { label: 'Accueil', href: '/' },
     { label: 'Archives', href: '/archives' },
     { label: 'Catégories', href: '/categories' },
-    { label: 'Newsletter', href: '/' },
-  ],
-  resources: [
-    { label: 'RSS Feed', href: '/feed.xml' },
-    { label: 'API', href: '/api' },
-    { label: 'Documentation', href: '/docs' },
   ],
   legal: [
     { label: 'À Propos', href: '/' },
@@ -32,134 +16,107 @@ const footerLinks = {
   ],
 };
 
-const socialLinks = [
-  { icon: Twitter, href: 'https://twitter.com/ainewsdigest', label: 'Twitter' },
-  { icon: Linkedin, href: 'https://linkedin.com/company/ainewsdigest', label: 'LinkedIn' },
-  { icon: Github, href: 'https://github.com/openclaw/ai-news-digest', label: 'GitHub' },
-  { icon: Rss, href: '/feed.xml', label: 'RSS' },
-];
-
 export function Footer() {
   const scrollToTop = () => {
     window.scrollTo({ top: 0, behavior: 'smooth' });
   };
 
   return (
-    <footer className="relative mt-32 border-t border-border">
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
-        <div className="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-5 gap-8 lg:gap-12">
-          {/* Brand */}
-          <div className="col-span-2 lg:col-span-2">
-            <div className="flex items-center gap-2 mb-4">
-              <div className="w-10 h-10 rounded-xl bg-gradient-to-br from-primary to-accent flex items-center justify-center">
-                <span className="text-white font-bold text-lg">AI</span>
-              </div>
-              <span className="font-display font-bold text-xl">
-                AI<span className="text-gradient">Digest</span>
-              </span>
+    <footer className="border-t-4 border-border bg-background mt-16">
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        {/* Newsletter band */}
+        <div className="py-8 border-b border-border">
+          <div className="flex flex-col md:flex-row md:items-center justify-between gap-4">
+            <div>
+              <h3 className="font-display text-xl font-bold mb-1">Abonnez-vous à notre édition</h3>
+              <p className="text-sm text-muted-foreground">
+                Recevez le meilleur de l'IA directement dans votre boîte mail.
+              </p>
             </div>
-            
-            <p className="text-muted-foreground text-sm mb-6 max-w-sm">
-              Votre digest quotidien des avancées en Intelligence Artificielle. 
-              Curated with 🤖 and ☕
-            </p>
-
-            {/* Newsletter */}
             <div className="flex gap-2">
-              <div className="relative flex-1">
+              <div className="relative">
                 <Mail className="absolute left-3 top-1/2 -translate-y-1/2 w-4 h-4 text-muted-foreground" />
                 <input
                   type="email"
                   placeholder="votre@email.com"
-                  className="w-full pl-10 pr-4 py-2 rounded-lg bg-muted/50 border border-border text-sm focus:outline-none focus:ring-2 focus:ring-primary/50"
+                  className="pl-10 pr-4 py-2 bg-muted border border-border text-sm w-64 focus:outline-none focus:ring-1 focus:ring-primary"
                 />
               </div>
-              <button className="px-4 py-2 rounded-lg bg-primary text-primary-foreground text-sm font-medium hover:bg-primary/90 transition-colors">
+              <button className="px-4 py-2 bg-primary text-primary-foreground text-sm font-semibold uppercase tracking-wider hover:bg-primary/90 transition-colors">
                 S'abonner
               </button>
             </div>
           </div>
+        </div>
 
-          {/* Links */}
-          <div>
-            <h4 className="font-semibold mb-4">Produit</h4>
-            <ul className="space-y-2">
-              {footerLinks.product.map((link) => (
-                <li key={link.label}>
-                  <Link 
-                    href={link.href}
-                    className="text-sm text-muted-foreground hover:text-foreground transition-colors"
-                  >
-                    {link.label}
-                  </Link>
-                </li>
-              ))}
-            </ul>
-          </div>
+        {/* Main footer */}
+        <div className="py-12">
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
+            {/* Brand */}
+            <div className="md:col-span-1">
+              <Link href="/" className="flex items-center gap-2 mb-4">
+                <Newspaper className="w-6 h-6 text-primary" />
+                <span className="font-display text-2xl font-black">The AI Gazette</span>
+              </Link>
+              
+              <p className="text-sm text-muted-foreground mb-4 max-w-xs">
+                Votre journal quotidien des avancées en Intelligence Artificielle. 
+                Sourcé, vérifié, accessible.
+              </p>
+              
+              <p className="text-xs text-muted-foreground">
+                © {new Date().getFullYear()} The AI Gazette. Tous droits réservés.
+              </p>
+            </div>
 
-          <div>
-            <h4 className="font-semibold mb-4">Ressources</h4>
-            <ul className="space-y-2">
-              {footerLinks.resources.map((link) => (
-                <li key={link.label}>
-                  <Link 
-                    href={link.href}
-                    className="text-sm text-muted-foreground hover:text-foreground transition-colors"
-                  >
-                    {link.label}
-                  </Link>
-                </li>
-              ))}
-            </ul>
-          </div>
+            {/* Links */}
+            <div>
+              <h4 className="font-display text-sm font-bold uppercase tracking-wider mb-4 border-b border-border pb-2">Sections</h4>
+              <ul className="space-y-2">
+                {footerLinks.sections.map((link) => (
+                  <li key={link.label}>
+                    <Link 
+                      href={link.href}
+                      className="text-sm text-muted-foreground hover:text-foreground transition-colors"
+                    >
+                      {link.label}
+                    </Link>
+                  </li>
+                ))}
+              </ul>
+            </div>
 
-          <div>
-            <h4 className="font-semibold mb-4">Légal</h4>
-            <ul className="space-y-2">
-              {footerLinks.legal.map((link) => (
-                <li key={link.label}>
-                  <Link 
-                    href={link.href}
-                    className="text-sm text-muted-foreground hover:text-foreground transition-colors"
-                  >
-                    {link.label}
-                  </Link>
-                </li>
-              ))}
-            </ul>
+            <div>
+              <h4 className="font-display text-sm font-bold uppercase tracking-wider mb-4 border-b border-border pb-2">Légal</h4>
+              <ul className="space-y-2">
+                {footerLinks.legal.map((link) => (
+                  <li key={link.label}>
+                    <Link 
+                      href={link.href}
+                      className="text-sm text-muted-foreground hover:text-foreground transition-colors"
+                    >
+                      {link.label}
+                    </Link>
+                  </li>
+                ))}
+              </ul>
+            </div>
           </div>
         </div>
 
-        {/* Bottom */}
-        <div className="mt-16 pt-8 border-t border-border flex flex-col sm:flex-row items-center justify-between gap-4">
-          <p className="text-sm text-muted-foreground flex items-center gap-1">
-            © 2026 AI News Digest. Curated with 
-            <span className="inline-flex">🤖</span> 
-            and 
-            <Coffee className="w-4 h-4" />
+        {/* Bottom bar */}
+        <div className="py-4 border-t border-border flex flex-col sm:flex-row items-center justify-between gap-4">
+          <p className="text-xs text-muted-foreground text-center sm:text-left">
+            Rédigé avec soin. Curated avec 🤖 et ☕.
           </p>
-
-          <div className="flex items-center gap-4">
-            {socialLinks.map((social) => (
-              <a
-                key={social.label}
-                href={social.href}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="p-2 rounded-lg hover:bg-muted/50 transition-colors"
-                aria-label={social.label}
-              >
-                <social.icon className="w-5 h-5" />
-              </a>
-            ))}
-          </div>
 
           <button
             onClick={scrollToTop}
-            className="p-2 rounded-lg hover:bg-muted/50 transition-colors"
+            className="flex items-center gap-2 text-xs font-semibold uppercase tracking-wider hover:text-primary transition-colors"
             aria-label="Retour en haut"
           >
-            <ArrowUp className="w-5 h-5" />
+            Retour en haut
+            <ArrowUp className="w-4 h-4" />
           </button>
         </div>
       </div>

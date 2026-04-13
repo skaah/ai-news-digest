@@ -1,161 +1,158 @@
 'use client';
 
 import { useState, useEffect } from 'react';
-import { motion, AnimatePresence } from 'framer-motion';
 import Link from 'next/link';
-import { 
-  Brain, 
-  Sun, 
-  Moon, 
-  Search, 
-  Menu, 
-  X,
-  Newspaper,
-  Archive,
-  Grid3X3,
-  Mail
-} from 'lucide-react';
-import { useTheme } from 'next-themes';
+import { Menu, X, Search, Newspaper } from 'lucide-react';
 import { cn } from '@/lib/utils';
+import { CATEGORIES } from '@/lib/types';
 
 const navItems = [
-  { label: 'Accueil', href: '/', icon: Brain },
-  { label: 'News du Jour', href: '/', icon: Newspaper },
-  { label: 'Archives', href: '/archives', icon: Archive },
-  { label: 'Catégories', href: '/categories', icon: Grid3X3 },
+  { label: 'Accueil', href: '/' },
+  { label: 'Archives', href: '/archives' },
+  { label: 'Catégories', href: '/categories' },
 ];
 
+function formatDate() {
+  return new Date().toLocaleDateString('fr-FR', {
+    weekday: 'long',
+    year: 'numeric',
+    month: 'long',
+    day: 'numeric',
+  });
+}
+
 export function Header() {
-  const { theme, setTheme } = useTheme();
-  const [mounted, setMounted] = useState(false);
   const [isScrolled, setIsScrolled] = useState(false);
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
-  const [searchQuery, setSearchQuery] = useState('');
 
   useEffect(() => {
-    setMounted(true);
-    const handleScroll = () => {
-      setIsScrolled(window.scrollY > 20);
-    };
+    const handleScroll = () => setIsScrolled(window.scrollY > 20);
     window.addEventListener('scroll', handleScroll);
     return () => window.removeEventListener('scroll', handleScroll);
   }, []);
 
-  if (!mounted) return null;
-
   return (
-    <header
-      className={cn(
-        'fixed top-0 left-0 right-0 z-50 transition-all duration-300',
-        isScrolled ? 'glass-strong py-3' : 'bg-transparent py-5'
-      )}
-    >
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div className="flex items-center justify-between gap-4">
-          {/* Logo */}
-          <Link href="/" className="flex items-center gap-2 group">
-            <div className="relative w-10 h-10 rounded-xl bg-gradient-to-br from-primary to-accent flex items-center justify-center group-hover:scale-105 transition-transform">
-              <Brain className="w-6 h-6 text-white" />
-              <div className="absolute inset-0 rounded-xl bg-primary/20 blur-lg opacity-0 group-hover:opacity-100 transition-opacity" />
+    <header className="bg-background">
+      {/* Top bar */}
+      <div className="border-b border-border">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-2">
+          <div className="flex items-center justify-between text-xs uppercase tracking-widest text-muted-foreground">
+            <span>{formatDate()}</span>
+            <span className="hidden sm:inline">Édition quotidienne — N°{Math.floor(Date.now() / 86400000) % 1000 + 1}</span>
+            <div className="flex items-center gap-4">
+              <span className="text-primary font-semibold">Météo IA: En veille</span>
             </div>
-            <span className="font-display font-bold text-xl hidden sm:block">
-              AI<span className="text-gradient">Digest</span>
-            </span>
-          </Link>
-
-          {/* Desktop Navigation */}
-          <nav className="hidden lg:flex items-center gap-1">
-            {navItems.map((item) => (
-              <Link
-                key={item.label}
-                href={item.href}
-                className="px-3 py-2 rounded-lg text-sm text-muted-foreground hover:text-foreground hover:bg-muted/50 transition-colors"
-              >
-                {item.label}
-              </Link>
-            ))}
-          </nav>
-
-          {/* Search + Actions */}
-          <div className="flex items-center gap-2">
-            {/* Search */}
-            <div className="hidden md:flex items-center relative">
-              <Search className="absolute left-3 w-4 h-4 text-muted-foreground" />
-              <input
-                type="text"
-                placeholder="Rechercher..."
-                value={searchQuery}
-                onChange={(e) => setSearchQuery(e.target.value)}
-                className="pl-9 pr-4 py-2 rounded-full bg-muted/50 border border-border text-sm w-48 focus:w-64 transition-all focus:outline-none focus:ring-2 focus:ring-primary/50"
-              />
-            </div>
-
-            {/* Theme Toggle */}
-            <button
-              onClick={() => setTheme(theme === 'dark' ? 'light' : 'dark')}
-              className="p-2 rounded-lg hover:bg-muted/50 transition-colors"
-              aria-label="Toggle theme"
-            >
-              {theme === 'dark' ? (
-                <Sun className="w-5 h-5" />
-              ) : (
-                <Moon className="w-5 h-5" />
-              )}
-            </button>
-
-            {/* Newsletter */}
-            <button className="hidden sm:flex items-center gap-2 px-4 py-2 rounded-lg bg-primary text-primary-foreground text-sm font-medium hover:bg-primary/90 transition-colors">
-              <Mail className="w-4 h-4" />
-              <span>S'abonner</span>
-            </button>
-
-            {/* Mobile Menu Toggle */}
-            <button
-              onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}
-              className="lg:hidden p-2 rounded-lg hover:bg-muted/50 transition-colors"
-            >
-              {isMobileMenuOpen ? (
-                <X className="w-5 h-5" />
-              ) : (
-                <Menu className="w-5 h-5" />
-              )}
-            </button>
           </div>
         </div>
       </div>
 
-      {/* Mobile Menu */}
-      <AnimatePresence>
+      {/* Masthead */}
+      <div className={cn(
+        'border-b-4 border-border transition-all duration-300',
+        isScrolled ? 'sticky top-0 z-50 bg-background/95 backdrop-blur-sm' : ''
+      )}>
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6 sm:py-8">
+          <div className="flex flex-col items-center text-center">
+            <Link href="/" className="group">
+              <div className="flex items-center gap-3 mb-2">
+                <Newspaper className="w-8 h-8 text-primary" />
+                <h1 className="font-display text-4xl sm:text-5xl lg:text-6xl font-black tracking-tight">
+                  The AI Gazette
+                </h1>
+              </div>
+              <p className="font-display text-sm sm:text-base italic text-muted-foreground tracking-wide">
+                « Votre journal quotidien de l'Intelligence Artificielle »
+              </p>
+            </Link>
+          </div>
+        </div>
+      </div>
+
+      {/* Navigation */}
+      <nav className="border-b-2 border-border bg-background">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+          <div className="flex items-center justify-between h-12">
+            <div className="hidden lg:flex items-center gap-1">
+              {navItems.map((item) => (
+                <Link
+                  key={item.label}
+                  href={item.href}
+                  className="px-4 py-2 text-sm font-semibold uppercase tracking-wider hover:text-primary transition-colors relative group"
+                >
+                  {item.label}
+                  <span className="absolute bottom-1 left-4 right-4 h-0.5 bg-primary scale-x-0 group-hover:scale-x-100 transition-transform origin-left" />
+                </Link>
+              ))}
+              <div className="w-px h-6 bg-border mx-2" />
+              
+              {CATEGORIES.slice(0, 4).map((cat) => (
+                <Link
+                  key={cat}
+                  href={`/categories/${cat.toLowerCase()}`}
+                  className="px-3 py-2 text-xs font-medium uppercase tracking-wider text-muted-foreground hover:text-foreground transition-colors"
+                >
+                  {cat}
+                </Link>
+              ))}
+            </div>
+
+            <div className="flex items-center gap-3">
+              <div className="relative hidden sm:block">
+                <Search className="absolute left-3 top-1/2 -translate-y-1/2 w-4 h-4 text-muted-foreground" />
+                <input
+                  type="text"
+                  placeholder="Rechercher..."
+                  className="pl-9 pr-4 py-1.5 bg-muted border border-border text-sm w-48 focus:outline-none focus:ring-1 focus:ring-primary"
+                />
+              </div>
+
+              <button
+                onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}
+                className="lg:hidden p-2 hover:bg-muted transition-colors"
+              >
+                {isMobileMenuOpen ? (
+                  <X className="w-5 h-5" />
+                ) : (
+                  <Menu className="w-5 h-5" />
+                )}
+              </button>
+            </div>
+          </div>
+        </div>
+
+        {/* Mobile menu */}
         {isMobileMenuOpen && (
-          <motion.div
-            initial={{ opacity: 0, y: -20 }}
-            animate={{ opacity: 1, y: 0 }}
-            exit={{ opacity: 0, y: -20 }}
-            className="lg:hidden glass-strong mt-3 mx-4 rounded-2xl overflow-hidden"
-          >
-            <nav className="p-4 space-y-1">
+          <div className="lg:hidden border-t border-border bg-muted">
+            <div className="max-w-7xl mx-auto px-4 py-4 space-y-1">
               {navItems.map((item) => (
                 <Link
                   key={item.label}
                   href={item.href}
                   onClick={() => setIsMobileMenuOpen(false)}
-                  className="flex items-center gap-3 px-4 py-3 rounded-lg hover:bg-muted/50 transition-colors"
+                  className="block px-4 py-3 text-sm font-semibold uppercase tracking-wider hover:bg-background transition-colors border-b border-border/20"
                 >
-                  <item.icon className="w-5 h-5 text-muted-foreground" />
-                  <span>{item.label}</span>
+                  {item.label}
                 </Link>
               ))}
-              <div className="pt-2 border-t border-border mt-2">
-                <input
-                  type="text"
-                  placeholder="Rechercher..."
-                  className="w-full px-4 py-2 rounded-lg bg-muted/50 border border-border text-sm"
-                />
+              <div className="pt-2">
+                <p className="px-4 text-xs uppercase tracking-wider text-muted-foreground mb-2">Catégories</p>
+                <div className="grid grid-cols-2 gap-1">
+                  {CATEGORIES.map((cat) => (
+                    <Link
+                      key={cat}
+                      href={`/categories/${cat.toLowerCase()}`}
+                      onClick={() => setIsMobileMenuOpen(false)}
+                      className="px-4 py-2 text-xs uppercase tracking-wider text-muted-foreground hover:bg-background transition-colors"
+                    >
+                      {cat}
+                    </Link>
+                  ))}
+                </div>
               </div>
-            </nav>
-          </motion.div>
+            </div>
+          </div>
         )}
-      </AnimatePresence>
+      </nav>
     </header>
   );
 }

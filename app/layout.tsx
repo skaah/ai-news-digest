@@ -1,26 +1,26 @@
 import type { Metadata } from 'next';
-import { Inter, Space_Grotesk } from 'next/font/google';
+import { Inter, Playfair_Display } from 'next/font/google';
 import './globals.css';
-import { ThemeProvider } from 'next-themes';
 
 const inter = Inter({ 
   subsets: ['latin'],
   variable: '--font-inter',
 });
 
-const spaceGrotesk = Space_Grotesk({
+const playfair = Playfair_Display({
   subsets: ['latin'],
-  variable: '--font-space-grotesk',
+  variable: '--font-playfair',
+  weight: ['400', '500', '600', '700', '800', '900'],
 });
 
 export const metadata: Metadata = {
-  title: 'AI News Digest | L\'IA en temps réel',
-  description: 'Votre digest quotidien des avancées en Intelligence Artificielle. News, recherche, produits et analyses sourcées.',
+  title: 'The AI Gazette | Intelligence Artificielle',
+  description: 'Votre journal quotidien des avancées en Intelligence Artificielle. News, recherche, produits et analyses sourcées.',
   keywords: ['AI', 'Intelligence Artificielle', 'Machine Learning', 'Deep Learning', 'News', 'Tech'],
-  authors: [{ name: 'AI News Digest' }],
+  authors: [{ name: 'The AI Gazette' }],
   openGraph: {
-    title: 'AI News Digest',
-    description: 'Votre digest quotidien des avancées en Intelligence Artificielle',
+    title: 'The AI Gazette',
+    description: 'Votre journal quotidien des avancées en Intelligence Artificielle',
     type: 'website',
   },
 };
@@ -32,10 +32,8 @@ export default function RootLayout({
 }) {
   return (
     <html lang="fr" suppressHydrationWarning>
-      <body className={`${inter.variable} ${spaceGrotesk.variable} font-sans`}>
-        <ThemeProvider attribute="class" defaultTheme="dark" enableSystem storageKey="ai-news-theme">
-          {children}
-        </ThemeProvider>
+      <body className={`${inter.variable} ${playfair.variable} font-sans`}>
+        {children}
       </body>
     </html>
   );

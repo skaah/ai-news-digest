@@ -3,40 +3,26 @@
 @tailwind utilities;
 
 :root {
-  --background: #0a0a0f;
-  --foreground: #f8fafc;
-  --card: rgba(30, 30, 46, 0.6);
-  --card-foreground: #f8fafc;
-  --primary: #6366f1;
+  --background: #f8f5f0;
+  --foreground: #1a1a1a;
+  --card: #faf8f5;
+  --card-foreground: #1a1a1a;
+  --primary: #c41e3a;
   --primary-foreground: #ffffff;
-  --secondary: #06b6d4;
+  --secondary: #2c3e50;
   --secondary-foreground: #ffffff;
-  --muted: #1e1e2e;
-  --muted-foreground: #94a3b8;
-  --accent: #8b5cf6;
+  --muted: #e8e4de;
+  --muted-foreground: #5c5c5c;
+  --accent: #8b4513;
   --accent-foreground: #ffffff;
-  --border: rgba(255, 255, 255, 0.1);
-}
-
-.light {
-  --background: #fafafa;
-  --foreground: #0f172a;
-  --card: rgba(255, 255, 255, 0.8);
-  --card-foreground: #0f172a;
-  --primary: #4f46e5;
-  --primary-foreground: #ffffff;
-  --secondary: #0891b2;
-  --secondary-foreground: #ffffff;
-  --muted: #f1f5f9;
-  --muted-foreground: #64748b;
-  --accent: #7c3aed;
-  --accent-foreground: #ffffff;
-  --border: rgba(0, 0, 0, 0.1);
+  --border: #1a1a1a;
+  --paper-line: #d4cfc7;
 }
 
 @layer base {
   * {
     @apply border-border;
+    border-color: rgba(26, 26, 26, 0.1);
   }
   
   html {
@@ -46,35 +32,45 @@
   body {
     @apply bg-background text-foreground antialiased;
     font-feature-settings: 'rlig' 1, 'calt' 1;
+    background-image: 
+      linear-gradient(rgba(212, 207, 199, 0.15) 1px, transparent 1px),
+      linear-gradient(90deg, rgba(212, 207, 199, 0.15) 1px, transparent 1px);
+    background-size: 24px 24px, 24px 24px;
+    background-position: -1px -1px;
   }
 }
 
 @layer utilities {
-  .glass {
-    @apply backdrop-blur-xl border border-border;
-    background-color: var(--card);
+  .font-display {
+    font-family: var(--font-playfair), Georgia, serif;
   }
   
-  .glass-strong {
-    @apply backdrop-blur-2xl border border-border;
-    background-color: rgba(30, 30, 46, 0.8);
+  .font-headline {
+    font-family: var(--font-playfair), Georgia, serif;
   }
   
-  .gradient-mesh {
-    background: 
-      radial-gradient(ellipse at 20% 20%, rgba(99, 102, 241, 0.15) 0%, transparent 50%),
-      radial-gradient(ellipse at 80% 80%, rgba(139, 92, 246, 0.1) 0%, transparent 50%),
-      radial-gradient(ellipse at 50% 50%, rgba(6, 182, 212, 0.05) 0%, transparent 70%),
-      var(--background);
-    background-size: 200% 200%;
+  .paper-border {
+    border: 1px solid var(--border);
+  }
+  
+  .paper-border-thick {
+    border: 2px solid var(--border);
+  }
+  
+  .paper-rule {
+    border-bottom: 1px solid var(--border);
+  }
+  
+  .paper-rule-thick {
+    border-bottom: 3px solid var(--border);
+  }
+  
+  .paper-rule-double {
+    border-bottom: 4px double var(--border);
   }
   
   .text-gradient {
-    @apply bg-clip-text text-transparent bg-gradient-to-r from-primary via-accent to-secondary;
-  }
-  
-  .glow-primary {
-    box-shadow: 0 0 30px -10px var(--primary);
+    @apply text-primary;
   }
   
   .hover-lift {
@@ -82,8 +78,8 @@
   }
   
   .hover-lift:hover {
-    @apply -translate-y-1;
-    box-shadow: 0 20px 40px -15px rgba(99, 102, 241, 0.3);
+    @apply -translate-y-0.5;
+    box-shadow: 4px 4px 0px 0px rgba(26, 26, 26, 0.1);
   }
   
   .line-clamp-2 {
@@ -99,4 +95,38 @@
     -webkit-box-orient: vertical;
     overflow: hidden;
   }
+  
+  .drop-cap::first-letter {
+    float: left;
+    font-family: var(--font-playfair), Georgia, serif;
+    font-size: 3.5rem;
+    line-height: 0.8;
+    padding-right: 0.5rem;
+    padding-top: 0.25rem;
+    color: var(--primary);
+  }
+  
+  .newsletter-box {
+    background: repeating-linear-gradient(
+      45deg,
+      var(--muted),
+      var(--muted) 10px,
+      transparent 10px,
+      transparent 20px
+    );
+  }
+}
+
+/* Custom scrollbar for newspaper feel */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--background);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--muted-foreground);
+  border-radius: 0;
 }

@@ -35,13 +35,13 @@ export const CATEGORIES: Category[] = [
 ];
 
 export const CATEGORY_COLORS: Record<Category, string> = {
-  Research: 'bg-purple-500/20 text-purple-300 border-purple-500/30',
-  Product: 'bg-cyan-500/20 text-cyan-300 border-cyan-500/30',
-  Policy: 'bg-amber-500/20 text-amber-300 border-amber-500/30',
-  Funding: 'bg-emerald-500/20 text-emerald-300 border-emerald-500/30',
-  Ethics: 'bg-rose-500/20 text-rose-300 border-rose-500/30',
-  Industry: 'bg-blue-500/20 text-blue-300 border-blue-500/30',
-  Education: 'bg-pink-500/20 text-pink-300 border-pink-500/30',
+  Research: 'bg-[#2c3e50] text-white border-[#2c3e50]',
+  Product: 'bg-[#8b4513] text-white border-[#8b4513]',
+  Policy: 'bg-[#1a1a1a] text-white border-[#1a1a1a]',
+  Funding: 'bg-[#c41e3a] text-white border-[#c41e3a]',
+  Ethics: 'bg-[#5c4033] text-white border-[#5c4033]',
+  Industry: 'bg-[#4a5568] text-white border-[#4a5568]',
+  Education: 'bg-[#2f855a] text-white border-[#2f855a]',
 };
 
 export const TAGS = [
