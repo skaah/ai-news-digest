@@ -1,8 +1,26 @@
 {
-  "date": "2026-04-12T22:02:23.857Z",
+  "date": "2026-04-13T08:25:03.280Z",
   "articles": [
     {
-      "id": "mnwb7cadwzmey7phbpe",
+      "id": "mnwxg2qhy1vuf3nrofe",
+      "title": "The largest orbital compute cluster is open for business",
+      "summary": "Kepler Communications is flying 40 GPUs in Earth orbit. And its latest customer is Sophia Space....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Hardware",
+      "tags": [
+        "Nvidia"
+      ],
+      "publishedAt": "Mon, 13 Apr 2026 07:01:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/04/13/the-largest-orbital-compute-cluster-is-open-for-business/"
+    },
+    {
+      "id": "mnwxg2qixj2a3jhcp",
       "title": "Trump officials may be encouraging banks to test Anthropic’s Mythos model",
       "summary": "The report is particularly surprising since the Department of Defense recently declared Anthropic a supply-chain risk....",
       "source": {
@@ -21,7 +39,7 @@
       "originalUrl": "https://techcrunch.com/2026/04/12/trump-officials-may-be-encouraging-banks-to-test-anthropics-mythos-model/"
     },
     {
-      "id": "mnwb7cafglkvmp3j06t",
+      "id": "mnwxg2qikxwxxbuhdcl",
       "title": "Apple reportedly testing four designs for upcoming smart glasses",
       "summary": "These glasses are a step back from an ambitious plan that once called for Apple to launch a variety of mixed and augmented reality devices....",
       "source": {
@@ -37,7 +55,7 @@
       "originalUrl": "https://techcrunch.com/2026/04/12/apple-reportedly-testing-four-designs-for-upcoming-smart-glasses/"
     },
     {
-      "id": "mnwb7cagafx223hnrka",
+      "id": "mnwxg2qivfpckmnjpuf",
       "title": "From LLMs to hallucinations, here&#8217;s a simple guide to common AI terms",
       "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter....",
       "source": {
@@ -55,7 +73,7 @@
       "originalUrl": "https://techcrunch.com/2026/04/12/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/"
     },
     {
-      "id": "mnwb7cagfaqdonantss",
+      "id": "mnwxg2qiu3l7fox68k",
       "title": "At the HumanX conference, everyone was talking about Claude",
       "summary": "Anthropic was the star of the show at San Francisco's AI-centric conference. ...",
       "source": {
@@ -73,7 +91,7 @@
       "originalUrl": "https://techcrunch.com/2026/04/12/at-the-humanx-conference-everyone-was-talking-about-claude/"
     },
     {
-      "id": "mnwb7f206zkgq0zqynp",
+      "id": "mnwxg5rubcedu77zfn",
       "title": "Data centers : « Limiter les impacts spatiaux, énergétiques et environnementaux des grandes fermes de données est fondamental »",
       "summary": "Dans une tribune au « Monde », l’avocat Sébastien Barles alerte sur la nécessaire mise en place d’une régulation des infrastructures de données, au fonctionnement opaque, énergivore et riche d’externalités négatives dont pâtissent les territoires où sont implantées ces structures...",
       "source": {
@@ -89,7 +107,7 @@
       "originalUrl": "https://www.lemonde.fr/idees/article/2026/04/12/data-centers-limiter-les-impacts-spatiaux-energetiques-et-environnementaux-des-grandes-fermes-de-donnees-est-fondamental_6679547_3232.html"
     },
     {
-      "id": "mnwb7f22vmaykwnrmm",
+      "id": "mnwxg5rvi8gl68185j",
       "title": "OpenClaw, cet agent IA autonome qui agite la Silicon Valley",
       "summary": "Conçu par un programmeur autrichien, cet agent mû par intelligence artificielle peut prendre le contrôle presque total de l’ordinateur sur lequel il est installé. Il séduit les développeurs et les entrepreneurs en leur donnant l’espoir de démultiplier leurs forces. Particulièreme...",
       "source": {
@@ -103,48 +121,8 @@
       "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
       "readTime": 1,
       "originalUrl": "https://www.lemonde.fr/pixels/article/2026/04/12/openclaw-cet-agent-ia-autonome-qui-agite-la-silicon-valley_6679530_4408996.html"
-    },
-    {
-      "id": "mnwb7cajmlvdyq2qwb",
-      "title": "Sam Altman responds to ‘incendiary’ New Yorker article after attack on his home",
-      "summary": "The OpenAI CEO's new blog post responds to both an apparent attack on his home and an in-depth New Yorker profile raising questions about his trustworthiness....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "OpenAI"
-      ],
-      "publishedAt": "Sat, 11 Apr 2026 17:18:22 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/04/11/sam-altman-responds-to-incendiary-new-yorker-article-after-attack-on-his-home/"
-    },
-    {
-      "id": "waymo-texas-incidents-2026",
-      "title": "Waymo : les voitures autonomes peinent à s'arrêter derrière les bus scolaires au Texas",
-      "summary": "Malgré des mises à jour, un rappel officiel et une collecte de données, les véhicules autonomes de Waymo ont continué de dépasser les bus scolaires à l'arrêt au Texas. Une série d'incidents qui met en lumière les difficultés persistantes de l'IA à comprendre certaines situations.",
-      "source": {
-        "name": "BFMTV",
-        "url": "https://www.bfmtv.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=bfmtv.com&sz=64"
-      },
-      "category": "Ethics",
-      "tags": [
-        "Waymo",
-        "Autonomous",
-        "Safety",
-        "Texas",
-        "Google"
-      ],
-      "publishedAt": "Wed, 09 Apr 2026 15:00:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1449965408869-eaa3f722e40d?w=800",
-      "readTime": 3,
-      "originalUrl": "https://www.bfmtv.com/tech/waymo-bus-texas-incidents"
-    },
+    }
   ],
-  "totalArticles": 8,
-  "lastUpdated": "2026-04-12T22:02:23.856Z"
+  "totalArticles": 7,
+  "lastUpdated": "2026-04-13T08:25:03.280Z"
 }
