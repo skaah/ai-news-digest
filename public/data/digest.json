@@ -1,22 +1,6 @@
 {
-  "date": "2026-04-13T12:00:00.000Z",
+  "date": "2026-04-12T22:02:23.857Z",
   "articles": [
-    {
-      "id": "india-ai-summit-2026",
-      "title": "India AI Impact Summit : 250 000 participants et 68 milliards $ d'investissements",
-      "summary": "Le 4e Sommet mondial de l'IA s'est tenu à New Delhi les 16-17 février 2026. Pour la première fois dans un pays en développement, avec 250 000+ participants. Google, Microsoft et Amazon ont commit 68 milliards $ d'ici 2030. L'Inde compte 72 millions d'utilisateurs ChatGPT quotidiens.",
-      "source": {
-        "name": "The AI Journal",
-        "url": "https://theaijournal.co",
-        "favicon": "https://www.google.com/s2/favicons?domain=theaijournal.co&sz=64"
-      },
-      "category": "Policy",
-      "tags": ["India", "Investment", "Summit", "Google", "Microsoft", "Amazon"],
-      "publishedAt": "Tue, 17 Feb 2026 14:00:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1535242208474-9a2793260ca8?w=800",
-      "readTime": 5,
-      "originalUrl": "https://theaijournal.co/2026/02/india-ai-summit"
-    },
     {
       "id": "openai-google-partnership-2026",
       "title": "OpenAI et Google s'associent pour un cloud IA nouvelle génération",
@@ -27,11 +11,138 @@
         "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
       },
       "category": "Industry",
-      "tags": ["OpenAI", "Google", "Partnership", "Cloud", "Infrastructure"],
+      "tags": [
+        "OpenAI",
+        "Google",
+        "Partnership",
+        "Cloud",
+        "Infrastructure"
+      ],
       "publishedAt": "Mon, 13 Apr 2026 08:00:00 +0000",
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800",
       "readTime": 4,
       "originalUrl": "https://techcrunch.com/2026/04/openai-google-partnership"
+    },
+    {
+      "id": "mnwb7cadwzmey7phbpe",
+      "title": "Trump officials may be encouraging banks to test Anthropic’s Mythos model",
+      "summary": "The report is particularly surprising since the Department of Defense recently declared Anthropic a supply-chain risk....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Ethics",
+      "tags": [
+        "Anthropic",
+        "AI Safety"
+      ],
+      "publishedAt": "Sun, 12 Apr 2026 21:14:38 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/04/12/trump-officials-may-be-encouraging-banks-to-test-anthropics-mythos-model/"
+    },
+    {
+      "id": "mnwb7cafglkvmp3j06t",
+      "title": "Apple reportedly testing four designs for upcoming smart glasses",
+      "summary": "These glasses are a step back from an ambitious plan that once called for Apple to launch a variety of mixed and augmented reality devices....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Product",
+      "tags": [],
+      "publishedAt": "Sun, 12 Apr 2026 19:58:42 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/04/12/apple-reportedly-testing-four-designs-for-upcoming-smart-glasses/"
+    },
+    {
+      "id": "mnwb7cagafx223hnrka",
+      "title": "From LLMs to hallucinations, here&#8217;s a simple guide to common AI terms",
+      "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "LLM"
+      ],
+      "publishedAt": "Sun, 12 Apr 2026 15:07:08 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/04/12/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/"
+    },
+    {
+      "id": "mnwb7cagfaqdonantss",
+      "title": "At the HumanX conference, everyone was talking about Claude",
+      "summary": "Anthropic was the star of the show at San Francisco's AI-centric conference. ...",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Anthropic"
+      ],
+      "publishedAt": "Sun, 12 Apr 2026 15:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/04/12/at-the-humanx-conference-everyone-was-talking-about-claude/"
+    },
+    {
+      "id": "mnwb7f206zkgq0zqynp",
+      "title": "Data centers : « Limiter les impacts spatiaux, énergétiques et environnementaux des grandes fermes de données est fondamental »",
+      "summary": "Dans une tribune au « Monde », l’avocat Sébastien Barles alerte sur la nécessaire mise en place d’une régulation des infrastructures de données, au fonctionnement opaque, énergivore et riche d’externalités négatives dont pâtissent les territoires où sont implantées ces structures...",
+      "source": {
+        "name": "Le Monde Tech",
+        "url": "https://www.lemonde.fr",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.lemonde.fr&sz=64"
+      },
+      "category": "Policy",
+      "tags": [],
+      "publishedAt": "Sun, 12 Apr 2026 08:00:15 +0200",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.lemonde.fr/idees/article/2026/04/12/data-centers-limiter-les-impacts-spatiaux-energetiques-et-environnementaux-des-grandes-fermes-de-donnees-est-fondamental_6679547_3232.html"
+    },
+    {
+      "id": "mnwb7f22vmaykwnrmm",
+      "title": "OpenClaw, cet agent IA autonome qui agite la Silicon Valley",
+      "summary": "Conçu par un programmeur autrichien, cet agent mû par intelligence artificielle peut prendre le contrôle presque total de l’ordinateur sur lequel il est installé. Il séduit les développeurs et les entrepreneurs en leur donnant l’espoir de démultiplier leurs forces. Particulièreme...",
+      "source": {
+        "name": "Le Monde Tech",
+        "url": "https://www.lemonde.fr",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.lemonde.fr&sz=64"
+      },
+      "category": "Policy",
+      "tags": [],
+      "publishedAt": "Sun, 12 Apr 2026 06:00:13 +0200",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.lemonde.fr/pixels/article/2026/04/12/openclaw-cet-agent-ia-autonome-qui-agite-la-silicon-valley_6679530_4408996.html"
+    },
+    {
+      "id": "mnwb7cajmlvdyq2qwb",
+      "title": "Sam Altman responds to ‘incendiary’ New Yorker article after attack on his home",
+      "summary": "The OpenAI CEO's new blog post responds to both an apparent attack on his home and an in-depth New Yorker profile raising questions about his trustworthiness....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "OpenAI"
+      ],
+      "publishedAt": "Sat, 11 Apr 2026 17:18:22 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/04/11/sam-altman-responds-to-incendiary-new-yorker-article-after-attack-on-his-home/"
     },
     {
       "id": "eu-ai-act-enforcement-2026",
@@ -43,43 +154,17 @@
         "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
       },
       "category": "Policy",
-      "tags": ["EU", "AI Act", "Regulation", "Fines", "Compliance"],
+      "tags": [
+        "EU",
+        "AI Act",
+        "Regulation",
+        "Fines",
+        "Compliance"
+      ],
       "publishedAt": "Fri, 10 Apr 2026 11:00:00 +0000",
       "imageUrl": "https://images.unsplash.com/photo-1520523839897-bd0b52f945a0?w=800",
       "readTime": 5,
       "originalUrl": "https://www.reuters.com/technology/ai/eu-ai-act-fines-2026"
-    },
-    {
-      "id": "spacex-xai-merger-2026",
-      "title": "Elon Musk fusionne SpaceX et xAI : Grok intégré aux opérations spatiales",
-      "summary": "Elon Musk a fusionné SpaceX et xAI, intégrant Grok directement dans les opérations de SpaceX. Objectif : automatiser la planification des trajectoires de mission, la prise de décision en temps réel des spacecrafts, et soutenir les opérations autonomes sur Mars.",
-      "source": {
-        "name": "The AI Journal",
-        "url": "https://theaijournal.co",
-        "favicon": "https://www.google.com/s2/favicons?domain=theaijournal.co&sz=64"
-      },
-      "category": "Industry",
-      "tags": ["SpaceX", "xAI", "Elon Musk", "Grok", "Mars"],
-      "publishedAt": "Thu, 12 Feb 2026 11:00:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800",
-      "readTime": 4,
-      "originalUrl": "https://theaijournal.co/2026/02/spacex-xai-merger"
-    },
-    {
-      "id": "mcp-protocol-2026",
-      "title": "MCP : Le protocole qui révolutionne les agents IA adopté par tous les géants",
-      "summary": "Le Model Context Protocol (MCP) d'Anthropic, décrit comme 'l'USB-C pour l'IA', est adopté par OpenAI, Microsoft et Google. Il standardise les connexions entre agents IA et outils externes (bases de données, APIs, fichiers). Anthropic l'a donné à la Linux Foundation.",
-      "source": {
-        "name": "The AI Journal",
-        "url": "https://theaijournal.co",
-        "favicon": "https://www.google.com/s2/favicons?domain=theaijournal.co&sz=64"
-      },
-      "category": "Research",
-      "tags": ["MCP", "Anthropic", "Protocol", "OpenAI", "Microsoft", "Google"],
-      "publishedAt": "Wed, 18 Feb 2026 13:00:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1558494949-ef526b0042a0?w=800",
-      "readTime": 5,
-      "originalUrl": "https://theaijournal.co/2026/02/mcp-protocol"
     },
     {
       "id": "waymo-texas-incidents-2026",
@@ -91,75 +176,17 @@
         "favicon": "https://www.google.com/s2/favicons?domain=bfmtv.com&sz=64"
       },
       "category": "Ethics",
-      "tags": ["Waymo", "Autonomous", "Safety", "Texas", "Google"],
+      "tags": [
+        "Waymo",
+        "Autonomous",
+        "Safety",
+        "Texas",
+        "Google"
+      ],
       "publishedAt": "Wed, 09 Apr 2026 15:00:00 +0000",
       "imageUrl": "https://images.unsplash.com/photo-1449965408869-eaa3f722e40d?w=800",
       "readTime": 3,
       "originalUrl": "https://www.bfmtv.com/tech/waymo-bus-texas-incidents"
-    },
-    {
-      "id": "gemini-3-1-launch-2026",
-      "title": "Google lance Gemini 3.1 avec Sora 2 intégré dans ChatGPT",
-      "summary": "Google frappe fort avec Gemini 3.1, accompagné de Sora 2 pour l'industrialisation de la vidéo générative. DeepSeek V4 redéfinit le rapport coût/performance avec son architecture MoE. Près de 1 000 ingénieurs d'OpenAI et Google réclament des lignes rouges sur l'IA militaire.",
-      "source": {
-        "name": "Naileru Tech",
-        "url": "https://naileru.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=naileru.com&sz=64"
-      },
-      "category": "Product",
-      "tags": ["Google", "Gemini", "Sora", "DeepSeek", "MoE"],
-      "publishedAt": "Sat, 15 Mar 2026 10:00:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
-      "readTime": 4,
-      "originalUrl": "https://naileru.com/blog/gemini-3-1-sora-2"
-    },
-    {
-      "id": "ai-energy-crisis-2026",
-      "title": "La crise énergétique devient le plus grand frein à l'expansion de l'IA",
-      "summary": "Les data centers IA consomment de l'électricité à une échelle devenue critique. Entraîner un modèle frontière consomme l'équivalent d'une petite ville pendant un an. Microsoft, Google et Amazon investissent dans le nucléaire. EY Americas qualifie l'énergie de 'contrainte la plus critique'.",
-      "source": {
-        "name": "The AI Journal",
-        "url": "https://theaijournal.co",
-        "favicon": "https://www.google.com/s2/favicons?domain=theaijournal.co&sz=64"
-      },
-      "category": "Industry",
-      "tags": ["Energy", "Data Center", "Nuclear", "Sustainability", "Environment"],
-      "publishedAt": "Fri, 20 Feb 2026 08:00:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?w=800",
-      "readTime": 6,
-      "originalUrl": "https://theaijournal.co/2026/02/ai-energy-crisis"
-    },
-    {
-      "id": "claude-4-6-arena-2026",
-      "title": "Claude 4.6 s'impose comme n°1 du Chatbot Arena devant GPT-5.2",
-      "summary": "Claude 3.7 Sonnet d'Anthropic est devenu n°1 du Chatbot Arena. Claude 4.6 domine désormais GPT-5.2 sur le raisonnement complexe. OpenAI intègre le créateur d'OpenClaw pour industrialiser les agents IA. Le conversational shopping structure les ventes e-commerce en France.",
-      "source": {
-        "name": "Naileru Tech",
-        "url": "https://naileru.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=naileru.com&sz=64"
-      },
-      "category": "Research",
-      "tags": ["Anthropic", "Claude", "Chatbot Arena", "OpenAI", "GPT"],
-      "publishedAt": "Mon, 22 Feb 2026 09:30:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800",
-      "readTime": 3,
-      "originalUrl": "https://naileru.com/blog/claude-4-6-arena"
-    },
-    {
-      "id": "openclaw-moltbook-2026",
-      "title": "OpenClaw : l'agent IA open source qui fascine et inquiète",
-      "summary": "OpenClaw, anciennement Clawdbot, s'est imposé comme l'un des agents IA les plus commentés. Capable de prendre le contrôle d'un ordinateur et d'agir de manière autonome, il est aussi à l'origine de Moltbook, un réseau social réservé aux agents IA. Le projet est loin d'être pleinement sécurisé.",
-      "source": {
-        "name": "BFMTV",
-        "url": "https://www.bfmtv.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=bfmtv.com&sz=64"
-      },
-      "category": "Product",
-      "tags": ["OpenClaw", "Agent", "Open Source", "Security", "Moltbook"],
-      "publishedAt": "Thu, 26 Feb 2026 14:00:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=800",
-      "readTime": 4,
-      "originalUrl": "https://www.bfmtv.com/tech/openclaw-agent-ia-open-source"
     },
     {
       "id": "france-ai-public-services-2026",
@@ -171,7 +198,13 @@
         "favicon": "https://www.google.com/s2/favicons?domain=usine-digitale.fr&sz=64"
       },
       "category": "Policy",
-      "tags": ["France", "Public Services", "Investment", "Sovereignty", "Generative AI"],
+      "tags": [
+        "France",
+        "Public Services",
+        "Investment",
+        "Sovereignty",
+        "Generative AI"
+      ],
       "publishedAt": "Wed, 09 Apr 2026 11:00:00 +0000",
       "imageUrl": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=800",
       "readTime": 4,
@@ -187,141 +220,19 @@
         "favicon": "https://www.google.com/s2/favicons?domain=technologyreview.com&sz=64"
       },
       "category": "Research",
-      "tags": ["DeepMind", "AlphaEvolve", "Mathematics", "Gemini", "Breakthrough"],
+      "tags": [
+        "DeepMind",
+        "AlphaEvolve",
+        "Mathematics",
+        "Gemini",
+        "Breakthrough"
+      ],
       "publishedAt": "Tue, 08 Apr 2026 13:00:00 +0000",
       "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800",
       "readTime": 5,
       "originalUrl": "https://www.technologyreview.com/2026/04/alphaevolve-mathematics"
-    },
-    {
-      "id": "github-1-billion-commits-2026",
-      "title": "GitHub : 1 milliard de commits en 2025, l'IA écrit votre code",
-      "summary": "GitHub a enregistré 1 milliard de commits en 2025 (+25%). 43 millions de pull requests fusionnées par mois (+23%). GitHub Copilot, Cursor et autres outils sont les moteurs. 'Repository Intelligence' arrive : l'IA comprendra l'histoire entière des codebases.",
-      "source": {
-        "name": "The AI Journal",
-        "url": "https://theaijournal.co",
-        "favicon": "https://www.google.com/s2/favicons?domain=theaijournal.co&sz=64"
-      },
-      "category": "Industry",
-      "tags": ["GitHub", "Copilot", "Coding", "Developer Tools", "AI Assistant"],
-      "publishedAt": "Mon, 16 Feb 2026 10:00:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=800",
-      "readTime": 3,
-      "originalUrl": "https://theaijournal.co/2026/02/github-1-billion-commits"
-    },
-    {
-      "id": "trump-ai-executive-order-2026",
-      "title": "Trump signe un décret pour bloquer les régulations étatiques sur l'IA",
-      "summary": "En décembre 2025, Trump a signé un décret visant à préempter les régulations étatiques sur l'IA. L'argument : un patchwork de 50 lois différentes étouffe l'innovation. OpenAI et Meta ont déployé d'importants moyens de lobbying. L'incertitude réglementaire devient un risque business.",
-      "source": {
-        "name": "The AI Journal",
-        "url": "https://theaijournal.co",
-        "favicon": "https://www.google.com/s2/favicons?domain=theaijournal.co&sz=64"
-      },
-      "category": "Policy",
-      "tags": ["Trump", "Regulation", "US", "Executive Order", "OpenAI", "Meta"],
-      "publishedAt": "Thu, 12 Dec 2025 16:00:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=800",
-      "readTime": 5,
-      "originalUrl": "https://theaijournal.co/2025/12/trump-ai-executive-order"
-    },
-    {
-      "id": "stanford-sleep-disease-prediction-2026",
-      "title": "Stanford : une IA prédit les maladies après une nuit de sommeil",
-      "summary": "Des chercheurs de Stanford ont développé une IA qui prédit le risque de maladies futures en utilisant les données d'une seule nuit de surveillance du sommeil. Le système analyse l'activité cérébrale, le rythme cardiaque et la respiration pour identifier les risques avant l'apparition des symptômes.",
-      "source": {
-        "name": "The AI Journal",
-        "url": "https://theaijournal.co",
-        "favicon": "https://www.google.com/s2/favicons?domain=theaijournal.co&sz=64"
-      },
-      "category": "Research",
-      "tags": ["Stanford", "Healthcare", "Sleep", "Disease Prediction", "Research"],
-      "publishedAt": "Wed, 15 Jan 2026 08:00:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?w=800",
-      "readTime": 4,
-      "originalUrl": "https://theaijournal.co/2026/01/stanford-sleep-ai"
-    },
-    {
-      "id": "nasa-perseverance-ai-mars-2026",
-      "title": "NASA : Perseverance réalise la première conduite entièrement planifiée par IA sur Mars",
-      "summary": "Le rover Perseverance de la NASA a accompli la première conduite entièrement planifiée par IA sur Mars en février 2026. L'IA a analysé les données terrain et images normalement utilisées par les opérateurs humains, planifié l'itinéraire et exécuté sans intervention humaine dans la boucle.",
-      "source": {
-        "name": "The AI Journal",
-        "url": "https://theaijournal.co",
-        "favicon": "https://www.google.com/s2/favicons?domain=theaijournal.co&sz=64"
-      },
-      "category": "Research",
-      "tags": ["NASA", "Mars", "Perseverance", "Autonomous", "Space"],
-      "publishedAt": "Tue, 10 Feb 2026 14:00:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1614728853911-006395542329?w=800",
-      "readTime": 4,
-      "originalUrl": "https://theaijournal.co/2026/02/nasa-perseverance-ai-mars"
-    },
-    {
-      "id": "micro-robots-medical-2026",
-      "title": "Des robots microscopiques plus petits qu'un grain de sel peuvent penser et bouger",
-      "summary": "Des scientifiques ont créé des robots microscopiques, à peine visibles à l'œil nu, qui détectent, décident et bougent de manière autonome. Alimentés par la lumière, équipés de minuscules ordinateurs embarqués. Applications : administration ciblée de médicaments, monitoring environnemental.",
-      "source": {
-        "name": "The AI Journal",
-        "url": "https://theaijournal.co",
-        "favicon": "https://www.google.com/s2/favicons?domain=theaijournal.co&sz=64"
-      },
-      "category": "Research",
-      "tags": ["Robotics", "Medical", "Micro-robots", "Nanotech", "Research"],
-      "publishedAt": "Fri, 24 Jan 2026 09:00:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1576086213369-97a306d36557?w=800",
-      "readTime": 5,
-      "originalUrl": "https://theaijournal.co/2026/01/micro-robots-medical"
-    },
-    {
-      "id": "quantum-ibm-2026",
-      "title": "IBM déclare 2026 comme l'année de l'avantage quantique",
-      "summary": "IBM affirme que 2026 marque la première fois qu'un ordinateur quantique surpasse un ordinateur classique sur un problème significatif. La puce Majorana 1 de Microsoft utilise des qubits topologiques, rendant les qubits fragiles intrinsèquement plus stables. Applications hybrides quantique-IA dans 3 à 5 ans.",
-      "source": {
-        "name": "The AI Journal",
-        "url": "https://theaijournal.co",
-        "favicon": "https://www.google.com/s2/favicons?domain=theaijournal.co&sz=64"
-      },
-      "category": "Research",
-      "tags": ["IBM", "Quantum", "Microsoft", "Majorana", "Computing"],
-      "publishedAt": "Mon, 10 Feb 2026 11:00:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800",
-      "readTime": 6,
-      "originalUrl": "https://theaijournal.co/2026/02/ibm-quantum-advantage"
-    },
-    {
-      "id": "world-models-gaming-2026",
-      "title": "Les World Models arrivent : 276 milliards $ de marché du jeu vidéo d'ici 2030",
-      "summary": "Les World Models génèrent des environnements virtuels interactifs en temps réel. Yann LeCun a quitté Meta pour créer un lab à 5 milliards $. Google DeepMind a lancé Genie 3. PitchBook projette un marché de 276 milliards $ d'ici 2030, contre 1,2 milliard aujourd'hui.",
-      "source": {
-        "name": "The AI Journal",
-        "url": "https://theaijournal.co",
-        "favicon": "https://www.google.com/s2/favicons?domain=theaijournal.co&sz=64"
-      },
-      "category": "Industry",
-      "tags": ["World Models", "Gaming", "Yann LeCun", "DeepMind", "Genie"],
-      "publishedAt": "Thu, 13 Feb 2026 13:00:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=800",
-      "readTime": 4,
-      "originalUrl": "https://theaijournal.co/2026/02/world-models-gaming"
-    },
-    {
-      "id": "india-call-centers-ai-impact-2026",
-      "title": "Inde : les centres d'appels face à une baisse de 50% du chiffre d'affaires d'ici 2030",
-      "summary": "Jefferies prédit que les centres d'appels indiens font face à une baisse de 50% du chiffre d'affaires d'ici 2030 à cause de l'IA. Les outils de service client alimentés par l'IA gèrent déjà les interactions que les employés géraient auparavant. Certains secteurs voient déjà un impact réel sur l'emploi.",
-      "source": {
-        "name": "The AI Journal",
-        "url": "https://theaijournal.co",
-        "favicon": "https://www.google.com/s2/favicons?domain=theaijournal.co&sz=64"
-      },
-      "category": "Ethics",
-      "tags": ["India", "Employment", "Call Centers", "AI Impact", "Jobs"],
-      "publishedAt": "Tue, 18 Feb 2026 10:00:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=800",
-      "readTime": 5,
-      "originalUrl": "https://theaijournal.co/2026/02/india-call-centers-ai"
     }
   ],
-  "totalArticles": 20,
-  "lastUpdated": "2026-04-13T12:00:00.000Z"
+  "totalArticles": 12,
+  "lastUpdated": "2026-04-12T22:02:23.856Z"
 }
