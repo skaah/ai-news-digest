@@ -1,9 +1,9 @@
 'use client';
 
-import Link from 'next/link';
 import { ExternalLink, Clock, Calendar } from 'lucide-react';
 import { NewsArticle, CATEGORY_COLORS, getCategoryImage } from '@/lib/types';
 import { formatTimeAgo, cn } from '@/lib/utils';
+import { SafeImage } from './safe-image';
 
 interface NewsCardProps {
   article: NewsArticle;
@@ -17,10 +17,6 @@ export function NewsCard({ article, index, variant = 'default' }: NewsCardProps)
     ? article.imageUrl
     : fallbackUrl;
 
-  const handleImageError = (e: React.SyntheticEvent<HTMLImageElement, Event>) => {
-    e.currentTarget.src = fallbackUrl;
-  };
-
   if (variant === 'featured') {
     return (
       <article className="group paper-border bg-card hover-lift cursor-pointer"
@@ -28,11 +24,11 @@ export function NewsCard({ article, index, variant = 'default' }: NewsCardProps)
       >
         <div className="grid md:grid-cols-2 gap-0">
           <div className="relative aspect-[4/3] md:aspect-auto overflow-hidden border-b md:border-b-0 md:border-r border-border">
-            <img
+            <SafeImage
               src={imageUrl}
+              fallback={fallbackUrl}
               alt={article.title}
               className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
-              onError={handleImageError}
             />
           </div>
           
@@ -85,11 +81,11 @@ export function NewsCard({ article, index, variant = 'default' }: NewsCardProps)
         onClick={() => window.open(article.originalUrl, '_blank', 'noopener,noreferrer')}
       >
         <div className="w-24 h-24 flex-shrink-0 overflow-hidden paper-border">
-          <img
+          <SafeImage
             src={imageUrl}
+            fallback={fallbackUrl}
             alt={article.title}
             className="w-full h-full object-cover transition-transform duration-300 group-hover:scale-105"
-            onError={handleImageError}
           />
         </div>
         
@@ -123,11 +119,11 @@ export function NewsCard({ article, index, variant = 'default' }: NewsCardProps)
       onClick={() => window.open(article.originalUrl, '_blank', 'noopener,noreferrer')}
     >
       <div className="relative aspect-[16/10] overflow-hidden border-b border-border">
-        <img
+        <SafeImage
           src={imageUrl}
+          fallback={fallbackUrl}
           alt={article.title}
           className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
-          onError={handleImageError}
         />
         
         <div className="absolute top-3 left-3">

@@ -5,6 +5,7 @@ import { Search, Calendar, Clock, ExternalLink, ArrowLeft } from 'lucide-react';
 import Link from 'next/link';
 import { DigestData, NewsArticle, CATEGORY_COLORS, getCategoryImage } from '@/lib/types';
 import { formatTimeAgo, cn } from '@/lib/utils';
+import { SafeImage } from '@/components/safe-image';
 
 interface ArchiveClientProps {
   initialData: DigestData;
@@ -158,13 +159,11 @@ export default function ArchiveClient({ initialData }: ArchiveClientProps) {
                   >
                     <div className="flex flex-col md:flex-row md:items-start gap-4">
                       <div className="w-full md:w-48 h-28 overflow-hidden flex-shrink-0 paper-border">
-                        <img
+                        <SafeImage
                           src={article.imageUrl || getCategoryImage(article.category)}
+                          fallback={getCategoryImage(article.category)}
                           alt={article.title}
                           className="w-full h-full object-cover group-hover:scale-105 transition-transform"
-                          onError={(e) => {
-                            (e.target as HTMLImageElement).src = getCategoryImage(article.category);
-                          }}
                         />
                       </div>
                       

@@ -5,6 +5,7 @@ import Link from 'next/link';
 import { ArrowLeft, ExternalLink, Clock, Calendar, Search, Grid3X3 } from 'lucide-react';
 import { NewsArticle, Category, CATEGORY_COLORS, CATEGORIES, getCategoryImage } from '@/lib/types';
 import { formatTimeAgo, cn } from '@/lib/utils';
+import { SafeImage } from '@/components/safe-image';
 
 interface CategoryClientProps {
   category: Category;
@@ -124,13 +125,11 @@ export default function CategoryClient({ category, articles, totalArticles }: Ca
             >
               <div className="flex flex-col md:flex-row">
                 <div className="w-full md:w-56 h-48 md:h-auto relative overflow-hidden border-b md:border-b-0 md:border-r border-border">
-                  <img
+                  <SafeImage
                     src={article.imageUrl || getCategoryImage(article.category)}
+                    fallback={getCategoryImage(article.category)}
                     alt={article.title}
                     className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
-                    onError={(e) => {
-                      (e.target as HTMLImageElement).src = getCategoryImage(article.category);
-                    }}
                   />
                 </div>
                 
