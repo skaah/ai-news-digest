@@ -1,6 +1,108 @@
 {
-  "date": "2026-04-14T14:15:47.771Z",
+  "date": "2026-04-14T19:43:56.639Z",
   "articles": [
+    {
+      "id": "mnz14yqxg0eji3ik32o",
+      "title": "Anthropic co-founder confirms the company briefed the Trump administration on Mythos",
+      "summary": "In an interview at the Semafor World Economy summit this week, Anthropic co-founder Jack Clark explained why the company was still engaged with the U.S. government while simultaneously suing them....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Anthropic"
+      ],
+      "publishedAt": "Tue, 14 Apr 2026 18:09:12 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/04/14/anthropic-co-founder-confirms-the-company-briefed-the-trump-administration-on-mythos/"
+    },
+    {
+      "id": "mnz1504vqrlviw2b3jj",
+      "title": "Redefining the future of software engineering",
+      "summary": "Software engineering has experienced two seismic shifts this century. First was the rise of the open source movement, which gradually made code accessible to developers and engineers everywhere. Second, the adoption of development operations (DevOps) and agile methodologies took ...",
+      "source": {
+        "name": "MIT Tech Review",
+        "url": "https://www.technologyreview.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.technologyreview.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Tue, 14 Apr 2026 18:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.technologyreview.com/2026/04/14/1134397/redefining-the-future-of-software-engineering/"
+    },
+    {
+      "id": "mnz14yqy78xeaa4g79",
+      "title": "Max Hodak’s Science Corp. is preparing to place its first sensor in a human brain",
+      "summary": "The device could help address multiple neurological conditions if it proves successful. One early use could be delivering gentle electrical stimulation to damaged brain or spinal cord cells to encourage healing....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Policy",
+      "tags": [],
+      "publishedAt": "Tue, 14 Apr 2026 17:13:03 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1575517111839-3a3843ee7f5d?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/04/14/max-hodaks-science-corp-is-preparing-to-place-its-first-sensor-in-a-human-brain/"
+    },
+    {
+      "id": "mnz14yqykrm50ri7bel",
+      "title": "Google adds AI Skills to Chrome to help you save favorite workflows",
+      "summary": "Google is adding “Skills” to Chrome, letting users save and reuse AI prompts across websites. The feature builds on Gemini’s browser integration....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Policy",
+      "tags": [
+        "Google"
+      ],
+      "publishedAt": "Tue, 14 Apr 2026 17:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1575517111839-3a3843ee7f5d?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/04/14/google-adds-ai-skills-to-chrome-to-help-you-save-favorite-workflows/"
+    },
+    {
+      "id": "mnz14yqzepugivq8p0h",
+      "title": "In just a couple weeks, StrictlyVC San Francisco brings leaders from TDK Ventures, Replit, and more together",
+      "summary": "...",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Tue, 14 Apr 2026 15:30:49 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/04/14/join-the-first-strictlyvc-of-2026-in-sf-with-leaders-from-tdk-ventures-and-replits-co-founder/"
+    },
+    {
+      "id": "mnz14yqzomzhgjq0zq",
+      "title": "Google brings its Gemini Personal Intelligence feature to India",
+      "summary": "The feature lets users connect Google accounts like Gmail and Photos to get personalized answers. ...",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Google"
+      ],
+      "publishedAt": "Tue, 14 Apr 2026 14:48:34 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/04/14/google-brings-its-gemini-personal-intelligence-feature-to-india/"
+    },
     {
       "id": "mnypf0n644tptkswqds",
       "title": "The Download: the state of AI, and protecting bears with drones",
@@ -229,113 +331,8 @@
       "imageUrl": "https://images.unsplash.com/photo-1565043666747-69f6646db940?w=800",
       "readTime": 1,
       "originalUrl": "https://www.technologyreview.com/2026/04/13/1135156/job-titles-wildlife-first-responder-wesley-sarmento/"
-    },
-    {
-      "id": "mnx9t6uiitcqe2ytdom",
-      "title": "You have no choice in reading this article—maybe",
-      "summary": "Uri Maoz loved doing his human research, back when he was getting his PhD. He was studying a very specific topic in computational neuroscience: how the brain instructs our arms to move and how our gray matter in turn perceives that motion.  Then his professor asked him to de...",
-      "source": {
-        "name": "MIT Tech Review",
-        "url": "https://www.technologyreview.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.technologyreview.com&sz=64"
-      },
-      "category": "Research",
-      "tags": [],
-      "publishedAt": "Mon, 13 Apr 2026 10:00:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.technologyreview.com/2026/04/13/1135162/uri-maoz-does-free-will-exist/"
-    },
-    {
-      "id": "mnwxg2qhy1vuf3nrofe",
-      "title": "The largest orbital compute cluster is open for business",
-      "summary": "Kepler Communications is flying 40 GPUs in Earth orbit. And its latest customer is Sophia Space....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Hardware",
-      "tags": [
-        "Nvidia"
-      ],
-      "publishedAt": "Mon, 13 Apr 2026 07:01:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/04/13/the-largest-orbital-compute-cluster-is-open-for-business/"
-    },
-    {
-      "id": "mnwxg2qixj2a3jhcp",
-      "title": "Trump officials may be encouraging banks to test Anthropic’s Mythos model",
-      "summary": "The report is particularly surprising since the Department of Defense recently declared Anthropic a supply-chain risk....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Ethics",
-      "tags": [
-        "Anthropic",
-        "AI Safety"
-      ],
-      "publishedAt": "Sun, 12 Apr 2026 21:14:38 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/04/12/trump-officials-may-be-encouraging-banks-to-test-anthropics-mythos-model/"
-    },
-    {
-      "id": "mnwxg2qikxwxxbuhdcl",
-      "title": "Apple reportedly testing four designs for upcoming smart glasses",
-      "summary": "These glasses are a step back from an ambitious plan that once called for Apple to launch a variety of mixed and augmented reality devices....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Product",
-      "tags": [],
-      "publishedAt": "Sun, 12 Apr 2026 19:58:42 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/04/12/apple-reportedly-testing-four-designs-for-upcoming-smart-glasses/"
-    },
-    {
-      "id": "mnwxg2qivfpckmnjpuf",
-      "title": "From LLMs to hallucinations, here’s a simple guide to common AI terms",
-      "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "LLM"
-      ],
-      "publishedAt": "Sun, 12 Apr 2026 15:07:08 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/04/12/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/"
-    },
-    {
-      "id": "mnwxg2qiu3l7fox68k",
-      "title": "At the HumanX conference, everyone was talking about Claude",
-      "summary": "Anthropic was the star of the show at San Francisco's AI-centric conference. ...",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Anthropic"
-      ],
-      "publishedAt": "Sun, 12 Apr 2026 15:00:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1537462715879-360eeb61a0ad?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/04/12/at-the-humanx-conference-everyone-was-talking-about-claude/"
     }
   ],
   "totalArticles": 20,
-  "lastUpdated": "2026-04-14T14:15:47.771Z"
+  "lastUpdated": "2026-04-14T19:43:56.639Z"
 }
