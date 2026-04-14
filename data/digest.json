@@ -1,153 +1,69 @@
 {
-  "date": "2026-04-14T08:06:23.948Z",
+  "date": "2026-04-14T14:15:47.771Z",
   "articles": [
     {
-      "id": "zy0xtwgwj1mh9k5bg5ekd8",
-      "title": "Anthropic officialise Claude Mythos, son modèle de cybersécurité le plus avancé",
-      "summary": "Anthropic a confirmé l'existence de Claude Mythos Preview, le décrivant comme le modèle IA le plus puissant jamais développé par la société. Spécialisé dans la cybersécurité défensive, il est capable de découvrir et d'exploiter des vulnérabilités zero-day dans du code open source. Lancé dans le cadre du Project Glasswing, il cible un accès anticipé réservé aux organisations de sécurité.",
+      "id": "mnypf0n644tptkswqds",
+      "title": "The Download: the state of AI, and protecting bears with drones",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Want to understand the current state of AI? Check out these charts.  If&#160;you’re&#160;following AI news,&#160;you’re&#160;proba...",
       "source": {
-        "name": "Anthropic Blog",
-        "url": "https://red.anthropic.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=anthropic.com&sz=64"
-      },
-      "category": "Research",
-      "tags": [
-        "Anthropic",
-        "Claude",
-        "Cybersecurity",
-        "Mythos"
-      ],
-      "publishedAt": "Tue, 07 Apr 2026 10:00:00 +0200",
-      "imageUrl": "https://images.unsplash.com/photo-1507146426996-ef05306b995a?w=800",
-      "readTime": 5,
-      "originalUrl": "https://red.anthropic.com/2026/mythos-preview/"
-    },
-    {
-      "id": "rabvjzkr9mt7dibgjbw2",
-      "title": "Kimi K2.5 : Moonshot AI dévoile un modèle open-weight avec Agent Swarm jusqu'à 100 agents",
-      "summary": "Moonshot AI a publié Kimi K2.5, un modèle multimodal open-weight de 1 trillion de paramètres (32B actifs). Son innovation majeure : l'Agent Swarm, capable d'orchestrer jusqu'à 100 sous-agents en parallèle pour résoudre des tâches complexes. Le modèle excelle en vision-to-code, génération d'interfaces à partir de maquettes, et offre un rapport performance/coût 76% inférieur à Claude Opus 4.5.",
-      "source": {
-        "name": "InfoQ",
-        "url": "https://www.infoq.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=infoq.com&sz=64"
-      },
-      "category": "Product",
-      "tags": [
-        "Kimi",
-        "Moonshot AI",
-        "Agent Swarm",
-        "Open Source",
-        "Multimodal"
-      ],
-      "publishedAt": "Mon, 17 Feb 2026 09:30:00 +0200",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
-      "readTime": 6,
-      "originalUrl": "https://www.infoq.com/news/2026/02/kimi-k25-swarm/"
-    },
-    {
-      "id": "qaybj4k8yhg10otpxugqgy",
-      "title": "OpenAI lance GPT-5.4 avec une fenêtre de contexte record de 1 million de tokens",
-      "summary": "OpenAI a officialisé GPT-5.4, son nouveau modèle frontalier destiné au travail professionnel. Disponible en versions standard, Thinking et Pro, il propose une fenêtre de contexte de 1 million de tokens en API. Le modèle affiche 83% sur le benchmark GDPval et introduit le \"Tool Search\" pour optimiser les appels d'outils. Les hallucinations seraient réduites de 33% par rapport à GPT-5.2.",
-      "source": {
-        "name": "OpenAI",
-        "url": "https://openai.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
-      },
-      "category": "Product",
-      "tags": [
-        "OpenAI",
-        "GPT-5.4",
-        "LLM",
-        "API"
-      ],
-      "publishedAt": "Wed, 05 Mar 2026 14:00:00 +0200",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800",
-      "readTime": 4,
-      "originalUrl": "https://openai.com/index/introducing-gpt-5-4/"
-    },
-    {
-      "id": "bsjjycpwqbnzm38edwk6kg",
-      "title": "Google déploie Gemini 3.1 avec des capacités vocales et multimodales renforcées",
-      "summary": "Google a annoncé une série de mises à jour majeures pour Gemini 3.1 en avril 2026. Le modèle intègre désormais un traitement vocal en temps réel avec meilleure gestion des interruptions, une compréhension vidéo avancée et une intégration approfondie dans Google Workspace (Gmail, Docs, Sheets). L'objectif est de positionner Gemini comme la plateforme multimodale de référence pour les entreprises.",
-      "source": {
-        "name": "Google DeepMind",
-        "url": "https://deepmind.google",
-        "favicon": "https://www.google.com/s2/favicons?domain=google.com&sz=64"
-      },
-      "category": "Product",
-      "tags": [
-        "Google",
-        "Gemini",
-        "Multimodal",
-        "Workspace"
-      ],
-      "publishedAt": "Wed, 02 Apr 2026 08:00:00 +0200",
-      "imageUrl": "https://images.unsplash.com/photo-1573804633927-bfcbcd909cfe?w=800",
-      "readTime": 4,
-      "originalUrl": "https://deepmind.google/"
-    },
-    {
-      "id": "pkkb1alw70epze2ob5byp",
-      "title": "OpenAI : l'activité entreprise atteint 40% des revenus, Codex franchit les 3M d'utilisateurs",
-      "summary": "Dans une mise à jour stratégique, OpenAI révèle que son segment entreprise représente désormais plus de 40% de ses revenus et devrait atteindre la parité avec le grand public d'ici fin 2026. Codex compte 3 millions d'utilisateurs actifs hebdomadaires et l'API traite plus de 15 milliards de tokens par minute. De nouveaux clients comme Goldman Sachs et Philips rejoignent le navire.",
-      "source": {
-        "name": "OpenAI Blog",
-        "url": "https://openai.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
+        "name": "MIT Tech Review",
+        "url": "https://www.technologyreview.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.technologyreview.com&sz=64"
       },
       "category": "Industry",
-      "tags": [
-        "OpenAI",
-        "Enterprise",
-        "Codex",
-        "Revenue"
-      ],
-      "publishedAt": "Tue, 08 Apr 2026 11:00:00 +0200",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 3,
-      "originalUrl": "https://openai.com/index/next-phase-of-enterprise-ai/"
+      "tags": [],
+      "publishedAt": "Tue, 14 Apr 2026 12:10:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.technologyreview.com/2026/04/14/1135847/the-download-state-of-ai-drones-protecting-bears/"
     },
     {
-      "id": "3xvuerfohckuhj46t4su9b",
-      "title": "Anthropic lève 30 milliards de dollars en Series G, valorisant l'entreprise à des niveaux record",
-      "summary": "Anthropic a bouclé une levée de fonds Series G de 30 milliards de dollars, portant ses revenus annualisés de 1 milliard à plus de 14 milliards en un an. Cette injection massive permettra d'accélérer le développement de modèles frontaliers comme Claude Mythos et d'étendre l'adoption du protocole MCP, désormais installé plus de 97 millions de fois.",
+      "id": "mnypf0n76jk0179u6br",
+      "title": "NASA is building the first nuclear reactor-powered interplanetary spacecraft. How will it work?",
+      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. Just before Artemis II began its historic slingshot around the moon, Jared Isaacman, the recently con...",
       "source": {
-        "name": "TechCrunch",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+        "name": "MIT Tech Review",
+        "url": "https://www.technologyreview.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.technologyreview.com&sz=64"
       },
-      "category": "Funding",
-      "tags": [
-        "Anthropic",
-        "Funding",
-        "Series G",
-        "MCP"
-      ],
-      "publishedAt": "Fri, 04 Apr 2026 07:15:00 +0200",
-      "imageUrl": "https://images.unsplash.com/photo-1553729459-efe14ef6055d?w=800",
-      "readTime": 3,
-      "originalUrl": "https://techcrunch.com/2026/04/04/anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-support/"
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Tue, 14 Apr 2026 12:04:47 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.technologyreview.com/2026/04/14/1135848/nasa-nuclear-powered-spacecraft/"
     },
     {
-      "id": "qxf04ccdllllw8weep5rte",
-      "title": "xAI déploie Grok 4.20 Beta 2 avec un système multi-agent intégré",
-      "summary": "xAI a publié Grok 4.20 Beta 2, sa version phare actuelle, équipée d'un système interne à 4 agents (Grok, Harper, Benjamin, Lucas). Le modèle conserve son accès temps réel au web via X/Twitter et améliore ses capacités de raisonnement multi-étapes. xAI prépare déjà Grok 5, qui atteindrait 6 billions de paramètres pour un lancement au Q2 2026.",
+      "id": "mnypf0n75440f8ztkjd",
+      "title": "Coming soon: 10 Things That Matter in AI Right Now",
+      "summary": "Each year we compile our 10 Breakthrough Technologies list, featuring our educated predictions for which technologies will have the biggest impact on how we live and work. This year, however, we had a dilemma. While our final picks encompass all our core coverage areas (energy, A...",
       "source": {
-        "name": "xAI Blog",
-        "url": "https://x.ai",
-        "favicon": "https://www.google.com/s2/favicons?domain=x.ai&sz=64"
+        "name": "MIT Tech Review",
+        "url": "https://www.technologyreview.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.technologyreview.com&sz=64"
       },
-      "category": "Product",
-      "tags": [
-        "xAI",
-        "Grok",
-        "Multi-agent",
-        "Twitter"
-      ],
-      "publishedAt": "Mon, 03 Mar 2026 13:45:00 +0200",
-      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800",
-      "readTime": 4,
-      "originalUrl": "https://x.ai/"
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Tue, 14 Apr 2026 11:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.technologyreview.com/2026/04/14/1135298/coming-soon-10-things-that-matter-in-ai-right-now/"
+    },
+    {
+      "id": "mnypf0n87wrefb2edwq",
+      "title": "The problem with thinking you’re part Neanderthal",
+      "summary": "You’ve probably heard some version of this idea before: that many of us have an “inner Neanderthal.” That is to say, around 45,000 years ago, when Homo sapiens first arrived in Europe, they met members of a cousin species—the broad-browed, heavier-set Neanderthals—and, well, one ...",
+      "source": {
+        "name": "MIT Tech Review",
+        "url": "https://www.technologyreview.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.technologyreview.com&sz=64"
+      },
+      "category": "Policy",
+      "tags": [],
+      "publishedAt": "Tue, 14 Apr 2026 10:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.technologyreview.com/2026/04/14/1135169/problem-thinking-part-neanderthal-human-evolution/"
     },
     {
       "id": "mny2w12harxvayiv5go",
@@ -418,40 +334,8 @@
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
       "readTime": 1,
       "originalUrl": "https://techcrunch.com/2026/04/12/at-the-humanx-conference-everyone-was-talking-about-claude/"
-    },
-    {
-      "id": "mnwxg5rubcedu77zfn",
-      "title": "Data centers : « Limiter les impacts spatiaux, énergétiques et environnementaux des grandes fermes de données est fondamental »",
-      "summary": "Dans une tribune au « Monde », l’avocat Sébastien Barles alerte sur la nécessaire mise en place d’une régulation des infrastructures de données, au fonctionnement opaque, énergivore et riche d’externalités négatives dont pâtissent les territoires où sont implantées ces structures...",
-      "source": {
-        "name": "Le Monde Tech",
-        "url": "https://www.lemonde.fr",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.lemonde.fr&sz=64"
-      },
-      "category": "Policy",
-      "tags": [],
-      "publishedAt": "Sun, 12 Apr 2026 08:00:15 +0200",
-      "imageUrl": "https://images.unsplash.com/photo-1555848962-6e79363ec58f?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.lemonde.fr/idees/article/2026/04/12/data-centers-limiter-les-impacts-spatiaux-energetiques-et-environnementaux-des-grandes-fermes-de-donnees-est-fondamental_6679547_3232.html"
-    },
-    {
-      "id": "mnwxg5rvi8gl68185j",
-      "title": "OpenClaw, cet agent IA autonome qui agite la Silicon Valley",
-      "summary": "Conçu par un programmeur autrichien, cet agent mû par intelligence artificielle peut prendre le contrôle presque total de l’ordinateur sur lequel il est installé. Il séduit les développeurs et les entrepreneurs en leur donnant l’espoir de démultiplier leurs forces. Particulièreme...",
-      "source": {
-        "name": "Le Monde Tech",
-        "url": "https://www.lemonde.fr",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.lemonde.fr&sz=64"
-      },
-      "category": "Policy",
-      "tags": [],
-      "publishedAt": "Sun, 12 Apr 2026 06:00:13 +0200",
-      "imageUrl": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.lemonde.fr/pixels/article/2026/04/12/openclaw-cet-agent-ia-autonome-qui-agite-la-silicon-valley_6679530_4408996.html"
     }
   ],
-  "totalArticles": 25,
-  "lastUpdated": "2026-04-14T13:40:43.918Z"
+  "totalArticles": 20,
+  "lastUpdated": "2026-04-14T14:15:47.771Z"
 }
