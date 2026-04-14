@@ -66,19 +66,19 @@ export const TAGS = [
 
 export const CATEGORY_IMAGES: Record<Category, string[]> = {
   Research: [
+    'https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800',
     'https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=800',
-    'https://images.unsplash.com/photo-1507413245164-6160d8298b31?w=800',
     'https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800',
   ],
   Product: [
     'https://images.unsplash.com/photo-1518770660439-4636190af475?w=800',
-    'https://images.unsplash.com/photo-1550009158-9ebf690be655?w=800',
+    'https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=800',
     'https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=800',
   ],
   Policy: [
     'https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800',
     'https://images.unsplash.com/photo-1555848962-6e79363ec58f?w=800',
-    'https://images.unsplash.com/photo-1575517111839-3a3843ee7f5d?w=800',
+    'https://images.unsplash.com/photo-1589829085413-56de8ae18c73?w=800',
   ],
   Funding: [
     'https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800',
@@ -88,17 +88,17 @@ export const CATEGORY_IMAGES: Record<Category, string[]> = {
   Ethics: [
     'https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=800',
     'https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=800',
-    'https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800',
+    'https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=800',
   ],
   Industry: [
-    'https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800',
-    'https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800',
-    'https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800',
+    'https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800',
+    'https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=800',
+    'https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800',
   ],
   Hardware: [
-    'https://images.unsplash.com/photo-1518770660439-4636190af475?w=800',
-    'https://images.unsplash.com/photo-1550009158-9ebf690be655?w=800',
-    'https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=800',
+    'https://images.unsplash.com/photo-1516110833967-0b5716ca1387?w=800',
+    'https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800',
+    'https://images.unsplash.com/photo-1504868584819-f8e8b4b6d7e3?w=800',
   ],
   Education: [
     'https://images.unsplash.com/photo-1501504905252-473c47e087f8?w=800',
