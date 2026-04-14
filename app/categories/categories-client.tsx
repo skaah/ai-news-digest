@@ -1,7 +1,7 @@
 'use client';
 
 import Link from 'next/link';
-import { ArrowLeft, Newspaper, FlaskConical, Box, Scale, Coins, ShieldAlert, Building2, GraduationCap } from 'lucide-react';
+import { ArrowLeft, Newspaper, FlaskConical, Box, Scale, Coins, ShieldAlert, Building2, Cpu, GraduationCap } from 'lucide-react';
 import { CATEGORIES, CATEGORY_COLORS, Category } from '@/lib/types';
 
 const categoryIcons: Record<Category, React.ElementType> = {
@@ -11,6 +11,7 @@ const categoryIcons: Record<Category, React.ElementType> = {
   Funding: Coins,
   Ethics: ShieldAlert,
   Industry: Building2,
+  Hardware: Cpu,
   Education: GraduationCap,
 };
 
@@ -21,6 +22,7 @@ const categoryDescriptions: Record<Category, string> = {
   Funding: 'Investissements, levées de fonds et acquisitions',
   Ethics: 'Questions éthiques, sécurité et impacts sociétaux',
   Industry: 'Tendances du marché et actualités corporatives',
+  Hardware: 'Serveurs, GPU, robots et infrastructures matérielles',
   Education: 'Formation, apprentissage et vulgarisation',
 };
 

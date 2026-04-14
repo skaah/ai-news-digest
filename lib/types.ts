@@ -15,22 +15,24 @@ export interface NewsArticle {
   originalUrl: string;
 }
 
-export type Category = 
-  | 'Research' 
-  | 'Product' 
-  | 'Policy' 
-  | 'Funding' 
-  | 'Ethics' 
-  | 'Industry' 
+export type Category =
+  | 'Research'
+  | 'Product'
+  | 'Policy'
+  | 'Funding'
+  | 'Ethics'
+  | 'Industry'
+  | 'Hardware'
   | 'Education';
 
 export const CATEGORIES: Category[] = [
   'Research',
-  'Product', 
+  'Product',
   'Policy',
   'Funding',
   'Ethics',
   'Industry',
+  'Hardware',
   'Education',
 ];
 
@@ -41,6 +43,7 @@ export const CATEGORY_COLORS: Record<Category, string> = {
   Funding: 'bg-[#c41e3a] text-white border-[#c41e3a]',
   Ethics: 'bg-[#5c4033] text-white border-[#5c4033]',
   Industry: 'bg-[#4a5568] text-white border-[#4a5568]',
+  Hardware: 'bg-[#d97706] text-white border-[#d97706]',
   Education: 'bg-[#2f855a] text-white border-[#2f855a]',
 };
 
@@ -92,6 +95,11 @@ export const CATEGORY_IMAGES: Record<Category, string[]> = {
     'https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800',
     'https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800',
   ],
+  Hardware: [
+    'https://images.unsplash.com/photo-1518770660439-4636190af475?w=800',
+    'https://images.unsplash.com/photo-1550009158-9ebf690be655?w=800',
+    'https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=800',
+  ],
   Education: [
     'https://images.unsplash.com/photo-1501504905252-473c47e087f8?w=800',
     'https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=800',
@@ -101,7 +109,7 @@ export const CATEGORY_IMAGES: Record<Category, string[]> = {
 
 // Fonction utilitaire pour obtenir une image selon la catégorie
 export function getCategoryImage(category: Category, index: number = 0): string {
-  const images = CATEGORY_IMAGES[category];
+  const images = CATEGORY_IMAGES[category] || CATEGORY_IMAGES['Industry'];
   return images[index % images.length];
 }
 

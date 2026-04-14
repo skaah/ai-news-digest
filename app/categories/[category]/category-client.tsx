@@ -128,6 +128,9 @@ export default function CategoryClient({ category, articles, totalArticles }: Ca
                     src={article.imageUrl || getCategoryImage(article.category)}
                     alt={article.title}
                     className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
+                    onError={(e) => {
+                      (e.target as HTMLImageElement).src = getCategoryImage(article.category);
+                    }}
                   />
                 </div>
                 

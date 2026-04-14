@@ -20,6 +20,7 @@ const categoryDotColors: Record<Category, string> = {
   Funding: 'bg-[#c41e3a]',
   Ethics: 'bg-[#5c4033]',
   Industry: 'bg-[#4a5568]',
+  Hardware: 'bg-[#d97706]',
   Education: 'bg-[#2f855a]',
 };
 

@@ -162,6 +162,9 @@ export default function ArchiveClient({ initialData }: ArchiveClientProps) {
                           src={article.imageUrl || getCategoryImage(article.category)}
                           alt={article.title}
                           className="w-full h-full object-cover group-hover:scale-105 transition-transform"
+                          onError={(e) => {
+                            (e.target as HTMLImageElement).src = getCategoryImage(article.category);
+                          }}
                         />
                       </div>
                       

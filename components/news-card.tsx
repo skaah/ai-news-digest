@@ -12,9 +12,14 @@ interface NewsCardProps {
 }
 
 export function NewsCard({ article, index, variant = 'default' }: NewsCardProps) {
+  const fallbackUrl = getCategoryImage(article.category, index);
   const imageUrl = article.imageUrl && !article.imageUrl.includes('1677442136019-21780ecad995')
-    ? article.imageUrl 
-    : getCategoryImage(article.category, index);
+    ? article.imageUrl
+    : fallbackUrl;
+
+  const handleImageError = (e: React.SyntheticEvent<HTMLImageElement, Event>) => {
+    e.currentTarget.src = fallbackUrl;
+  };
 
   if (variant === 'featured') {
     return (
@@ -27,6 +32,7 @@ export function NewsCard({ article, index, variant = 'default' }: NewsCardProps)
               src={imageUrl}
               alt={article.title}
               className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
+              onError={handleImageError}
             />
           </div>
           
@@ -83,6 +89,7 @@ export function NewsCard({ article, index, variant = 'default' }: NewsCardProps)
             src={imageUrl}
             alt={article.title}
             className="w-full h-full object-cover transition-transform duration-300 group-hover:scale-105"
+            onError={handleImageError}
           />
         </div>
         
@@ -120,6 +127,7 @@ export function NewsCard({ article, index, variant = 'default' }: NewsCardProps)
           src={imageUrl}
           alt={article.title}
           className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
+          onError={handleImageError}
         />
         
         <div className="absolute top-3 left-3">
