@@ -38,7 +38,7 @@ export function Header() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-2">
           <div className="flex items-center justify-between text-xs uppercase tracking-widest text-muted-foreground">
             <span>{formatDate()}</span>
-            <span className="hidden sm:inline">Édition quotidienne — N°{Math.floor(Date.now() / 86400000) % 1000 + 1}</span>
+            <span className="hidden sm:inline">Édition quotidienne — N°3</span>
             <div className="flex items-center gap-4">
               <span className="text-primary font-semibold">Météo IA: En veille</span>
             </div>

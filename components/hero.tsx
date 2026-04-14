@@ -18,7 +18,7 @@ export function Hero({ articleCount, digestDate }: HeroProps) {
                 Édition du jour
               </span>
               <span className="text-xs uppercase tracking-widest text-muted-foreground">
-                N°{Math.floor(Date.now() / 86400000) % 1000 + 1}
+                N°3
               </span>
             </div>
             
