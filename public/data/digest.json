@@ -1,6 +1,41 @@
 {
-  "date": "2026-04-13T19:41:29.179Z",
+  "date": "2026-04-14T03:45:07.936Z",
   "articles": [
+    {
+      "id": "mny2w12harxvayiv5go",
+      "title": "Aux Etats-Unis, l’émergence d’un nouveau salarié dopé à l’IA",
+      "summary": "Mesurer la performance en tokens, sorte de « jetons d’IA », plutôt qu’en heures travaillées : dans la Silicon Valley, l’intelligence artificielle redéfinit les critères de valeur des employés. Avec, en creux, la menace d’un déclassement pour ceux qui restent à l’écart....",
+      "source": {
+        "name": "Le Monde Tech",
+        "url": "https://www.lemonde.fr",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.lemonde.fr&sz=64"
+      },
+      "category": "Policy",
+      "tags": [],
+      "publishedAt": "Tue, 14 Apr 2026 05:00:09 +0200",
+      "imageUrl": "https://images.unsplash.com/photo-1575517111839-3a3843ee7f5d?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.lemonde.fr/economie/article/2026/04/14/aux-etats-unis-l-emergence-d-un-nouveau-salarie-dope-a-l-ia_6679869_3234.html"
+    },
+    {
+      "id": "mny2vxocafe9lv6g5t",
+      "title": "OpenAI has bought AI personal finance startup Hiro",
+      "summary": "The acquisition indicates a capability that OpenAI is building into ChatGPT: financial planning....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "OpenAI",
+        "Startup"
+      ],
+      "publishedAt": "Tue, 14 Apr 2026 00:23:33 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/04/13/openai-has-bought-ai-personal-finance-startup-hiro/"
+    },
     {
       "id": "mnxllyu5suefbkdit7j",
       "title": "Microsoft is working on yet another OpenClaw-like agent",
@@ -269,6 +304,6 @@
       "originalUrl": "https://www.lemonde.fr/pixels/article/2026/04/12/openclaw-cet-agent-ia-autonome-qui-agite-la-silicon-valley_6679530_4408996.html"
     }
   ],
-  "totalArticles": 16,
-  "lastUpdated": "2026-04-13T19:41:29.179Z"
+  "totalArticles": 18,
+  "lastUpdated": "2026-04-14T03:45:07.935Z"
 }
