@@ -3,6 +3,7 @@
 import { useState, useEffect } from 'react';
 import Link from 'next/link';
 import { Menu, X, Search, Newspaper } from 'lucide-react';
+import { ThemeToggle } from './theme-toggle';
 import { cn } from '@/lib/utils';
 import { CATEGORIES } from '@/lib/types';
 
@@ -105,6 +106,8 @@ export function Header() {
                   className="pl-9 pr-4 py-1.5 bg-muted border border-border text-sm w-48 focus:outline-none focus:ring-1 focus:ring-primary"
                 />
               </div>
+
+              <ThemeToggle />
 
               <button
                 onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}
