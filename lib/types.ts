@@ -91,9 +91,9 @@ export const CATEGORY_IMAGES: Record<Category, string[]> = {
     'https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=800',
   ],
   Industry: [
-    'https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800',
+    'https://images.unsplash.com/photo-1565043666747-69f6646db940?w=800',
     'https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=800',
-    'https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800',
+    'https://images.unsplash.com/photo-1537462715879-360eeb61a0ad?w=800',
   ],
   Hardware: [
     'https://images.unsplash.com/photo-1516110833967-0b5716ca1387?w=800',
