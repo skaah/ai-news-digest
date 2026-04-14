@@ -1,7 +1,13 @@
 import { promises as fs } from 'fs';
 import { join } from 'path';
+import { Metadata } from 'next';
 import { DigestData } from '@/lib/types';
 import HomeClient from './home-client';
+
+export const metadata: Metadata = {
+  title: 'The AI Gazette | Intelligence Artificielle',
+  description: 'Votre journal quotidien des avancées en Intelligence Artificielle. News, recherche, produits et analyses sourcées.',
+};
 
 async function getDigestData(): Promise<DigestData> {
   try {

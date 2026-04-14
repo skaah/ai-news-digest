@@ -16,11 +16,24 @@ export function formatDate(dateString: string): string {
 
 export function formatTimeAgo(dateString: string): string {
   const date = new Date(dateString);
+  if (isNaN(date.getTime())) {
+    return 'Date inconnue';
+  }
+
   const now = new Date();
   const diffMs = now.getTime() - date.getTime();
-  const diffMins = Math.floor(diffMs / (1000 * 60));
-  const diffHours = Math.floor(diffMs / (1000 * 60 * 60));
-  const diffDays = Math.floor(diffMs / (1000 * 60 * 60 * 24));
+  const diffMins = Math.floor(Math.abs(diffMs) / (1000 * 60));
+  const diffHours = Math.floor(Math.abs(diffMs) / (1000 * 60 * 60));
+  const diffDays = Math.floor(Math.abs(diffMs) / (1000 * 60 * 60 * 24));
+
+  // Date dans le futur
+  if (diffMs < 0) {
+    if (diffMins < 60) return `Dans ${diffMins} min`;
+    if (diffHours < 24) return `Dans ${diffHours}h`;
+    if (diffDays === 1) return 'Demain';
+    if (diffDays < 7) return `Dans ${diffDays} jours`;
+    return formatDate(dateString);
+  }
 
   if (diffMins < 60) return `Il y a ${diffMins} min`;
   if (diffHours < 24) return `Il y a ${diffHours}h`;

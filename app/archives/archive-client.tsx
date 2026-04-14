@@ -3,7 +3,7 @@
 import { useState, useMemo } from 'react';
 import { Search, Calendar, Clock, ExternalLink, ArrowLeft } from 'lucide-react';
 import Link from 'next/link';
-import { DigestData, NewsArticle, CATEGORY_COLORS } from '@/lib/types';
+import { DigestData, NewsArticle, CATEGORY_COLORS, getCategoryImage } from '@/lib/types';
 import { formatTimeAgo, cn } from '@/lib/utils';
 
 interface ArchiveClientProps {
@@ -159,7 +159,7 @@ export default function ArchiveClient({ initialData }: ArchiveClientProps) {
                     <div className="flex flex-col md:flex-row md:items-start gap-4">
                       <div className="w-full md:w-48 h-28 overflow-hidden flex-shrink-0 paper-border">
                         <img
-                          src={article.imageUrl}
+                          src={article.imageUrl || getCategoryImage(article.category)}
                           alt={article.title}
                           className="w-full h-full object-cover group-hover:scale-105 transition-transform"
                         />
@@ -190,9 +190,12 @@ export default function ArchiveClient({ initialData }: ArchiveClientProps) {
                         <div className="flex items-center justify-between">
                           <div className="flex items-center gap-2">
                             <img
-                              src={article.source.favicon}
+                              src={article.source.favicon || '/favicon.ico'}
                               alt=""
                               className="w-4 h-4 rounded-sm"
+                              onError={(e) => {
+                                (e.target as HTMLImageElement).src = '/favicon.ico';
+                              }}
                             />
                             <span className="text-xs text-muted-foreground">
                               {article.source.name}

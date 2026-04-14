@@ -3,7 +3,7 @@
 import { useState } from 'react';
 import Link from 'next/link';
 import { ArrowLeft, ExternalLink, Clock, Calendar, Search, Grid3X3 } from 'lucide-react';
-import { NewsArticle, Category, CATEGORY_COLORS, CATEGORIES } from '@/lib/types';
+import { NewsArticle, Category, CATEGORY_COLORS, CATEGORIES, getCategoryImage } from '@/lib/types';
 import { formatTimeAgo, cn } from '@/lib/utils';
 
 interface CategoryClientProps {
@@ -125,7 +125,7 @@ export default function CategoryClient({ category, articles, totalArticles }: Ca
               <div className="flex flex-col md:flex-row">
                 <div className="w-full md:w-56 h-48 md:h-auto relative overflow-hidden border-b md:border-b-0 md:border-r border-border">
                   <img
-                    src={article.imageUrl}
+                    src={article.imageUrl || getCategoryImage(article.category)}
                     alt={article.title}
                     className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
                   />
@@ -135,9 +135,12 @@ export default function CategoryClient({ category, articles, totalArticles }: Ca
                   <div className="flex flex-wrap items-center gap-3 mb-3">
                     <div className="flex items-center gap-2">
                       <img
-                        src={article.source.favicon}
+                        src={article.source.favicon || '/favicon.ico'}
                         alt=""
                         className="w-4 h-4 rounded-sm"
+                        onError={(e) => {
+                          (e.target as HTMLImageElement).src = '/favicon.ico';
+                        }}
                       />
                       <span className="text-sm text-muted-foreground uppercase tracking-wider">
                         {article.source.name}

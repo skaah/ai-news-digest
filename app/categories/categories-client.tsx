@@ -115,8 +115,8 @@ export function CategoriesContent({ counts }: CategoriesContentProps) {
           
           <div className="text-center">
             <div className="font-display text-3xl font-bold">
-              {Math.max(...Object.values(counts)) > 0 
-                ? Object.entries(counts).sort((a, b) => b[1] - a[1])[0][0] 
+              {Object.values(counts).length > 0 && Math.max(...Object.values(counts)) > 0
+                ? Object.entries(counts).sort((a, b) => b[1] - a[1])[0][0]
                 : '-'}
             </div>
             <div className="text-xs uppercase tracking-widest text-muted-foreground">Catégorie active</div>
