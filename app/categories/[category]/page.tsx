@@ -43,6 +43,7 @@ async function getDigestData(): Promise<DigestData> {
       articles: data.articles || [],
       totalArticles: data.totalArticles || data.articles?.length || 0,
       lastUpdated: data.lastUpdated || new Date().toISOString(),
+      edition: data.edition || 1,
     };
   } catch (error) {
     return {
@@ -50,6 +51,7 @@ async function getDigestData(): Promise<DigestData> {
       articles: [],
       totalArticles: 0,
       lastUpdated: new Date().toISOString(),
+      edition: 1,
     };
   }
 }
@@ -72,7 +74,7 @@ export default async function CategoryPage({ params }: CategoryPageProps) {
   
   return (
     <main className="min-h-screen gradient-mesh">
-      <Header />
+      <Header edition={digestData.edition} />
       <CategoryClient 
         category={category} 
         articles={categoryArticles}

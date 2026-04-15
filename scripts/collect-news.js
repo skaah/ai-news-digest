@@ -10,7 +10,7 @@ const path = require('path');
 const https = require('https');
 
 const CONFIG = {
-  maxArticles: 20,
+  maxArticles: 50,
   minArticles: 10,
   digestPath: path.join(__dirname, '..', 'data', 'digest.json'),
   publicPath: path.join(__dirname, '..', 'public', 'data', 'digest.json'),
@@ -75,6 +75,18 @@ const CATEGORY_IMAGES = {
   ],
 };
 
+// Décoder les entités HTML (ex: &#8217; -> ')
+function decodeHtmlEntities(text) {
+  if (!text) return '';
+  return text
+    .replace(/&#(\d+);/g, (match, dec) => String.fromCharCode(dec))
+    .replace(/&amp;/g, '&')
+    .replace(/&lt;/g, '<')
+    .replace(/&gt;/g, '>')
+    .replace(/&quot;/g, '"')
+    .replace(/&apos;/g, "'");
+}
+
 // Fonction pour obtenir une image aléatoire selon la catégorie
 function getCategoryImage(category) {
   const images = CATEGORY_IMAGES[category] || CATEGORY_IMAGES.Industry;
@@ -91,14 +103,17 @@ async function parseRSS(url) {
           // Extraction basique des items RSS
           const items = xml.match(/\u003citem\u003e[\s\S]*?\u003c\/item\u003e/g) || [];
           const articles = items.slice(0, 5).map(item => {
-            const title = item.match(/\u003ctitle\u003e\u003c!\[CDATA\[(.*?)\]\]\u003e\u003c\/title\u003e/)?.[1] ||
+            const titleRaw = item.match(/\u003ctitle\u003e\u003c!\[CDATA\[(.*?)\]\]\u003e\u003c\/title\u003e/)?.[1] ||
                          item.match(/\u003ctitle\u003e(.*?)\u003c\/title\u003e/)?.[1] || '';
             const link = item.match(/\u003clink\u003e(.*?)\u003c\/link\u003e/)?.[1] || '';
-            const desc = item.match(/\u003cdescription\u003e\u003c!\[CDATA\[(.*?)\]\]\u003e\u003c\/description\u003e/)?.[1] ||
+            const descRaw = item.match(/\u003cdescription\u003e\u003c!\[CDATA\[(.*?)\]\]\u003e\u003c\/description\u003e/)?.[1] ||
                         item.match(/\u003cdescription\u003e(.*?)\u003c\/description\u003e/)?.[1] || '';
             const pubDate = item.match(/\u003cpubDate\u003e(.*?)\u003c\/pubDate\u003e/)?.[1] || new Date().toISOString();
             
-            return { title, link, description: desc.replace(/\u003c[^\u003e]*>/g, '').substring(0, 300), pubDate };
+            const title = decodeHtmlEntities(titleRaw);
+            const desc = decodeHtmlEntities(descRaw.replace(/\u003c[^\u003e]*>/g, '').substring(0, 300));
+            
+            return { title, link, description: desc, pubDate };
           });
           resolve(articles);
         } catch (e) {
@@ -283,6 +298,7 @@ async function collectNews() {
   digest.totalArticles = digest.articles.length;
   digest.lastUpdated = new Date().toISOString();
   digest.date = new Date().toISOString();
+  digest.edition = (digest.edition || 1) + 1;
   
   await saveDigest(digest);
   

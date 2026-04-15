@@ -4,9 +4,10 @@ import { formatDate } from '@/lib/utils';
 interface HeroProps {
   articleCount: number;
   digestDate: string;
+  edition: number;
 }
 
-export function Hero({ articleCount, digestDate }: HeroProps) {
+export function Hero({ articleCount, digestDate, edition }: HeroProps) {
   return (
     <section className="border-b-2 border-border bg-background">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8 sm:py-12">
@@ -18,7 +19,7 @@ export function Hero({ articleCount, digestDate }: HeroProps) {
                 Édition du jour
               </span>
               <span className="text-xs uppercase tracking-widest text-muted-foreground">
-                N°3
+                N°{edition}
               </span>
             </div>
             

@@ -118,4 +118,5 @@ export interface DigestData {
   articles: NewsArticle[];
   totalArticles: number;
   lastUpdated: string;
+  edition: number;
 }

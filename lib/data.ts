@@ -110,6 +110,7 @@ export function getDigestData(): DigestData {
     articles: sampleArticles,
     totalArticles: sampleArticles.length,
     lastUpdated: new Date().toISOString(),
+    edition: 1,
   };
 }
 

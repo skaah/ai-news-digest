@@ -51,11 +51,12 @@ export default function HomeClient({ initialData }: HomeClientProps) {
 
   return (
     <main className="min-h-screen bg-background">
-      <Header />
+      <Header edition={digestData.edition} />
 
       <Hero 
         articleCount={digestData.totalArticles}
         digestDate={digestData.date}
+        edition={digestData.edition}
       />
 
       {/* News Section */}

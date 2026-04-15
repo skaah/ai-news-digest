@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   description: 'Explorez les actualités IA par catégorie',
 };
 
-async function getCategoryCounts(): Promise<Record<Category, number>> {
+async function getCategoryData(): Promise<{ counts: Record<Category, number>; edition: number }> {
   try {
     const dataPath = join(process.cwd(), 'data', 'digest.json');
     const fileContents = await fs.readFile(dataPath, 'utf8');
@@ -26,18 +26,18 @@ async function getCategoryCounts(): Promise<Record<Category, number>> {
       }
     });
     
-    return counts;
+    return { counts, edition: data.edition || 1 };
   } catch {
-    return {} as Record<Category, number>;
+    return { counts: {} as Record<Category, number>, edition: 1 };
   }
 }
 
 export default async function CategoriesPage() {
-  const counts = await getCategoryCounts();
+  const { counts, edition } = await getCategoryData();
   
   return (
     <main className="min-h-screen bg-background">
-      <Header />
+      <Header edition={edition} />
       
       <div className="pt-32 pb-12 px-4 sm:px-6 lg:px-8 max-w-7xl mx-auto">
         <CategoriesContent counts={counts} />

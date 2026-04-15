@@ -19,6 +19,7 @@ async function getDigestData(): Promise<DigestData> {
       articles: data.articles || [],
       totalArticles: data.totalArticles || data.articles?.length || 0,
       lastUpdated: data.lastUpdated || new Date().toISOString(),
+      edition: data.edition || 1,
     };
   } catch (error) {
     console.error('Error loading digest data:', error);
@@ -27,6 +28,7 @@ async function getDigestData(): Promise<DigestData> {
       articles: [],
       totalArticles: 0,
       lastUpdated: new Date().toISOString(),
+      edition: 1,
     };
   }
 }
