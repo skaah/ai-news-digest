@@ -171,15 +171,16 @@ function extractTags(title, desc) {
 
 // Vérifier pertinence IA pour sources généralistes
 function isRelevantAiNews(title, description) {
-  const text = (title + ' ' + description).toLowerCase();
+  const text = (' ' + title + ' ' + description + ' ').toLowerCase();
   const keywords = [
     'intelligence artificielle', 'artificial intelligence',
     'machine learning', 'deep learning', 'neural network', 'réseau de neurones',
-    'algorithme', 'algorithm', 'robot', 'chatbot', 'llm',
+    'algorithme', 'algorithm', 'robot', 'chatbot', 'llm', ' ia ', ' ai ',
     'generative ai', 'ia generative', 'ia générative',
     'automatisation', 'automation', 'cybersécurité', 'cybersecurity',
     'openai', 'anthropic', 'google gemini', 'chatgpt', 'claude',
-    'nvidia', 'meta ai', 'mistral', 'deepseek'
+    'nvidia', 'meta ai', 'mistral', 'deepseek', 'gpu', 'cloud',
+    'données', 'data science', 'big data', 'blockchain', 'startup tech'
   ];
   return keywords.some(kw => text.includes(kw));
 }
