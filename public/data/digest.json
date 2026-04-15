@@ -1,6 +1,93 @@
 {
-  "date": "2026-04-15T14:07:17.286Z",
+  "date": "2026-04-15T19:45:30.779Z",
   "articles": [
+    {
+      "id": "mo0gmugilaypw554ybi",
+      "title": "OpenAI updates its Agents SDK to help enterprises build safer, more capable agents",
+      "summary": "OpenAI has expanded the capabilities of its agent-building toolkit, as agentic AI continues to grow in popularity. ...",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "OpenAI"
+      ],
+      "publishedAt": "Wed, 15 Apr 2026 19:28:36 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/04/15/openai-updates-its-agents-sdk-to-help-enterprises-build-safer-more-capable-agents/"
+    },
+    {
+      "id": "mo0gmugj4r0zzp7jci8",
+      "title": "Hightouch reaches $100M ARR fueled by marketing tools powered by AI",
+      "summary": "The startup says it grew its ARR by $70 million in just 20 months after launching an AI agent platform for marketers. ...",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Product",
+      "tags": [
+        "Startup"
+      ],
+      "publishedAt": "Wed, 15 Apr 2026 18:55:12 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/04/15/hightouch-reaches-100m-arr-fueled-by-marketing-tools-powered-by-ai/"
+    },
+    {
+      "id": "mo0gmugkwkv8kkqytys",
+      "title": "LinkedIn data shows AI isn&#8217;t to blame for hiring decline&#8230; yet",
+      "summary": "LinkedIn says hiring is down 20% since 2022, but blames higher interest rates — not AI — for the slowdown....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Wed, 15 Apr 2026 18:51:54 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/04/15/linkedin-data-shows-ai-isnt-to-blame-for-hiring-decline-yet/"
+    },
+    {
+      "id": "mo0gmugkwo5b4t0z94",
+      "title": "AI learning app Gizmo levels up with 13M users and a $22M investment",
+      "summary": "Gizmo, an AI-powered learning platform, has attracted more than 13 million users and just secured $22 million in Series A funding....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Funding",
+      "tags": [],
+      "publishedAt": "Wed, 15 Apr 2026 18:38:10 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/04/15/ai-learning-app-gizmo-levels-up-with-13m-users-and-a-22m-investment/"
+    },
+    {
+      "id": "mo0gmugl5mo1vpkgb5u",
+      "title": "Can AI judge journalism? A Thiel-backed startup says yes, even if it risks chilling whistleblowers",
+      "summary": "Objection, a Thiel-backed startup, aims to use AI to judge journalism, letting users pay to challenge stories. Critics warn it could chill whistleblowers and reshape how media accountability works....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Ethics",
+      "tags": [
+        "AI Safety",
+        "Startup"
+      ],
+      "publishedAt": "Wed, 15 Apr 2026 18:33:20 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/04/15/can-ai-judge-journalism-a-thiel-backed-startup-says-yes-even-if-it-risks-chilling-whistleblowers/"
+    },
     {
       "id": "mo04jway2kv1xlmb1yl",
       "title": "Reid Hoffman weighs in on the &#8216;tokenmaxxing&#8217; debate",
@@ -255,88 +342,8 @@
       "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
       "readTime": 1,
       "originalUrl": "https://techcrunch.com/2026/04/14/google-brings-its-gemini-personal-intelligence-feature-to-india/"
-    },
-    {
-      "id": "mnypf0n644tptkswqds",
-      "title": "The Download: the state of AI, and protecting bears with drones",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Want to understand the current state of AI? Check out these charts.  If you’re following AI news, you’re proba...",
-      "source": {
-        "name": "MIT Tech Review",
-        "url": "https://www.technologyreview.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.technologyreview.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Tue, 14 Apr 2026 12:10:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1565043666747-69f6646db940?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.technologyreview.com/2026/04/14/1135847/the-download-state-of-ai-drones-protecting-bears/"
-    },
-    {
-      "id": "mnypf0n76jk0179u6br",
-      "title": "NASA is building the first nuclear reactor-powered interplanetary spacecraft. How will it work?",
-      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. Just before Artemis II began its historic slingshot around the moon, Jared Isaacman, the recently con...",
-      "source": {
-        "name": "MIT Tech Review",
-        "url": "https://www.technologyreview.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.technologyreview.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Tue, 14 Apr 2026 12:04:47 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.technologyreview.com/2026/04/14/1135848/nasa-nuclear-powered-spacecraft/"
-    },
-    {
-      "id": "mnypf0n75440f8ztkjd",
-      "title": "Coming soon: 10 Things That Matter in AI Right Now",
-      "summary": "Each year we compile our 10 Breakthrough Technologies list, featuring our educated predictions for which technologies will have the biggest impact on how we live and work. This year, however, we had a dilemma. While our final picks encompass all our core coverage areas (energy, A...",
-      "source": {
-        "name": "MIT Tech Review",
-        "url": "https://www.technologyreview.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.technologyreview.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Tue, 14 Apr 2026 11:00:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1537462715879-360eeb61a0ad?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.technologyreview.com/2026/04/14/1135298/coming-soon-10-things-that-matter-in-ai-right-now/"
-    },
-    {
-      "id": "mnypf0n87wrefb2edwq",
-      "title": "The problem with thinking you’re part Neanderthal",
-      "summary": "You’ve probably heard some version of this idea before: that many of us have an “inner Neanderthal.” That is to say, around 45,000 years ago, when Homo sapiens first arrived in Europe, they met members of a cousin species—the broad-browed, heavier-set Neanderthals—and, well, one ...",
-      "source": {
-        "name": "MIT Tech Review",
-        "url": "https://www.technologyreview.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.technologyreview.com&sz=64"
-      },
-      "category": "Policy",
-      "tags": [],
-      "publishedAt": "Tue, 14 Apr 2026 10:00:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.technologyreview.com/2026/04/14/1135169/problem-thinking-part-neanderthal-human-evolution/"
-    },
-    {
-      "id": "mny2w12harxvayiv5go",
-      "title": "Aux Etats-Unis, l’émergence d’un nouveau salarié dopé à l’IA",
-      "summary": "Mesurer la performance en tokens, sorte de « jetons d’IA », plutôt qu’en heures travaillées : dans la Silicon Valley, l’intelligence artificielle redéfinit les critères de valeur des employés. Avec, en creux, la menace d’un déclassement pour ceux qui restent à l’écart....",
-      "source": {
-        "name": "Le Monde Tech",
-        "url": "https://www.lemonde.fr",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.lemonde.fr&sz=64"
-      },
-      "category": "Policy",
-      "tags": [],
-      "publishedAt": "Tue, 14 Apr 2026 05:00:09 +0200",
-      "imageUrl": "https://images.unsplash.com/photo-1589829085413-56de8ae18c73?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.lemonde.fr/economie/article/2026/04/14/aux-etats-unis-l-emergence-d-un-nouveau-salarie-dope-a-l-ia_6679869_3234.html"
     }
   ],
   "totalArticles": 20,
-  "lastUpdated": "2026-04-15T14:07:17.286Z"
+  "lastUpdated": "2026-04-15T19:45:30.779Z"
 }
