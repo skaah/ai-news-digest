@@ -17,14 +17,22 @@ Le site se met à jour **automatiquement toutes les 6 heures** via GitHub Action
 
 **EN :**
 - TechCrunch AI
-- The Verge AI  
+- The Verge AI
 - VentureBeat AI
-- MIT Tech Review
+- MIT Tech Review AI
+- MIT News AI
+- OpenAI News
+- Hugging Face Blog
+- Google AI Blog
+- MarkTechPost
+- ArXiv cs.AI
 
 **FR :**
 - Usine Digitale
 - 01Net
 - Le Monde Tech
+- Numerama
+- Maddyness
 
 ### Dédoublonnage
 
@@ -34,7 +42,7 @@ Un article est considéré comme doublon si :
 
 ### Conservation
 
-- Maximum 20 articles
+- Maximum 50 articles
 - Minimum 10 articles
 - Priorité aux articles < 7 jours
 - Fallback sur les plus récents si besoin

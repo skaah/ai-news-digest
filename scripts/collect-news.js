@@ -20,11 +20,19 @@ const CONFIG = {
     { name: 'TechCrunch AI', url: 'https://techcrunch.com/category/artificial-intelligence/feed/', lang: 'en' },
     { name: 'The Verge AI', url: 'https://www.theverge.com/ai-artificial-intelligence/rss/index.xml', lang: 'en' },
     { name: 'VentureBeat AI', url: 'https://venturebeat.com/category/ai/feed/', lang: 'en' },
-    { name: 'MIT Tech Review', url: 'https://www.technologyreview.com/feed/', lang: 'en' },
+    { name: 'MIT Tech Review AI', url: 'https://www.technologyreview.com/topic/artificial-intelligence/feed/', lang: 'en' },
+    { name: 'MIT News AI', url: 'https://news.mit.edu/rss/topic/artificial-intelligence2', lang: 'en' },
+    { name: 'OpenAI News', url: 'https://openai.com/news/rss.xml', lang: 'en' },
+    { name: 'Hugging Face Blog', url: 'https://huggingface.co/blog/feed.xml', lang: 'en' },
+    { name: 'Google AI Blog', url: 'https://blog.google/technology/ai/rss/', lang: 'en' },
+    { name: 'MarkTechPost', url: 'https://www.marktechpost.com/feed/', lang: 'en' },
+    { name: 'ArXiv cs.AI', url: 'https://rss.arxiv.org/rss/cs.AI', lang: 'en' },
     // FR sources
     { name: 'Usine Digitale', url: 'https://www.usine-digitale.fr/rss', lang: 'fr' },
     { name: '01Net', url: 'https://www.01net.com/rss/', lang: 'fr' },
-    { name: 'Le Monde Tech', url: 'https://www.lemonde.fr/technologies/rss_full.xml', lang: 'fr' }
+    { name: 'Le Monde Tech', url: 'https://www.lemonde.fr/technologies/rss_full.xml', lang: 'fr' },
+    { name: 'Numerama', url: 'https://www.numerama.com/feed/', lang: 'fr', filterAi: true },
+    { name: 'Maddyness', url: 'https://www.maddyness.com/feed/', lang: 'fr', filterAi: true }
   ],
   // Sources à ignorer
   blockedSources: ['GitHub AI News'],
@@ -161,6 +169,21 @@ function extractTags(title, desc) {
   return tags.slice(0, 5);
 }
 
+// Vérifier pertinence IA pour sources généralistes
+function isRelevantAiNews(title, description) {
+  const text = (title + ' ' + description).toLowerCase();
+  const keywords = [
+    'intelligence artificielle', 'artificial intelligence',
+    'machine learning', 'deep learning', 'neural network', 'réseau de neurones',
+    'algorithme', 'algorithm', 'robot', 'chatbot', 'llm',
+    'generative ai', 'ia generative', 'ia générative',
+    'automatisation', 'automation', 'cybersécurité', 'cybersecurity',
+    'openai', 'anthropic', 'google gemini', 'chatgpt', 'claude',
+    'nvidia', 'meta ai', 'mistral', 'deepseek'
+  ];
+  return keywords.some(kw => text.includes(kw));
+}
+
 // Générer ID
 function generateId() {
   return Date.now().toString(36) + Math.random().toString(36).substr(2);
@@ -247,11 +270,25 @@ async function collectNews() {
           continue;
         }
         
+        // Vérifier pertinence IA pour sources généralistes
+        if (source.filterAi && !isRelevantAiNews(item.title, item.description)) {
+          console.log(`   ⏭️  Skip (not AI related): ${item.title.substring(0, 50)}...`);
+          continue;
+        }
+        
         // Vérifier si récent (< 48h)
         const pubDate = new Date(item.pubDate);
         const age = Date.now() - pubDate.getTime();
         if (age > 48 * 60 * 60 * 1000) {
           console.log(`   ⏭️  Skip (old): ${item.title.substring(0, 50)}...`);
+          continue;
+        }
+        
+        let articleUrl;
+        try {
+          articleUrl = new URL(item.link);
+        } catch {
+          console.log(`   ⏭️  Skip (invalid URL): ${item.title.substring(0, 50)}...`);
           continue;
         }
         
@@ -261,8 +298,8 @@ async function collectNews() {
           summary: (item.description || '').substring(0, 280) + '...',
           source: {
             name: source.name,
-            url: new URL(item.link).origin,
-            favicon: `https://www.google.com/s2/favicons?domain=${new URL(item.link).hostname}&sz=64`
+            url: articleUrl.origin,
+            favicon: `https://www.google.com/s2/favicons?domain=${articleUrl.hostname}&sz=64`
           },
           category: detectCategory(item.title, item.description),
           tags: extractTags(item.title, item.description),
