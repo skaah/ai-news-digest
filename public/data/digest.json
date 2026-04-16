@@ -1,6 +1,160 @@
 {
-  "date": "2026-04-16T03:49:26.839Z",
+  "date": "2026-04-16T08:06:11.688Z",
   "articles": [
+    {
+      "id": "mo17398prgssx87u9b",
+      "title": "DeepL, known for text translation, now wants to translate your voice",
+      "summary": "DeepL says its tech could be used for real-time translation with meeting tools like Zoom and Microsoft Teams...",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Microsoft"
+      ],
+      "publishedAt": "Thu, 16 Apr 2026 08:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/04/16/deepl-known-for-text-translation-now-wants-to-translate-your-voice/"
+    },
+    {
+      "id": "mo173fstoz9jzh9ctd",
+      "title": "Google Gemini sur Mac : une application officielle change tout face à ChatGPT et Claude",
+      "summary": "...",
+      "source": {
+        "name": "Numerama",
+        "url": "https://www.numerama.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "OpenAI",
+        "Anthropic",
+        "Google"
+      ],
+      "publishedAt": "Thu, 16 Apr 2026 07:58:36 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.numerama.com/tech/2233723-google-gemini-sur-mac-une-application-officielle-change-tout-face-a-chatgpt-et-claude.html"
+    },
+    {
+      "id": "mo173d896ab8ejlfx4b",
+      "title": "How to Build a Universal Long-Term Memory Layer for AI Agents Using Mem0 and OpenAI",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "OpenAI"
+      ],
+      "publishedAt": "Thu, 16 Apr 2026 04:58:44 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/04/15/how-to-build-a-universal-long-term-memory-layer-for-ai-agents-using-mem0-and-openai/"
+    },
+    {
+      "id": "mo173d8ahsx8guc0ezv",
+      "title": "A Coding Implementation to Build Multi-Agent AI Systems with SmolAgents Using Code Execution, Tool Calling, and Dynamic Orchestration",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Thu, 16 Apr 2026 04:38:31 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/04/15/a-coding-implementation-to-build-multi-agent-ai-systems-with-smolagents-using-code-execution-tool-calling-and-dynamic-orchestration/"
+    },
+    {
+      "id": "mo173dolv2j4vt68cqn",
+      "title": "Exploration and Exploitation Errors Are Measurable for Language Model Agents",
+      "summary": "...",
+      "source": {
+        "name": "ArXiv cs.AI",
+        "url": "https://arxiv.org",
+        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Thu, 16 Apr 2026 00:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://arxiv.org/abs/2604.13151"
+    },
+    {
+      "id": "mo173domaach2tj499n",
+      "title": "SciFi: A Safe, Lightweight, User-Friendly, and Fully Autonomous Agentic AI Workflow for Scientific Applications",
+      "summary": "...",
+      "source": {
+        "name": "ArXiv cs.AI",
+        "url": "https://arxiv.org",
+        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Thu, 16 Apr 2026 00:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://arxiv.org/abs/2604.13180"
+    },
+    {
+      "id": "mo173domzd8ayig12l9",
+      "title": "Numerical Instability and Chaos: Quantifying the Unpredictability of Large Language Models",
+      "summary": "...",
+      "source": {
+        "name": "ArXiv cs.AI",
+        "url": "https://arxiv.org",
+        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "LLM"
+      ],
+      "publishedAt": "Thu, 16 Apr 2026 00:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://arxiv.org/abs/2604.13206"
+    },
+    {
+      "id": "mo173dom9530y1kfgyg",
+      "title": "Optimizing Earth Observation Satellite Schedules under Unknown Operational Constraints: An Active Constraint Acquisition Approach",
+      "summary": "...",
+      "source": {
+        "name": "ArXiv cs.AI",
+        "url": "https://arxiv.org",
+        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Thu, 16 Apr 2026 00:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://arxiv.org/abs/2604.13283"
+    },
+    {
+      "id": "mo173domn2umbguwzbh",
+      "title": "WebXSkill: Skill Learning for Autonomous Web Agents",
+      "summary": "...",
+      "source": {
+        "name": "ArXiv cs.AI",
+        "url": "https://arxiv.org",
+        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Thu, 16 Apr 2026 00:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://arxiv.org/abs/2604.13318"
+    },
     {
       "id": "mo0l1hp6m4j9yyrbc",
       "title": "OpenAI updates its Agents SDK to help enterprises build safer, more capable agents",
@@ -443,7 +597,7 @@
       "originalUrl": "https://openai.com/index/scaling-trusted-access-for-cyber-defense"
     }
   ],
-  "totalArticles": 26,
-  "lastUpdated": "2026-04-16T03:49:26.839Z",
-  "edition": 4
+  "totalArticles": 35,
+  "lastUpdated": "2026-04-16T08:06:11.688Z",
+  "edition": 5
 }
