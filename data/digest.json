@@ -1,6 +1,41 @@
 {
-  "date": "2026-04-18T13:37:28.357Z",
+  "date": "2026-04-18T19:11:30.778Z",
   "articles": [
+    {
+      "id": "mo4pqqvkpfi1zs9rqtn",
+      "title": "Ce que les données Strava au Marathon de Paris nous disent de la Gen Z française",
+      "summary": "...",
+      "source": {
+        "name": "Numerama",
+        "url": "https://www.numerama.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Sat, 18 Apr 2026 16:03:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.numerama.com/tech/2235287-ce-que-les-donnees-strava-au-marathon-de-paris-nous-disent-de-la-gen-z-francaise.html"
+    },
+    {
+      "id": "mo4pqjt8yd8vcuowk3",
+      "title": "Anthropic’s relationship with the Trump administration seems to be thawing",
+      "summary": "Despite recently being designated a supply-chain risk by the Pentagon, Anthropic is still talking to high-level members of the Trump administration....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Ethics",
+      "tags": [
+        "Anthropic",
+        "AI Safety"
+      ],
+      "publishedAt": "Sat, 18 Apr 2026 14:56:48 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/04/18/anthropics-relationship-with-the-trump-administration-seems-to-be-thawing/"
+    },
     {
       "id": "mo4dsyqgbipqmhn0fa",
       "title": "The App Store is booming again, and AI may be why",
@@ -814,45 +849,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
       "readTime": 1,
       "originalUrl": "https://huggingface.co/blog/ecom-rlve"
-    },
-    {
-      "id": "mo1vv93a9a9ittdkpjd",
-      "title": "Introducing GPT-Rosalind for life sciences research",
-      "summary": "OpenAI introduces GPT-Rosalind, a frontier reasoning model built to accelerate drug discovery, genomics analysis, protein reasoning, and scientific research workflows....",
-      "source": {
-        "name": "OpenAI News",
-        "url": "https://openai.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
-      },
-      "category": "Research",
-      "tags": [
-        "OpenAI"
-      ],
-      "publishedAt": "Thu, 16 Apr 2026 00:00:00 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800",
-      "readTime": 1,
-      "originalUrl": "https://openai.com/index/introducing-gpt-rosalind"
-    },
-    {
-      "id": "mo1onainfjbttws4dy",
-      "title": "Accelerating the cyber defense ecosystem that protects us all",
-      "summary": "Leading security firms and enterprises join OpenAI’s Trusted Access for Cyber, using GPT-5.4-Cyber and $10M in API grants to strengthen global cyber defense....",
-      "source": {
-        "name": "OpenAI News",
-        "url": "https://openai.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "OpenAI"
-      ],
-      "publishedAt": "Thu, 16 Apr 2026 00:00:00 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://openai.com/index/accelerating-cyber-defense-ecosystem"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-04-18T13:37:28.357Z",
-  "edition": 12
+  "lastUpdated": "2026-04-18T19:11:30.778Z",
+  "edition": 13
 }
