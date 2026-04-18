@@ -1,6 +1,22 @@
 {
-  "date": "2026-04-18T07:36:53.845Z",
+  "date": "2026-04-18T13:37:28.357Z",
   "articles": [
+    {
+      "id": "mo4dsyqgbipqmhn0fa",
+      "title": "The App Store is booming again, and AI may be why",
+      "summary": "New data from Appfigures shows a swell of new app launches in 2026, suggesting AI tools could be fueling a mobile software boom. ...",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Product",
+      "tags": [],
+      "publishedAt": "Sat, 18 Apr 2026 13:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1550009158-9ebf690be655?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/04/18/the-app-store-is-booming-again-and-ai-may-be-why/"
+    },
     {
       "id": "mo40xe6fwnia6ly8ln",
       "title": "Google AI Releases Auto-Diagnose: An Large Language Model LLM-Based System to Diagnose Integration Test Failures at Scale",
@@ -834,25 +850,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
       "readTime": 1,
       "originalUrl": "https://openai.com/index/accelerating-cyber-defense-ecosystem"
-    },
-    {
-      "id": "mo1onb5pezeolmsj6em",
-      "title": "The PR you would have opened yourself",
-      "summary": "...",
-      "source": {
-        "name": "Hugging Face Blog",
-        "url": "https://huggingface.co",
-        "favicon": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Thu, 16 Apr 2026 00:00:00 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://huggingface.co/blog/transformers-to-mlx"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-04-18T07:36:53.845Z",
-  "edition": 11
+  "lastUpdated": "2026-04-18T13:37:28.357Z",
+  "edition": 12
 }
