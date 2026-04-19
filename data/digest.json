@@ -1,6 +1,24 @@
 {
-  "date": "2026-04-19T07:48:25.295Z",
+  "date": "2026-04-19T13:36:12.368Z",
   "articles": [
+    {
+      "id": "mo5t7bki66g2w5gp6u6",
+      "title": "NVIDIA Releases Ising: the First Open Quantum AI Model Family for Hybrid Quantum-Classical Systems",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Nvidia"
+      ],
+      "publishedAt": "Sun, 19 Apr 2026 07:54:42 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/04/19/nvidia-releases-ising/"
+    },
     {
       "id": "mo5gs4subwbb0bm2fl",
       "title": "Où les éditeurs d’IA trouvent-ils les montagnes de textes nécessaires à leur entraînement ?",
@@ -840,27 +858,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?w=800",
       "readTime": 1,
       "originalUrl": "https://www.marktechpost.com/2026/04/16/ucsd-and-together-ai-research-introduces-parcae-a-stable-architecture-for-looped-language-models-that-achieves-the-quality-of-a-transformer-twice-the-size/"
-    },
-    {
-      "id": "mo1onc4rmau611hfhvh",
-      "title": "How to Build a Universal Long-Term Memory Layer for AI Agents Using Mem0 and OpenAI",
-      "summary": "...",
-      "source": {
-        "name": "MarkTechPost",
-        "url": "https://www.marktechpost.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "OpenAI"
-      ],
-      "publishedAt": "Thu, 16 Apr 2026 04:58:44 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.marktechpost.com/2026/04/15/how-to-build-a-universal-long-term-memory-layer-for-ai-agents-using-mem0-and-openai/"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-04-19T07:48:25.295Z",
-  "edition": 15
+  "lastUpdated": "2026-04-19T13:36:12.367Z",
+  "edition": 16
 }
