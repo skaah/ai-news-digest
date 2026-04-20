@@ -1,6 +1,81 @@
 {
-  "date": "2026-04-20T14:15:41.234Z",
+  "date": "2026-04-20T19:38:16.199Z",
   "articles": [
+    {
+      "id": "mo7lhqk12ne2cmielir",
+      "title": "NSA spies are reportedly using Anthropic’s Mythos, despite Pentagon feud",
+      "summary": "NSA is said to be using Anthropic's restricted Mythos AI model....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Policy",
+      "tags": [
+        "Anthropic"
+      ],
+      "publishedAt": "Mon, 20 Apr 2026 16:06:21 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1575517111839-3a3843ee7f5d?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/04/20/nsa-spies-are-reportedly-using-anthropics-mythos-despite-pentagon-feud/"
+    },
+    {
+      "id": "mo7lhqk2s86qlpu7ptl",
+      "title": "CEO and CFO suddenly depart AI nuclear power upstart Fermi",
+      "summary": "The startup, co-founded by former U.S. Energy Secretary Rick Perry, has faced headwinds with its AI campus in Texas. ...",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Startup"
+      ],
+      "publishedAt": "Mon, 20 Apr 2026 15:30:19 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/04/20/fermi-ceo-and-cfo-depart-texas-nuclear-power-ai/"
+    },
+    {
+      "id": "mo7lkv8tvx4j96njfrs",
+      "title": "ChatGPT en panne ? Voici les meilleures alternatives en 2026",
+      "summary": "...",
+      "source": {
+        "name": "Numerama",
+        "url": "https://www.numerama.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
+      },
+      "category": "Policy",
+      "tags": [
+        "OpenAI"
+      ],
+      "publishedAt": "Mon, 20 Apr 2026 15:27:27 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1555848962-6e79363ec58f?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.numerama.com/tech/1246474-voici-les-meilleures-alternatives-gratuites-a-chatgpt.html"
+    },
+    {
+      "id": "mo7lkv8ud206uj2fyo",
+      "title": "ChatGPT en panne : l’outil IA ne répond plus,  Gemini, Copilot et Claude aussi en difficulté",
+      "summary": "...",
+      "source": {
+        "name": "Numerama",
+        "url": "https://www.numerama.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "OpenAI",
+        "Anthropic",
+        "Google",
+        "Microsoft"
+      ],
+      "publishedAt": "Mon, 20 Apr 2026 15:23:36 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.numerama.com/tech/2236385-chatgpt-en-panne-loutil-ia-ne-repond-plus-gemini-copilot-et-claude-aussi-en-difficulte.html"
+    },
     {
       "id": "mo7a21ffq1s8mv5h55",
       "title": "IA : pourquoi Hexa s’associe à OpenAI",
@@ -789,77 +864,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800",
       "readTime": 1,
       "originalUrl": "https://arxiv.org/abs/2604.14160"
-    },
-    {
-      "id": "mo2mjeigkc8jx8vahre",
-      "title": "Simulating Human Cognition: Heartbeat-Driven Autonomous Thinking Activity Scheduling for LLM-based AI systems",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "LLM"
-      ],
-      "publishedAt": "Fri, 17 Apr 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2604.14178"
-    },
-    {
-      "id": "mo2mjeigh2bcd27o1je",
-      "title": "Fun-TSG: A Function-Driven Multivariate Time Series Generator with Variable-Level Anomaly Labeling",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Fri, 17 Apr 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2604.14221"
-    },
-    {
-      "id": "mo2mjeihpgs1drd5lg",
-      "title": "Interpretable and Explainable Surrogate Modeling for Simulations: A State-of-the-Art Survey and Perspectives on Explainable AI for Decision-Making",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Fri, 17 Apr 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2604.14240"
-    },
-    {
-      "id": "mo2mjeihcouzjvv69tg",
-      "title": "Formalizing Kantian Ethics: Formula of the Universal Law Logic (FULL)",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Policy",
-      "tags": [
-        "AI Safety"
-      ],
-      "publishedAt": "Fri, 17 Apr 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2604.14254"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-04-20T14:15:41.233Z",
-  "edition": 20
+  "lastUpdated": "2026-04-20T19:38:16.199Z",
+  "edition": 21
 }
