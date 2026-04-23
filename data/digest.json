@@ -1,6 +1,40 @@
 {
-  "date": "2026-04-23T03:49:42.128Z",
+  "date": "2026-04-23T08:13:32.003Z",
   "articles": [
+    {
+      "id": "mob7fu66j0fmerdxo4b",
+      "title": "Meta entraîne ses IA avec les clics et frappes au clavier de ses salariés",
+      "summary": "...",
+      "source": {
+        "name": "Numerama",
+        "url": "https://www.numerama.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Meta"
+      ],
+      "publishedAt": "Thu, 23 Apr 2026 07:57:56 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.numerama.com/tech/2238609-meta-entraine-ses-ia-avec-les-clics-et-frappes-au-clavier-de-ses-salaries.html"
+    },
+    {
+      "id": "mob7fm60s2ifuh3iab",
+      "title": "India’s app market is booming — but global platforms are capturing most of the gains",
+      "summary": "Non-gaming apps, led by streaming and AI, are driving growth, even as India's spending per user lags global peers....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Thu, 23 Apr 2026 04:38:45 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/04/22/indias-app-market-is-booming-but-global-platforms-are-capturing-most-of-the-gains/"
+    },
     {
       "id": "moay0gt9ro8pva2yr3",
       "title": "Xiaomi Releases MiMo-V2.5-Pro and MiMo-V2.5: Matching Frontier Model Benchmarks at Significantly Lower Token Cost",
@@ -823,45 +857,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
       "readTime": 1,
       "originalUrl": "https://techcrunch.com/2026/04/21/apples-john-ternus-will-run-one-of-the-worlds-most-powerful-companies-the-job-is-a-minefield/"
-    },
-    {
-      "id": "mo912wtksqhg6odol3j",
-      "title": "AI research lab NeoCognition lands $40M seed to build agents that learn like humans",
-      "summary": "Founded by an OSU researcher, the startup is developing AI agents that can become experts in any domain....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Research",
-      "tags": [
-        "Startup"
-      ],
-      "publishedAt": "Tue, 21 Apr 2026 19:11:29 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/04/21/ai-research-lab-neocognition-lands-40m-seed-to-build-agents-that-learn-like-humans/"
-    },
-    {
-      "id": "mo912wtlqdhwqfjse2i",
-      "title": "ChatGPT’s new Images 2.0 model is surprisingly good at generating text",
-      "summary": "ChatGPT Images 2.0, the newest image-generation model from OpenAI, shows just how much AI capabilities have evolved over the last few years....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "OpenAI"
-      ],
-      "publishedAt": "Tue, 21 Apr 2026 19:00:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/04/21/chatgpts-new-images-2-0-model-is-surprisingly-good-at-generating-text/"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-04-23T03:49:42.127Z",
-  "edition": 30
+  "lastUpdated": "2026-04-23T08:13:32.003Z",
+  "edition": 31
 }
