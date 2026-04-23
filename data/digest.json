@@ -1,6 +1,122 @@
 {
-  "date": "2026-04-22T19:41:43.197Z",
+  "date": "2026-04-23T03:49:42.128Z",
   "articles": [
+    {
+      "id": "moay0gt9ro8pva2yr3",
+      "title": "Xiaomi Releases MiMo-V2.5-Pro and MiMo-V2.5: Matching Frontier Model Benchmarks at Significantly Lower Token Cost",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Thu, 23 Apr 2026 03:46:24 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/04/22/xiaomi-releases-mimo-v2-5-pro-and-mimo-v2-5-matching-frontier-model-benchmarks-at-significantly-lower-token-cost/"
+    },
+    {
+      "id": "moay0gtabzwt1yqyy9",
+      "title": "How to Design a Production-Grade CAMEL Multi-Agent System with Planning, Tool Use, Self-Consistency, and Critique-Driven Refinement",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Product",
+      "tags": [],
+      "publishedAt": "Wed, 22 Apr 2026 23:59:51 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/04/22/how-to-design-a-production-grade-camel-multi-agent-system-with-planning-tool-use-self-consistency-and-critique-driven-refinement/"
+    },
+    {
+      "id": "moay0c8z7iwrqo7fae",
+      "title": "Tesla just increased its spending plan to $25B — here’s where the money is going",
+      "summary": "Tesla's planned capex for 2026 is three times higher than what the company has historically spent. Its CFO said, as a result, Tesla will have a negative free cash flow the rest of the year. ...",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Wed, 22 Apr 2026 23:56:52 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/04/22/tesla-just-increased-its-capex-to-25b-heres-where-the-money-is-going/"
+    },
+    {
+      "id": "moay0c90rueru1ihaz",
+      "title": "Google updates Workspace to make AI your new office intern",
+      "summary": "Google has introduced a host of new automated functions into Workspace, all of which are driven by Workspace Intelligence, its new AI system. ...",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Google"
+      ],
+      "publishedAt": "Wed, 22 Apr 2026 22:44:26 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/04/22/google-updates-workspace-to-make-ai-your-new-office-intern/"
+    },
+    {
+      "id": "moay0c91tdo3l6yu59f",
+      "title": "Hands on with X’s new AI-powered custom feeds",
+      "summary": "X's AI-powered custom timelines are replacing Communities, with Grok-curated feeds...and new ad slots....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Wed, 22 Apr 2026 22:25:53 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/04/22/hands-on-with-xs-new-ai-powered-custom-feeds/"
+    },
+    {
+      "id": "moay0jrzbnexqh428wj",
+      "title": "Le redoutable Claude Mythos a donné des sueurs froides à Firefox, mais c’était pour son bien",
+      "summary": "...",
+      "source": {
+        "name": "Numerama",
+        "url": "https://www.numerama.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
+      },
+      "category": "Policy",
+      "tags": [
+        "Anthropic"
+      ],
+      "publishedAt": "Wed, 22 Apr 2026 21:47:59 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1575517111839-3a3843ee7f5d?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.numerama.com/tech/2238261-le-redoutable-claude-mythos-a-donne-des-sueurs-froides-a-firefox-mais-cetait-pour-son-bien.html"
+    },
+    {
+      "id": "moay0c91bgfq427fm8b",
+      "title": "How SpaceX preempted a $2B fundraise with a $60B buyout offer",
+      "summary": "Cursor was on track to close a $2 billion funding round this week but chose to halt discussions after SpaceX offered a $10 billion \"collaboration fee\" and a path to a $60 billion acquisition....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Funding",
+      "tags": [],
+      "publishedAt": "Wed, 22 Apr 2026 19:51:51 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/04/22/how-spacex-preempted-a-2b-fundraise-with-a-60b-buyout-offer/"
+    },
     {
       "id": "moagkxk6gz4uzyqq8as",
       "title": "Alibaba Qwen Team Releases Qwen3.6-27B: A Dense Open-Weight Model Outperforming 397B MoE on Agentic Coding Benchmarks",
@@ -153,6 +269,24 @@
       "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
       "readTime": 1,
       "originalUrl": "https://huggingface.co/blog/nvidia/gemma4"
+    },
+    {
+      "id": "moay0eqmh9vqoi7qtla",
+      "title": "Making ChatGPT better for clinicians",
+      "summary": "OpenAI makes ChatGPT for Clinicians free for verified U.S. physicians, nurse practitioners, and pharmacists, supporting clinical care, documentation, and research....",
+      "source": {
+        "name": "OpenAI News",
+        "url": "https://openai.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
+      },
+      "category": "Research",
+      "tags": [
+        "OpenAI"
+      ],
+      "publishedAt": "Wed, 22 Apr 2026 15:00:00 GMT",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800",
+      "readTime": 1,
+      "originalUrl": "https://openai.com/index/making-chatgpt-better-for-clinicians"
     },
     {
       "id": "moagks3piixfz5l8v2e",
@@ -725,151 +859,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
       "readTime": 1,
       "originalUrl": "https://techcrunch.com/2026/04/21/chatgpts-new-images-2-0-model-is-surprisingly-good-at-generating-text/"
-    },
-    {
-      "id": "mo9134qe5n45avsshv6",
-      "title": "Avec ChatGPT Images 2.0, OpenAI déclare la guerre à Google et veut vous faire oublier Nano Banana",
-      "summary": "...",
-      "source": {
-        "name": "Numerama",
-        "url": "https://www.numerama.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
-      },
-      "category": "Policy",
-      "tags": [
-        "OpenAI",
-        "Google"
-      ],
-      "publishedAt": "Tue, 21 Apr 2026 19:00:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1555848962-6e79363ec58f?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.numerama.com/tech/2237621-avec-chatgpt-images-2-0-openai-declare-la-guerre-a-google-et-veut-vous-faire-oublier-nano-banana.html"
-    },
-    {
-      "id": "mo912wtlgreedkp0c6v",
-      "title": "Sam Altman throws shade at Anthropic’s cyber model, Mythos: ‘fear-based marketing’",
-      "summary": "This week, during a podcast appearance, OpenAI CEO Sam Altman called out his competitor's new cybersecurity model, noting that the company was using fear to make its product sound more impressive than it actually is....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Product",
-      "tags": [
-        "OpenAI",
-        "Anthropic"
-      ],
-      "publishedAt": "Tue, 21 Apr 2026 18:51:52 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/04/21/sam-altman-throws-shade-at-anthropics-cyber-model-mythos-fear-based-marketing/"
-    },
-    {
-      "id": "mo912yat18n8f17mckei",
-      "title": "Building agent-first governance and security",
-      "summary": "As AI agents increasingly work alongside humans across organizations, companies could be inadvertently opening a new attack surface. Insecure agents can be manipulated to access sensitive systems and proprietary data, increasing enterprise risk. In some modern enterprises, non-hu...",
-      "source": {
-        "name": "MIT Tech Review AI",
-        "url": "https://www.technologyreview.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.technologyreview.com&sz=64"
-      },
-      "category": "Ethics",
-      "tags": [
-        "AI Safety"
-      ],
-      "publishedAt": "Tue, 21 Apr 2026 17:22:54 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.technologyreview.com/2026/04/21/1136158/building-agent-first-governance-and-security/"
-    },
-    {
-      "id": "mo912wtmniwo10j5z5i",
-      "title": "Clarifai deletes 3 million photos that OkCupid provided to train facial recognition AI, report says",
-      "summary": "The photo deletion comes after an FTC settlement with Clarifai. The company had asked OkCupid — whose executives had invested in Clarifai — to share data in 2014, according to court documents. ...",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Funding",
-      "tags": [],
-      "publishedAt": "Tue, 21 Apr 2026 17:11:01 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/04/21/clarifai-okcupid-facial-recognition-ai-ftc-settlement/"
-    },
-    {
-      "id": "mo9131zmzop2l7bs7w",
-      "title": "Google Introduces Simula: A Reasoning-First Framework for Generating Controllable, Scalable Synthetic Datasets Across Specialized AI Domains",
-      "summary": "...",
-      "source": {
-        "name": "MarkTechPost",
-        "url": "https://www.marktechpost.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Google"
-      ],
-      "publishedAt": "Tue, 21 Apr 2026 16:46:21 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.marktechpost.com/2026/04/21/google-introduces-simula-a-reasoning-first-framework-for-generating-controllable-scalable-synthetic-datasets-across-specialized-ai-domains/"
-    },
-    {
-      "id": "mo9135ayy45orm0ah3",
-      "title": "Des anciens de la Nasa veulent concevoir des robots sous-marins autonomes pour surveiller les infrastructures offshore",
-      "summary": "...",
-      "source": {
-        "name": "Maddyness",
-        "url": "https://www.maddyness.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.maddyness.com&sz=64"
-      },
-      "category": "Policy",
-      "tags": [
-        "Robotics"
-      ],
-      "publishedAt": "Tue, 21 Apr 2026 16:00:50 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1555848962-6e79363ec58f?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.maddyness.com/2026/04/21/des-anciens-de-la-nasa-veulent-concevoir-des-robots-sous-marins-autonomes-pour-surveiller-les-infrastructures-offshore/"
-    },
-    {
-      "id": "mo912wtmwasixmjqdh9",
-      "title": "AI Dungeon maker Latitude unveils Voyage, a platform for creating AI-powered RPGs",
-      "summary": "Latitude's new AI-native platform, Voyage, aims to help gamers create their very own role-playing game. ...",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Tue, 21 Apr 2026 16:00:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/04/21/voyage-is-an-ai-rpg-platform-for-creating-custom-gaming-worlds-with-ai-generated-npc-interactions/"
-    },
-    {
-      "id": "mo8pbus93o8ss8zcf6r",
-      "title": "GRAI believes AI can make music more social, not replace artists",
-      "summary": "AI music startup GRAI says fans want to remix tracks, not generate songs from scratch....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Startup"
-      ],
-      "publishedAt": "Tue, 21 Apr 2026 13:00:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/04/21/grai-believes-ai-can-make-music-more-social-not-replace-artists/"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-04-22T19:41:43.197Z",
-  "edition": 29
+  "lastUpdated": "2026-04-23T03:49:42.127Z",
+  "edition": 30
 }
