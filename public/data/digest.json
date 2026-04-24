@@ -1,6 +1,24 @@
 {
-  "date": "2026-04-24T03:53:43.605Z",
+  "date": "2026-04-24T08:24:55.851Z",
   "articles": [
+    {
+      "id": "mocna9rxd9s10glojee",
+      "title": "Google DeepMind Introduces Decoupled DiLoCo: An Asynchronous Training Architecture Achieving 88% Goodput Under High Hardware Failure Rates",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Hardware",
+      "tags": [
+        "Google"
+      ],
+      "publishedAt": "Fri, 24 Apr 2026 04:40:10 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/04/23/google-deepmind-introduces-decoupled-diloco-an-asynchronous-training-architecture-achieving-88-goodput-under-high-hardware-failure-rates/"
+    },
     {
       "id": "mocdlhkckncvgp3rspo",
       "title": "Mend Releases AI Security Governance Framework: Covering Asset Inventory, Risk Tiering, AI Supply Chain Security, and Maturity Model",
@@ -528,6 +546,22 @@
       "originalUrl": "https://www.marktechpost.com/2026/04/22/xiaomi-releases-mimo-v2-5-pro-and-mimo-v2-5-matching-frontier-model-benchmarks-at-significantly-lower-token-cost/"
     },
     {
+      "id": "mocna8j90hwdvfejyuem",
+      "title": "How to Use Transformers.js in a Chrome Extension",
+      "summary": "...",
+      "source": {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co",
+        "favicon": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Thu, 23 Apr 2026 00:00:00 GMT",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://huggingface.co/blog/transformersjs-chrome-extension"
+    },
+    {
       "id": "moay0gtabzwt1yqyy9",
       "title": "How to Design a Production-Grade CAMEL Multi-Agent System with Planning, Tool Use, Self-Consistency, and Critique-Driven Refinement",
       "summary": "...",
@@ -815,45 +849,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
       "readTime": 1,
       "originalUrl": "https://techcrunch.com/2026/04/22/openai-teams-up-with-infosys-to-bring-ai-tools-to-more-businesses/"
-    },
-    {
-      "id": "moa4tlwtcp8lw3vp19t",
-      "title": "OpenAI recrute l’ancien patron Europe d’Airbnb pour monter en puissance sur le Vieux Continent",
-      "summary": "...",
-      "source": {
-        "name": "Maddyness",
-        "url": "https://www.maddyness.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.maddyness.com&sz=64"
-      },
-      "category": "Policy",
-      "tags": [
-        "OpenAI"
-      ],
-      "publishedAt": "Wed, 22 Apr 2026 14:10:20 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1575517111839-3a3843ee7f5d?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.maddyness.com/2026/04/22/openai-recrute-lancien-patron-europe-dairbnb-pour-monter-en-puissance-sur-le-vieux-continent/"
-    },
-    {
-      "id": "moa4tlbmpnb2ukrni2j",
-      "title": "« Les jours des zero-days sont comptés » : Claude Mythos a donné des sueurs froides à Firefox, et ça a payé",
-      "summary": "...",
-      "source": {
-        "name": "Numerama",
-        "url": "https://www.numerama.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
-      },
-      "category": "Policy",
-      "tags": [
-        "Anthropic"
-      ],
-      "publishedAt": "Wed, 22 Apr 2026 14:02:29 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.numerama.com/tech/2238261-les-jours-des-zero-days-sont-comptes-claude-mythos-a-donne-des-sueurs-froides-a-firefox-et-ca-a-paye.html"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-04-24T03:53:43.605Z",
-  "edition": 34
+  "lastUpdated": "2026-04-24T08:24:55.851Z",
+  "edition": 35
 }
