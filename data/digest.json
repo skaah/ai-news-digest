@@ -1,6 +1,24 @@
 {
-  "date": "2026-04-26T13:43:03.540Z",
+  "date": "2026-04-26T19:15:16.647Z",
   "articles": [
+    {
+      "id": "mog5e7gv3plss57xf8o",
+      "title": "To buy this Bay Area home, you’ll need Anthropic equity",
+      "summary": "Someone’s offering an unusual deal for a 13-acre property in Mill Valley, just north of South Francisco....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Anthropic"
+      ],
+      "publishedAt": "Sun, 26 Apr 2026 15:30:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/04/26/to-buy-this-bay-area-home-youll-need-anthropic-equity/"
+    },
     {
       "id": "moftj3l7kjnsy0kd4w8",
       "title": "Top 7 Benchmarks That Actually Matter for Agentic Reasoning in Large Language Models",
@@ -845,25 +863,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?w=800",
       "readTime": 1,
       "originalUrl": "https://techcrunch.com/2026/04/23/era-computer-raises-11m-to-build-a-software-platform-for-ai-gadgets/"
-    },
-    {
-      "id": "mobkbnzuezee61nf8fg",
-      "title": "Grab a ticket today: The first StrictlyVC of 2026 kicks off in just a week in San Francisco",
-      "summary": "StrictlyVC San Francisco is in just a week. Now’s the time to grab yourself a ticket. Join VCs and founders at Sentro Filipino Cultural Center on April 30....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Thu, 23 Apr 2026 14:00:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/04/23/grab-a-ticket-today-the-first-strictlyvc-of-2026-kicks-off-in-just-a-week-in-san-francisco/"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-04-26T13:43:03.540Z",
-  "edition": 44
+  "lastUpdated": "2026-04-26T19:15:16.647Z",
+  "edition": 45
 }
