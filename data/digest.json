@@ -1,6 +1,25 @@
 {
-  "date": "2026-04-26T03:58:11.838Z",
+  "date": "2026-04-26T07:56:02.789Z",
   "articles": [
+    {
+      "id": "mofh4wmppuwud7ucxb",
+      "title": "Le trailer épique de la Bataille de Gaulle, ChatGPT vs Gemini et saison 3 des Anneaux de pouvoir – le récap’ de la semaine",
+      "summary": "...",
+      "source": {
+        "name": "Numerama",
+        "url": "https://www.numerama.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "OpenAI",
+        "Google"
+      ],
+      "publishedAt": "Sun, 26 Apr 2026 05:22:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.numerama.com/tech/2240631-le-trailer-epique-de-la-bataille-de-gaulle-chatgpt-vs-gemini-et-saison-3-des-anneaux-de-pouvoir-le-recap-de-la-semaine.html"
+    },
     {
       "id": "mof8mxsnixs14p2l4w",
       "title": "xAI Launches grok-voice-think-fast-1.0: Topping τ-voice Bench at 67.3%, Outperforming Gemini, GPT Realtime, and More",
@@ -844,27 +863,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800",
       "readTime": 1,
       "originalUrl": "https://techcrunch.com/2026/04/23/beehiiv-rolls-out-new-creator-tools-including-webinars-and-customizable-paywalls/"
-    },
-    {
-      "id": "mobw3dg7178sn9losdx",
-      "title": "Introducing GPT-5.5",
-      "summary": "Introducing GPT-5.5, our smartest model yet—faster, more capable, and built for complex tasks like coding, research, and data analysis across tools....",
-      "source": {
-        "name": "OpenAI News",
-        "url": "https://openai.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
-      },
-      "category": "Research",
-      "tags": [
-        "OpenAI"
-      ],
-      "publishedAt": "Thu, 23 Apr 2026 11:00:00 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=800",
-      "readTime": 1,
-      "originalUrl": "https://openai.com/index/introducing-gpt-5-5"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-04-26T03:58:11.838Z",
-  "edition": 42
+  "lastUpdated": "2026-04-26T07:56:02.788Z",
+  "edition": 43
 }
