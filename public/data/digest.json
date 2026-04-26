@@ -1,6 +1,24 @@
 {
-  "date": "2026-04-26T07:56:02.789Z",
+  "date": "2026-04-26T13:43:03.540Z",
   "articles": [
+    {
+      "id": "moftj3l7kjnsy0kd4w8",
+      "title": "Top 7 Benchmarks That Actually Matter for Agentic Reasoning in Large Language Models",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "LLM"
+      ],
+      "publishedAt": "Sun, 26 Apr 2026 07:59:03 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/04/26/top-7-benchmarks-that-actually-matter-for-agentic-reasoning-in-large-language-models/"
+    },
     {
       "id": "mofh4wmppuwud7ucxb",
       "title": "Le trailer épique de la Bataille de Gaulle, ChatGPT vs Gemini et saison 3 des Anneaux de pouvoir – le récap’ de la semaine",
@@ -19,6 +37,38 @@
       "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
       "readTime": 1,
       "originalUrl": "https://www.numerama.com/tech/2240631-le-trailer-epique-de-la-bataille-de-gaulle-chatgpt-vs-gemini-et-saison-3-des-anneaux-de-pouvoir-le-recap-de-la-semaine.html"
+    },
+    {
+      "id": "moftj3l8et83700ut9",
+      "title": "RAG Without Vectors: How PageIndex Retrieves by Reasoning",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Sun, 26 Apr 2026 04:22:40 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/04/25/rag-without-vectors-how-pageindex-retrieves-by-reasoning/"
+    },
+    {
+      "id": "moftj3l9l90vcq81qz",
+      "title": "A Coding Tutorial on Datashader on Rendering Massive Datasets with High-Performance Python Visual Analytics",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Sun, 26 Apr 2026 04:04:15 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/04/25/a-coding-tutorial-on-datashader-on-rendering-massive-datasets-with-high-performance-python-visual-analytics/"
     },
     {
       "id": "mof8mxsnixs14p2l4w",
@@ -811,61 +861,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
       "readTime": 1,
       "originalUrl": "https://techcrunch.com/2026/04/23/grab-a-ticket-today-the-first-strictlyvc-of-2026-kicks-off-in-just-a-week-in-san-francisco/"
-    },
-    {
-      "id": "mobkbnzvrc8it25vf2",
-      "title": "Another customer of troubled startup Delve suffered a big security incident",
-      "summary": "TechCrunch has confirmed that Delve was the compliance company that performed the security certifications for Context AI, the AI agent training startup that last week disclosed a security incident....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Startup"
-      ],
-      "publishedAt": "Thu, 23 Apr 2026 14:00:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/04/23/another-customer-of-troubled-startup-delve-suffered-a-big-security-incident/"
-    },
-    {
-      "id": "mobkbnzwq1k5garc1w",
-      "title": "AI galaxy hunters are adding to the global GPU crunch",
-      "summary": "Astronomers are turning to GPUs to find needles in the galactic haystack. ...",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Hardware",
-      "tags": [
-        "Nvidia"
-      ],
-      "publishedAt": "Thu, 23 Apr 2026 13:00:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/04/23/ai-galaxy-hunters-are-adding-to-the-global-gpu-crunch/"
-    },
-    {
-      "id": "mobkbnzwndqcli8v9a",
-      "title": "Beehiiv rolls out new creator tools, including webinars and customizable paywalls",
-      "summary": "Beehiiv is clearly done being just a newsletter platform based on today's launch of a new webinar feature, customizable paywalls, and more....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Product",
-      "tags": [],
-      "publishedAt": "Thu, 23 Apr 2026 12:00:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/04/23/beehiiv-rolls-out-new-creator-tools-including-webinars-and-customizable-paywalls/"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-04-26T07:56:02.788Z",
-  "edition": 43
+  "lastUpdated": "2026-04-26T13:43:03.540Z",
+  "edition": 44
 }
