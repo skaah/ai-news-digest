@@ -1,6 +1,74 @@
 {
-  "date": "2026-04-27T04:02:11.517Z",
+  "date": "2026-04-27T08:42:12.521Z",
   "articles": [
+    {
+      "id": "mogy859wnrs9axntcm",
+      "title": "SquareMind lève 18 millions de dollars pour son robot permettant de détecter les cancers de la peau",
+      "summary": "...",
+      "source": {
+        "name": "Maddyness",
+        "url": "https://www.maddyness.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.maddyness.com&sz=64"
+      },
+      "category": "Funding",
+      "tags": [
+        "Robotics"
+      ],
+      "publishedAt": "Mon, 27 Apr 2026 06:01:13 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.maddyness.com/2026/04/27/squaremind-leve-18-millions-de-dollars-pour-son-robot-permettant-de-detecter-les-cancers-de-la-peau/"
+    },
+    {
+      "id": "mogy81n4o0gkmq873dj",
+      "title": "The LoRA Assumption That Breaks in Production",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Product",
+      "tags": [],
+      "publishedAt": "Mon, 27 Apr 2026 05:33:44 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1550009158-9ebf690be655?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/04/26/the-lora-assumption-that-breaks-in-production/"
+    },
+    {
+      "id": "mogy81n5zm5sx6olgym",
+      "title": "How to Build a Fully Searchable AI Knowledge Base with OpenKB, OpenRouter, and Llama",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Meta"
+      ],
+      "publishedAt": "Mon, 27 Apr 2026 05:20:25 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/04/26/how-to-build-a-fully-searchable-ai-knowledge-base-with-openkb-openrouter-and-llama/"
+    },
+    {
+      "id": "mogy7zhg4681hsx6lm2",
+      "title": "A faster way to estimate AI power consumption",
+      "summary": "The “EnergAIzer” method generates reliable results in seconds, enabling data center operators to efficiently allocate resources and reduce wasted energy....",
+      "source": {
+        "name": "MIT News AI",
+        "url": "https://news.mit.edu",
+        "favicon": "https://www.google.com/s2/favicons?domain=news.mit.edu&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Mon, 27 Apr 2026 00:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://news.mit.edu/2026/faster-way-to-estimate-ai-power-consumption-0427"
+    },
     {
       "id": "mogo7yaqhjo64s83e4t",
       "title": "Math Takes Two: A test for emergent mathematical reasoning in communication",
@@ -783,79 +851,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?w=800",
       "readTime": 1,
       "originalUrl": "https://www.marktechpost.com/2026/04/23/google-deepmind-introduces-decoupled-diloco-an-asynchronous-training-architecture-achieving-88-goodput-under-high-hardware-failure-rates/"
-    },
-    {
-      "id": "mocdlhkckncvgp3rspo",
-      "title": "Mend Releases AI Security Governance Framework: Covering Asset Inventory, Risk Tiering, AI Supply Chain Security, and Maturity Model",
-      "summary": "...",
-      "source": {
-        "name": "MarkTechPost",
-        "url": "https://www.marktechpost.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
-      },
-      "category": "Ethics",
-      "tags": [
-        "AI Safety"
-      ],
-      "publishedAt": "Fri, 24 Apr 2026 02:07:11 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.marktechpost.com/2026/04/23/mend-releases-ai-security-governance-framework/"
-    },
-    {
-      "id": "moczn1o7aejucux3myk",
-      "title": "DeepSeek-V4: a million-token context that agents can actually use",
-      "summary": "...",
-      "source": {
-        "name": "Hugging Face Blog",
-        "url": "https://huggingface.co",
-        "favicon": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=64"
-      },
-      "category": "Funding",
-      "tags": [
-        "China"
-      ],
-      "publishedAt": "Fri, 24 Apr 2026 00:00:00 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800",
-      "readTime": 1,
-      "originalUrl": "https://huggingface.co/blog/deepseekv4"
-    },
-    {
-      "id": "mocdlhkdjb2rnh97d1i",
-      "title": "OpenAI Releases GPT-5.5, a Fully Retrained Agentic Model That Scores 82.7% on Terminal-Bench 2.0 and 84.9% on GDPval",
-      "summary": "...",
-      "source": {
-        "name": "MarkTechPost",
-        "url": "https://www.marktechpost.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "OpenAI"
-      ],
-      "publishedAt": "Thu, 23 Apr 2026 22:11:30 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.marktechpost.com/2026/04/23/openai-releases-gpt-5-5-a-fully-retrained-agentic-model-that-scores-82-7-on-terminal-bench-2-0-and-84-9-on-gdpval/"
-    },
-    {
-      "id": "mocdlhkeid8k52ax96g",
-      "title": "A Coding Tutorial on OpenMythos on Recurrent-Depth Transformers with Depth Extrapolation, Adaptive Computation, and Mixture-of-Experts Routing",
-      "summary": "...",
-      "source": {
-        "name": "MarkTechPost",
-        "url": "https://www.marktechpost.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Thu, 23 Apr 2026 21:25:34 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.marktechpost.com/2026/04/23/a-coding-tutorial-on-openmythos-on-recurrent-depth-transformers-with-depth-extrapolation-adaptive-computation-and-mixture-of-experts-routing/"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-04-27T04:02:11.516Z",
-  "edition": 46
+  "lastUpdated": "2026-04-27T08:42:12.521Z",
+  "edition": 47
 }
