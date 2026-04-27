@@ -1,6 +1,118 @@
 {
-  "date": "2026-04-26T19:15:16.647Z",
+  "date": "2026-04-27T04:02:11.517Z",
   "articles": [
+    {
+      "id": "mogo7yaqhjo64s83e4t",
+      "title": "Math Takes Two: A test for emergent mathematical reasoning in communication",
+      "summary": "...",
+      "source": {
+        "name": "ArXiv cs.AI",
+        "url": "https://arxiv.org",
+        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Mon, 27 Apr 2026 00:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://arxiv.org/abs/2604.21935"
+    },
+    {
+      "id": "mogo7yaqf9lm1co8ff6",
+      "title": "An Artifact-based Agent Framework for Adaptive and Reproducible Medical Image Processing",
+      "summary": "...",
+      "source": {
+        "name": "ArXiv cs.AI",
+        "url": "https://arxiv.org",
+        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Mon, 27 Apr 2026 00:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://arxiv.org/abs/2604.21936"
+    },
+    {
+      "id": "mogo7yaql1hfdinr6om",
+      "title": "MolClaw: An Autonomous Agent with Hierarchical Skills for Drug Molecule Evaluation, Screening, and Optimization",
+      "summary": "...",
+      "source": {
+        "name": "ArXiv cs.AI",
+        "url": "https://arxiv.org",
+        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
+      },
+      "category": "Policy",
+      "tags": [],
+      "publishedAt": "Mon, 27 Apr 2026 00:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1555848962-6e79363ec58f?w=800",
+      "readTime": 1,
+      "originalUrl": "https://arxiv.org/abs/2604.21937"
+    },
+    {
+      "id": "mogo7yart0ip1qk6qt",
+      "title": "Read the Paper, Write the Code: Agentic Reproduction of Social-Science Results",
+      "summary": "...",
+      "source": {
+        "name": "ArXiv cs.AI",
+        "url": "https://arxiv.org",
+        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
+      },
+      "category": "Product",
+      "tags": [],
+      "publishedAt": "Mon, 27 Apr 2026 00:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=800",
+      "readTime": 1,
+      "originalUrl": "https://arxiv.org/abs/2604.21965"
+    },
+    {
+      "id": "mogo7yar6tv87smxb64",
+      "title": "Rethinking Publication: A Certification Framework for AI-Enabled Research",
+      "summary": "...",
+      "source": {
+        "name": "ArXiv cs.AI",
+        "url": "https://arxiv.org",
+        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
+      },
+      "category": "Research",
+      "tags": [],
+      "publishedAt": "Mon, 27 Apr 2026 00:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800",
+      "readTime": 1,
+      "originalUrl": "https://arxiv.org/abs/2604.22026"
+    },
+    {
+      "id": "mogo7xpk080wt0hm9dnf",
+      "title": "How to Build Smarter Multilingual Text Wrapping with BudouX Through Parsing, HTML Rendering, Model Introspection, and Toy Training",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Sun, 26 Apr 2026 22:58:28 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/04/26/how-to-build-smarter-multilingual-text-wrapping-with-budoux-through-parsing-html-rendering-model-introspection-and-toy-training/"
+    },
+    {
+      "id": "mogo7vvwz4nnaih8pd",
+      "title": "Our principles",
+      "summary": "Our mission is to ensure that AGI benefits all of humanity. Sam Altman shares five principles that guide our work....",
+      "source": {
+        "name": "OpenAI News",
+        "url": "https://openai.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Sun, 26 Apr 2026 16:00:00 GMT",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://openai.com/index/our-principles"
+    },
     {
       "id": "mog5e7gv3plss57xf8o",
       "title": "To buy this Bay Area home, you’ll need Anthropic equity",
@@ -741,131 +853,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
       "readTime": 1,
       "originalUrl": "https://www.marktechpost.com/2026/04/23/a-coding-tutorial-on-openmythos-on-recurrent-depth-transformers-with-depth-extrapolation-adaptive-computation-and-mixture-of-experts-routing/"
-    },
-    {
-      "id": "mocdlcwv2n359mol5",
-      "title": "Bret Taylor’s Sierra buys YC-backed AI startup Fragment",
-      "summary": "Sierra, the AI customer service agent startup founded by technologist Bret Taylor, announced today that it has acquired the YC-backed French startup Fragment. ...",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Startup"
-      ],
-      "publishedAt": "Thu, 23 Apr 2026 21:00:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/04/23/bret-taylors-sierra-buys-yc-backed-ai-startup-fragment/"
-    },
-    {
-      "id": "mobw3b6hhdfsuzc3dyg",
-      "title": "Meet Noscroll, an AI bot that does your doomscrolling for you",
-      "summary": "Noscroll wants to cure doomscrolling with an AI bot that reads the internet for you....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Thu, 23 Apr 2026 19:38:25 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/04/23/meet-noscroll-an-ai-bot-that-does-your-doomscrolling-for-you/"
-    },
-    {
-      "id": "mobw3hrz936daq71co8",
-      "title": "OpenAI dévoile GPT-5.5 et veut faire une remontada historique face à Claude et Gemini",
-      "summary": "...",
-      "source": {
-        "name": "Numerama",
-        "url": "https://www.numerama.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
-      },
-      "category": "Policy",
-      "tags": [
-        "OpenAI",
-        "Anthropic",
-        "Google"
-      ],
-      "publishedAt": "Thu, 23 Apr 2026 18:30:59 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1575517111839-3a3843ee7f5d?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.numerama.com/tech/2239629-openai-devoile-gpt-5-5-et-veut-faire-une-remontada-historique-face-a-claude-et-gemini.html"
-    },
-    {
-      "id": "mobw3b6i4x9ldp2iymp",
-      "title": "OpenAI releases GPT-5.5, bringing company one step closer to an AI ‘super app’",
-      "summary": "OpenAI says its latest model offers increased capabilities across a broad variety of categories. ...",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "OpenAI"
-      ],
-      "publishedAt": "Thu, 23 Apr 2026 18:29:29 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/04/23/openai-chatgpt-gpt-5-5-ai-model-superapp/"
-    },
-    {
-      "id": "mobw3hs1rtwaxotyfv",
-      "title": "Adieu Microsoft : le Health Data Hub passe enfin sur un cloud français avec Scaleway",
-      "summary": "...",
-      "source": {
-        "name": "Numerama",
-        "url": "https://www.numerama.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
-      },
-      "category": "Policy",
-      "tags": [
-        "Microsoft"
-      ],
-      "publishedAt": "Thu, 23 Apr 2026 16:55:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.numerama.com/politique/2238809-adieu-microsoft-le-health-data-hub-passe-enfin-sur-un-cloud-francais-avec-scaleway.html"
-    },
-    {
-      "id": "mobw3hs17d9vprlfowt",
-      "title": "Cet agent IA a ouvert sa propre boutique, mais a oublié un détail absurde le jour J",
-      "summary": "...",
-      "source": {
-        "name": "Numerama",
-        "url": "https://www.numerama.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Thu, 23 Apr 2026 16:34:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.numerama.com/tech/2239519-la-premiere-boutique-geree-par-un-agent-ia-a-ouvert-ses-portes-et-ca-a-vire-au-fiasco.html"
-    },
-    {
-      "id": "mobw3b6jphtwjhycd7",
-      "title": "Era raises $11M to build a software platform for AI gadgets",
-      "summary": "Era thinks that we will see many form factors of AI hardware, including glasses, rings, and pendants....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Hardware",
-      "tags": [],
-      "publishedAt": "Thu, 23 Apr 2026 16:00:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/04/23/era-computer-raises-11m-to-build-a-software-platform-for-ai-gadgets/"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-04-26T19:15:16.647Z",
-  "edition": 45
+  "lastUpdated": "2026-04-27T04:02:11.516Z",
+  "edition": 46
 }
