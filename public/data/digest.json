@@ -1,6 +1,90 @@
 {
-  "date": "2026-04-29T08:35:09.346Z",
+  "date": "2026-04-29T14:33:18.338Z",
   "articles": [
+    {
+      "id": "mok5nckad2ngcqdf41b",
+      "title": "« Ne parle jamais de gobelins » : une étrange consigne cachée dans l’IA d’OpenAI provoque des débats sans fin",
+      "summary": "...",
+      "source": {
+        "name": "Numerama",
+        "url": "https://www.numerama.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "OpenAI"
+      ],
+      "publishedAt": "Wed, 29 Apr 2026 14:01:23 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.numerama.com/tech/2243759-ne-parle-jamais-de-gobelins-une-etrange-consigne-cachee-dans-lia-dopenai-provoque-des-debats-sans-fin.html"
+    },
+    {
+      "id": "mok5n5qbwe16ix0n6cg",
+      "title": "Firestorm Labs raises $82M to take drone factories into the field",
+      "summary": "A defense startup just raised $82 million to put drone factories inside shipping containers and bring manufacturing to the front lines....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Funding",
+      "tags": [
+        "Startup"
+      ],
+      "publishedAt": "Wed, 29 Apr 2026 13:10:57 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/04/29/firestorm-labs-raises-82m-to-take-drone-factories-into-the-field/"
+    },
+    {
+      "id": "mok5n5qc68u7gkc2cw5",
+      "title": "Meet Shapes, the app bringing humans and AI into the same group chats",
+      "summary": "Think Discord chats, but with AI characters in addition to humans. ...",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Wed, 29 Apr 2026 13:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/04/29/meet-shapes-the-app-bringing-humans-and-ai-into-the-same-group-chats/"
+    },
+    {
+      "id": "mok5n7jqy90ppafdu0p",
+      "title": "The MIT-IBM Computing Research Lab launches to shape the future of AI and quantum computing",
+      "summary": "Building on a long-standing MIT–IBM collaboration, the new lab will chart the convergence of AI, algorithms, and quantum computing....",
+      "source": {
+        "name": "MIT News AI",
+        "url": "https://news.mit.edu",
+        "favicon": "https://www.google.com/s2/favicons?domain=news.mit.edu&sz=64"
+      },
+      "category": "Product",
+      "tags": [],
+      "publishedAt": "Wed, 29 Apr 2026 06:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800",
+      "readTime": 1,
+      "originalUrl": "https://news.mit.edu/2026/mit-ibm-computing-research-lab-launches-0429"
+    },
+    {
+      "id": "mok5n5qdy7uya81n93a",
+      "title": "Colby Adcock’s Scout AI raises $100M to train its models for war. We visited its bootcamp",
+      "summary": "We visited Scout AI's training ground where it's working on AI agents that can help individual soldiers control fleets of autonomous vehicles....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Wed, 29 Apr 2026 09:45:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/04/29/coby-adcocks-scout-ai-raises-100-million-to-train-models-for-war-we-visited-its-bootcamp/"
+    },
     {
       "id": "mojsurjwxyr30bh9yyk",
       "title": "ChatGPT s’amuse à dire qu’il a résolu une énigme sur laquelle il passait pour un idiot",
@@ -102,6 +186,24 @@
       "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
       "readTime": 1,
       "originalUrl": "https://www.maddyness.com/2026/04/29/ia-le-marche-de-lemploi-dans-la-tech-en-pleine-restructuration/"
+    },
+    {
+      "id": "mok5n86k45qx9vlk5ww",
+      "title": "Cybersecurity in the Intelligence Age",
+      "summary": "OpenAI outlines a five-part action plan for strengthening cybersecurity in the Intelligence Age, focused on democratizing AI-powered cyber defense and protecting critical systems....",
+      "source": {
+        "name": "OpenAI News",
+        "url": "https://openai.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "OpenAI"
+      ],
+      "publishedAt": "Wed, 29 Apr 2026 04:00:00 GMT",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://openai.com/index/cybersecurity-in-the-intelligence-age"
     },
     {
       "id": "mojj7qhs4k8o0gw6rwh",
@@ -765,115 +867,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800",
       "readTime": 1,
       "originalUrl": "https://techcrunch.com/2026/04/27/china-vetoes-metas-2b-manus-deal-after-months-long-probe/"
-    },
-    {
-      "id": "mohama8lr2s8zz4zhie",
-      "title": "OpenAI could be making a phone with AI agents replacing apps",
-      "summary": "The phone could go in mass production in 2028, an analyst says....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Product",
-      "tags": [
-        "OpenAI"
-      ],
-      "publishedAt": "Mon, 27 Apr 2026 13:08:59 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1550009158-9ebf690be655?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/04/27/openai-could-be-making-a-phone-with-ai-agents-replacing-apps/"
-    },
-    {
-      "id": "mohambnv480pspptb3c",
-      "title": "Rebuilding the data stack for AI",
-      "summary": "Artificial intelligence may be dominating boardroom agendas, but many enterprises are discovering that the biggest obstacle to meaningful adoption is the state of their data. While consumer-facing AI tools have dazzled users with speed and ease, enterprise leaders are discovering...",
-      "source": {
-        "name": "MIT Tech Review AI",
-        "url": "https://www.technologyreview.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.technologyreview.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Mon, 27 Apr 2026 13:00:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.technologyreview.com/2026/04/27/1136322/rebuilding-the-data-stack-for-ai/"
-    },
-    {
-      "id": "mohama8l9xdtzcghh2",
-      "title": "Meta inks deal for solar power at night, beamed from space",
-      "summary": "Overview Energy's first contract with Meta is a small step toward a future of space-based solar power. ...",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Meta"
-      ],
-      "publishedAt": "Mon, 27 Apr 2026 10:00:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/04/27/meta-inks-deal-for-solar-power-at-night-beamed-from-space/"
-    },
-    {
-      "id": "mohamgj0lq1kbrkhj58",
-      "title": "La Chine bloque l’acquisition par Meta de Manus, l’agent d’IA développé par une start-up chinoise, sur fond de rivalité technologique",
-      "summary": "Pékin affirme sa souveraineté numérique en s’opposant à l’entrée de Meta sur le marché stratégique de l’IA chinoise, illustrant la montée des tensions technologiques mondiales....",
-      "source": {
-        "name": "Le Monde Tech",
-        "url": "https://www.lemonde.fr",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.lemonde.fr&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Meta"
-      ],
-      "publishedAt": "Mon, 27 Apr 2026 11:51:11 +0200",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.lemonde.fr/international/article/2026/04/27/la-chine-bloque-l-acquisition-par-meta-de-l-ia-dernier-cri-manus-sur-fond-de-rivalite-technologique_6683633_3210.html"
-    },
-    {
-      "id": "mohamed9a3vr6uyazbm",
-      "title": "Meta AI Releases Sapiens2: A High-Resolution Human-Centric Vision Model for Pose, Segmentation, Normals, Pointmap, and Albedo",
-      "summary": "...",
-      "source": {
-        "name": "MarkTechPost",
-        "url": "https://www.marktechpost.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Meta"
-      ],
-      "publishedAt": "Mon, 27 Apr 2026 08:47:20 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.marktechpost.com/2026/04/27/meta-ai-releases-sapiens2-a-high-resolution-human-centric-vision-model-for-pose-segmentation-normals-pointmap-and-albedo/"
-    },
-    {
-      "id": "mogy859wnrs9axntcm",
-      "title": "SquareMind lève 18 millions de dollars pour son robot permettant de détecter les cancers de la peau",
-      "summary": "...",
-      "source": {
-        "name": "Maddyness",
-        "url": "https://www.maddyness.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.maddyness.com&sz=64"
-      },
-      "category": "Funding",
-      "tags": [
-        "Robotics"
-      ],
-      "publishedAt": "Mon, 27 Apr 2026 06:01:13 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.maddyness.com/2026/04/27/squaremind-leve-18-millions-de-dollars-pour-son-robot-permettant-de-detecter-les-cancers-de-la-peau/"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-04-29T08:35:09.345Z",
-  "edition": 54
+  "lastUpdated": "2026-04-29T14:33:18.338Z",
+  "edition": 55
 }
