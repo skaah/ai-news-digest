@@ -1,6 +1,24 @@
 {
-  "date": "2026-04-30T08:36:51.578Z",
+  "date": "2026-04-30T14:26:06.590Z",
   "articles": [
+    {
+      "id": "molktr2fthzpm4qwb2",
+      "title": "Meta says its business AI now facilitates 10 million conversations a week",
+      "summary": "Meta said over 8 billion advertisers have used at least one of its gen AI tools...",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Funding",
+      "tags": [
+        "Meta"
+      ],
+      "publishedAt": "Thu, 30 Apr 2026 12:08:45 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/04/30/meta-says-its-business-ai-now-facilitates-10-million-conversations-a-week/"
+    },
     {
       "id": "mol8csqnyek1bd3fhif",
       "title": "« D’où viennent les gobelins ? » : OpenAI explique l’obsession de ChatGPT pour les créatures fantastiques",
@@ -834,28 +852,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=800",
       "readTime": 1,
       "originalUrl": "https://techcrunch.com/2026/04/28/amazon-launches-an-ai-powered-audio-qa-experience-on-product-pages/"
-    },
-    {
-      "id": "moj1tpijb1zhqkok6mt",
-      "title": "Google expands Pentagon’s access to its AI after Anthropic’s refusal",
-      "summary": "After Anthropic refused to allow the DoD to use its AI for domestic mass surveillance and autonomous weapons, Google has signed a new contract with the department....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Anthropic",
-        "Google"
-      ],
-      "publishedAt": "Tue, 28 Apr 2026 18:15:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/04/28/google-expands-pentagons-access-to-its-ai-after-anthropics-refusal/"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-04-30T08:36:51.578Z",
-  "edition": 58
+  "lastUpdated": "2026-04-30T14:26:06.590Z",
+  "edition": 59
 }
