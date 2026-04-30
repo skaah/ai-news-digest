@@ -1,6 +1,56 @@
 {
-  "date": "2026-04-30T04:07:02.761Z",
+  "date": "2026-04-30T08:36:51.578Z",
   "articles": [
+    {
+      "id": "mol8csqnyek1bd3fhif",
+      "title": "« D’où viennent les gobelins ? » : OpenAI explique l’obsession de ChatGPT pour les créatures fantastiques",
+      "summary": "...",
+      "source": {
+        "name": "Numerama",
+        "url": "https://www.numerama.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "OpenAI"
+      ],
+      "publishedAt": "Thu, 30 Apr 2026 08:01:38 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.numerama.com/tech/2244409-dou-viennent-les-gobelins-openai-explique-lobsession-de-chatgpt-pour-les-creatures-fantastiques.html"
+    },
+    {
+      "id": "mol8cpikowlv984iq2o",
+      "title": "IBM Releases Two Granite Speech 4.1 2B Models: Autoregressive ASR with Translation and Non-Autoregressive Editing for Fast Inference",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Thu, 30 Apr 2026 07:01:42 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/04/30/ibm-releases-two-granite-speech-4-1-2b-models-autoregressive-asr-with-translation-and-non-autoregressive-editing-for-fast-inference/"
+    },
+    {
+      "id": "mol8cpilhvqe1s3d0m",
+      "title": "Cursor Introduces a TypeScript SDK for Building Programmatic Coding Agents With Sandboxed Cloud VMs, Subagents, Hooks, and Token-Based Pricing",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Thu, 30 Apr 2026 04:40:37 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/04/29/cursor-introduces-a-typescript-sdk-for-building-programmatic-coding-agents-with-sandboxed-cloud-vms-subagents-hooks-and-token-based-pricing/"
+    },
     {
       "id": "mokypr9qjgs7p7flxw9",
       "title": "Operating-Layer Controls for Onchain Language-Model Agents Under Real Capital",
@@ -803,62 +853,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
       "readTime": 1,
       "originalUrl": "https://techcrunch.com/2026/04/28/google-expands-pentagons-access-to-its-ai-after-anthropics-refusal/"
-    },
-    {
-      "id": "moj1tpikj1jvgwfaxtq",
-      "title": "Lovable launches its vibe-coding app on iOS and Android",
-      "summary": "The app allows developers to vibe code web apps and websites on the go. ...",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Product",
-      "tags": [],
-      "publishedAt": "Tue, 28 Apr 2026 16:09:30 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/04/28/lovable-launches-its-vibe-coding-app-on-ios-and-android/"
-    },
-    {
-      "id": "moj1txqrs8is9wzzi",
-      "title": "« Une sorte de blocage mental » : un amateur armé de ChatGPT résout un problème mathématique vieux de 60 ans",
-      "summary": "...",
-      "source": {
-        "name": "Numerama",
-        "url": "https://www.numerama.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
-      },
-      "category": "Policy",
-      "tags": [
-        "OpenAI"
-      ],
-      "publishedAt": "Tue, 28 Apr 2026 16:03:52 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1575517111839-3a3843ee7f5d?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.numerama.com/tech/2242081-vibe-mathing-un-amateur-arme-de-chatgpt-a-craque-une-enigme-mathematique-vieille-de-60-ans.html"
-    },
-    {
-      "id": "moj1tsm4c5dbat3o3jw",
-      "title": "Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents",
-      "summary": "...",
-      "source": {
-        "name": "Hugging Face Blog",
-        "url": "https://huggingface.co",
-        "favicon": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Nvidia",
-        "Multimodal"
-      ],
-      "publishedAt": "Tue, 28 Apr 2026 15:58:57 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-04-30T04:07:02.761Z",
-  "edition": 57
+  "lastUpdated": "2026-04-30T08:36:51.578Z",
+  "edition": 58
 }
