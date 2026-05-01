@@ -1,6 +1,94 @@
 {
-  "date": "2026-05-01T13:56:41.954Z",
+  "date": "2026-05-01T19:41:59.740Z",
   "articles": [
+    {
+      "id": "monbjuaarcagb0dpyho",
+      "title": "Did you know you can’t steal a charity? Don’t worry. Elon Musk will remind you.",
+      "summary": "Elon Musk spent the better part of three days on the witness stand this week in his lawsuit against OpenAI, and it’s already getting messy. Emails, texts, and his own tweets are surfacing in court, and there are plenty more witnesses to come. Musk’s argument against OpenAI? By co...",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Policy",
+      "tags": [
+        "OpenAI"
+      ],
+      "publishedAt": "Fri, 01 May 2026 17:44:29 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/podcast/did-you-know-you-cant-steal-a-charity-dont-worry-elon-musk-will-remind-you/"
+    },
+    {
+      "id": "monbjuab560eapmtw9i",
+      "title": "Pentagon inks deals with Nvidia, Microsoft, and AWS to deploy AI on classified networks",
+      "summary": "The deals come as the DOD has doubled down on diversifying its exposure to AI vendors in the wake of its controversial dispute with Anthropic over usage terms of its AI models....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Anthropic",
+        "Microsoft",
+        "Nvidia"
+      ],
+      "publishedAt": "Fri, 01 May 2026 16:02:36 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/05/01/pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-networks/"
+    },
+    {
+      "id": "monbjvjzolx580exiu8",
+      "title": "Cyber-Insecurity in the AI Era",
+      "summary": "Cybersecurity was already under strain before AI entered the stack. Now, as AI expands the attack surface and adds new complexity, the limits of legacy approaches are becoming harder to ignore. This session from MIT Technology Review’s EmTech AI conference explores why security m...",
+      "source": {
+        "name": "MIT Tech Review AI",
+        "url": "https://www.technologyreview.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.technologyreview.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Fri, 01 May 2026 15:54:01 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.technologyreview.com/2026/05/01/1136779/cyber-insecurity-in-the-ai-era/"
+    },
+    {
+      "id": "monbjvk0pdnmrzfna7",
+      "title": "Operationalizing AI for Scale and Sovereignty",
+      "summary": "Companies are taking control of their own data to tailor AI for their needs. The challenge lies in balancing ownership with the safe, trusted flow of high‑quality data needed to power reliable insights. This conversation from MIT Technology Review’s EmTech AI conference examines ...",
+      "source": {
+        "name": "MIT Tech Review AI",
+        "url": "https://www.technologyreview.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.technologyreview.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Fri, 01 May 2026 15:31:09 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.technologyreview.com/2026/05/01/1136772/operationalizing-ai-for-scale-and-sovereignty/"
+    },
+    {
+      "id": "monbjuabqvufvzpfys",
+      "title": "Musk v. Altman is just getting started",
+      "summary": "Elon Musk spent the better part of three days on the witness stand this week in his lawsuit against OpenAI, and it’s already getting messy. Emails, texts, and his own tweets are surfacing in court, and there are plenty more witnesses to come. Musk’s arg...",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Policy",
+      "tags": [
+        "OpenAI"
+      ],
+      "publishedAt": "Fri, 01 May 2026 14:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/video/musk-v-altman-is-just-getting-started/"
+    },
     {
       "id": "momz7yy5nosnwl5tao",
       "title": "Au fait, pourquoi l’IA Claude d’Anthropic s’appelle Claude ?",
@@ -769,95 +857,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
       "readTime": 1,
       "originalUrl": "https://www.marktechpost.com/2026/04/29/top-10-kv-cache-compression-techniques-for-llm-inference-reducing-memory-overhead-across-eviction-quantization-and-low-rank-methods/"
-    },
-    {
-      "id": "mokh6cax5a2l69irsd",
-      "title": "Is AI video just a prequel? Runway’s CEO thinks world models are next",
-      "summary": "AI-generated video has gone from novelty to creative tool almost overnight, and Runway has a front row seat to the shift. The New York-based company has raised close to $860 million at a $5.3 billion valuation, and its models are going toe-to-toe with the most well-funded labs in...",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Funding",
-      "tags": [],
-      "publishedAt": "Wed, 29 Apr 2026 18:59:44 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/podcast/equity-podcast-runway-ceo-cristobal-valenzuela-ai-video-world-models/"
-    },
-    {
-      "id": "mokh6caygu4fefxzkfk",
-      "title": "Parallel Web Systems hits $2B valuation five months after its last big raise",
-      "summary": "The AI agent-tool startup founded by former Twitter CEO Parag Agrawal has raised $100 million, led by Sequoia, months after raising a previous $100 million....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Funding",
-      "tags": [
-        "Startup"
-      ],
-      "publishedAt": "Wed, 29 Apr 2026 18:33:05 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/04/29/parallel-web-systems-hits-2b-valuation-five-months-after-its-last-big-raise/"
-    },
-    {
-      "id": "mokh6gnyoxjz4phkub",
-      "title": "Qwen Team Releases FlashQLA: a High-Performance Linear Attention Kernel Library That Achieves Up to 3× Speedup on NVIDIA Hopper GPUs",
-      "summary": "...",
-      "source": {
-        "name": "MarkTechPost",
-        "url": "https://www.marktechpost.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
-      },
-      "category": "Hardware",
-      "tags": [
-        "Nvidia"
-      ],
-      "publishedAt": "Wed, 29 Apr 2026 17:28:17 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.marktechpost.com/2026/04/29/qwen-team-releases-flashqla-a-high-performance-linear-attention-kernel-library-that-achieves-up-to-3x-speedup-on-nvidia-hopper-gpus/"
-    },
-    {
-      "id": "mokh6fitwwvq6iz3xlf",
-      "title": "AI evals are becoming the new compute bottleneck",
-      "summary": "...",
-      "source": {
-        "name": "Hugging Face Blog",
-        "url": "https://huggingface.co",
-        "favicon": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Wed, 29 Apr 2026 16:45:09 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://huggingface.co/blog/evaleval/eval-costs-bottleneck"
-    },
-    {
-      "id": "mokh6cay36pq6f3pc5f",
-      "title": "Google Photos uses AI to make the iconic closet from ‘Clueless’ a reality",
-      "summary": "Google says the new feature will leverage AI technology to automatically create a copy of your wardrobe that's based on the pieces of clothing appearing in your Google Photos library....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Google"
-      ],
-      "publishedAt": "Wed, 29 Apr 2026 16:42:33 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/04/29/google-photos-uses-ai-to-make-the-iconic-closet-from-clueless-a-reality/"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-05-01T13:56:41.954Z",
-  "edition": 63
+  "lastUpdated": "2026-05-01T19:41:59.740Z",
+  "edition": 64
 }
