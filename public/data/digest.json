@@ -1,6 +1,40 @@
 {
-  "date": "2026-05-01T08:26:09.309Z",
+  "date": "2026-05-01T13:56:41.954Z",
   "articles": [
+    {
+      "id": "momz7yy5nosnwl5tao",
+      "title": "Au fait, pourquoi l’IA Claude d’Anthropic s’appelle Claude ?",
+      "summary": "...",
+      "source": {
+        "name": "Numerama",
+        "url": "https://www.numerama.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Anthropic"
+      ],
+      "publishedAt": "Fri, 01 May 2026 09:01:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.numerama.com/tech/2235401-au-fait-pourquoi-claude-sappelle-claude.html"
+    },
+    {
+      "id": "momz7thosqrhc5cdxf8",
+      "title": "A new US phone network for Christians aims to block porn and gender-related content",
+      "summary": "A new US-wide cell phone network marketed to Christians is set to launch next week. It blocks porn, which experts in network security say marks the first time a US cell plan has used network-level blocking for such content that can’t be turned off even by adult account owners. It...",
+      "source": {
+        "name": "MIT Tech Review AI",
+        "url": "https://www.technologyreview.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.technologyreview.com&sz=64"
+      },
+      "category": "Product",
+      "tags": [],
+      "publishedAt": "Fri, 01 May 2026 09:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1550009158-9ebf690be655?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.technologyreview.com/2026/05/01/1136739/a-new-t-mobile-network-for-christians-aims-to-block-porn-and-gender-related-content/"
+    },
     {
       "id": "momneswfzezzm0ajctd",
       "title": "Qwen AI Releases Qwen-Scope: An Open-Source Sparse AutoEncoders (SAE) Suite That Turns LLM Internal Features into Practical Development Tools",
@@ -821,45 +855,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
       "readTime": 1,
       "originalUrl": "https://techcrunch.com/2026/04/29/google-photos-uses-ai-to-make-the-iconic-closet-from-clueless-a-reality/"
-    },
-    {
-      "id": "mokh6cazx02e0rj1mh",
-      "title": "More Gemini features are coming to Google TV",
-      "summary": "Google TV just got more Gemini features, including the ability to transform photos and videos with tools Nano Banana and Veo. ...",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Google"
-      ],
-      "publishedAt": "Wed, 29 Apr 2026 16:40:49 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/04/29/more-gemini-features-are-coming-to-google-tv/"
-    },
-    {
-      "id": "mokh6gnyormji3pvky",
-      "title": "Step by Step Guide to Build a Complete PII Detection and Redaction Pipeline with OpenAI Privacy Filter",
-      "summary": "...",
-      "source": {
-        "name": "MarkTechPost",
-        "url": "https://www.marktechpost.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "OpenAI"
-      ],
-      "publishedAt": "Wed, 29 Apr 2026 16:38:30 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.marktechpost.com/2026/04/29/step-by-step-guide-to-build-a-complete-pii-detection-and-redaction-pipeline-with-openai-privacy-filter/"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-05-01T08:26:09.309Z",
-  "edition": 62
+  "lastUpdated": "2026-05-01T13:56:41.954Z",
+  "edition": 63
 }
