@@ -1,5 +1,5 @@
 {
-  "date": "2026-05-02T03:54:26.817Z",
+  "date": "2026-05-02T08:00:53.619Z",
   "articles": [
     {
       "id": "mont55evko7c19j69sa",
@@ -54,6 +54,24 @@
       "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
       "readTime": 1,
       "originalUrl": "https://www.technologyreview.com/2026/05/01/1136800/musk-v-altman-week-1-musk-says-he-was-duped-warns-ai-could-kill-us-all-and-admits-that-xai-distills-openais-models/"
+    },
+    {
+      "id": "moo1y8x9646ihabcpce",
+      "title": "Le Pentagone accélère son utilisation de l’IA en signant des contrats avec sept concurrents d’Anthropic",
+      "summary": "L’accord doit permettre l’émergence de nouvelles capacités, deux mois après le conflit entre le gouvernement américain et le créateur du modèle Claude, après que l’entreprise a souhaité empêcher le département de la défense de l’utiliser pour la surveillance de masse et l’usage s...",
+      "source": {
+        "name": "Le Monde Tech",
+        "url": "https://www.lemonde.fr",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.lemonde.fr&sz=64"
+      },
+      "category": "Policy",
+      "tags": [
+        "Anthropic"
+      ],
+      "publishedAt": "Sat, 02 May 2026 00:01:38 +0200",
+      "imageUrl": "https://images.unsplash.com/photo-1555848962-6e79363ec58f?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.lemonde.fr/international/article/2026/05/02/le-pentagone-accelere-son-utilisation-de-l-intelligence-artificielle-en-signant-des-contrats-avec-sept-concurrents-d-anthropic_6684756_3210.html"
     },
     {
       "id": "monbjuaarcagb0dpyho",
@@ -841,27 +859,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
       "readTime": 1,
       "originalUrl": "https://techcrunch.com/2026/04/29/on-the-stand-elon-musk-cant-escape-his-own-tweets/"
-    },
-    {
-      "id": "mokypmvcwheqky22xjf",
-      "title": "Meta is still burning money on AR/VR",
-      "summary": "Meta is losing billions on Reality Labs each quarter, and its AI expenditures are only going to increase its spending....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Funding",
-      "tags": [
-        "Meta"
-      ],
-      "publishedAt": "Wed, 29 Apr 2026 23:58:26 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/04/29/meta-is-still-burning-money-on-ar-vr/"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-05-02T03:54:26.817Z",
-  "edition": 65
+  "lastUpdated": "2026-05-02T08:00:53.619Z",
+  "edition": 66
 }
