@@ -1,6 +1,22 @@
 {
-  "date": "2026-05-02T13:50:56.755Z",
+  "date": "2026-05-02T19:29:43.542Z",
   "articles": [
+    {
+      "id": "mooqjwmanleq4t4gyzd",
+      "title": "The best AI dictation apps, tested and ranked",
+      "summary": "AI-powered dictation apps are useful for replying to emails, taking notes, and even coding through your voice...",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Sat, 02 May 2026 16:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/05/02/the-best-ai-powered-dictation-apps-of-2025/"
+    },
     {
       "id": "mooegff1u5s8nnjm9t",
       "title": "Au fait, pourquoi Anthropic s’appelle Anthropic ?",
@@ -845,25 +861,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
       "readTime": 1,
       "originalUrl": "https://arxiv.org/abs/2604.26106"
-    },
-    {
-      "id": "mokypr9rvx3qljlox",
-      "title": "Hierarchical Multi-Persona Induction from User Behavioral Logs: Learning Evidence-Grounded and Truthful Personas",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Thu, 30 Apr 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2604.26120"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-05-02T13:50:56.755Z",
-  "edition": 67
+  "lastUpdated": "2026-05-02T19:29:43.542Z",
+  "edition": 68
 }
