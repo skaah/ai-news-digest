@@ -1,6 +1,24 @@
 {
-  "date": "2026-05-03T13:50:57.280Z",
+  "date": "2026-05-03T19:29:40.364Z",
   "articles": [
+    {
+      "id": "moq5zoz0zoufxg2x20h",
+      "title": "In Harvard study, AI offered more accurate emergency room diagnoses than two human doctors",
+      "summary": "A new study examines how large language models perform in a variety of medical contexts, including real emergency room cases — where at least one model seemed to be more accurate than human doctors....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Research",
+      "tags": [
+        "LLM"
+      ],
+      "publishedAt": "Sun, 03 May 2026 18:00:09 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/05/03/in-harvard-study-ai-offered-more-accurate-diagnoses-than-emergency-room-doctors/"
+    },
     {
       "id": "mophyqy8iaamtez2w7j",
       "title": "Sakana AI Introduces KAME: A Tandem Speech-to-Speech Architecture That Injects LLM Knowledge in Real Time",
@@ -847,27 +865,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=800",
       "readTime": 1,
       "originalUrl": "https://techcrunch.com/2026/04/30/meta-says-its-business-ai-now-facilitates-10-million-conversations-a-week/"
-    },
-    {
-      "id": "mol8csqnyek1bd3fhif",
-      "title": "« D’où viennent les gobelins ? » : OpenAI explique l’obsession de ChatGPT pour les créatures fantastiques",
-      "summary": "...",
-      "source": {
-        "name": "Numerama",
-        "url": "https://www.numerama.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "OpenAI"
-      ],
-      "publishedAt": "Thu, 30 Apr 2026 08:01:38 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.numerama.com/tech/2244409-dou-viennent-les-gobelins-openai-explique-lobsession-de-chatgpt-pour-les-creatures-fantastiques.html"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-05-03T13:50:57.280Z",
-  "edition": 71
+  "lastUpdated": "2026-05-03T19:29:40.364Z",
+  "edition": 72
 }
