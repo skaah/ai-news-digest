@@ -1,6 +1,142 @@
 {
-  "date": "2026-05-03T19:29:40.364Z",
+  "date": "2026-05-04T04:12:29.787Z",
   "articles": [
+    {
+      "id": "moqoo617s1zlbvcf9gl",
+      "title": "TADI: Tool-Augmented Drilling Intelligence via Agentic LLM Orchestration over Heterogeneous Wellsite Data",
+      "summary": "...",
+      "source": {
+        "name": "ArXiv cs.AI",
+        "url": "https://arxiv.org",
+        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "LLM"
+      ],
+      "publishedAt": "Mon, 04 May 2026 00:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://arxiv.org/abs/2605.00060"
+    },
+    {
+      "id": "moqoo618koh5p8q3ef9",
+      "title": "AgentReputation: A Decentralized Agentic AI Reputation Framework",
+      "summary": "...",
+      "source": {
+        "name": "ArXiv cs.AI",
+        "url": "https://arxiv.org",
+        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Mon, 04 May 2026 00:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://arxiv.org/abs/2605.00073"
+    },
+    {
+      "id": "moqoo618fub5gcpdyhc",
+      "title": "Minimal, Local, Causal Explanations for Jailbreak Success in Large Language Models",
+      "summary": "...",
+      "source": {
+        "name": "ArXiv cs.AI",
+        "url": "https://arxiv.org",
+        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "LLM"
+      ],
+      "publishedAt": "Mon, 04 May 2026 00:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://arxiv.org/abs/2605.00123"
+    },
+    {
+      "id": "moqoo6196ooktpgv8df",
+      "title": "Are Tools All We Need? Unveiling the Tool-Use Tax in LLM Agents",
+      "summary": "...",
+      "source": {
+        "name": "ArXiv cs.AI",
+        "url": "https://arxiv.org",
+        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "LLM"
+      ],
+      "publishedAt": "Mon, 04 May 2026 00:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://arxiv.org/abs/2605.00136"
+    },
+    {
+      "id": "moqoo61957wgro43317",
+      "title": "TUR-DPO: Topology- and Uncertainty-Aware Direct Preference Optimization",
+      "summary": "...",
+      "source": {
+        "name": "ArXiv cs.AI",
+        "url": "https://arxiv.org",
+        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Mon, 04 May 2026 00:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://arxiv.org/abs/2605.00224"
+    },
+    {
+      "id": "moqoo5iz55idav0p1pq",
+      "title": "A Developer’s Guide to Systematic Prompting: Mastering Negative Constraints, Structured JSON Outputs, and Multi-Hypothesis Verbalized Sampling",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Sun, 03 May 2026 21:41:48 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/05/03/a-developers-guide-to-systematic-prompting-mastering-negative-constraints-structured-json-outputs-and-multi-hypothesis-verbalized-sampling/"
+    },
+    {
+      "id": "moqoo5j00yq0rh5h39o",
+      "title": "A Coding Implementation to Explore and Analyze the TaskTrove Dataset with Streaming Parsing Visualization and Verifier Detection",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Sun, 03 May 2026 21:26:42 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/05/03/a-coding-implementation-to-explore-and-analyze-the-tasktrove-dataset-with-streaming-parsing-visualization-and-verifier-detection/"
+    },
+    {
+      "id": "moqoo1eki3glkcd0j28",
+      "title": "‘This is fine’ creator says AI startup stole his art",
+      "summary": "The ad comes from Artisan, the AI startup behind billboards urging businesses to \"stop hiring humans.\"...",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Startup"
+      ],
+      "publishedAt": "Sun, 03 May 2026 20:16:51 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/05/03/this-is-fine-creator-says-ai-startup-stole-his-art/"
+    },
     {
       "id": "moq5zoz0zoufxg2x20h",
       "title": "In Harvard study, AI offered more accurate emergency room diagnoses than two human doctors",
@@ -723,151 +859,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1550009158-9ebf690be655?w=800",
       "readTime": 1,
       "originalUrl": "https://techcrunch.com/2026/04/30/openai-announces-new-advanced-security-for-chatgpt-accounts-including-a-partnership-with-yubico/"
-    },
-    {
-      "id": "molwguikn2t8dk0wt5b",
-      "title": "Elon Musk testifies that xAI trained Grok on OpenAI models",
-      "summary": "\"Distillation\" is a hot topic as frontier labs try to prevent smaller competitors from copying their models....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "OpenAI"
-      ],
-      "publishedAt": "Thu, 30 Apr 2026 18:03:57 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/04/30/elon-musk-testifies-that-xai-trained-grok-on-openai-models/"
-    },
-    {
-      "id": "molwguikyg0g2o75adj",
-      "title": "FDA approval, fundraising, and the reality of building in healthcare according to BioticsAI founder",
-      "summary": "BioticsAI CEO Robhy Bustami joined Isabelle Johannessen on Build Mode to discuss how the company has navigated a highly regulated space and kept the team motivated while cutting through all the red tape....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Thu, 30 Apr 2026 17:53:53 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/04/30/fda-approval-fundraising-and-the-reality-of-building-in-healthcare-according-to-bioticsai-founder/"
-    },
-    {
-      "id": "molwguil2yiwr9ul8ik",
-      "title": "Google’s Gemini AI assistant is hitting the road in millions of vehicles",
-      "summary": "The move signals Google’s push to bring more advanced, conversational AI into the driving experience....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Funding",
-      "tags": [
-        "Google"
-      ],
-      "publishedAt": "Thu, 30 Apr 2026 17:46:54 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/04/30/googles-gemini-ai-assistant-is-hitting-the-road-in-millions-of-vehicles/"
-    },
-    {
-      "id": "molwgw1ghvp0xshizs",
-      "title": "This startup’s new mechanistic interpretability tool lets you debug LLMs",
-      "summary": "The San Francisco–based startup Goodfire just released a new tool, called Silico, that lets researchers and engineers peer inside an AI model and adjust its parameters—the settings that determine a model’s behavior—during training. This could give model makers more fine-grained c...",
-      "source": {
-        "name": "MIT Tech Review AI",
-        "url": "https://www.technologyreview.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.technologyreview.com&sz=64"
-      },
-      "category": "Research",
-      "tags": [
-        "LLM",
-        "Startup"
-      ],
-      "publishedAt": "Thu, 30 Apr 2026 15:59:41 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.technologyreview.com/2026/04/30/1136721/this-startups-new-mechanistic-interpretability-tool-lets-you-debug-llms/"
-    },
-    {
-      "id": "molwgyv67i7qognetfd",
-      "title": "A Coding Implementation on Pyright Type Checking Covering Generics, Protocols, Strict Mode, Type Narrowing, and Modern Python Typing",
-      "summary": "...",
-      "source": {
-        "name": "MarkTechPost",
-        "url": "https://www.marktechpost.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Thu, 30 Apr 2026 15:33:36 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.marktechpost.com/2026/04/30/a-coding-implementation-on-pyright-type-checking-covering-generics-protocols-strict-mode-type-narrowing-and-modern-python-typing/"
-    },
-    {
-      "id": "molwh2hqf1g2xphj1q4",
-      "title": "On annonçait sa mort face à ChatGPT, mais Google n’a jamais gagné autant d’argent",
-      "summary": "...",
-      "source": {
-        "name": "Numerama",
-        "url": "https://www.numerama.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "OpenAI",
-        "Google"
-      ],
-      "publishedAt": "Thu, 30 Apr 2026 15:30:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.numerama.com/tech/2244415-on-annoncait-sa-mort-face-a-chatgpt-mais-google-na-jamais-gagne-autant-dargent.html"
-    },
-    {
-      "id": "molwh2hs2yzduupdbj",
-      "title": "Un robot humanoïde par heure : face à l’offensive chinoise, ce fabricant américain multiplie par 24 sa production",
-      "summary": "...",
-      "source": {
-        "name": "Numerama",
-        "url": "https://www.numerama.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
-      },
-      "category": "Product",
-      "tags": [
-        "Robotics"
-      ],
-      "publishedAt": "Thu, 30 Apr 2026 14:36:35 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.numerama.com/tech/2245073-un-robot-humanoide-par-heure-face-a-loffensive-chinoise-ce-fabricant-americain-multiplie-par-24-sa-production.html"
-    },
-    {
-      "id": "molktr2fthzpm4qwb2",
-      "title": "Meta says its business AI now facilitates 10 million conversations a week",
-      "summary": "Meta said over 8 billion advertisers have used at least one of its gen AI tools...",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Funding",
-      "tags": [
-        "Meta"
-      ],
-      "publishedAt": "Thu, 30 Apr 2026 12:08:45 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/04/30/meta-says-its-business-ai-now-facilitates-10-million-conversations-a-week/"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-05-03T19:29:40.364Z",
-  "edition": 72
+  "lastUpdated": "2026-05-04T04:12:29.787Z",
+  "edition": 73
 }
