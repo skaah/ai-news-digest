@@ -1,6 +1,42 @@
 {
-  "date": "2026-05-04T19:57:28.054Z",
+  "date": "2026-05-05T03:52:53.932Z",
   "articles": [
+    {
+      "id": "mos3eosavj89nqw2ro9",
+      "title": "As workers worry about AI, Nvidia’s Jensen Huang says AI is ‘creating an enormous number of jobs’",
+      "summary": "The Nvidia CEO seems to feel that claims of AI's job-killing potential have been greatly exaggerated. ...",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Nvidia"
+      ],
+      "publishedAt": "Tue, 05 May 2026 03:31:54 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/05/04/as-workers-worry-about-ai-nvidias-jensen-huang-says-ai-is-creating-an-enormous-number-of-jobs/"
+    },
+    {
+      "id": "mos3eosb8vv1knqyskg",
+      "title": "OpenAI’s cozy partner Cerebras is on track for a blockbuster IPO",
+      "summary": "AI chip maker Cerebras is heading for a blockbuster IPO that could value it at $26.6 billion or more. Its relationship with OpenAI is deep and rich....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Funding",
+      "tags": [
+        "OpenAI"
+      ],
+      "publishedAt": "Mon, 04 May 2026 21:53:21 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/05/04/openais-cozy-partner-cerebras-is-on-track-for-a-blockbuster-ipo/"
+    },
     {
       "id": "mormfa3exq15fupenjg",
       "title": "Image AI models now drive app growth, beating chatbot upgrades",
@@ -823,43 +859,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800",
       "readTime": 1,
       "originalUrl": "https://arxiv.org/abs/2604.26999"
-    },
-    {
-      "id": "momf1n41yhi7e3afj0i",
-      "title": "Binary Spiking Neural Networks as Causal Models",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Policy",
-      "tags": [],
-      "publishedAt": "Fri, 01 May 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1575517111839-3a3843ee7f5d?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2604.27007"
-    },
-    {
-      "id": "momf1n428ipn4v58a7",
-      "title": "When Your LLM Reaches End-of-Life: A Framework for Confident Model Migration in Production Systems",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Product",
-      "tags": [
-        "LLM"
-      ],
-      "publishedAt": "Fri, 01 May 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2604.27082"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-05-04T19:57:28.054Z",
-  "edition": 76
+  "lastUpdated": "2026-05-05T03:52:53.932Z",
+  "edition": 77
 }
