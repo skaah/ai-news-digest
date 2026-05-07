@@ -1,6 +1,90 @@
 {
-  "date": "2026-05-07T04:08:05.045Z",
+  "date": "2026-05-07T08:48:59.104Z",
   "articles": [
+    {
+      "id": "mov8vaaxorl85bbgvw",
+      "title": "Meta AI Releases NeuralBench: A Unified Open-Source Framework to Benchmark NeuroAI Models Across 36 EEG Tasks and 94 Datasets",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Policy",
+      "tags": [
+        "Meta"
+      ],
+      "publishedAt": "Thu, 07 May 2026 08:37:32 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1575517111839-3a3843ee7f5d?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/05/07/meta-ai-releases-neuralbench-a-unified-open-source-framework-to-benchmark-neuroai-models-across-36-eeg-tasks-and-94-datasets/"
+    },
+    {
+      "id": "mov8vd2dy342rr9d5sc",
+      "title": "C’est la fin de xAI (Grok) : Elon Musk dévoile sa nouvelle stratégie IA",
+      "summary": "...",
+      "source": {
+        "name": "Numerama",
+        "url": "https://www.numerama.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Thu, 07 May 2026 07:52:29 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.numerama.com/tech/2248661-cest-la-fin-de-xai-grok-elon-musk-devoile-sa-nouvelle-strategie-ia.html"
+    },
+    {
+      "id": "mov8vaaywp0l01sdgbd",
+      "title": "OpenAI Introduces MRC (Multipath Reliable Connection): A New Open Networking Protocol for Large-Scale AI Supercomputer Training Clusters",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "OpenAI"
+      ],
+      "publishedAt": "Thu, 07 May 2026 07:50:02 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/05/07/openai-introduces-mrc-multipath-reliable-connection-a-new-open-networking-protocol-for-large-scale-ai-supercomputer-training-clusters/"
+    },
+    {
+      "id": "mov8vaayv1maq4xods",
+      "title": "Zyphra Releases ZAYA1-8B: A Reasoning MoE Trained on AMD Hardware That Punches Far Above Its Weight Class",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Hardware",
+      "tags": [],
+      "publishedAt": "Thu, 07 May 2026 05:44:59 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1555664424-778a69022365?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/05/06/zyphra-releases-zaya1-8b-a-reasoning-moe-trained-on-amd-hardware-that-punches-far-above-its-weight-class/"
+    },
+    {
+      "id": "mov8v6cfq28obm6avxc",
+      "title": "Five architects of the AI economy explain where the wheels are coming off",
+      "summary": "Earlier this week, five people who touch every layer of the AI supply chain sat down at the Milken Global Conference in Beverly Hills, where they talked with TechCrunch about everything from chip shortages to orbital data centers to the possibility that the whole architecture tha...",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Hardware",
+      "tags": [],
+      "publishedAt": "Thu, 07 May 2026 05:25:10 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/05/06/five-architects-of-the-ai-economy-explain-where-the-wheels-are-coming-off/"
+    },
     {
       "id": "mouytzbux2pg4yb3i5c",
       "title": "Study: Firms often use automation to control certain workers’ wages",
@@ -100,6 +184,22 @@
       "originalUrl": "https://arxiv.org/abs/2605.04227"
     },
     {
+      "id": "mov8vaayuxdjkb9exp",
+      "title": "A Groq-Powered Agentic Research Assistant with LangGraph, Tool Calling, Sub-Agents, and Agentic Memory: Lets Built It",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Research",
+      "tags": [],
+      "publishedAt": "Wed, 06 May 2026 23:00:03 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/05/06/a-groq-powered-agentic-research-assistant-with-langgraph-tool-calling-sub-agents-and-agentic-memory-lets-built-it/"
+    },
+    {
       "id": "mouytxlog26nzc84a9",
       "title": "Barry Diller trusts Sam Altman. But ‘trust is irrelevant’ as AGI nears, he says.",
       "summary": "Barry Diller defended OpenAI CEO Sam Altman, while warning that AGI remains an unpredictable force needing guardrails....",
@@ -148,6 +248,24 @@
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
       "readTime": 1,
       "originalUrl": "https://techcrunch.com/2026/05/06/is-xai-a-neocloud-now/"
+    },
+    {
+      "id": "mov8vaazwcahnesx6y",
+      "title": "CopilotKit Introduces Enterprise Intelligence Platform That Gives Agentic Applications Persistent Memory Across Sessions and Devices",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Microsoft"
+      ],
+      "publishedAt": "Wed, 06 May 2026 21:10:08 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/05/06/copilotkit-introduces-enterprise-intelligence-platform-that-gives-agentic-applications-persistent-memory-across-sessions-and-devices/"
     },
     {
       "id": "mouhiakvuqrd6fh2txg",
@@ -728,130 +846,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
       "readTime": 1,
       "originalUrl": "https://techcrunch.com/2026/05/05/apple-plans-to-make-ios-27-a-choose-your-own-adventure-of-ai-models/"
-    },
-    {
-      "id": "motjf957fnc0gsccvrk",
-      "title": "ASML CEO Christophe Fouquet on his company’s monopoly: no one is coming for us",
-      "summary": "Christophe Fouquet, who became ASML's CEO in 2024 after more than a decade at the company, sat down with this editor on the rooftop deck of his Beverly Hills hotel Tuesday morning ahead of his appearance at the Milken Institute Global Conference. Dressed in a blue suit and white ...",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Tue, 05 May 2026 20:06:40 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/05/05/asml-ceo-christophe-fouquet-no-one-is-coming-for-us/"
-    },
-    {
-      "id": "mot1qbx2opolc12vf1r",
-      "title": "Pennsylvania sues Character.AI after a chatbot allegedly posed as a doctor",
-      "summary": "According to Pennsylvania's filing, a Character.AI chatbot presented itself as a licensed psychiatrist during a state investigation, and also fabricated a serial number for its state medical license....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Tue, 05 May 2026 17:46:10 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/05/05/pennsylvania-sues-character-ai-after-a-chatbot-allegedly-posed-as-a-doctor/"
-    },
-    {
-      "id": "mot1qbx30hlhhuwe7v3",
-      "title": "OpenAI releases GPT-5.5 Instant, a new default model for ChatGPT",
-      "summary": "The company said the model reduces hallucination in sensitive areas such as law, medicine, and finance, while maintaining the low latency of its predecessor....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Policy",
-      "tags": [
-        "OpenAI"
-      ],
-      "publishedAt": "Tue, 05 May 2026 17:00:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/05/05/openai-releases-gpt-5-5-instant-a-new-default-model-for-chatgpt/"
-    },
-    {
-      "id": "mot1qkj86diw01k3mxp",
-      "title": "Google, Microsoft et xAI cèdent les clés de leurs futures IA au gouvernement américain",
-      "summary": "...",
-      "source": {
-        "name": "Numerama",
-        "url": "https://www.numerama.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
-      },
-      "category": "Policy",
-      "tags": [
-        "Google",
-        "Microsoft"
-      ],
-      "publishedAt": "Tue, 05 May 2026 16:08:22 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.numerama.com/tech/2247323-google-microsoft-et-xai-cedent-les-cles-de-leurs-futures-ia-au-gouvernement-americain.html"
-    },
-    {
-      "id": "mot1qbx38svbzfbsueb",
-      "title": "PayPal says it’s ‘becoming a technology company again’ — that means AI",
-      "summary": "PayPal is pitching an AI-led turnaround, tying automation and restructuring to $1.5 billion in savings as it cuts jobs and works to modernize its tech stack....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Funding",
-      "tags": [],
-      "publishedAt": "Tue, 05 May 2026 15:49:55 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/05/05/paypal-says-its-becoming-a-technology-company-again-that-means-ai/"
-    },
-    {
-      "id": "mot1qbx4kiybcq3ufxn",
-      "title": "Etsy launches its app within ChatGPT as it continues its AI push",
-      "summary": "Etsy's new native app within ChatGPT aims to be a conversational  shopping experience for users. ...",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Product",
-      "tags": [
-        "OpenAI"
-      ],
-      "publishedAt": "Tue, 05 May 2026 15:31:37 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/05/05/etsy-launches-its-app-within-chatgpt-as-it-continues-its-ai-push/"
-    },
-    {
-      "id": "mot1qbx4enxb1f1rhm",
-      "title": "Meta will use AI to analyze height and bone structure to identify if users are underage",
-      "summary": "The visual analysis system is now operating in select countries, but Meta says it's working toward a broader rollout. ...",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Meta"
-      ],
-      "publishedAt": "Tue, 05 May 2026 14:27:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/05/05/meta-will-use-ai-to-analyze-height-and-bone-structure-to-identify-if-users-are-underage/"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-05-07T04:08:05.045Z",
-  "edition": 84
+  "lastUpdated": "2026-05-07T08:48:59.104Z",
+  "edition": 85
 }
