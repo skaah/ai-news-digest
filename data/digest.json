@@ -1,6 +1,154 @@
 {
-  "date": "2026-05-06T20:03:04.757Z",
+  "date": "2026-05-07T04:08:05.045Z",
   "articles": [
+    {
+      "id": "mouytzbux2pg4yb3i5c",
+      "title": "Study: Firms often use automation to control certain workers’ wages",
+      "summary": "MIT economists found US companies tend to target employees earning a “wage premium,” which increases inequality but not necessarily productivity. ...",
+      "source": {
+        "name": "MIT News AI",
+        "url": "https://news.mit.edu",
+        "favicon": "https://www.google.com/s2/favicons?domain=news.mit.edu&sz=64"
+      },
+      "category": "Product",
+      "tags": [],
+      "publishedAt": "Thu, 07 May 2026 00:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=800",
+      "readTime": 1,
+      "originalUrl": "https://news.mit.edu/2026/study-firms-often-use-automation-control-certain-workers-wages-0507"
+    },
+    {
+      "id": "mouyu1xnqsnyzyxj109",
+      "title": "LCM: Lossless Context Management",
+      "summary": "...",
+      "source": {
+        "name": "ArXiv cs.AI",
+        "url": "https://arxiv.org",
+        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Thu, 07 May 2026 00:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://arxiv.org/abs/2605.04050"
+    },
+    {
+      "id": "mouyu1xn2ujotcrmx5w",
+      "title": "Regularized Centered Emphatic Temporal Difference Learning",
+      "summary": "...",
+      "source": {
+        "name": "ArXiv cs.AI",
+        "url": "https://arxiv.org",
+        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Thu, 07 May 2026 00:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://arxiv.org/abs/2605.04100"
+    },
+    {
+      "id": "mouyu1xnle4odor2v8",
+      "title": "Actionable Real-Time Modeling of Surgical Team Dynamics via Time-Expanded Interaction Graphs",
+      "summary": "...",
+      "source": {
+        "name": "ArXiv cs.AI",
+        "url": "https://arxiv.org",
+        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Thu, 07 May 2026 00:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://arxiv.org/abs/2605.04169"
+    },
+    {
+      "id": "mouyu1xo5nd26h6ihc5",
+      "title": "ANDRE: An Attention-based Neuro-symbolic Differentiable Rule Extractor",
+      "summary": "...",
+      "source": {
+        "name": "ArXiv cs.AI",
+        "url": "https://arxiv.org",
+        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
+      },
+      "category": "Policy",
+      "tags": [],
+      "publishedAt": "Thu, 07 May 2026 00:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800",
+      "readTime": 1,
+      "originalUrl": "https://arxiv.org/abs/2605.04193"
+    },
+    {
+      "id": "mouyu1xot502xiifqf",
+      "title": "Pro$^2$Assist: Continuous Step-Aware Proactive Assistance with Multimodal Egocentric Perception for Long-Horizon Procedural Tasks",
+      "summary": "...",
+      "source": {
+        "name": "ArXiv cs.AI",
+        "url": "https://arxiv.org",
+        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Multimodal"
+      ],
+      "publishedAt": "Thu, 07 May 2026 00:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://arxiv.org/abs/2605.04227"
+    },
+    {
+      "id": "mouytxlog26nzc84a9",
+      "title": "Barry Diller trusts Sam Altman. But ‘trust is irrelevant’ as AGI nears, he says.",
+      "summary": "Barry Diller defended OpenAI CEO Sam Altman, while warning that AGI remains an unpredictable force needing guardrails....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "OpenAI"
+      ],
+      "publishedAt": "Wed, 06 May 2026 21:57:56 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/05/06/barry-diller-trusts-sam-altman-but-trust-is-irrelevant-as-agi-nears-he-says/"
+    },
+    {
+      "id": "mouytxlp66hfh3nb03k",
+      "title": "Snap says its $400M deal with Perplexity ‘amicably ended’",
+      "summary": "The deal, announced last November, would have seen Perplexity's AI search engine integrated directly into Snapchat. ...",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Wed, 06 May 2026 21:43:24 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/05/06/snap-says-its-400m-deal-with-perplexity-amicably-ended/"
+    },
+    {
+      "id": "mouytxlptzrr7clxv28",
+      "title": "Is xAI a neocloud now?",
+      "summary": "xAI's real business may be more about building data centers than training AI models. ...",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Wed, 06 May 2026 21:32:55 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/05/06/is-xai-a-neocloud-now/"
+    },
     {
       "id": "mouhiakvuqrd6fh2txg",
       "title": "vLLM V0 to V1: Correctness Before Corrections in RL",
@@ -411,6 +559,42 @@
       "originalUrl": "https://www.marktechpost.com/2026/05/05/inworld-ai-launches-realtime-tts-2-a-closed-loop-voice-model-that-adapts-to-how-you-actually-talk/"
     },
     {
+      "id": "mouytzwvh3uo9yp53sn",
+      "title": "Singular Bank helps bankers move fast with ChatGPT and Codex",
+      "summary": "Singular Bank built Singularity, an internal assistant using ChatGPT and Codex to help bankers save 60–90 minutes daily on meeting prep, portfolio analysis, and follow-up....",
+      "source": {
+        "name": "OpenAI News",
+        "url": "https://openai.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "OpenAI"
+      ],
+      "publishedAt": "Wed, 06 May 2026 00:00:00 GMT",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://openai.com/index/singular-bank"
+    },
+    {
+      "id": "mouytzwwg7qoed2jp65",
+      "title": "Uber uses OpenAI to help people earn smarter and book faster",
+      "summary": "Uber uses OpenAI to power AI assistants and voice features that help drivers earn smarter and riders book faster across a global real-time marketplace....",
+      "source": {
+        "name": "OpenAI News",
+        "url": "https://openai.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "OpenAI"
+      ],
+      "publishedAt": "Wed, 06 May 2026 00:00:00 GMT",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://openai.com/index/uber"
+    },
+    {
       "id": "mouhia3j1q5niol3zkp",
       "title": "Introducing ChatGPT Futures: Class of 2026",
       "summary": "Meet the ChatGPT Futures Class of 2026—26 student innovators using AI to build, research, and drive real-world impact. Discover how this generation is redefining learning, creativity, and opportunity with ChatGPT....",
@@ -665,196 +849,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
       "readTime": 1,
       "originalUrl": "https://techcrunch.com/2026/05/05/meta-will-use-ai-to-analyze-height-and-bone-structure-to-identify-if-users-are-underage/"
-    },
-    {
-      "id": "mosq2hlbi24avcgfs9g",
-      "title": "ElevenLabs lists BlackRock, Jamie Foxx and Longoria as new investors",
-      "summary": "4. ElevenLabs reveals new investors, hits $500M ARR, and expands enterprise footprint as voice AI becomes a critical interface....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Tue, 05 May 2026 14:20:50 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/05/05/elevenlabs-lists-blackrock-jamie-foxx-and-longoria-as-new-investors/"
-    },
-    {
-      "id": "mosq2hlcomoczowh2ym",
-      "title": "CopilotKit raises $27M to help devs deploy app-native AI agents",
-      "summary": "The Seattle-based startup's Series A round was led by Glilot Capital, NFX and SignalFire, TechCrunch has exclusively learned....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Microsoft",
-        "Startup"
-      ],
-      "publishedAt": "Tue, 05 May 2026 14:07:47 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/05/05/copilotkit-raises-27m-to-help-devs-deploy-app-native-ai-agents/"
-    },
-    {
-      "id": "mosq2hlcjl9zndir2wo",
-      "title": "4 days left: Get 50% off a second TechCrunch Disrupt 2026 pass to make more deals faster",
-      "summary": "For the next four days only, you can buy one pass to TechCrunch Disrupt 2026 and get 50% off a second of the same ticket type. That window closes May 8 at 11:59 p.m. PT. After that, prices go up, and you’ll pay more to bring a partner or colleague. Register today to get your plus...",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Tue, 05 May 2026 14:00:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/05/05/4-days-left-get-50-off-a-second-techcrunch-disrupt-2026-pass-to-make-more-deals-faster/"
-    },
-    {
-      "id": "mosq2hldlhs0mhy4969",
-      "title": "India’s first GenAI unicorn shifts to cloud services as AI model ambitions face reality",
-      "summary": "Krutrim's pivot to cloud after layoffs and limited product updates reflects the economic challenges of building AI models in India....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Product",
-      "tags": [
-        "Startup"
-      ],
-      "publishedAt": "Tue, 05 May 2026 13:18:50 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/05/05/indias-first-genai-unicorn-shifts-to-cloud-services-as-ai-model-ambitions-face-reality/"
-    },
-    {
-      "id": "mosq2nrl1egaz3zn3sk",
-      "title": "La délicate mais stratégique bascule de l’industrie de défense américaine vers l’innovation",
-      "summary": "Au-delà des débats éthiques et démocratiques sur le virage vers la tech, l’industrie de défense américaine est contrainte de remettre l’innovation au premier plan. Un changement d’attitude qui se révèle délicat....",
-      "source": {
-        "name": "Le Monde Tech",
-        "url": "https://www.lemonde.fr",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.lemonde.fr&sz=64"
-      },
-      "category": "Ethics",
-      "tags": [],
-      "publishedAt": "Tue, 05 May 2026 12:00:02 +0200",
-      "imageUrl": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.lemonde.fr/international/article/2026/05/05/pourquoi-la-bascule-de-l-industrie-de-defense-americaine-vers-l-innovation-souleve-des-enjeux-majeurs_6685576_3210.html"
-    },
-    {
-      "id": "mou6ukugh0uuxi5fmki",
-      "title": "Unlocking large scale AI training networks with MRC (Multipath Reliable Connection)",
-      "summary": "OpenAI introduces MRC (Multipath Reliable Connection), a new supercomputer networking protocol released via OCP to improve resilience and performance in large-scale AI training clusters....",
-      "source": {
-        "name": "OpenAI News",
-        "url": "https://openai.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "OpenAI"
-      ],
-      "publishedAt": "Tue, 05 May 2026 10:00:00 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://openai.com/index/mrc-supercomputer-networking"
-    },
-    {
-      "id": "mot1qe99vq8yiseuip",
-      "title": "GPT-5.5 Instant System Card",
-      "summary": "...",
-      "source": {
-        "name": "OpenAI News",
-        "url": "https://openai.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "OpenAI"
-      ],
-      "publishedAt": "Tue, 05 May 2026 10:00:00 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://openai.com/index/gpt-5-5-instant-system-card"
-    },
-    {
-      "id": "mot1qe99m5nt0bihdhj",
-      "title": "GPT-5.5 Instant: smarter, clearer, and more personalized",
-      "summary": "GPT-5.5 Instant updates ChatGPT’s default model with smarter, more accurate answers, reduced hallucinations, and improved personalization controls....",
-      "source": {
-        "name": "OpenAI News",
-        "url": "https://openai.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "OpenAI"
-      ],
-      "publishedAt": "Tue, 05 May 2026 10:00:00 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://openai.com/index/gpt-5-5-instant"
-    },
-    {
-      "id": "mosq2ivnkpm8grhrlym",
-      "title": "A blueprint for using AI to strengthen democracy",
-      "summary": "Every few centuries, changes in how information moves reshape how societies govern themselves. The printing press spread vernacular literacy, helping give rise to the Reformation and, eventually, representative government. The telegraph made it possible to administer vast nations...",
-      "source": {
-        "name": "MIT Tech Review AI",
-        "url": "https://www.technologyreview.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.technologyreview.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Tue, 05 May 2026 09:00:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.technologyreview.com/2026/05/05/1136843/ai-democracy-blueprint/"
-    },
-    {
-      "id": "mosq2nrlt3t3ro3tnjk",
-      "title": "« L’architecture du monde numérique est soumise à des pressions environnementales, géopolitiques et techniques croissantes »",
-      "summary": "Tempêtes solaires, ruptures de câbles, collisions de satellites, vagues de chaleur… Les incidents qui touchent les infrastructures liées au numérique peuvent provoquer de graves défaillances dans les sociétés fortement interconnectées, soulignent les chercheurs Constance de Leuss...",
-      "source": {
-        "name": "Le Monde Tech",
-        "url": "https://www.lemonde.fr",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.lemonde.fr&sz=64"
-      },
-      "category": "Policy",
-      "tags": [],
-      "publishedAt": "Tue, 05 May 2026 10:30:03 +0200",
-      "imageUrl": "https://images.unsplash.com/photo-1575517111839-3a3843ee7f5d?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.lemonde.fr/idees/article/2026/05/05/l-architecture-du-monde-numerique-est-soumise-a-des-pressions-environnementales-geopolitiques-et-techniques-croissantes_6685564_3232.html"
-    },
-    {
-      "id": "mosdaigi2dqpavvohzg",
-      "title": "Why Gradient Descent Zigzags and How Momentum Fixes It",
-      "summary": "...",
-      "source": {
-        "name": "MarkTechPost",
-        "url": "https://www.marktechpost.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Tue, 05 May 2026 07:26:29 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.marktechpost.com/2026/05/05/why-gradient-descent-zigzags-and-how-momentum-fixes-it/"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-05-06T20:03:04.756Z",
-  "edition": 83
+  "lastUpdated": "2026-05-07T04:08:05.045Z",
+  "edition": 84
 }
