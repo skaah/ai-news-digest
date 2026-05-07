@@ -1,6 +1,91 @@
 {
-  "date": "2026-05-07T15:06:34.804Z",
+  "date": "2026-05-07T19:56:50.607Z",
   "articles": [
+    {
+      "id": "movwq0ny7ezskp3o5rs",
+      "title": "Elon Musk’s lawsuit is putting OpenAI’s safety record under the microscope",
+      "summary": "Can Sam Altman—or any CEO—be trusted with super intelligence?...",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Policy",
+      "tags": [
+        "OpenAI",
+        "AI Safety"
+      ],
+      "publishedAt": "Thu, 07 May 2026 19:21:21 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/05/07/elon-musks-lawsuit-is-putting-openais-safety-record-under-the-microscope/"
+    },
+    {
+      "id": "movwq0nzqwd8e7zh0nl",
+      "title": "Bumble is getting rid of the swipe, CEO says",
+      "summary": "Based on Whitney Wolfe Herd's past comments about Bumble's new direction, the company is expected to lean into AI -- Bumble is even working on an AI dating assistant called Bee, and the CEO has made many comments over the years about how AI will be \"a supercharger to love and rel...",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Thu, 07 May 2026 19:06:17 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/05/07/bumble-is-getting-rid-of-the-swipe-ceo-says/"
+    },
+    {
+      "id": "movwq7g5ou5jd6sf84",
+      "title": "Fnac Darty : l’AMF donne son accord à l’OPA de Daniel Kretinsky, dernière étape pour valider l’opération",
+      "summary": "En prenant la majorité, le milliardaire tchèque empêchera de facto le géant chinois du commerce en ligne JD.com d’obtenir davantage de poids dans l’entreprise....",
+      "source": {
+        "name": "Le Monde Tech",
+        "url": "https://www.lemonde.fr",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.lemonde.fr&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Thu, 07 May 2026 18:57:50 +0200",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.lemonde.fr/economie/article/2026/05/07/fnac-darty-l-amf-donne-son-feu-vert-a-l-opa-de-daniel-kretinsky-derniere-etape-pour-valider-l-operation_6686594_3234.html"
+    },
+    {
+      "id": "movwq0nze9hvcvj4xbj",
+      "title": "How Anthropic’s Mythos has rewritten Firefox’s approach to cybersecurity",
+      "summary": "Security researchers at Mozilla say Anthropic's Mythos has unearthed a wealth of high-severity bugs in Firefox....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Research",
+      "tags": [
+        "Anthropic"
+      ],
+      "publishedAt": "Thu, 07 May 2026 16:05:48 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/05/07/how-anthropics-mythos-has-rewritten-firefoxs-approach-to-cybersecurity/"
+    },
+    {
+      "id": "movwq7g61nhr00iqdqu",
+      "title": "Amiral Pierre Vandier : « En matière de défense, si nous ne construisons pas des systèmes standardisés et ouverts, nous allons dans le mur »",
+      "summary": "Pour l’amiral Pierre Vandier, les dernières guerres – en Ukraine surtout – ont ouvert de vastes chantiers dans le domaine des innovations militaires. Dans un entretien au «  Monde », il engage fortement à la mise au point de systèmes où l’on peut brancher rapidement l’application...",
+      "source": {
+        "name": "Le Monde Tech",
+        "url": "https://www.lemonde.fr",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.lemonde.fr&sz=64"
+      },
+      "category": "Policy",
+      "tags": [],
+      "publishedAt": "Thu, 07 May 2026 18:00:08 +0200",
+      "imageUrl": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.lemonde.fr/international/article/2026/05/07/amiral-pierre-vandier-en-matiere-de-defense-si-nous-ne-construisons-pas-des-systemes-standardises-et-ouverts-nous-allons-dans-le-mur_6686582_3210.html"
+    },
     {
       "id": "movmcreufmhb72p7bjq",
       "title": "Startup Battlefield 200 applications close May 27: A shot at VC access, global visibility, TechCrunch coverage, and $100K",
@@ -158,6 +243,24 @@
       "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
       "readTime": 1,
       "originalUrl": "https://openai.com/index/parloa"
+    },
+    {
+      "id": "movwq37di4czzl15zbm",
+      "title": "Advancing voice intelligence with new models in the API",
+      "summary": "Explore new realtime voice models in the OpenAI API that can reason, translate, and transcribe speech, enabling more natural and intelligent voice experiences....",
+      "source": {
+        "name": "OpenAI News",
+        "url": "https://openai.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "OpenAI"
+      ],
+      "publishedAt": "Thu, 07 May 2026 10:00:00 GMT",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api"
     },
     {
       "id": "mov8vaaxorl85bbgvw",
@@ -340,6 +443,43 @@
       "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
       "readTime": 1,
       "originalUrl": "https://arxiv.org/abs/2605.04227"
+    },
+    {
+      "id": "movwq37d9plerxz5724",
+      "title": "Testing ads in ChatGPT",
+      "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control....",
+      "source": {
+        "name": "OpenAI News",
+        "url": "https://openai.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "OpenAI"
+      ],
+      "publishedAt": "Thu, 07 May 2026 00:00:00 GMT",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://openai.com/index/testing-ads-in-chatgpt"
+    },
+    {
+      "id": "movwq37e6eqe3tdk50x",
+      "title": "Introducing Trusted Contact in ChatGPT",
+      "summary": "Introducing Trusted Contact in ChatGPT, an optional safety feature that notifies someone you trust if serious self-harm concerns are detected....",
+      "source": {
+        "name": "OpenAI News",
+        "url": "https://openai.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
+      },
+      "category": "Ethics",
+      "tags": [
+        "OpenAI",
+        "AI Safety"
+      ],
+      "publishedAt": "Thu, 07 May 2026 00:00:00 GMT",
+      "imageUrl": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=800",
+      "readTime": 1,
+      "originalUrl": "https://openai.com/index/introducing-trusted-contact-in-chatgpt"
     },
     {
       "id": "mov8vaayuxdjkb9exp",
@@ -719,141 +859,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
       "readTime": 1,
       "originalUrl": "https://www.marktechpost.com/2026/05/06/how-to-build-a-fully-interactive-multi-page-nicegui-application-with-real-time-dashboard-crud-operations-file-upload-and-async-chat/"
-    },
-    {
-      "id": "mou6uidgjl1m63i9pz8",
-      "title": "Peter Sarlin’s QuTwo reaches $380M valuation in angel round",
-      "summary": "QuTwo, the Finnish AI lab founded by former AMD Silo AI CEO Peter Sarlin, is now valued at €325 million (approximately $380 million) after raising a €25 million angel round ($29 million). It's a sign of enduring tailwinds for AI, quantum computing, and sovereign tech, especially ...",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Funding",
-      "tags": [],
-      "publishedAt": "Wed, 06 May 2026 06:47:12 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/05/05/peter-sarlins-qutwo-reaches-380m-valuation-in-angel-round/"
-    },
-    {
-      "id": "motjfdepvfm6m9drhm",
-      "title": "2026 Roadmap on Artificial Intelligence and Machine Learning for Smart Manufacturing",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Wed, 06 May 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2605.00839"
-    },
-    {
-      "id": "motjfdepm3kwurvj4o",
-      "title": "AI Agents for Sustainable SMEs: A Green ESG Assessment Framework",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Wed, 06 May 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2605.00841"
-    },
-    {
-      "id": "motjfdeq6numxrotn5",
-      "title": "Understanding Emergent Misalignment via Feature Superposition Geometry",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "AI Safety"
-      ],
-      "publishedAt": "Wed, 06 May 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2605.00842"
-    },
-    {
-      "id": "motjfdeqbqvu6fbe0m",
-      "title": "ClinicBot: A Guideline-Grounded Clinical Chatbot with Prioritized Evidence RAG and Verifiable Citations",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Wed, 06 May 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2605.00846"
-    },
-    {
-      "id": "motjfdeqf72x3xta4wh",
-      "title": "Accelerating battery research with an AI interface between FINALES and Kadi4Mat",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Research",
-      "tags": [],
-      "publishedAt": "Wed, 06 May 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2605.00909"
-    },
-    {
-      "id": "mou6umcqo073lsj078",
-      "title": "Inworld AI Launches Realtime TTS-2: A Closed-Loop Voice Model That Adapts to How You Actually Talk",
-      "summary": "...",
-      "source": {
-        "name": "MarkTechPost",
-        "url": "https://www.marktechpost.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
-      },
-      "category": "Product",
-      "tags": [],
-      "publishedAt": "Wed, 06 May 2026 00:34:38 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1550009158-9ebf690be655?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.marktechpost.com/2026/05/05/inworld-ai-launches-realtime-tts-2-a-closed-loop-voice-model-that-adapts-to-how-you-actually-talk/"
-    },
-    {
-      "id": "mouytzwvh3uo9yp53sn",
-      "title": "Singular Bank helps bankers move fast with ChatGPT and Codex",
-      "summary": "Singular Bank built Singularity, an internal assistant using ChatGPT and Codex to help bankers save 60–90 minutes daily on meeting prep, portfolio analysis, and follow-up....",
-      "source": {
-        "name": "OpenAI News",
-        "url": "https://openai.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "OpenAI"
-      ],
-      "publishedAt": "Wed, 06 May 2026 00:00:00 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://openai.com/index/singular-bank"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-05-07T15:06:34.804Z",
-  "edition": 86
+  "lastUpdated": "2026-05-07T19:56:50.606Z",
+  "edition": 87
 }
