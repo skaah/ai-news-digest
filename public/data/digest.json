@@ -1,6 +1,108 @@
 {
-  "date": "2026-05-08T14:18:49.122Z",
+  "date": "2026-05-08T19:46:51.690Z",
   "articles": [
+    {
+      "id": "moxbt1ulmu5vgsdlube",
+      "title": "Cloudflare says AI made 1,100 jobs obsolete, even as revenue hit a record high",
+      "summary": "CloudFlare announced its first large-scale layoff. CEO Matthew Prince says because of AI efficiency gains, the company doesn't need as many support roles....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Fri, 08 May 2026 18:33:21 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/05/08/cloudflare-says-ai-made-1100-jobs-obsolete-even-as-revenue-hit-a-record-high/"
+    },
+    {
+      "id": "moxbt504iuq4gl4inq",
+      "title": "CyberSecQwen-4B: Why Defensive Cyber Needs Small, Specialized, Locally-Runnable Models",
+      "summary": "...",
+      "source": {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co",
+        "favicon": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Fri, 08 May 2026 17:41:05 GMT",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/cybersecqwen-4b"
+    },
+    {
+      "id": "moxbt505zj65vl6uta",
+      "title": "EMO: Pretraining mixture of experts for emergent modularity",
+      "summary": "...",
+      "source": {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co",
+        "favicon": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Fri, 08 May 2026 16:03:50 GMT",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://huggingface.co/blog/allenai/emo"
+    },
+    {
+      "id": "moxbt1umqfsk4d7ilbc",
+      "title": "The “people’s airline” and the enterprise AI gold rush",
+      "summary": "Everyone wants a piece of the enterprise AI pie, and this week, we saw a string of companies making their moves. From Anthropic and OpenAI announcing new joint ventures targeting enterprise AI deployment to SAP dropping $1B on German AI startup Prior Labs, it&#8217...",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "OpenAI",
+        "Anthropic",
+        "Startup"
+      ],
+      "publishedAt": "Fri, 08 May 2026 15:46:17 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/podcast/the-peoples-airline-and-the-enterprise-ai-gold-rush/"
+    },
+    {
+      "id": "moxbt1unmns4wrcrco",
+      "title": "Last 24 hours to get 50% off a second pass to TechCrunch Disrupt 2026",
+      "summary": "Last day to buy one pass and get a second one at 50% off to TechCrunch Disrupt 2026. Bring a partner, co-founder, or colleague at half off. Register now....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Fri, 08 May 2026 14:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/05/08/last-24-hours-to-get-50-off-a-second-pass-to-techcrunch-disrupt-2026/"
+    },
+    {
+      "id": "moxbt4hhks9x9ggp6n",
+      "title": "Running Codex safely at OpenAI",
+      "summary": "How OpenAI runs Codex securely with sandboxing, approvals, network policies, and agent-native telemetry to support safe and compliant coding agent adoption....",
+      "source": {
+        "name": "OpenAI News",
+        "url": "https://openai.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "OpenAI"
+      ],
+      "publishedAt": "Fri, 08 May 2026 12:30:00 GMT",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://openai.com/index/running-codex-safely"
+    },
     {
       "id": "mowml1djhkak0bjfh",
       "title": "MedQA: Fine-Tuning a Clinical AI on AMD ROCm — No CUDA Required",
@@ -754,117 +856,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
       "readTime": 1,
       "originalUrl": "https://www.marktechpost.com/2026/05/06/copilotkit-introduces-enterprise-intelligence-platform-that-gives-agentic-applications-persistent-memory-across-sessions-and-devices/"
-    },
-    {
-      "id": "mouhiakvuqrd6fh2txg",
-      "title": "vLLM V0 to V1: Correctness Before Corrections in RL",
-      "summary": "...",
-      "source": {
-        "name": "Hugging Face Blog",
-        "url": "https://huggingface.co",
-        "favicon": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "LLM"
-      ],
-      "publishedAt": "Wed, 06 May 2026 19:06:55 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections"
-    },
-    {
-      "id": "mouhi7iosezb76s8lq",
-      "title": "How Elon Musk left OpenAI, according to Greg Brockman",
-      "summary": "Cutthroat negotiations between startup founders are rarely shared so publicly, especially when a company becomes as world-changing as OpenAI. ...",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "OpenAI",
-        "Startup"
-      ],
-      "publishedAt": "Wed, 06 May 2026 18:23:54 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/05/06/how-elon-musk-left-openai-according-to-greg-brockman/"
-    },
-    {
-      "id": "mouhi7ip56zwbfz81ru",
-      "title": "SpaceX may spend up to $119B on ‘Terafab’ chip factory in Texas",
-      "summary": "The project would be a \"multi-phase, next-generation, vertically integrated semiconductor manufacturing and advanced computing fabrication facility,\" according to the proposal....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Hardware",
-      "tags": [],
-      "publishedAt": "Wed, 06 May 2026 17:23:08 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/05/06/spacex-may-spend-up-to-119-billion-on-terafab-chip-factory-in-texas/"
-    },
-    {
-      "id": "mouhi7iqs25ht5z3kg",
-      "title": "DeepSeek could hit $45B valuation from its first investment round",
-      "summary": "The Chinese AI lab came to prominence in early 2025 after launching a large language model that trained on a fraction of the compute power and at a fraction of the cost of the big U.S. models like those from OpenAI and Anthropic. ...",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Product",
-      "tags": [
-        "OpenAI",
-        "Anthropic",
-        "LLM",
-        "China"
-      ],
-      "publishedAt": "Wed, 06 May 2026 17:20:34 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/05/06/deepseek-could-hit-45b-valuation-from-its-first-investment-round/"
-    },
-    {
-      "id": "mouhieh0ef2tgn8jfeg",
-      "title": "L’avenir de l’IA générative se joue-t-il ici ? Son plus grand défaut a peut-être été résolu",
-      "summary": "...",
-      "source": {
-        "name": "Numerama",
-        "url": "https://www.numerama.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
-      },
-      "category": "Policy",
-      "tags": [],
-      "publishedAt": "Wed, 06 May 2026 15:51:26 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.numerama.com/tech/2248047-lavenir-de-lia-generative-se-joue-t-il-ici-son-plus-grand-defaut-a-peut-etre-ete-resolu.html"
-    },
-    {
-      "id": "mouhi7iqljdw9azy6ms",
-      "title": "Google updates AI search to include quotes from Reddit and other sources",
-      "summary": "While citing web forums and discussion boards can help users find answers to more niche queries, this design choice could also prove chaotic....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Google"
-      ],
-      "publishedAt": "Wed, 06 May 2026 15:49:39 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/05/06/google-updates-ai-search-to-include-expert-advice-from-reddit-and-other-web-forums/"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-05-08T14:18:49.122Z",
-  "edition": 90
+  "lastUpdated": "2026-05-08T19:46:51.690Z",
+  "edition": 91
 }
