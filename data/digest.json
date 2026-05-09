@@ -1,6 +1,40 @@
 {
-  "date": "2026-05-09T13:55:25.330Z",
+  "date": "2026-05-09T19:36:14.416Z",
   "articles": [
+    {
+      "id": "moyqvbn5quhp5s5nlc",
+      "title": "\"OncoAgent: A Dual-Tier Multi-Agent Framework for Privacy-Preserving Oncology Clinical Decision Support\"",
+      "summary": "...",
+      "source": {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co",
+        "favicon": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Sat, 09 May 2026 18:09:28 GMT",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/oncoagent-official-paper"
+    },
+    {
+      "id": "moyqv8ojeebagvq5bjo",
+      "title": "Nvidia has already committed $40B to equity AI deals this year",
+      "summary": "Nvidia continues to be a big investor in the AI ecosystem....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Nvidia"
+      ],
+      "publishedAt": "Sat, 09 May 2026 14:43:30 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/05/09/nvidia-has-already-committed-40b-to-equity-ai-deals-this-year/"
+    },
     {
       "id": "moy2hedvfelyaba8rsd",
       "title": "Deux robots humanoïdes Helix-02 rangent une chambre en moins de deux minutes (mais pas la vôtre)",
@@ -821,43 +855,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
       "readTime": 1,
       "originalUrl": "https://www.numerama.com/tech/2248661-cest-la-fin-de-xai-grok-elon-musk-devoile-sa-nouvelle-strategie-ia.html"
-    },
-    {
-      "id": "mov8vaaywp0l01sdgbd",
-      "title": "OpenAI Introduces MRC (Multipath Reliable Connection): A New Open Networking Protocol for Large-Scale AI Supercomputer Training Clusters",
-      "summary": "...",
-      "source": {
-        "name": "MarkTechPost",
-        "url": "https://www.marktechpost.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "OpenAI"
-      ],
-      "publishedAt": "Thu, 07 May 2026 07:50:02 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.marktechpost.com/2026/05/07/openai-introduces-mrc-multipath-reliable-connection-a-new-open-networking-protocol-for-large-scale-ai-supercomputer-training-clusters/"
-    },
-    {
-      "id": "mov8vaayv1maq4xods",
-      "title": "Zyphra Releases ZAYA1-8B: A Reasoning MoE Trained on AMD Hardware That Punches Far Above Its Weight Class",
-      "summary": "...",
-      "source": {
-        "name": "MarkTechPost",
-        "url": "https://www.marktechpost.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
-      },
-      "category": "Hardware",
-      "tags": [],
-      "publishedAt": "Thu, 07 May 2026 05:44:59 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1555664424-778a69022365?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.marktechpost.com/2026/05/06/zyphra-releases-zaya1-8b-a-reasoning-moe-trained-on-amd-hardware-that-punches-far-above-its-weight-class/"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-05-09T13:55:25.330Z",
-  "edition": 94
+  "lastUpdated": "2026-05-09T19:36:14.416Z",
+  "edition": 95
 }
