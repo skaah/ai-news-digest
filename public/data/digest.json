@@ -1,6 +1,40 @@
 {
-  "date": "2026-05-10T08:23:09.330Z",
+  "date": "2026-05-10T13:57:33.474Z",
   "articles": [
+    {
+      "id": "mozu7qmgyfkcx70d2qq",
+      "title": "« Ayez peur de la Chine » : l’opaque campagne américaine sur TikTok pour imposer son IA",
+      "summary": "...",
+      "source": {
+        "name": "Numerama",
+        "url": "https://www.numerama.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
+      },
+      "category": "Policy",
+      "tags": [],
+      "publishedAt": "Sun, 10 May 2026 12:29:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1555848962-6e79363ec58f?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.numerama.com/tech/2249257-ayez-peur-de-la-chine-lopaque-campagne-americaine-sur-tiktok-pour-imposer-son-ia.html"
+    },
+    {
+      "id": "mozu7nykrnf4wqsbmf8",
+      "title": "NVIDIA AI Just Released cuda-oxide: An Experimental Rust-to-CUDA Compiler Backend that Compiles SIMT GPU Kernels Directly to PTX",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Hardware",
+      "tags": [
+        "Nvidia"
+      ],
+      "publishedAt": "Sun, 10 May 2026 06:01:13 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/05/09/nvidia-ai-just-released-cuda-oxide-an-experimental-rust-to-cuda-compiler-backend-that-compiles-simt-gpu-kernels-directly-to-ptx/"
+    },
     {
       "id": "moz9ipvxpcv769ex72j",
       "title": "A Coding Implementation to Recover Hidden Malware IOCs with FLARE-FLOSS Beyond Classic Strings Analysis",
@@ -817,45 +851,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800",
       "readTime": 1,
       "originalUrl": "https://www.maddyness.com/2026/05/07/cisco-sinstalle-a-station-f-pour-aider-les-startups-ia-a-prendre-leur-envol/"
-    },
-    {
-      "id": "mowdu1yvrni4cgxc76c",
-      "title": "Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber",
-      "summary": "OpenAI expands Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber, helping verified defenders accelerate vulnerability research and protect critical infrastructure....",
-      "source": {
-        "name": "OpenAI News",
-        "url": "https://openai.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
-      },
-      "category": "Research",
-      "tags": [
-        "OpenAI"
-      ],
-      "publishedAt": "Thu, 07 May 2026 13:00:00 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800",
-      "readTime": 1,
-      "originalUrl": "https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber"
-    },
-    {
-      "id": "movmcu5xqysc7fgt4",
-      "title": "Parloa builds service agents customers want to talk to",
-      "summary": "Parloa leverages OpenAI models to power scalable, voice-driven AI customer service agents, enabling enterprises to design, simulate, and deploy reliable, real-time interactions....",
-      "source": {
-        "name": "OpenAI News",
-        "url": "https://openai.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "OpenAI"
-      ],
-      "publishedAt": "Thu, 07 May 2026 11:00:00 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://openai.com/index/parloa"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-05-10T08:23:09.329Z",
-  "edition": 97
+  "lastUpdated": "2026-05-10T13:57:33.474Z",
+  "edition": 98
 }
