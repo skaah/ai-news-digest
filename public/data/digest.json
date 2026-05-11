@@ -1,6 +1,72 @@
 {
-  "date": "2026-05-11T15:40:47.216Z",
+  "date": "2026-05-11T20:06:04.871Z",
   "articles": [
+    {
+      "id": "mp1mtfnveje054wxnk",
+      "title": "How to Build Technical Analysis and Backtesting Workflow with pandas-ta-classic, Strategy Signals, and Performance Metrics",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Mon, 11 May 2026 20:05:23 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/05/11/how-to-build-technical-analysis-and-backtesting-workflow-with-pandas-ta-classic-strategy-signals-and-performance-metrics/"
+    },
+    {
+      "id": "mp1mtfnwnyy3d04ov9",
+      "title": "Meta and Stanford Researchers Propose Fast Byte Latent Transformer That Reduces Inference Memory Bandwidth by Over 50% Without Tokenization",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Research",
+      "tags": [
+        "Meta"
+      ],
+      "publishedAt": "Mon, 11 May 2026 17:52:15 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/05/11/meta-and-stanford-researchers-propose-fast-byte-latent-transformer-that-reduces-inference-memory-bandwidth-by-over-50-without-tokenization/"
+    },
+    {
+      "id": "mp1mtd3rnctwt48ftz",
+      "title": "Three things in AI to watch, according to a Nobel-winning economist",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. A few months before he was awarded the Nobel Prize in economics in 2024, Daron Acemoglu published a paper that earned him few fans in Silicon ...",
+      "source": {
+        "name": "MIT Tech Review AI",
+        "url": "https://www.technologyreview.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.technologyreview.com&sz=64"
+      },
+      "category": "Research",
+      "tags": [],
+      "publishedAt": "Mon, 11 May 2026 17:35:12 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.technologyreview.com/2026/05/11/1137090/three-things-in-ai-to-watch-according-to-a-nobel-winning-economist/"
+    },
+    {
+      "id": "mp1mtbu870vhktbq4ow",
+      "title": "Digg tries again, this time as an AI news aggregator",
+      "summary": "Digg returns (again) as another place to read AI news. ...",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Mon, 11 May 2026 17:02:35 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/05/11/digg-tries-again-this-time-as-an-ai-news-aggregator/"
+    },
     {
       "id": "mp1dc6iz9ubvbszp92",
       "title": "Fostering breakthrough AI innovation through customer-back engineering",
@@ -776,77 +842,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
       "readTime": 1,
       "originalUrl": "https://techcrunch.com/2026/05/08/intels-comeback-story-is-even-wilder-than-it-seems/"
-    },
-    {
-      "id": "moxbt1ulmu5vgsdlube",
-      "title": "Cloudflare says AI made 1,100 jobs obsolete, even as revenue hit a record high",
-      "summary": "CloudFlare announced its first large-scale layoff. CEO Matthew Prince says because of AI efficiency gains, the company doesn't need as many support roles....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Fri, 08 May 2026 18:33:21 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/05/08/cloudflare-says-ai-made-1100-jobs-obsolete-even-as-revenue-hit-a-record-high/"
-    },
-    {
-      "id": "moxbt504iuq4gl4inq",
-      "title": "CyberSecQwen-4B: Why Defensive Cyber Needs Small, Specialized, Locally-Runnable Models",
-      "summary": "...",
-      "source": {
-        "name": "Hugging Face Blog",
-        "url": "https://huggingface.co",
-        "favicon": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Fri, 08 May 2026 17:41:05 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/cybersecqwen-4b"
-    },
-    {
-      "id": "moxbt505zj65vl6uta",
-      "title": "EMO: Pretraining mixture of experts for emergent modularity",
-      "summary": "...",
-      "source": {
-        "name": "Hugging Face Blog",
-        "url": "https://huggingface.co",
-        "favicon": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Fri, 08 May 2026 16:03:50 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://huggingface.co/blog/allenai/emo"
-    },
-    {
-      "id": "moxbt1umqfsk4d7ilbc",
-      "title": "The “people’s airline” and the enterprise AI gold rush",
-      "summary": "Everyone wants a piece of the enterprise AI pie, and this week, we saw a string of companies making their moves. From Anthropic and OpenAI announcing new joint ventures targeting enterprise AI deployment to SAP dropping $1B on German AI startup Prior Labs, it&#8217...",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "OpenAI",
-        "Anthropic",
-        "Startup"
-      ],
-      "publishedAt": "Fri, 08 May 2026 15:46:17 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/podcast/the-peoples-airline-and-the-enterprise-ai-gold-rush/"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-05-11T15:40:47.216Z",
-  "edition": 102
+  "lastUpdated": "2026-05-11T20:06:04.871Z",
+  "edition": 103
 }
