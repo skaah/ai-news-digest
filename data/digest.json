@@ -1,6 +1,38 @@
 {
-  "date": "2026-05-12T04:09:00.384Z",
+  "date": "2026-05-12T09:13:25.544Z",
   "articles": [
+    {
+      "id": "mp2ey2iahpnlh99tabb",
+      "title": "Non, toutes les applications ne vivent pas de la revente de données",
+      "summary": "...",
+      "source": {
+        "name": "Maddyness",
+        "url": "https://www.maddyness.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.maddyness.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Tue, 12 May 2026 07:00:10 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.maddyness.com/2026/05/12/non-toutes-les-applications-ne-vivent-pas-de-la-revente-de-donnees/"
+    },
+    {
+      "id": "mp2exv7xml35w1jdkrh",
+      "title": "Thinking Machines wants to build an AI that actually listens while it talks",
+      "summary": "Right now, every AI model you've ever used works the same way. You talk, it listens. It responds, you listen. Thinking Machines is trying to change that by building a model that processes your input and generates a response at the same time, so it's more like a phone call than a ...",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Tue, 12 May 2026 04:52:35 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/05/11/thinking-machines-wants-to-build-an-ai-that-actually-listens-while-it-talks/"
+    },
     {
       "id": "mp242hodain6lmg2tcj",
       "title": "Where Reliability Lives in Vision-Language Models: A Mechanistic Study of Attention, Hidden States, and Causal Circuits",
@@ -84,6 +116,25 @@
       "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
       "readTime": 1,
       "originalUrl": "https://arxiv.org/abs/2605.08368"
+    },
+    {
+      "id": "mp2ey1k173vw92g8gl",
+      "title": "Au procès d’OpenAI, le récit du pari réussi de Microsoft, « très fier » d’avoir investi, alors que « personne d’autre n’était prêt »",
+      "summary": "Satya Nadella, le PDG du géant de la tech, a comparu, lundi, devant le tribunal d’Oakland dans le cadre du procès civil intenté par Elon Musk contre son entreprise et contre Sam Altman, accusés d’avoir détourné de son objet un projet conçu comme une organisation à but non lucrati...",
+      "source": {
+        "name": "Le Monde Tech",
+        "url": "https://www.lemonde.fr",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.lemonde.fr&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "OpenAI",
+        "Microsoft"
+      ],
+      "publishedAt": "Tue, 12 May 2026 05:09:22 +0200",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.lemonde.fr/economie/article/2026/05/12/au-proces-openai-le-recit-du-pari-reussi-de-microsoft-tres-fier-d-avoir-investi-alors-que-personne-d-autre-n-etait-pret_6688180_3234.html"
     },
     {
       "id": "mp242cxn8xj9knyb0s5",
@@ -796,61 +847,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800",
       "readTime": 1,
       "originalUrl": "https://www.numerama.com/tech/2250269-deux-robots-humanoides-helix-02-rangent-une-chambre-en-moins-de-deux-minutes-mais-pas-la-votre.html"
-    },
-    {
-      "id": "moy2hedwj25e5jsy2f",
-      "title": "Pourquoi l’IA Claude adorait faire du chantage (et comment Anthropic a mis fin à cette dérive)",
-      "summary": "...",
-      "source": {
-        "name": "Numerama",
-        "url": "https://www.numerama.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Anthropic"
-      ],
-      "publishedAt": "Sat, 09 May 2026 07:11:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.numerama.com/tech/2250265-pourquoi-lia-claude-adorait-faire-du-chantage-et-comment-anthropic-a-mis-fin-a-cette-derive.html"
-    },
-    {
-      "id": "moy2hb3460shhqoyxwl",
-      "title": "9 Best AI Tools for Spec-Driven Development in 2026: Kiro, BMAD, GSD, and More Compare",
-      "summary": "...",
-      "source": {
-        "name": "MarkTechPost",
-        "url": "https://www.marktechpost.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Sat, 09 May 2026 06:01:32 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.marktechpost.com/2026/05/08/9-best-ai-tools-for-spec-driven-development-in-2026-kiro-bmad-gsd-and-more-compare/"
-    },
-    {
-      "id": "moy2hblhyf1fxomu9ld",
-      "title": "Understanding Annotator Safety Policy with Interpretability",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Policy",
-      "tags": [
-        "AI Safety"
-      ],
-      "publishedAt": "Sat, 09 May 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1555848962-6e79363ec58f?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2605.05329"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-05-12T04:09:00.384Z",
-  "edition": 104
+  "lastUpdated": "2026-05-12T09:13:25.544Z",
+  "edition": 105
 }
