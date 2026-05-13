@@ -1,6 +1,42 @@
 {
-  "date": "2026-05-13T04:15:35.365Z",
+  "date": "2026-05-13T09:21:04.640Z",
   "articles": [
+    {
+      "id": "mp3unqwlmfs6wg92g7j",
+      "title": "Waymo met à jour ses robotaxis pour qu’ils ne traversent plus des routes inondées",
+      "summary": "...",
+      "source": {
+        "name": "Numerama",
+        "url": "https://www.numerama.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Robotics"
+      ],
+      "publishedAt": "Wed, 13 May 2026 08:42:31 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.numerama.com/vroom/2252307-waymo-met-a-jour-ses-robotaxis-pour-quils-ne-traversent-plus-des-routes-inondees.html"
+    },
+    {
+      "id": "mp3unnrr2q7d2b99bse",
+      "title": "Google DeepMind Introduces an AI-Enabled Mouse Pointer Powered by Gemini That Captures Visual and Semantic Context Around the Cursor",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Google"
+      ],
+      "publishedAt": "Wed, 13 May 2026 08:16:06 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/05/13/google-deepmind-introduces-an-ai-enabled-mouse-pointer-powered-by-gemini-that-captures-visual-and-semantic-context-around-the-cursor/"
+    },
     {
       "id": "mp3jqt6izrlecu1nw9c",
       "title": "A Cascaded Generative Approach for e-Commerce Recommendations",
@@ -811,41 +847,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
       "readTime": 1,
       "originalUrl": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai"
-    },
-    {
-      "id": "mp11825ny60igruh6i",
-      "title": "Votre ex vous manque ? Cette IA propose de le cloner",
-      "summary": "...",
-      "source": {
-        "name": "Numerama",
-        "url": "https://www.numerama.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Mon, 11 May 2026 09:31:44 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.numerama.com/tech/2250487-votre-ex-vous-manque-cette-ia-propose-de-le-cloner.html"
-    },
-    {
-      "id": "mp1181kyhewpseg0vt",
-      "title": "« Intel fait son come-back dans le silicium »",
-      "summary": "Le retour de la firme californienne dans le secteur semble bien parti grâce au soutien de l’administration Trump. La fabrication de microprocesseurs sur le territoire constitue, en effet, un enjeu majeur de souveraineté pour les Etats-Unis, souligne Isabelle Chaperon, chroniqueus...",
-      "source": {
-        "name": "Le Monde Tech",
-        "url": "https://www.lemonde.fr",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.lemonde.fr&sz=64"
-      },
-      "category": "Policy",
-      "tags": [],
-      "publishedAt": "Mon, 11 May 2026 10:56:29 +0200",
-      "imageUrl": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.lemonde.fr/economie/article/2026/05/11/intel-fait-son-come-back-dans-le-silicium_6688098_3234.html"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-05-13T04:15:35.365Z",
-  "edition": 108
+  "lastUpdated": "2026-05-13T09:21:04.640Z",
+  "edition": 109
 }
