@@ -1,6 +1,111 @@
 {
-  "date": "2026-05-14T04:15:32.645Z",
+  "date": "2026-05-14T09:10:32.753Z",
   "articles": [
+    {
+      "id": "mp59pw2vq55u69a96dk",
+      "title": "The shock of seeing your body used in deepfake porn",
+      "summary": "When Jennifer got a job doing research for a nonprofit in 2023, she ran her new professional headshot through a facial recognition program. She wanted to see if the tech would pull up the porn videos she’d made more than 10 years before, when she was in her early 20s. It did in f...",
+      "source": {
+        "name": "MIT Tech Review AI",
+        "url": "https://www.technologyreview.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.technologyreview.com&sz=64"
+      },
+      "category": "Research",
+      "tags": [],
+      "publishedAt": "Thu, 14 May 2026 09:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.technologyreview.com/2026/05/14/1137161/ai-porn-nonconsensual-deepfakes-takedown-piracy-copyright/"
+    },
+    {
+      "id": "mp59q1xror5tuv4zij8",
+      "title": "Claude a réussi un exploit : récupérer 5 Bitcoin bloqués depuis 11 ans",
+      "summary": "...",
+      "source": {
+        "name": "Numerama",
+        "url": "https://www.numerama.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Anthropic"
+      ],
+      "publishedAt": "Thu, 14 May 2026 08:26:10 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.numerama.com/tech/2253319-claude-a-reussi-un-exploit-recuperer-5-bitcoin-bloques-depuis-11-ans.html"
+    },
+    {
+      "id": "mp59q1d5p9fsrmau14d",
+      "title": "Métamorphose de la guerre : « Toutes les dépendances, des minerais aux monnaies en passant par les semi-conducteurs, sont désormais arsenalisées »",
+      "summary": "La compétition sur le contrôle des minerais, de la logistique et des flux de matières premières tourne au profit des Etats-Unis et de la Chine, explique Marc-Antoine Eyl-Mazzega dans un entretien au « Monde ». Les Européens sont à la traîne de cette confrontation géoéconomique do...",
+      "source": {
+        "name": "Le Monde Tech",
+        "url": "https://www.lemonde.fr",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.lemonde.fr&sz=64"
+      },
+      "category": "Policy",
+      "tags": [],
+      "publishedAt": "Thu, 14 May 2026 10:00:13 +0200",
+      "imageUrl": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.lemonde.fr/international/article/2026/05/14/metamorphose-de-la-guerre-toutes-les-dependances-des-minerais-aux-monnaies-en-passant-par-les-semi-conducteurs-sont-desormais-arsenalisees_6689051_3210.html"
+    },
+    {
+      "id": "mp59pukeqdbn3riiwj",
+      "title": "Who decides what AI tells you? Campbell Brown, once Meta’s news chief, has thoughts",
+      "summary": "...",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Meta"
+      ],
+      "publishedAt": "Thu, 14 May 2026 06:05:31 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/05/13/who-decides-what-ai-tells-you-campbell-brown-once-metas-news-chief-has-thoughts/"
+    },
+    {
+      "id": "mp59pyza361oa72y74i",
+      "title": "Nous Research Releases Token Superposition Training to Speed Up LLM Pre-Training by Up to 2.5x Across 270M to 10B Parameter Models",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Research",
+      "tags": [
+        "LLM"
+      ],
+      "publishedAt": "Thu, 14 May 2026 05:46:32 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/05/13/nous-research-releases-token-superposition-training-to-speed-up-llm-pre-training-by-up-to-2-5x-across-270m-to-10b-parameter-models/"
+    },
+    {
+      "id": "mp59pukfu8qhmrbliid",
+      "title": "Clio’s $500M milestone arrives just as Anthropic ups the ante",
+      "summary": "Legal tech startups, including Clio, which just hit $500 million in ARR, are seeing massive customer adoption....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Funding",
+      "tags": [
+        "Anthropic",
+        "Startup"
+      ],
+      "publishedAt": "Thu, 14 May 2026 05:24:39 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/05/13/clios-500m-milestone-arrives-just-as-anthropic-ups-the-ante/"
+    },
     {
       "id": "mp4z6lnxxne51xworz8",
       "title": "Think Twice, Act Once: Verifier-Guided Action Selection For Embodied Agents",
@@ -539,6 +644,24 @@
       "originalUrl": "https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/"
     },
     {
+      "id": "mp59pxcrgm49fotrhim",
+      "title": "Our response to the TanStack npm supply chain attack",
+      "summary": "OpenAI details its response to the TanStack “Mini Shai-Hulud” supply chain attack, outlines protections taken to secure systems and signing certificates, and explains why macOS users must update OpenAI apps by June 12, 2026. Learn what happened, what was affected, and how OpenAI ...",
+      "source": {
+        "name": "OpenAI News",
+        "url": "https://openai.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "OpenAI"
+      ],
+      "publishedAt": "Wed, 13 May 2026 00:00:00 GMT",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://openai.com/index/our-response-to-the-tanstack-npm-supply-chain-attack"
+    },
+    {
       "id": "mp3jqsralf2yvuxu1up",
       "title": "Build a Hybrid-Memory Autonomous Agent with Modular Architecture and Tool Dispatch Using OpenAI",
       "summary": "...",
@@ -726,127 +849,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
       "readTime": 1,
       "originalUrl": "https://www.maddyness.com/2026/05/12/les-agents-ia-vont-orchestrer-le-si-sans-friction/"
-    },
-    {
-      "id": "mp2rpgncwvm56t2jwjc",
-      "title": "Dessn raises $6M for its production focused design tool",
-      "summary": "A new startup called Dessn has raised $6M to build AI-powered design tools that work directly with production codebases. ...",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Product",
-      "tags": [
-        "Startup"
-      ],
-      "publishedAt": "Tue, 12 May 2026 13:00:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/05/12/dessn-raises-6m-for-its-production-focused-design-tool/"
-    },
-    {
-      "id": "mp2rpgnd24pqb8gqcdo",
-      "title": "AI voice startup Vapi hits $500M valuation after winning Amazon Ring over 40 rivals",
-      "summary": "Vapi says its enterprise business has grown 10-fold since early 2025 as companies shift customer support and sales calls to AI agents....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Startup"
-      ],
-      "publishedAt": "Tue, 12 May 2026 11:30:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/05/12/vapi-hits-500m-valuation-as-amazon-ring-chose-its-ai-platform-over-40-rivals/"
-    },
-    {
-      "id": "mp2rpnm0l3iguypwatg",
-      "title": "eBay refuse l’offre de rachat de GameStop à 55,5 milliards de dollars",
-      "summary": "Le conseil d’administration de la plateforme de commerce en ligne a jugé que cette offre, non sollicitée, n’était ni crédible ni attractive et a fait part de son « incertitude quant à son mode de financement »....",
-      "source": {
-        "name": "Le Monde Tech",
-        "url": "https://www.lemonde.fr",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.lemonde.fr&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Tue, 12 May 2026 13:01:42 +0200",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.lemonde.fr/economie/article/2026/05/12/ebay-refuse-l-offre-de-rachat-de-gamestop-a-55-5-milliards-de-dollars_6688240_3234.html"
-    },
-    {
-      "id": "mp2rpl4h6ppdhog2x6d",
-      "title": "Tilde Research Introduces Aurora: A Leverage-Aware Optimizer That Fixes a Hidden Neuron Death Problem in Muon",
-      "summary": "...",
-      "source": {
-        "name": "MarkTechPost",
-        "url": "https://www.marktechpost.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
-      },
-      "category": "Research",
-      "tags": [],
-      "publishedAt": "Tue, 12 May 2026 08:07:28 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.marktechpost.com/2026/05/12/tilde-research-introduces-aurora-a-leverage-aware-optimizer-that-fixes-a-hidden-neuron-death-problem-in-muon/"
-    },
-    {
-      "id": "mp2rpl4h7lcfvyhml3s",
-      "title": "A Coding Implementation to Portfolio Optimization with skfolio for Building Testing, Tuning, and Comparing Modern Investment Strategies",
-      "summary": "...",
-      "source": {
-        "name": "MarkTechPost",
-        "url": "https://www.marktechpost.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
-      },
-      "category": "Funding",
-      "tags": [],
-      "publishedAt": "Tue, 12 May 2026 07:05:02 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.marktechpost.com/2026/05/12/a-coding-implementation-to-portfolio-optimization-with-skfolio-for-building-testing-tuning-and-comparing-modern-investment-strategies/"
-    },
-    {
-      "id": "mp2ey2iahpnlh99tabb",
-      "title": "Non, toutes les applications ne vivent pas de la revente de données",
-      "summary": "...",
-      "source": {
-        "name": "Maddyness",
-        "url": "https://www.maddyness.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.maddyness.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Tue, 12 May 2026 07:00:10 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.maddyness.com/2026/05/12/non-toutes-les-applications-ne-vivent-pas-de-la-revente-de-donnees/"
-    },
-    {
-      "id": "mp2rpl4i5j1vva43mmh",
-      "title": "OpenAI Introduces Daybreak: A Cybersecurity Initiative That Puts Codex Security at the Center of Vulnerability Detection and Patch Validation",
-      "summary": "...",
-      "source": {
-        "name": "MarkTechPost",
-        "url": "https://www.marktechpost.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "OpenAI"
-      ],
-      "publishedAt": "Tue, 12 May 2026 05:47:54 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.marktechpost.com/2026/05/11/openai-introduces-daybreak-a-cybersecurity-initiative-that-puts-codex-security-at-the-center-of-vulnerability-detection-and-patch-validation/"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-05-14T04:15:32.645Z",
-  "edition": 112
+  "lastUpdated": "2026-05-14T09:10:32.753Z",
+  "edition": 113
 }
