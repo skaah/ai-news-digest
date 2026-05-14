@@ -1,6 +1,104 @@
 {
-  "date": "2026-05-14T09:10:32.753Z",
+  "date": "2026-05-14T14:45:42.716Z",
   "articles": [
+    {
+      "id": "mp5louxh6vy2weadunk",
+      "title": "Cisco cuts nearly 4,000 jobs to spend more on AI, reports ‘record quarterly revenue’",
+      "summary": "This is Cisco's latest layoff in recent years, while the company's chief executive touts record revenue and growth....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Thu, 14 May 2026 14:01:14 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/05/14/cisco-cuts-nearly-4000-jobs-to-spend-more-on-ai-reports-record-quarterly-revenue/"
+    },
+    {
+      "id": "mp5louxialkaepw5qe7",
+      "title": "Two weeks left: Startup Battlefield 200 applications close May 27",
+      "summary": "Your shot at VC access, global visibility, TechCrunch coverage, and $100K equity-free funding is running out. Deadline to apply is May 27. Apply now....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Funding",
+      "tags": [
+        "Startup"
+      ],
+      "publishedAt": "Thu, 14 May 2026 14:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/05/14/two-weeks-left-startup-battlefield-200-applications-close-may-27/"
+    },
+    {
+      "id": "mp5louxjrl9p9cp5evg",
+      "title": "Wirestock raises $23M to supply creative multi-modal data to AI labs",
+      "summary": "Wirestock has over 700,000 creators on its platform, which supplies photos, videos and 3D content to AI labs....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Thu, 14 May 2026 14:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/05/14/wirestock-raises-23m-to-supply-multi-modal-data-to-ai-labs/"
+    },
+    {
+      "id": "mp5lp2p7v86kc1tdked",
+      "title": "Mistral AI dément le piratage de son code source : « les attaquants n’ont pas accédé à nos données »",
+      "summary": "...",
+      "source": {
+        "name": "Numerama",
+        "url": "https://www.numerama.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Thu, 14 May 2026 13:08:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.numerama.com/cyberguerre/2253341-mistral-ai-pirate-un-hacker-met-en-vente-5-go-de-code-source-et-450-depots-internes-pour-25-000-dollars.html"
+    },
+    {
+      "id": "mp5lowjnbdf8is9o1v",
+      "title": "Data readiness for agentic AI in financial services",
+      "summary": "Financial services companies have unique needs when it comes to business AI. They operate in one of the most highly regulated sectors while responding to external events that are updated by the second. As a result, the success of agentic AI in financial services depends less on t...",
+      "source": {
+        "name": "MIT Tech Review AI",
+        "url": "https://www.technologyreview.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.technologyreview.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Thu, 14 May 2026 13:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.technologyreview.com/2026/05/14/1137034/data-readiness-for-agentic-ai-in-financial-services/"
+    },
+    {
+      "id": "mp5lowjnuyymwpcs56s",
+      "title": "Establishing AI and data sovereignty in the age of autonomous systems",
+      "summary": "When generative AI first moved from research labs into real-world business applications, enterprises made a tacit bargain: “Capability now, control later.” Feed your proprietary data into third-party AI models, and you will get powerful results. But your data passes through syste...",
+      "source": {
+        "name": "MIT Tech Review AI",
+        "url": "https://www.technologyreview.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.technologyreview.com&sz=64"
+      },
+      "category": "Research",
+      "tags": [],
+      "publishedAt": "Thu, 14 May 2026 13:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.technologyreview.com/2026/05/14/1137168/establishing-ai-and-data-sovereignty-in-the-age-of-autonomous-systems/"
+    },
     {
       "id": "mp59pw2vq55u69a96dk",
       "title": "The shock of seeing your body used in deepfake porn",
@@ -201,6 +299,22 @@
       "imageUrl": "https://images.unsplash.com/photo-1555848962-6e79363ec58f?w=800",
       "readTime": 1,
       "originalUrl": "https://www.marktechpost.com/2026/05/13/how-to-build-a-dynamic-zero-trust-network-simulation-with-graph-based-micro-segmentation-adaptive-policy-engine-and-insider-threat-detection/"
+    },
+    {
+      "id": "mp5loy8zeo2v9d19wa5",
+      "title": "Unlocking asynchronicity in continuous batching",
+      "summary": "...",
+      "source": {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co",
+        "favicon": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Thu, 14 May 2026 00:00:00 GMT",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://huggingface.co/blog/continuous_async"
     },
     {
       "id": "mp4z6fy21bvicmf2fx3",
@@ -731,127 +845,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
       "readTime": 1,
       "originalUrl": "https://techcrunch.com/2026/05/12/anthropic-warns-investors-against-secondary-platforms-offering-access-to-its-shares/"
-    },
-    {
-      "id": "mp32fq27wq4hf4wwkzk",
-      "title": "Report: Google and SpaceX in talks to put data centers into orbit",
-      "summary": "Google and SpaceX are in talks to build data centers in orbit, pitching space as the future home for AI compute, even as costs today remain far higher than on the ground....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Google"
-      ],
-      "publishedAt": "Tue, 12 May 2026 17:30:57 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/05/12/report-google-and-spacex-in-talks-to-put-data-centers-into-orbit/"
-    },
-    {
-      "id": "mp32fq277eebgxhte8d",
-      "title": "Everything Google announced at its Android Show, from Googlebooks to vibe-coded widgets",
-      "summary": "Google unveiled its new AI-first Googlebooks laptops, more agentic Gemini features, vibe-coded Android widgets, Gemini in Chrome, refreshed Android Auto, and more ahead of I/O....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Google"
-      ],
-      "publishedAt": "Tue, 12 May 2026 17:01:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/05/12/everything-google-announced-at-its-android-show-from-googlebooks-to-vibe-coded-widgets/"
-    },
-    {
-      "id": "mp32fq27ia7ch8y2q8q",
-      "title": "Google brings agentic AI and vibe-coded widgets to Android",
-      "summary": "Gemini Intelligence will also include Gboard based dictation and form filling capabilities...",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Google"
-      ],
-      "publishedAt": "Tue, 12 May 2026 17:00:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/05/12/google-brings-agentic-ai-and-vibe-coded-widgets-to-android/"
-    },
-    {
-      "id": "mp3jqr8fem5q29qt70g",
-      "title": "How finance teams use Codex",
-      "summary": "See how finance teams can use Codex to build MBRs, reporting packs, variance bridges, model checks, and planning scenarios from real work inputs....",
-      "source": {
-        "name": "OpenAI News",
-        "url": "https://openai.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Tue, 12 May 2026 15:00:00 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://openai.com/academy/how-finance-teams-use-codex"
-    },
-    {
-      "id": "mp32frr397bqe0bvuxl",
-      "title": "Q&A: Expanding MIT’s global reach through Universal Learning",
-      "summary": "Dimitris Bertsimas and Megan Mitchell discuss the motivation behind Universal Learning, and what sets the new MIT Open Learning educational initiative apart. ...",
-      "source": {
-        "name": "MIT News AI",
-        "url": "https://news.mit.edu",
-        "favicon": "https://www.google.com/s2/favicons?domain=news.mit.edu&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Tue, 12 May 2026 11:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://news.mit.edu/2026/qa-expanding-mit-global-reach-through-universal-learning-0512"
-    },
-    {
-      "id": "mp32frr4m2wj012axg",
-      "title": "Universal AI is “a pathway to AI fluency that’s accessible and approachable to anyone, anywhere”",
-      "summary": "New AI education program from MIT Open Learning debuts with AI-powered personalization and a free introductory course for learners everywhere....",
-      "source": {
-        "name": "MIT News AI",
-        "url": "https://news.mit.edu",
-        "favicon": "https://www.google.com/s2/favicons?domain=news.mit.edu&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Tue, 12 May 2026 11:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://news.mit.edu/2026/universal-ai-pathway-to-ai-fluency-accessible-to-anyone-0512"
-    },
-    {
-      "id": "mp2rppbn6nijz3zw0mc",
-      "title": "Tribune Debunk #2 : « Les agents IA vont orchestrer le SI sans friction »",
-      "summary": "...",
-      "source": {
-        "name": "Maddyness",
-        "url": "https://www.maddyness.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.maddyness.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Tue, 12 May 2026 14:10:19 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.maddyness.com/2026/05/12/les-agents-ia-vont-orchestrer-le-si-sans-friction/"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-05-14T09:10:32.753Z",
-  "edition": 113
+  "lastUpdated": "2026-05-14T14:45:42.716Z",
+  "edition": 114
 }
