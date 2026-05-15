@@ -1,6 +1,93 @@
 {
-  "date": "2026-05-15T09:25:26.945Z",
+  "date": "2026-05-15T14:38:18.476Z",
   "articles": [
+    {
+      "id": "mp70ve8i9tp81sksef4",
+      "title": "Pour les industriels européens, le cauchemar d’une pénurie d’aluminium",
+      "summary": "La crise pétrolière et gazière au Moyen-Orient a des conséquences sur les cours de plusieurs matières premières, avec, à long terme, des risques de pénurie. L’aluminium est particulièrement touché, et peut-être demain le cuivre, menaçant l’automobile, l’aéronautique ou la constru...",
+      "source": {
+        "name": "Le Monde Tech",
+        "url": "https://www.lemonde.fr",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.lemonde.fr&sz=64"
+      },
+      "category": "Policy",
+      "tags": [],
+      "publishedAt": "Fri, 15 May 2026 16:00:11 +0200",
+      "imageUrl": "https://images.unsplash.com/photo-1575517111839-3a3843ee7f5d?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.lemonde.fr/economie/article/2026/05/15/pour-les-industriels-europeens-le-cauchemar-d-une-penurie-d-aluminium_6689451_3234.html"
+    },
+    {
+      "id": "mp70v813bpvuf4b5l85",
+      "title": "Runway started by helping filmmakers. Now it wants to beat Google at AI.",
+      "summary": "AI video generation startup Runway is betting that video generation is the path to world models. And that being an AI outsider is an advantage, not a liability....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Google",
+        "Startup"
+      ],
+      "publishedAt": "Fri, 15 May 2026 14:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/05/15/runway-started-by-helping-filmmakers-now-it-wants-to-beat-google-at-ai/"
+    },
+    {
+      "id": "mp70vesk35o194856ct",
+      "title": "Codex arrive sur iOS et Android : l’app ChatGPT permet de superviser votre ordinateur à distance",
+      "summary": "...",
+      "source": {
+        "name": "Numerama",
+        "url": "https://www.numerama.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
+      },
+      "category": "Policy",
+      "tags": [
+        "OpenAI"
+      ],
+      "publishedAt": "Fri, 15 May 2026 13:59:39 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1575517111839-3a3843ee7f5d?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.numerama.com/tech/2254015-codex-arrive-sur-ios-et-android-lapp-chatgpt-permet-de-superviser-votre-ordinateur-a-distance.html"
+    },
+    {
+      "id": "mp70v813lyswlv7qb2i",
+      "title": "Osaurus brings both local and cloud AI models to your Mac",
+      "summary": "Osaurus￼ combines local and cloud AI models in a Mac app that keeps users’ memory, files, and tools on their own hardware....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Hardware",
+      "tags": [],
+      "publishedAt": "Fri, 15 May 2026 12:19:48 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/05/15/osaurus-brings-both-local-and-cloud-ai-models-to-your-mac/"
+    },
+    {
+      "id": "mp70v9ddrixcdraojxp",
+      "title": "How Chinese short dramas became AI content machines",
+      "summary": "In a dimly lit bedroom, a frightened young woman is thrown onto a bed by a tall, muscular man. He grabs her hand, and flame-like vines crawl across her body, fusing with her flesh. She levitates, then drops. A dragon-shaped tattoo appears across her chest. “Two months,” the man s...",
+      "source": {
+        "name": "MIT Tech Review AI",
+        "url": "https://www.technologyreview.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.technologyreview.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "China"
+      ],
+      "publishedAt": "Fri, 15 May 2026 09:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.technologyreview.com/2026/05/15/1137326/chinese-short-dramas-ai/"
+    },
     {
       "id": "mp6pp2cad265sut2fon",
       "title": "Pourquoi votre catalogue Netflix pourrait bientôt être envahi de films IA",
@@ -757,91 +844,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
       "readTime": 1,
       "originalUrl": "https://techcrunch.com/2026/05/13/who-trusts-sam-altman/"
-    },
-    {
-      "id": "mp4hxvbaoe7mmu1c0q",
-      "title": "Origin Lab raises $8M to help video game companies sell data to world-model builders",
-      "summary": "Origin Lab will serve as a marketplace where AI labs can buy high-quality licensed data, and video-game companies can sell it....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Wed, 13 May 2026 16:22:01 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/05/13/origin-lab-raises-8m-to-help-video-game-companies-sell-data-to-world-model-builders/"
-    },
-    {
-      "id": "mp4hxvbaurp1el3nheq",
-      "title": "Anthropic courts a new kind of customer: small business owners",
-      "summary": "For founders and investors, Anthropic's new offering signals that the AI platform wars are expanding downmarket and that the next major battleground for user acquisition isn't the Fortune 500; it's the 36 million small businesses that make up the backbone of the U.S. economy....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Funding",
-      "tags": [
-        "Anthropic"
-      ],
-      "publishedAt": "Wed, 13 May 2026 16:00:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/05/13/anthropic-courts-a-new-kind-of-customer-small-business-owners/"
-    },
-    {
-      "id": "mp4hy23drsucejykz89",
-      "title": "« Halupédia » : ce site est un Wikipédia avec 100 % d’hallucinations IA",
-      "summary": "...",
-      "source": {
-        "name": "Numerama",
-        "url": "https://www.numerama.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Wed, 13 May 2026 15:49:22 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.numerama.com/tech/2252897-halupedia-ce-site-est-un-wikipedia-avec-100-dhallucinations-ia.html"
-    },
-    {
-      "id": "mp47bqcakrt0shhrf8",
-      "title": "Amazon launches an AI shopping assistant for the search bar, powered by Alexa+",
-      "summary": "Alexa for Shopping is a new personalized AI shopping assistant in the Amazon search bar that replaces its Rufus assistant. ...",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Product",
-      "tags": [],
-      "publishedAt": "Wed, 13 May 2026 14:59:32 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/05/13/amazon-launches-an-ai-shopping-assistant-for-the-search-bar-powered-by-alexa/"
-    },
-    {
-      "id": "mp47bwcawmj9xky0bfd",
-      "title": "Le rendement de la taxe sur les « petits colis » évalué à 2,3 millions d’euros par mois, loin des prévisions du gouvernement",
-      "summary": "Les grandes plateformes visées par cette taxe, comme Temu, Shein et AliExpress, ont vite trouvé la parade : envoyer les petits paquets dans des hubs hébergés par d’autres pays européens, puis les acheminer jusqu’en France par la route....",
-      "source": {
-        "name": "Le Monde Tech",
-        "url": "https://www.lemonde.fr",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.lemonde.fr&sz=64"
-      },
-      "category": "Funding",
-      "tags": [],
-      "publishedAt": "Wed, 13 May 2026 16:25:00 +0200",
-      "imageUrl": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.lemonde.fr/economie/article/2026/05/13/le-rendement-de-la-taxe-sur-les-petits-colis-evalue-a-2-3-millions-d-euros-par-mois-loin-des-previsions-du-gouvernement_6688706_3234.html"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-05-15T09:25:26.945Z",
-  "edition": 117
+  "lastUpdated": "2026-05-15T14:38:18.476Z",
+  "edition": 118
 }
