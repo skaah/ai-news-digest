@@ -1,6 +1,107 @@
 {
-  "date": "2026-05-15T04:30:43.282Z",
+  "date": "2026-05-15T09:25:26.945Z",
   "articles": [
+    {
+      "id": "mp6pp2cad265sut2fon",
+      "title": "Pourquoi votre catalogue Netflix pourrait bientôt être envahi de films IA",
+      "summary": "...",
+      "source": {
+        "name": "Numerama",
+        "url": "https://www.numerama.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Fri, 15 May 2026 08:35:05 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.numerama.com/tech/2253523-pourquoi-votre-catalogue-netflix-pourrait-bientot-etre-envahi-de-films-ia.html"
+    },
+    {
+      "id": "mp6pozp76qsro8e0f4j",
+      "title": "Best AI Agents for Software Development Ranked: A Benchmark-Driven Look at the Current Field",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Fri, 15 May 2026 08:23:01 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/05/15/best-ai-agents-for-software-development-ranked-a-benchmark-driven-look-at-the-current-field/"
+    },
+    {
+      "id": "mp6pozp8ze2xyfdpuke",
+      "title": "Supertone Releases Supertonic v3: On-Device Text-to-Speech Model with 31-Language Support, Fewer Reading Failures, and Expression Tags",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Fri, 15 May 2026 07:00:49 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/05/15/supertone-releases-supertonic-v3-on-device-text-to-speech-model-with-31-language-support-fewer-reading-failures-and-expression-tags/"
+    },
+    {
+      "id": "mp6pozp9gdv4nwtff",
+      "title": "How to Build a Django-Unfold Admin Dashboard with Custom Models, Filters, Actions, and KPIs",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Fri, 15 May 2026 05:54:47 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/05/14/how-to-build-a-django-unfold-admin-dashboard-with-custom-models-filters-actions-and-kpis/"
+    },
+    {
+      "id": "mp6pozp94fqaqypavs",
+      "title": "Poetiq’s Meta-System Automatically Builds a Model-Agnostic Harness That Improved Every LLM Tested on LiveCodeBench Pro Without Fine-Tuning",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Meta",
+        "LLM"
+      ],
+      "publishedAt": "Fri, 15 May 2026 03:38:10 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/05/14/poetiqs-meta-system-automatically-builds-a-model-agnostic-harness-that-improved-every-llm-tested-on-livecodebench-pro-without-fine-tuning/"
+    },
+    {
+      "id": "mp6pozpaoj7yvvm4k1b",
+      "title": "A Coding Implementation to Master GPU Computing with CuPy, Custom CUDA Kernels, Streams, Sparse Matrices, and Profiling",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Hardware",
+      "tags": [
+        "Nvidia"
+      ],
+      "publishedAt": "Thu, 14 May 2026 23:21:09 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/05/14/a-coding-implementation-to-master-gpu-computing-with-cupy-custom-cuda-kernels-streams-sparse-matrices-and-profiling/"
+    },
     {
       "id": "mp6f5uqctvo5wt810jn",
       "title": "What the jury will actually decide in the case of Elon Musk vs. Sam Altman",
@@ -738,116 +839,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800",
       "readTime": 1,
       "originalUrl": "https://www.lemonde.fr/economie/article/2026/05/13/le-rendement-de-la-taxe-sur-les-petits-colis-evalue-a-2-3-millions-d-euros-par-mois-loin-des-previsions-du-gouvernement_6688706_3234.html"
-    },
-    {
-      "id": "mp47bqca1jqu5y2fhwk",
-      "title": "WhatsApp adds an incognito mode in Meta AI chats",
-      "summary": "Meta said these incognito conversations are not saved, and messages will disappear by default once you close the chat. ...",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Meta"
-      ],
-      "publishedAt": "Wed, 13 May 2026 14:00:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/05/13/whatsapp-adds-an-incognito-mode-in-meta-ai-chats/"
-    },
-    {
-      "id": "mp47bqcb1ondqjye8ic",
-      "title": "Anthropic now has more business customers than OpenAI, according to Ramp data",
-      "summary": "For the first time, Anthropic has more verified business customers than OpenAI, according to this month’s AI Index from the fintech firm Ramp. ...",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "OpenAI",
-        "Anthropic"
-      ],
-      "publishedAt": "Wed, 13 May 2026 14:00:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/05/13/anthropic-now-has-more-business-customers-than-openai-according-to-ramp-data/"
-    },
-    {
-      "id": "mp47bqcbtjcjqvxb7e",
-      "title": "Introducing the 6 stages at TechCrunch Disrupt 2026 — built for today’s tougher startup market",
-      "summary": "From October 13-15, TechCrunch Disrupt 2026 will feature 200+ sessions across six stages, led by 250+ tech leaders shaping the industry today. Register now to save up to $410, plus 50% off a second pass....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Startup"
-      ],
-      "publishedAt": "Wed, 13 May 2026 14:00:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/05/13/introducing-the-6-stages-of-techcrunch-disrupt-2026-built-for-todays-tougher-startup-market/"
-    },
-    {
-      "id": "mp47bqcc36r5j4gpthf",
-      "title": "Poppy debuts a proactive AI assistant to help organize your digital life",
-      "summary": "Poppy is an AI-powered app that connects your calendar, email, messages, and other services to surface reminders, suggestions, and tasks based on what’s happening in your life....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Wed, 13 May 2026 13:27:09 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/05/13/poppy-debuts-a-proactive-ai-assistant-to-help-organize-your-digital-life/"
-    },
-    {
-      "id": "mp4hxxmtunainsudyjb",
-      "title": "Building a safe, effective sandbox to enable Codex on Windows",
-      "summary": "Learn how OpenAI built a secure sandbox for Codex on Windows, enabling safe, efficient coding agents with controlled file access and network restrictions....",
-      "source": {
-        "name": "OpenAI News",
-        "url": "https://openai.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "OpenAI"
-      ],
-      "publishedAt": "Wed, 13 May 2026 11:00:00 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://openai.com/index/building-codex-windows-sandbox"
-    },
-    {
-      "id": "mp47bu3t291fsba069n",
-      "title": "Mira Murati’s Thinking Machines Lab Introduces Interaction Models: A Native Multimodal Architecture for Real-Time Human-AI Collaboration",
-      "summary": "...",
-      "source": {
-        "name": "MarkTechPost",
-        "url": "https://www.marktechpost.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Multimodal"
-      ],
-      "publishedAt": "Wed, 13 May 2026 09:21:33 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.marktechpost.com/2026/05/13/mira-muratis-thinking-machines-lab-introduces-interaction-models-a-native-multimodal-architecture-for-real-time-human-ai-collaboration/"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-05-15T04:30:43.281Z",
-  "edition": 116
+  "lastUpdated": "2026-05-15T09:25:26.945Z",
+  "edition": 117
 }
