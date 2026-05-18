@@ -1,6 +1,156 @@
 {
-  "date": "2026-05-17T19:39:10.607Z",
+  "date": "2026-05-18T04:44:35.870Z",
   "articles": [
+    {
+      "id": "mpapzgrr1l1dib951kg",
+      "title": "Cigno lève 1,5 million d’euros pour créer une IA dédiée aux cabinets de conseil",
+      "summary": "...",
+      "source": {
+        "name": "Maddyness",
+        "url": "https://www.maddyness.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.maddyness.com&sz=64"
+      },
+      "category": "Funding",
+      "tags": [],
+      "publishedAt": "Mon, 18 May 2026 04:00:48 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.maddyness.com/2026/05/18/cigno-leve-15-million-deuros-pour-creer-une-ia-dediee-aux-cabinets-de-conseil/"
+    },
+    {
+      "id": "mpapzfa7bup69ic3j3k",
+      "title": "L’aéroport de Vatry, à l’est de Paris, menacé de fermeture en raison de la taxe française sur les petits colis",
+      "summary": "Depuis la mise en place de cette taxe par le gouvernement français, le 1ᵉʳ mars, l’aéroport a perdu 70 % de son trafic, en raison de la réorientation des vols des sites d’e-commerce vers d’autres pays européens....",
+      "source": {
+        "name": "Le Monde Tech",
+        "url": "https://www.lemonde.fr",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.lemonde.fr&sz=64"
+      },
+      "category": "Policy",
+      "tags": [],
+      "publishedAt": "Mon, 18 May 2026 06:00:31 +0200",
+      "imageUrl": "https://images.unsplash.com/photo-1575517111839-3a3843ee7f5d?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.lemonde.fr/economie/article/2026/05/18/l-aeroport-de-vatry-a-l-est-de-paris-menace-de-fermeture-en-raison-de-la-taxe-francaise-sur-les-petits-colis_6690556_3234.html"
+    },
+    {
+      "id": "mpapzctykauemzfwfxn",
+      "title": "DeepSlide: From Artifacts to Presentation Delivery",
+      "summary": "...",
+      "source": {
+        "name": "ArXiv cs.AI",
+        "url": "https://arxiv.org",
+        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Mon, 18 May 2026 00:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://arxiv.org/abs/2605.15202"
+    },
+    {
+      "id": "mpapzctz8rmmxh7gyph",
+      "title": "SDOF: Taming the Alignment Tax in Multi-Agent Orchestration with State-Constrained Dispatch",
+      "summary": "...",
+      "source": {
+        "name": "ArXiv cs.AI",
+        "url": "https://arxiv.org",
+        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "AI Safety"
+      ],
+      "publishedAt": "Mon, 18 May 2026 00:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://arxiv.org/abs/2605.15204"
+    },
+    {
+      "id": "mpapzcu0zam6u1zuh1o",
+      "title": "Does Theory of Mind Improvement Really Benefit Human-AI Interactions? Empirical Findings from Interactive Evaluations",
+      "summary": "...",
+      "source": {
+        "name": "ArXiv cs.AI",
+        "url": "https://arxiv.org",
+        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Mon, 18 May 2026 00:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://arxiv.org/abs/2605.15205"
+    },
+    {
+      "id": "mpapzcu0fajkjhn5scq",
+      "title": "SkillSmith: Compiling Agent Skills into Boundary-Guided Runtime Interfaces",
+      "summary": "...",
+      "source": {
+        "name": "ArXiv cs.AI",
+        "url": "https://arxiv.org",
+        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Mon, 18 May 2026 00:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://arxiv.org/abs/2605.15215"
+    },
+    {
+      "id": "mpapzcu1cn27yja94gi",
+      "title": "Fair outputs, Biased Internals: Causal Potency and Asymmetry of Latent Bias in LLMs for High-Stakes Decisions",
+      "summary": "...",
+      "source": {
+        "name": "ArXiv cs.AI",
+        "url": "https://arxiv.org",
+        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "LLM"
+      ],
+      "publishedAt": "Mon, 18 May 2026 00:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://arxiv.org/abs/2605.15217"
+    },
+    {
+      "id": "mpapz7diimtw0z8mvm",
+      "title": "Apple’s Siri revamp could include auto-deleting chats",
+      "summary": "Privacy will be a major theme when Apple unveils a new version of Siri....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Sun, 17 May 2026 20:15:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/05/17/apples-siri-revamp-could-include-auto-deleting-chats/"
+    },
+    {
+      "id": "mpapz7dj825mn8pkfwc",
+      "title": "Why trust is a big question at the Elon Musk-OpenAI trial",
+      "summary": "A big theme in the trial’s final days was whether OpenAI CEO Sam Altman is trustworthy....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "OpenAI"
+      ],
+      "publishedAt": "Sun, 17 May 2026 19:46:34 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/05/17/why-trust-is-a-big-question-at-the-elon-musk-openai-trial/"
+    },
     {
       "id": "mpa6hylmuavzgebern",
       "title": "A Coding Implementation to Compress and Benchmark Instruction-Tuned LLMs with FP8, GPTQ, and SmoothQuant Quantization using llmcompressor",
@@ -694,163 +844,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
       "readTime": 1,
       "originalUrl": "https://openai.com/index/personal-finance-chatgpt"
-    },
-    {
-      "id": "mp6pozpaoj7yvvm4k1b",
-      "title": "A Coding Implementation to Master GPU Computing with CuPy, Custom CUDA Kernels, Streams, Sparse Matrices, and Profiling",
-      "summary": "...",
-      "source": {
-        "name": "MarkTechPost",
-        "url": "https://www.marktechpost.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
-      },
-      "category": "Hardware",
-      "tags": [
-        "Nvidia"
-      ],
-      "publishedAt": "Thu, 14 May 2026 23:21:09 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.marktechpost.com/2026/05/14/a-coding-implementation-to-master-gpu-computing-with-cupy-custom-cuda-kernels-streams-sparse-matrices-and-profiling/"
-    },
-    {
-      "id": "mp6f5uqctvo5wt810jn",
-      "title": "What the jury will actually decide in the case of Elon Musk vs. Sam Altman",
-      "summary": "Here's what the biggest tech court case of the year is all about. ...",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Thu, 14 May 2026 22:47:51 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/05/14/what-the-jury-will-actually-decide-in-the-case-of-elon-musk-vs-sam-altman/"
-    },
-    {
-      "id": "mp6f5uqd8wjlhimz188",
-      "title": "Elon Musk’s SpaceXAI has been bleeding staff since its merger",
-      "summary": "More than 50 employees have reportedly left Elon Musk’s newly merged SpaceXAI since February, raising questions about burnout, leadership changes, talent poaching, and whether liquidity events weakened retention incentives....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Thu, 14 May 2026 21:30:44 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/05/14/elon-musks-spacexai-has-been-bleeding-staff-since-its-merger/"
-    },
-    {
-      "id": "mp6f5uqd534fza65r7m",
-      "title": "OpenAI says Codex is coming to your phone",
-      "summary": "The update gives users enhanced flexibility over how they can manage their workflows. ...",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "OpenAI"
-      ],
-      "publishedAt": "Thu, 14 May 2026 20:58:55 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/05/14/openai-says-codex-is-coming-to-your-phone/"
-    },
-    {
-      "id": "mp6f5wmhegrn13695og",
-      "title": "Two from MIT named 2026 Knight-Hennessy Scholars",
-      "summary": "The prestigious fellowship funds graduate studies at Stanford University....",
-      "source": {
-        "name": "MIT News AI",
-        "url": "https://news.mit.edu",
-        "favicon": "https://www.google.com/s2/favicons?domain=news.mit.edu&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Thu, 14 May 2026 16:55:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://news.mit.edu/2026/knight-hennessy-scholars-0514"
-    },
-    {
-      "id": "mp6f5x8zjcap14mzv5j",
-      "title": "Sea's View on the Future of Agentic Software Development with Codex",
-      "summary": "Sea Limited's CPO explains why the company is deploying Codex across engineering teams to accelerate AI-native software development in Asia....",
-      "source": {
-        "name": "OpenAI News",
-        "url": "https://openai.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Thu, 14 May 2026 20:30:00 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://openai.com/index/sea-david-chen"
-    },
-    {
-      "id": "mp5x293xo92tj42tztn",
-      "title": "What happens when AI starts building itself?",
-      "summary": "Richard Socher's new $650 million startup wants to build an AI that can research and improve itself indefinitely — and he insists it will actually ship products....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Product",
-      "tags": [
-        "Startup"
-      ],
-      "publishedAt": "Thu, 14 May 2026 19:57:20 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/05/14/what-happens-when-ai-starts-building-itself/"
-    },
-    {
-      "id": "mp5x293y883xyfj6hus",
-      "title": "OpenAI is reportedly preparing legal action against Apple; it wouldn’t be the first partner to feel burned",
-      "summary": "According to Bloomberg, OpenAI has enlisted an outside law firm to work through its options....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Policy",
-      "tags": [
-        "OpenAI"
-      ],
-      "publishedAt": "Thu, 14 May 2026 19:12:03 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/05/14/openai-is-reportedly-preparing-legal-action-against-apple-it-wouldnt-be-the-first-partner-to-feel-burned/"
-    },
-    {
-      "id": "mp5x293z60fwlggoja6",
-      "title": "Clawdmeter turns your Claude Code usage stats into a tiny desktop dashboard",
-      "summary": "A new open source gadget called Clawdmeter turns Claude Code usage stats into a tiny desktop dashboard for AI coding power users....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Policy",
-      "tags": [
-        "Anthropic"
-      ],
-      "publishedAt": "Thu, 14 May 2026 19:05:01 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/05/14/clawdmeter-turns-your-claude-code-usage-stats-into-a-tiny-desktop-dashboard/"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-05-17T19:39:10.607Z",
-  "edition": 127
+  "lastUpdated": "2026-05-18T04:44:35.870Z",
+  "edition": 128
 }
