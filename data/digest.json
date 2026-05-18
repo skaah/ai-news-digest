@@ -1,6 +1,24 @@
 {
-  "date": "2026-05-18T04:44:35.870Z",
+  "date": "2026-05-18T10:42:57.997Z",
   "articles": [
+    {
+      "id": "mpb2s8dub2v01m8jrs",
+      "title": "NVIDIA Introduces a 4-Bit Pretraining Methodology Using NVFP4, Validated on a 12B Hybrid Mamba-Transformer at 10T Token Horizon",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Nvidia"
+      ],
+      "publishedAt": "Mon, 18 May 2026 08:42:52 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/05/18/nvidia-introduces-a-4-bit-pretraining-methodology-using-nvfp4-validated-on-a-12b-hybrid-mamba-transformer-at-10t-token-horizon/"
+    },
     {
       "id": "mpapzgrr1l1dib951kg",
       "title": "Cigno lève 1,5 million d’euros pour créer une IA dédiée aux cabinets de conseil",
@@ -826,27 +844,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
       "readTime": 1,
       "originalUrl": "https://openai.com/index/databricks"
-    },
-    {
-      "id": "mp7c7z7ml5cri9e6pmh",
-      "title": "A new personal finance experience in ChatGPT",
-      "summary": "Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goals, and priorities....",
-      "source": {
-        "name": "OpenAI News",
-        "url": "https://openai.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "OpenAI"
-      ],
-      "publishedAt": "Fri, 15 May 2026 00:00:00 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://openai.com/index/personal-finance-chatgpt"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-05-18T04:44:35.870Z",
-  "edition": 128
+  "lastUpdated": "2026-05-18T10:42:57.997Z",
+  "edition": 129
 }
