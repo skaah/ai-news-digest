@@ -1,6 +1,42 @@
 {
-  "date": "2026-05-18T20:04:26.478Z",
+  "date": "2026-05-19T04:35:54.576Z",
   "articles": [
+    {
+      "id": "mpc53yb9d0vxmmbk84",
+      "title": "Here’s why Elon Musk lost his suit against OpenAI",
+      "summary": "On Monday, the jury in Musk v. Altman dealt Elon Musk a major blow—reaching a unanimous advisory verdict that he had sued OpenAI too late and, as a result, his claims are barred by the applicable statutes of limitations. US District Judge Yvonne Gonzalez Rogers immediately accept...",
+      "source": {
+        "name": "MIT Tech Review AI",
+        "url": "https://www.technologyreview.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.technologyreview.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "OpenAI"
+      ],
+      "publishedAt": "Tue, 19 May 2026 00:53:10 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.technologyreview.com/2026/05/18/1137488/elon-musk-suit-openai-verdict/"
+    },
+    {
+      "id": "mpc53wssbq9cxjcqz4u",
+      "title": "SandboxAQ brings its drug discovery models to Claude — no PhD in computing required",
+      "summary": "Other venture-backed companies like Chai Discovery and Isomorphic Labs have raced to build better models. SandboxAQ is betting that access is the bigger obstacle and that Claude solves it. ...",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Anthropic"
+      ],
+      "publishedAt": "Mon, 18 May 2026 21:29:31 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/05/18/sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-required/"
+    },
     {
       "id": "mpbmu6vxp8nskii8tk8",
       "title": "Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare",
@@ -821,43 +857,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
       "readTime": 1,
       "originalUrl": "https://www.numerama.com/tech/2254097-cette-ia-vous-dit-quand-vous-faites-un-mauvais-choix-et-vous-pouvez-lexperimenter-des-a-present.html"
-    },
-    {
-      "id": "mp7c7wym0t0vco08xiqi",
-      "title": "OpenAI launches ChatGPT for personal finance, will let you connect bank accounts",
-      "summary": "Once users connect their accounts, they will see a dashboard of their portfolio performance, spending, subscriptions, and upcoming payments....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Product",
-      "tags": [
-        "OpenAI"
-      ],
-      "publishedAt": "Fri, 15 May 2026 16:00:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1550009158-9ebf690be655?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/"
-    },
-    {
-      "id": "mp70ve8i9tp81sksef4",
-      "title": "Pour les industriels européens, le cauchemar d’une pénurie d’aluminium",
-      "summary": "La crise pétrolière et gazière au Moyen-Orient a des conséquences sur les cours de plusieurs matières premières, avec, à long terme, des risques de pénurie. L’aluminium est particulièrement touché, et peut-être demain le cuivre, menaçant l’automobile, l’aéronautique ou la constru...",
-      "source": {
-        "name": "Le Monde Tech",
-        "url": "https://www.lemonde.fr",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.lemonde.fr&sz=64"
-      },
-      "category": "Policy",
-      "tags": [],
-      "publishedAt": "Fri, 15 May 2026 16:00:11 +0200",
-      "imageUrl": "https://images.unsplash.com/photo-1575517111839-3a3843ee7f5d?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.lemonde.fr/economie/article/2026/05/15/pour-les-industriels-europeens-le-cauchemar-d-une-penurie-d-aluminium_6689451_3234.html"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-05-18T20:04:26.478Z",
-  "edition": 131
+  "lastUpdated": "2026-05-19T04:35:54.576Z",
+  "edition": 132
 }
