@@ -1,6 +1,59 @@
 {
-  "date": "2026-05-19T10:09:51.816Z",
+  "date": "2026-05-19T15:52:58.779Z",
   "articles": [
+    {
+      "id": "mpctanpox6nixb9h53j",
+      "title": "OpenAI co-founder Andrej Karpathy joins Anthropic’s pre-training team",
+      "summary": "Andrej Karpathy has joined Anthropic to work on pre-training. He previously co-founded and worked at OpenAI and led computer vision and AI at Tesla. ...",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "OpenAI",
+        "Anthropic"
+      ],
+      "publishedAt": "Tue, 19 May 2026 15:43:04 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/05/19/openai-co-founder-andrej-karpathy-joins-anthropics-pre-training-team/"
+    },
+    {
+      "id": "mpctauhdp71c2tmhop",
+      "title": "Elon Musk a trop parlé : ses propres doutes lui coûtent son procès contre OpenAI",
+      "summary": "...",
+      "source": {
+        "name": "Numerama",
+        "url": "https://www.numerama.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "OpenAI"
+      ],
+      "publishedAt": "Tue, 19 May 2026 15:26:59 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.numerama.com/politique/2255583-elon-musk-a-trop-parle-ses-propres-doutes-lui-coutent-son-proces-contre-openai.html"
+    },
+    {
+      "id": "mpctav1hkfgegqbs3xd",
+      "title": "Le français Singulier fusionne avec l’allemand Ommax pour bâtir un géant européen du conseil en IA",
+      "summary": "...",
+      "source": {
+        "name": "Maddyness",
+        "url": "https://www.maddyness.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.maddyness.com&sz=64"
+      },
+      "category": "Policy",
+      "tags": [],
+      "publishedAt": "Tue, 19 May 2026 10:13:12 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1555848962-6e79363ec58f?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.maddyness.com/2026/05/19/le-francais-singulier-fusionne-avec-lallemand-ommax-pour-batir-un-geant-europeen-du-conseil-en-ia/"
+    },
     {
       "id": "mpch1j15nk88gmpfuq",
       "title": "Les services secrets allemands se tournent vers le français ChapsVision pour leur logiciel d’analyse de données, afin d’éviter Palantir",
@@ -120,6 +173,22 @@
       "originalUrl": "https://www.technologyreview.com/2026/05/18/1137488/elon-musk-suit-openai-verdict/"
     },
     {
+      "id": "mpctaqkzdrx717akj4v",
+      "title": "Introducing the Ettin Reranker Family",
+      "summary": "...",
+      "source": {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co",
+        "favicon": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Tue, 19 May 2026 00:00:00 GMT",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://huggingface.co/blog/ettin-reranker"
+    },
+    {
       "id": "mpc53wssbq9cxjcqz4u",
       "title": "SandboxAQ brings its drug discovery models to Claude — no PhD in computing required",
       "summary": "Other venture-backed companies like Chai Discovery and Isomorphic Labs have raced to build better models. SandboxAQ is betting that access is the bigger obstacle and that Claude solves it. ...",
@@ -168,6 +237,22 @@
       "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
       "readTime": 1,
       "originalUrl": "https://www.marktechpost.com/2026/05/18/stochastic-gradient-descent-sgds-frequency-bias-and-how-adam-fixes-it/"
+    },
+    {
+      "id": "mpctatx4lcr638ihxp",
+      "title": "UberEats et Deliveroo mis en demeure par la CFDT pour leur management opaque et leurs suspensions abusives de livreurs",
+      "summary": "Union-Indépendants et la CFDT réclament notamment aux plateformes le droit d’accéder aux détails de l’algorithme qui expliquent le mode de calcul de la rémunération des livreurs. Si ces éléments ne sont pas fournis d’ici six mois, les syndicats lanceront une action de groupe deva...",
+      "source": {
+        "name": "Le Monde Tech",
+        "url": "https://www.lemonde.fr",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.lemonde.fr&sz=64"
+      },
+      "category": "Policy",
+      "tags": [],
+      "publishedAt": "Mon, 18 May 2026 21:30:13 +0200",
+      "imageUrl": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.lemonde.fr/economie/article/2026/05/18/ubereats-et-deliveroo-mis-en-demeure-par-la-cfdt-pour-leur-management-opaque-et-leurs-suspensions-abusives-de-livreurs_6691075_3234.html"
     },
     {
       "id": "mpbmu6vxp8nskii8tk8",
@@ -770,92 +855,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800",
       "readTime": 1,
       "originalUrl": "https://www.marktechpost.com/2026/05/16/nvidia-introduces-sana-wm-a-2-6b-parameter-open-source-world-model-that-generates-minute-scale-720p-video-on-a-single-gpu/"
-    },
-    {
-      "id": "mp82tp06u6zpcr6p27m",
-      "title": "How to Build Repository-Level Code Intelligence with Repowise Using Graph Analysis, Dead-Code Detection, Decisions, and AI Context",
-      "summary": "...",
-      "source": {
-        "name": "MarkTechPost",
-        "url": "https://www.marktechpost.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Sat, 16 May 2026 06:45:19 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.marktechpost.com/2026/05/15/how-to-build-repository-level-code-intelligence-with-repowise-using-graph-analysis-dead-code-detection-decisions-and-ai-context/"
-    },
-    {
-      "id": "mp7tpfuo5vvwe82ulfc",
-      "title": "GraphBit: A Graph-based Agentic Framework for Non-Linear Agent Orchestration",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Sat, 16 May 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2605.13848"
-    },
-    {
-      "id": "mp7tpfupl0qa2pj5iq",
-      "title": "Mixed Integer Goal Programming for Personalized Meal Optimization with User-Defined Serving Granularity",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Sat, 16 May 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2605.13849"
-    },
-    {
-      "id": "mp7tpfup9ni7zgn032b",
-      "title": "A Two-Dimensional Framework for AI Agent Design Patterns: Cognitive Function and Execution Topology",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Sat, 16 May 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2605.13850"
-    },
-    {
-      "id": "mp7tpfuqw7vmjh7qm4i",
-      "title": "Invisible Orchestrators Suppress Protective Behavior and Dissociate Power-Holders: Safety Risks in Multi-Agent LLM Systems",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Ethics",
-      "tags": [
-        "LLM",
-        "AI Safety"
-      ],
-      "publishedAt": "Sat, 16 May 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2605.13851"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-05-19T10:09:51.816Z",
-  "edition": 133
+  "lastUpdated": "2026-05-19T15:52:58.779Z",
+  "edition": 134
 }
