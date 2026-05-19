@@ -1,6 +1,106 @@
 {
-  "date": "2026-05-19T04:35:54.576Z",
+  "date": "2026-05-19T10:09:51.816Z",
   "articles": [
+    {
+      "id": "mpch1j15nk88gmpfuq",
+      "title": "Les services secrets allemands se tournent vers le français ChapsVision pour leur logiciel d’analyse de données, afin d’éviter Palantir",
+      "summary": "L’administration allemande prend conscience du risque que représente une dépendance excessive aux services informatiques américains....",
+      "source": {
+        "name": "Le Monde Tech",
+        "url": "https://www.lemonde.fr",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.lemonde.fr&sz=64"
+      },
+      "category": "Policy",
+      "tags": [],
+      "publishedAt": "Tue, 19 May 2026 12:00:09 +0200",
+      "imageUrl": "https://images.unsplash.com/photo-1575517111839-3a3843ee7f5d?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.lemonde.fr/economie/article/2026/05/19/les-services-secrets-allemands-se-tournent-vers-le-francais-chapsvision-pour-leur-logiciel-d-analyse-de-donnees-afin-d-eviter-palantir_6691466_3234.html"
+    },
+    {
+      "id": "mpch1j16wv1x81m9tk",
+      "title": "PlayStation ne souhaite plus publier ses jeux vidéo narratifs sur PC",
+      "summary": "La division jeux vidéo de Sony a aussi annoncé l’augmentation du prix de son abonnement PlayStation Plus....",
+      "source": {
+        "name": "Le Monde Tech",
+        "url": "https://www.lemonde.fr",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.lemonde.fr&sz=64"
+      },
+      "category": "Policy",
+      "tags": [],
+      "publishedAt": "Tue, 19 May 2026 11:52:32 +0200",
+      "imageUrl": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.lemonde.fr/pixels/article/2026/05/19/playstation-ne-souhaite-plus-publier-ses-jeux-video-narratifs-sur-pc_6691464_4408996.html"
+    },
+    {
+      "id": "mpch1l7jw9qx0a5iwdn",
+      "title": "« Beaucoup de temps, d’efforts et d’argent » : ce que Cloudflare a appris en testant Claude Mythos sur sa propre infrastructure",
+      "summary": "...",
+      "source": {
+        "name": "Numerama",
+        "url": "https://www.numerama.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Anthropic"
+      ],
+      "publishedAt": "Tue, 19 May 2026 09:16:32 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.numerama.com/cyberguerre/2255489-beaucoup-de-temps-defforts-et-dargent-ce-que-cloudflare-a-appris-en-testant-claude-mythos-sur-sa-propre-infrastructure.html"
+    },
+    {
+      "id": "mpch1gkzg0pklngur4m",
+      "title": "Best Enterprise Level Agentic AI Platforms for 2026",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Tue, 19 May 2026 08:24:58 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/05/19/best-enterprise-level-agentic-ai-platforms-for-2026/"
+    },
+    {
+      "id": "mpch1m1ez2std2itfy",
+      "title": "Mistral AI boucle une nouvelle acquisition en Autriche",
+      "summary": "...",
+      "source": {
+        "name": "Maddyness",
+        "url": "https://www.maddyness.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.maddyness.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Tue, 19 May 2026 06:30:24 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.maddyness.com/2026/05/19/mistral-ai-boucle-une-nouvelle-acquisition-en-autriche/"
+    },
+    {
+      "id": "mpch1gkzsfr5godlnd",
+      "title": "How to Build an Advanced Agentic AI System with Planning, Tool Calling, Memory, and Self-Critique Using OpenAI API",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "OpenAI"
+      ],
+      "publishedAt": "Tue, 19 May 2026 05:29:40 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/05/18/how-to-build-an-advanced-agentic-ai-system-with-planning-tool-calling-memory-and-self-critique-using-openai-api/"
+    },
     {
       "id": "mpc53yb9d0vxmmbk84",
       "title": "Here’s why Elon Musk lost his suit against OpenAI",
@@ -36,6 +136,38 @@
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
       "readTime": 1,
       "originalUrl": "https://techcrunch.com/2026/05/18/sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-required/"
+    },
+    {
+      "id": "mpch1gl0v4gjgyitwz",
+      "title": "Meet MemPrivacy: An Edge-Cloud Framework that Uses Local Reversible Pseudonymization to Protect User Data Without Breaking Memory Utility",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Policy",
+      "tags": [],
+      "publishedAt": "Mon, 18 May 2026 21:26:04 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1555848962-6e79363ec58f?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/05/18/meet-memprivacy-an-edge-cloud-framework-that-uses-local-reversible-pseudonymization-to-protect-user-data-without-breaking-memory-utility/"
+    },
+    {
+      "id": "mpch1gl0zf40jbwh0je",
+      "title": "Stochastic Gradient Descent (SGD’s) Frequency Bias and How Adam Fixes It",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Mon, 18 May 2026 20:18:55 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/05/18/stochastic-gradient-descent-sgds-frequency-bias-and-how-adam-fixes-it/"
     },
     {
       "id": "mpbmu6vxp8nskii8tk8",
@@ -721,145 +853,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=800",
       "readTime": 1,
       "originalUrl": "https://arxiv.org/abs/2605.13851"
-    },
-    {
-      "id": "mp7tpfuqa58hgzgaor4",
-      "title": "PREPING: Building Agent Memory without Tasks",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Sat, 16 May 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2605.13880"
-    },
-    {
-      "id": "mp8f0fcetm6zc0yfi3m",
-      "title": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
-      "summary": "OpenAI and Malta partner to expand AI access, offering ChatGPT Plus and training to help citizens build practical AI skills and use AI responsibly....",
-      "source": {
-        "name": "OpenAI News",
-        "url": "https://openai.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "OpenAI"
-      ],
-      "publishedAt": "Sat, 16 May 2026 00:00:00 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://openai.com/index/malta-chatgpt-plus-partnership"
-    },
-    {
-      "id": "mp7tpcvmjqoicbmw4o9",
-      "title": "Musk v. Altman week 3: Musk and Altman traded blows over each other’s credibility. Now the jury will pick a side.",
-      "summary": "In the final week of the Musk v. Altman trial, lawyers traded blows over Elon Musk’s and OpenAI CEO Sam Altman’s credibility. Altman was grilled on his alleged history of lying and self-dealing involving companies that do business with OpenAI. But he fired back, painting Musk as ...",
-      "source": {
-        "name": "MIT Tech Review AI",
-        "url": "https://www.technologyreview.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.technologyreview.com&sz=64"
-      },
-      "category": "Policy",
-      "tags": [
-        "OpenAI"
-      ],
-      "publishedAt": "Fri, 15 May 2026 23:39:35 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1575517111839-3a3843ee7f5d?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.technologyreview.com/2026/05/15/1137357/musk-v-altman-week-3/"
-    },
-    {
-      "id": "mp7tpfea2pxcnamu1df",
-      "title": "How to Build an MCP Style Routed AI Agent System with Dynamic Tool Exposure Planning, Execution, and Context Injection",
-      "summary": "...",
-      "source": {
-        "name": "MarkTechPost",
-        "url": "https://www.marktechpost.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Fri, 15 May 2026 21:05:34 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.marktechpost.com/2026/05/15/how-to-build-an-mcp-style-routed-ai-agent-system-with-dynamic-tool-exposure-planning-execution-and-context-injection/"
-    },
-    {
-      "id": "mp7tpfebgb9i1qsa81p",
-      "title": "Zyphra Releases ZAYA1-8B-Diffusion-Preview: The First MoE Diffusion Model Converted From an Autoregressive LLM With Up to 7.7x Speedup",
-      "summary": "...",
-      "source": {
-        "name": "MarkTechPost",
-        "url": "https://www.marktechpost.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "LLM"
-      ],
-      "publishedAt": "Fri, 15 May 2026 20:00:21 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.marktechpost.com/2026/05/15/zyphra-releases-zaya1-8b-diffusion-preview-the-first-moe-diffusion-model-converted-from-an-autoregressive-llm-with-up-to-7-7x-speedup/"
-    },
-    {
-      "id": "mp7c7wylsegrrj79e3i",
-      "title": "The OpenAI trial wraps up, and the Musk founder machine keeps spinning",
-      "summary": "The Musk v. Altman trial came to a close this week, and the final arguments kept circling back to one question: can we trust the people in charge of AI? All of this is playing out as SpaceX charges toward what could be one of the largest IPOs in American history, with a whole gen...",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "OpenAI"
-      ],
-      "publishedAt": "Fri, 15 May 2026 19:24:16 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/podcast/the-openai-trial-wraps-up-and-the-musk-founder-machine-keeps-spinning/"
-    },
-    {
-      "id": "mp7c7wymizqppygmfoa",
-      "title": "Silicon Valley’s vacationland needs a new energy provider just as AI is driving prices up",
-      "summary": "Lake Tahoe, Silicon Valley's favorite vacation spot, is about to get hit with higher energy prices as AI drives demand for electricity....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Fri, 15 May 2026 18:14:44 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/05/15/silicon-valleys-vacationland-needs-a-new-energy-provider-just-as-ai-is-driving-prices-up/"
-    },
-    {
-      "id": "mp7c83ty9dgx522f73g",
-      "title": "Cette IA vous dit quand vous faites un mauvais choix, et vous pouvez l’expérimenter dès à présent",
-      "summary": "...",
-      "source": {
-        "name": "Numerama",
-        "url": "https://www.numerama.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Fri, 15 May 2026 16:29:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.numerama.com/tech/2254097-cette-ia-vous-dit-quand-vous-faites-un-mauvais-choix-et-vous-pouvez-lexperimenter-des-a-present.html"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-05-19T04:35:54.576Z",
-  "edition": 132
+  "lastUpdated": "2026-05-19T10:09:51.816Z",
+  "edition": 133
 }
