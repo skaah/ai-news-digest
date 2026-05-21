@@ -1,6 +1,145 @@
 {
-  "date": "2026-05-20T20:31:50.262Z",
+  "date": "2026-05-21T04:47:43.613Z",
   "articles": [
+    {
+      "id": "mpf0evmxf2x6e7ckj46",
+      "title": "Technology usually creates jobs for young, skilled workers. Will AI do the same?",
+      "summary": "A new study of the postwar U.S. shows which kinds of workers historically filled new tech-enabled jobs. ...",
+      "source": {
+        "name": "MIT News AI",
+        "url": "https://news.mit.edu",
+        "favicon": "https://www.google.com/s2/favicons?domain=news.mit.edu&sz=64"
+      },
+      "category": "Research",
+      "tags": [],
+      "publishedAt": "Thu, 21 May 2026 00:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?w=800",
+      "readTime": 1,
+      "originalUrl": "https://news.mit.edu/2026/technology-creates-jobs-young-skilled-workers-ai-0521"
+    },
+    {
+      "id": "mpf0f1mu9hzzyyfya79",
+      "title": "IA : la France attire plus de projets étrangers que ses voisins européens",
+      "summary": "...",
+      "source": {
+        "name": "Maddyness",
+        "url": "https://www.maddyness.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.maddyness.com&sz=64"
+      },
+      "category": "Policy",
+      "tags": [],
+      "publishedAt": "Thu, 21 May 2026 03:59:45 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1575517111839-3a3843ee7f5d?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.maddyness.com/2026/05/21/ia-la-france-attire-plus-de-projets-etrangers-que-ses-voisins-europeens/"
+    },
+    {
+      "id": "mpf0etpa5gbt0ghgxjr",
+      "title": "Jensen Huang says he’s found a ‘brand new’ $200B market for Nvidia",
+      "summary": "The next big thing for Nvidia will be CPUs for AI agents, $200 billion worth, CEO Jensen Huang predicts....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Funding",
+      "tags": [
+        "Nvidia"
+      ],
+      "publishedAt": "Thu, 21 May 2026 00:28:31 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/05/20/jensen-huang-says-hes-found-a-brand-new-200b-market-for-nvidia/"
+    },
+    {
+      "id": "mpf0etpa9edi9r1an3i",
+      "title": "Anthropic says it’s about to have its first profitable quarter",
+      "summary": "Anthropic has told its investors that it will more than double revenue to around $10.9 billion in its second quarter....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Funding",
+      "tags": [
+        "Anthropic"
+      ],
+      "publishedAt": "Thu, 21 May 2026 00:21:21 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/05/20/anthropic-says-its-about-to-have-its-first-profitable-quarter/"
+    },
+    {
+      "id": "mpf0etpb3hrlt4ywywk",
+      "title": "Clouted wants to take the guesswork out of making short videos go viral",
+      "summary": "The video clipping startup raised a $7 million seed round led by Slow Ventures....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Funding",
+      "tags": [
+        "Startup"
+      ],
+      "publishedAt": "Wed, 20 May 2026 22:30:45 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/05/20/clouted-wants-to-take-the-guesswork-out-of-making-short-videos-go-viral/"
+    },
+    {
+      "id": "mpf0etpcvgi7ronb1k8",
+      "title": "xAI burned $6.4B last year — SpaceX’s IPO filing shows why the spending is far from over",
+      "summary": "SpaceX's IPO filing reveals xAI lost $6.4 billion in 2025 while planning a massive Grok expansion — offering the first public look at Elon Musk's AI financials and more details about his ambitions....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Funding",
+      "tags": [],
+      "publishedAt": "Wed, 20 May 2026 22:26:08 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/05/20/xai-burned-6-4b-last-year-spacexs-ipo-filing-shows-why-the-spending-is-far-from-over/"
+    },
+    {
+      "id": "mpf0etpc6cluw7q5vz5",
+      "title": "Nvidia posts another record quarter, reveals $43B of holdings in startups",
+      "summary": "Nvidia announced another record revenue figure after market close on Wednesday, but forecasted that revenue growth would slow in the following quarter....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Nvidia",
+        "Startup"
+      ],
+      "publishedAt": "Wed, 20 May 2026 22:03:51 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/05/20/nvidia-posts-another-record-quarter-reveals-43-billion-of-holdings-in-startups/"
+    },
+    {
+      "id": "mpf0ey0ra3oinlntfo9",
+      "title": "Meet Turbovec: A Rust Vector Index with Python Bindings, and Built on Google’s TurboQuant Algorithm",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Google"
+      ],
+      "publishedAt": "Wed, 20 May 2026 21:42:31 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/05/20/meet-turbovec-a-rust-vector-index-with-python-bindings-and-built-on-googles-turboquant-algorithm/"
+    },
     {
       "id": "mpeip40d9tgi7afmwld",
       "title": "OpenAI claims it solved an 80-year-old math problem — for real this time",
@@ -732,148 +871,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800",
       "readTime": 1,
       "originalUrl": "https://techcrunch.com/2026/05/19/with-gemini-3-5-flash-google-bets-its-next-ai-wave-on-agents-not-chatbots/"
-    },
-    {
-      "id": "mpd2c6up6crbfb94re7",
-      "title": "How to use Google’s new information agents",
-      "summary": "Google is launching AI-powered “information agents” that can monitor topics in the background and proactively alert users to updates and changes....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Product",
-      "tags": [
-        "Google"
-      ],
-      "publishedAt": "Tue, 19 May 2026 17:50:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1550009158-9ebf690be655?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/05/19/how-to-use-googles-new-information-agents/"
-    },
-    {
-      "id": "mpd2c6uqz37hbvrrqy",
-      "title": "Google Search as you know it is over",
-      "summary": "Google is transforming Search from a list of links into an AI-powered experience filled with conversational answers, autonomous agents, and interactive interfaces — a shift that could further reduce traffic to publishers across the web....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Google"
-      ],
-      "publishedAt": "Tue, 19 May 2026 17:46:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/05/19/google-search-as-you-know-it-is-over/"
-    },
-    {
-      "id": "mpctanpox6nixb9h53j",
-      "title": "OpenAI co-founder Andrej Karpathy joins Anthropic’s pre-training team",
-      "summary": "Andrej Karpathy has joined Anthropic to work on pre-training. He previously co-founded and worked at OpenAI and led computer vision and AI at Tesla. ...",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "OpenAI",
-        "Anthropic"
-      ],
-      "publishedAt": "Tue, 19 May 2026 15:43:04 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/05/19/openai-co-founder-andrej-karpathy-joins-anthropics-pre-training-team/"
-    },
-    {
-      "id": "mpctauhdp71c2tmhop",
-      "title": "Elon Musk a trop parlé : ses propres doutes lui coûtent son procès contre OpenAI",
-      "summary": "...",
-      "source": {
-        "name": "Numerama",
-        "url": "https://www.numerama.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "OpenAI"
-      ],
-      "publishedAt": "Tue, 19 May 2026 15:26:59 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.numerama.com/politique/2255583-elon-musk-a-trop-parle-ses-propres-doutes-lui-coutent-son-proces-contre-openai.html"
-    },
-    {
-      "id": "mpd2c9du0jvzb3d5e7xo",
-      "title": "Advancing content provenance for a safer, more transparent AI ecosystem",
-      "summary": "OpenAI advances AI content provenance with Content Credentials, SynthID, and a verification tool to help people identify and trust AI-generated media....",
-      "source": {
-        "name": "OpenAI News",
-        "url": "https://openai.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "OpenAI"
-      ],
-      "publishedAt": "Tue, 19 May 2026 10:45:00 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://openai.com/index/advancing-content-provenance"
-    },
-    {
-      "id": "mpctav1hkfgegqbs3xd",
-      "title": "Le français Singulier fusionne avec l’allemand Ommax pour bâtir un géant européen du conseil en IA",
-      "summary": "...",
-      "source": {
-        "name": "Maddyness",
-        "url": "https://www.maddyness.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.maddyness.com&sz=64"
-      },
-      "category": "Policy",
-      "tags": [],
-      "publishedAt": "Tue, 19 May 2026 10:13:12 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1555848962-6e79363ec58f?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.maddyness.com/2026/05/19/le-francais-singulier-fusionne-avec-lallemand-ommax-pour-batir-un-geant-europeen-du-conseil-en-ia/"
-    },
-    {
-      "id": "mpch1j15nk88gmpfuq",
-      "title": "Les services secrets allemands se tournent vers le français ChapsVision pour leur logiciel d’analyse de données, afin d’éviter Palantir",
-      "summary": "L’administration allemande prend conscience du risque que représente une dépendance excessive aux services informatiques américains....",
-      "source": {
-        "name": "Le Monde Tech",
-        "url": "https://www.lemonde.fr",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.lemonde.fr&sz=64"
-      },
-      "category": "Policy",
-      "tags": [],
-      "publishedAt": "Tue, 19 May 2026 12:00:09 +0200",
-      "imageUrl": "https://images.unsplash.com/photo-1575517111839-3a3843ee7f5d?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.lemonde.fr/economie/article/2026/05/19/les-services-secrets-allemands-se-tournent-vers-le-francais-chapsvision-pour-leur-logiciel-d-analyse-de-donnees-afin-d-eviter-palantir_6691466_3234.html"
-    },
-    {
-      "id": "mpch1j16wv1x81m9tk",
-      "title": "PlayStation ne souhaite plus publier ses jeux vidéo narratifs sur PC",
-      "summary": "La division jeux vidéo de Sony a aussi annoncé l’augmentation du prix de son abonnement PlayStation Plus....",
-      "source": {
-        "name": "Le Monde Tech",
-        "url": "https://www.lemonde.fr",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.lemonde.fr&sz=64"
-      },
-      "category": "Policy",
-      "tags": [],
-      "publishedAt": "Tue, 19 May 2026 11:52:32 +0200",
-      "imageUrl": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.lemonde.fr/pixels/article/2026/05/19/playstation-ne-souhaite-plus-publier-ses-jeux-video-narratifs-sur-pc_6691464_4408996.html"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-05-20T20:31:50.262Z",
-  "edition": 139
+  "lastUpdated": "2026-05-21T04:47:43.613Z",
+  "edition": 140
 }
