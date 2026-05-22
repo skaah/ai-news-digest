@@ -1,6 +1,92 @@
 {
-  "date": "2026-05-22T15:26:01.730Z",
+  "date": "2026-05-22T20:13:39.338Z",
   "articles": [
+    {
+      "id": "mphcxj6ycu457zx6bt",
+      "title": "A Step-by-Step Coding Tutorial to Implement GBrain: The Self-Wiring Memory Layer Built by Y Combinator’s Garry Tan for AI Agents",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Fri, 22 May 2026 18:23:40 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/05/22/a-step-by-step-coding-tutorial-to-implement-gbrain-the-self-wiring-memory-layer-built-by-y-combinators-garry-tan-for-ai-agents/"
+    },
+    {
+      "id": "mphcxf5522ibwkm76qj",
+      "title": "Elon Musk can’t hear you over the sound of his $1.75 trillion IPO",
+      "summary": "The SpaceX S-1 is finally here, and the story it tells goes way further than rockets. The filing runs to 36 pages of risk factors alone, and the numbers inside match the ambition: a $28 trillion total addressable market, a pay package tied to establishing a Mars colony,...",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Ethics",
+      "tags": [
+        "AI Safety"
+      ],
+      "publishedAt": "Fri, 22 May 2026 18:17:07 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/podcast/elon-musk-cant-hear-you-over-the-sound-of-his-1-75-trillion-ipo/"
+    },
+    {
+      "id": "mphcxf55iupq3omocko",
+      "title": "You can no longer Google the word ‘disregard’",
+      "summary": "After Google Search's AI update, the word \"disregard\" now effectively breaks the search interface....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Google"
+      ],
+      "publishedAt": "Fri, 22 May 2026 16:16:48 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/05/22/you-can-no-longer-google-the-word-disregard/"
+    },
+    {
+      "id": "mphcxf56y5sxw6qvao",
+      "title": "We tried Google’s AI glasses and they’re almost there",
+      "summary": "Google demoed prototype Android XR glasses that overlay Gemini-powered translation, navigation, and other information directly into your field of view. ...",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Google"
+      ],
+      "publishedAt": "Fri, 22 May 2026 15:37:15 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/05/22/we-tried-googles-ai-glasses-and-theyre-almost-there/"
+    },
+    {
+      "id": "mphcxi57f7vfut0sic9",
+      "title": "Specialization Beats Scale: A Strategic Variable Most AI Procurement Decisions Overlook",
+      "summary": "...",
+      "source": {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co",
+        "favicon": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Fri, 22 May 2026 15:25:59 GMT",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://huggingface.co/blog/Dharma-AI/specialization-beats-scale"
+    },
     {
       "id": "mph2nmpepwyw8net6rn",
       "title": "Text Degeneration: A Production Failure Mode That Most Benchmarks Do Not Track",
@@ -16,6 +102,24 @@
       "imageUrl": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=800",
       "readTime": 1,
       "originalUrl": "https://huggingface.co/blog/Dharma-AI/text-degeneration-a-production-failure-mode-that-m"
+    },
+    {
+      "id": "mphcxf56vvhsxrestci",
+      "title": "SpaceX files to go public, and the math requires a little faith",
+      "summary": "The SpaceX S-1 is finally here, and the story it tells goes way further than rockets. The filing runs to 36 pages of risk factors alone, and the numbers inside match the ambition: a $28 trillion total addressable market, a pay package tied to establishing a Mars colony,...",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Ethics",
+      "tags": [
+        "AI Safety"
+      ],
+      "publishedAt": "Fri, 22 May 2026 14:30:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/video/spacex-files-to-go-public-and-the-math-requires-a-little-faith/"
     },
     {
       "id": "mph2nl0sb6dqwysalvg",
@@ -168,6 +272,24 @@
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
       "readTime": 1,
       "originalUrl": "https://arxiv.org/abs/2605.20467"
+    },
+    {
+      "id": "mphcxhjs9enkzftoxpu",
+      "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
+      "summary": "OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deployment....",
+      "source": {
+        "name": "OpenAI News",
+        "url": "https://openai.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "OpenAI"
+      ],
+      "publishedAt": "Fri, 22 May 2026 00:00:00 GMT",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://openai.com/index/gartner-2026-agentic-coding-leader"
     },
     {
       "id": "mpgfja9tjpps4co71ja",
@@ -740,125 +862,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1555848962-6e79363ec58f?w=800",
       "readTime": 1,
       "originalUrl": "https://techcrunch.com/2026/05/20/openai-barrels-toward-ipo-that-may-happen-in-september/"
-    },
-    {
-      "id": "mpe8yq0v2j0ztvgdx8k",
-      "title": "AI search startups are blowing up",
-      "summary": "AI search has quietly become one of the most attractive targets in consumer AI....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Startup"
-      ],
-      "publishedAt": "Wed, 20 May 2026 15:04:45 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/05/20/ai-search-startups-are-blowing-up/"
-    },
-    {
-      "id": "mpe8yq0w3ifs1ukhkib",
-      "title": "Stability AI releases a new audio model that can create six-minute songs",
-      "summary": "Stability Audio 3.0 small model can run on-device and generate two-minute long tracks ...",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Wed, 20 May 2026 15:00:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/05/20/stability-ai-release-a-new-audio-model-that-can-create-six-minute-songs/"
-    },
-    {
-      "id": "mpe8ywvga1se0s9bw69",
-      "title": "Des eurodéputés demandent la levée du secret sur l’empreinte environnementale des centres de données",
-      "summary": "Une trentaine d’élus du groupe écologiste ont demandé, mardi 19 mai, à la Commission européenne de supprimer la clause de confidentialité entourant l’empreinte environnementale des centres de données....",
-      "source": {
-        "name": "Le Monde Tech",
-        "url": "https://www.lemonde.fr",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.lemonde.fr&sz=64"
-      },
-      "category": "Funding",
-      "tags": [],
-      "publishedAt": "Wed, 20 May 2026 16:02:08 +0200",
-      "imageUrl": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.lemonde.fr/les-decodeurs/article/2026/05/20/des-eurodeputes-demandent-la-levee-du-secret-sur-l-empreinte-environnementale-des-centres-de-donnees_6691737_4355770.html"
-    },
-    {
-      "id": "mpe8yq0wdkvjkadbddh",
-      "title": "NanoClaw creator turns down $20M buyout offer, raises $12M seed instead",
-      "summary": "NanoCo, the company behind  OpenClaw alternative NanoClaw, has raised a $12 million seed after a viral launch, the founders tell TechCrunch. ...",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Product",
-      "tags": [],
-      "publishedAt": "Wed, 20 May 2026 14:00:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/05/20/nanoclaw-creator-turns-down-20m-buyout-offer-raises-12m-seed-instead/"
-    },
-    {
-      "id": "mpe8yq0x4yp9j5eexd",
-      "title": "Startup Battlefield 200 applications close in one week: Window to nominate and apply for the most promising startups ends May 27",
-      "summary": "Startup Battlefield 200 applications close May 27. Pitch at TechCrunch Disrupt, get investor access, win $100K, plus more scaling perks. Nominate an early-stage founder or submit your startup here....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Startup"
-      ],
-      "publishedAt": "Wed, 20 May 2026 14:00:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/05/20/startup-battlefield-200-applications-close-in-one-week-window-to-nominate-and-apply-for-the-most-promising-startups-ends-may-27/"
-    },
-    {
-      "id": "mpe8yq0x8ykvfwv69l4",
-      "title": "Figma adds an AI assistant to its collaborative canvas",
-      "summary": "Figma's new AI assistant will be first available on Figma Design...",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Wed, 20 May 2026 13:00:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/05/20/figma-adds-an-ai-assistant-to-its-collaborative-canvas/"
-    },
-    {
-      "id": "mpe8yxwbmvhwivcbujf",
-      "title": "IA : deux anciens de Zenly lèvent 20 millions de dollars pour leur solution de vérification téléphonique anti-fraude",
-      "summary": "...",
-      "source": {
-        "name": "Maddyness",
-        "url": "https://www.maddyness.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.maddyness.com&sz=64"
-      },
-      "category": "Funding",
-      "tags": [],
-      "publishedAt": "Wed, 20 May 2026 11:59:49 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.maddyness.com/2026/05/20/ia-deux-anciens-de-zenly-levent-20-millions-de-dollars-pour-leur-solution-de-verification-telephonique-anti-fraude/"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-05-22T15:26:01.730Z",
-  "edition": 146
+  "lastUpdated": "2026-05-22T20:13:39.338Z",
+  "edition": 147
 }
