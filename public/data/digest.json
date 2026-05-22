@@ -1,6 +1,40 @@
 {
-  "date": "2026-05-22T09:51:24.504Z",
+  "date": "2026-05-22T15:26:01.730Z",
   "articles": [
+    {
+      "id": "mph2nmpepwyw8net6rn",
+      "title": "Text Degeneration: A Production Failure Mode That Most Benchmarks Do Not Track",
+      "summary": "...",
+      "source": {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co",
+        "favicon": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=64"
+      },
+      "category": "Product",
+      "tags": [],
+      "publishedAt": "Fri, 22 May 2026 15:09:58 GMT",
+      "imageUrl": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=800",
+      "readTime": 1,
+      "originalUrl": "https://huggingface.co/blog/Dharma-AI/text-degeneration-a-production-failure-mode-that-m"
+    },
+    {
+      "id": "mph2nl0sb6dqwysalvg",
+      "title": "Google I/O showed how the path for AI-driven science is shifting",
+      "summary": "During Tuesday’s Google I/O keynote, Demis Hassabis, the CEO of Google DeepMind, proclaimed that we are currently “standing in the foothills of the singularity.” It was a striking statement—the singularity is the theoretical future moment when AI rapidly exceeds human intelligenc...",
+      "source": {
+        "name": "MIT Tech Review AI",
+        "url": "https://www.technologyreview.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.technologyreview.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Google"
+      ],
+      "publishedAt": "Fri, 22 May 2026 10:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.technologyreview.com/2026/05/22/1137813/google-i-o-showed-how-the-path-for-ai-science-is-shifting/"
+    },
     {
       "id": "mpgqpfmpmmo29a6bq5",
       "title": "Quantique : Nvidia entre au capital d’Alice & Bob",
@@ -822,45 +856,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=800",
       "readTime": 1,
       "originalUrl": "https://www.maddyness.com/2026/05/20/ia-deux-anciens-de-zenly-levent-20-millions-de-dollars-pour-leur-solution-de-verification-telephonique-anti-fraude/"
-    },
-    {
-      "id": "mpe8yunem1lh0eh3tt",
-      "title": "NVIDIA AI Releases Nemotron-Labs-Diffusion: A Tri-Mode Language Model with 6× Tokens Per Forward Over Qwen3-8B",
-      "summary": "...",
-      "source": {
-        "name": "MarkTechPost",
-        "url": "https://www.marktechpost.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Nvidia"
-      ],
-      "publishedAt": "Wed, 20 May 2026 10:41:02 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.marktechpost.com/2026/05/20/nvidia-ai-releases-nemotron-labs-diffusion-a-tri-mode-language-model-with-6x-tokens-per-forward-over-qwen3-8b/"
-    },
-    {
-      "id": "mpdvytflgei1u6g98f7",
-      "title": "« Personne de mieux placé » : Anthropic confie à Andrej Karpathy la mission de faire travailler Claude sur lui-même",
-      "summary": "...",
-      "source": {
-        "name": "Numerama",
-        "url": "https://www.numerama.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
-      },
-      "category": "Policy",
-      "tags": [
-        "Anthropic"
-      ],
-      "publishedAt": "Wed, 20 May 2026 08:34:28 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.numerama.com/tech/2256693-personne-de-mieux-place-anthropic-confie-a-andrej-karpathy-la-mission-de-faire-travailler-claude-sur-lui-meme.html"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-05-22T09:51:24.503Z",
-  "edition": 145
+  "lastUpdated": "2026-05-22T15:26:01.730Z",
+  "edition": 146
 }
