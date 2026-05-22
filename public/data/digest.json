@@ -1,6 +1,60 @@
 {
-  "date": "2026-05-22T04:38:46.775Z",
+  "date": "2026-05-22T09:51:24.504Z",
   "articles": [
+    {
+      "id": "mpgqpfmpmmo29a6bq5",
+      "title": "Quantique : Nvidia entre au capital d’Alice & Bob",
+      "summary": "...",
+      "source": {
+        "name": "Maddyness",
+        "url": "https://www.maddyness.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.maddyness.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Nvidia"
+      ],
+      "publishedAt": "Fri, 22 May 2026 09:00:03 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.maddyness.com/2026/05/22/quantique-nvidia-entre-au-capital-dalice-bob/"
+    },
+    {
+      "id": "mpgqpc22wrlnthl6rq",
+      "title": "Microsoft Releases Fara1.5: A Family of Browser Computer-Use Agents (4B/9B/27B) That Outperform OpenAI Operator and Gemini 2.5 Computer Use on Online-Mind2Web",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "OpenAI",
+        "Google",
+        "Microsoft"
+      ],
+      "publishedAt": "Fri, 22 May 2026 08:32:55 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/05/22/microsoft-releases-fara1-5-a-family-of-browser-computer-use-agents-4b-9b-27b-that-outperform-openai-operator-and-gemini-2-5-computer-use-on-online-mind2web/"
+    },
+    {
+      "id": "mpgqpc237yxxfbte9be",
+      "title": "Build Recurrent-Depth Transformers with OpenMythos for MLA, GQA, Sparse MoE, and Loop-Scaled Reasoning",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Fri, 22 May 2026 07:39:30 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/05/22/build-recurrent-depth-transformers-with-openmythos-for-mla-gqa-sparse-moe-and-loop-scaled-reasoning/"
+    },
     {
       "id": "mpgfjav1i0w620mw8h",
       "title": "SOLAR: A Self-Optimizing Open-Ended Autonomous Agent for Lifelong Learning and Continual Adaptation",
@@ -804,62 +858,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800",
       "readTime": 1,
       "originalUrl": "https://www.numerama.com/tech/2256693-personne-de-mieux-place-anthropic-confie-a-andrej-karpathy-la-mission-de-faire-travailler-claude-sur-lui-meme.html"
-    },
-    {
-      "id": "mpdvyqq02bbwt8v1kxo",
-      "title": "Alibaba Qwen Team Introduces Qwen3.5-LiveTranslate-Flash: Real-Time Multimodal Interpretation Across 60 Languages at 2.8-Second Latency",
-      "summary": "...",
-      "source": {
-        "name": "MarkTechPost",
-        "url": "https://www.marktechpost.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Multimodal",
-        "China"
-      ],
-      "publishedAt": "Wed, 20 May 2026 08:09:51 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.marktechpost.com/2026/05/20/alibaba-qwen-team-introduces-qwen3-5-livetranslate-flash-real-time-multimodal-interpretation-across-60-languages-at-2-8-second-latency/"
-    },
-    {
-      "id": "mpdvyqq1aprs1qwx84",
-      "title": "Google Introduces Gemini 3.5 Flash at I/O 2026: A Faster and Cheaper Model for AI Agents and Coding",
-      "summary": "...",
-      "source": {
-        "name": "MarkTechPost",
-        "url": "https://www.marktechpost.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Google"
-      ],
-      "publishedAt": "Wed, 20 May 2026 07:12:49 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.marktechpost.com/2026/05/20/google-introduces-gemini-3-5-flash-at-i-o-2026-a-faster-and-cheaper-model-for-ai-agents-and-coding/"
-    },
-    {
-      "id": "mpdvytyta0v0dnbopn",
-      "title": "199 Ventures, le fonds d’Andréa Bensaid, et Momentum Invest misent 10 millions d’euros sur Mister IA",
-      "summary": "...",
-      "source": {
-        "name": "Maddyness",
-        "url": "https://www.maddyness.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.maddyness.com&sz=64"
-      },
-      "category": "Funding",
-      "tags": [],
-      "publishedAt": "Wed, 20 May 2026 05:59:05 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.maddyness.com/2026/05/20/199-ventures-le-fonds-dandrea-bensaid-et-momentum-invest-misent-10-millions-deuros-sur-mister-ia/"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-05-22T04:38:46.775Z",
-  "edition": 144
+  "lastUpdated": "2026-05-22T09:51:24.503Z",
+  "edition": 145
 }
