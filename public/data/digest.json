@@ -1,6 +1,22 @@
 {
-  "date": "2026-05-23T04:10:35.925Z",
+  "date": "2026-05-23T08:32:27.302Z",
   "articles": [
+    {
+      "id": "mpi3bnvvcs2aawrbsq",
+      "title": "Perplexity Open-Sources Bumblebee: A Read-Only Supply-Chain Scanner for Developer Endpoints",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Sat, 23 May 2026 08:17:27 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/05/23/perplexity-open-sources-bumblebee-a-read-only-supply-chain-scanner-for-developer-endpoints/"
+    },
     {
       "id": "mphtywj69yppbc1zp9",
       "title": "Benchmarking and Improving Monitors for Out-Of-Distribution Alignment Failure in LLMs",
@@ -836,25 +852,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?w=800",
       "readTime": 1,
       "originalUrl": "https://news.mit.edu/2026/technology-creates-jobs-young-skilled-workers-ai-0521"
-    },
-    {
-      "id": "mpf0f1mu9hzzyyfya79",
-      "title": "IA : la France attire plus de projets étrangers que ses voisins européens",
-      "summary": "...",
-      "source": {
-        "name": "Maddyness",
-        "url": "https://www.maddyness.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.maddyness.com&sz=64"
-      },
-      "category": "Policy",
-      "tags": [],
-      "publishedAt": "Thu, 21 May 2026 03:59:45 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1575517111839-3a3843ee7f5d?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.maddyness.com/2026/05/21/ia-la-france-attire-plus-de-projets-etrangers-que-ses-voisins-europeens/"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-05-23T04:10:35.925Z",
-  "edition": 148
+  "lastUpdated": "2026-05-23T08:32:27.302Z",
+  "edition": 149
 }
