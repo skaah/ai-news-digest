@@ -1,6 +1,25 @@
 {
-  "date": "2026-05-24T08:45:47.904Z",
+  "date": "2026-05-24T14:03:19.094Z",
   "articles": [
+    {
+      "id": "mpjul00wmycxf25y6zb",
+      "title": "Microsoft Research Releases Webwright: A Terminal-Native Web Agent Framework That Scores 60.1% on Odysseys, Up from Base GPT-5.4’s 33.5%",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Research",
+      "tags": [
+        "OpenAI",
+        "Microsoft"
+      ],
+      "publishedAt": "Sun, 24 May 2026 08:56:19 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/05/24/microsoft-research-releases-webwright-a-terminal-native-web-agent-framework-that-scores-60-1-on-odysseys-up-from-base-gpt-5-4s-33-5/"
+    },
     {
       "id": "mpjj8nq59vab4jitgtl",
       "title": "NVIDIA AI Releases Gated DeltaNet-2: A Linear Attention Layer That Decouples Erase and Write in the Delta Rule",
@@ -827,28 +846,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1575517111839-3a3843ee7f5d?w=800",
       "readTime": 1,
       "originalUrl": "https://www.numerama.com/tech/2257975-ce-robot-bienveillant-utilise-lia-pour-ausculter-les-plantes-et-detecter-leur-stress.html"
-    },
-    {
-      "id": "mpfo6cbl3m96pdbzzq9",
-      "title": "Anthropic’s Code with Claude showed off coding’s future—whether you like it or not",
-      "summary": "The vibes were strong at Code with Claude, Anthropic’s two-day event for software developers in London that kicked off on May 19, the same day as Google’s I/O in Palo Alto. (A coincidence, not a flex, Anthropic staffers assured me.) “Who here has shipped a pull request in the las...",
-      "source": {
-        "name": "MIT Tech Review AI",
-        "url": "https://www.technologyreview.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.technologyreview.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Anthropic",
-        "Google"
-      ],
-      "publishedAt": "Thu, 21 May 2026 14:30:45 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.technologyreview.com/2026/05/21/1137735/anthropics-code-with-claude-showed-off-codings-future-whether-you-like-it-or-not/"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-05-24T08:45:47.904Z",
-  "edition": 153
+  "lastUpdated": "2026-05-24T14:03:19.094Z",
+  "edition": 154
 }
