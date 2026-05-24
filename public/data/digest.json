@@ -1,6 +1,42 @@
 {
-  "date": "2026-05-24T04:41:39.617Z",
+  "date": "2026-05-24T08:45:47.904Z",
   "articles": [
+    {
+      "id": "mpjj8nq59vab4jitgtl",
+      "title": "NVIDIA AI Releases Gated DeltaNet-2: A Linear Attention Layer That Decouples Erase and Write in the Delta Rule",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Nvidia"
+      ],
+      "publishedAt": "Sun, 24 May 2026 07:42:09 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/05/24/nvidia-ai-releases-gated-deltanet-2-a-linear-attention-layer-that-decouples-erase-and-write-in-the-delta-rule/"
+    },
+    {
+      "id": "mpjj8ql3t79ik2ed4ne",
+      "title": "Pic de chaleur en France, taïkonautes autour de la Lune, Google Gemini change de design — le récap’ de la semaine",
+      "summary": "...",
+      "source": {
+        "name": "Numerama",
+        "url": "https://www.numerama.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
+      },
+      "category": "Policy",
+      "tags": [
+        "Google"
+      ],
+      "publishedAt": "Sun, 24 May 2026 05:05:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.numerama.com/sciences/2259205-pic-de-chaleur-en-france-taikonautes-autour-de-la-lune-google-gemini-change-de-design-le-recap-de-la-semaine.html"
+    },
     {
       "id": "mpjairnad7stskcoz4",
       "title": "Dans l’Aveyron, l’ancien site de la fonderie SAM va voir deux entreprises s’implanter, avec 375 emplois attendus d’ici 2032",
@@ -810,43 +846,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
       "readTime": 1,
       "originalUrl": "https://www.technologyreview.com/2026/05/21/1137735/anthropics-code-with-claude-showed-off-codings-future-whether-you-like-it-or-not/"
-    },
-    {
-      "id": "mpfo6hmevg8enc0ifwi",
-      "title": "Le transhumaniste suédois Nick Bostrom redoute un « retour de balancier trop fort contre l’IA »",
-      "summary": "Le futurologue met en garde contre la menace que fait peser l’intelligence artificielle sur les cols blancs et la crise existentielle inédite qu’elle pourrait provoquer dans la population, tout en reconnaissant son apport dans la recherche ou la santé....",
-      "source": {
-        "name": "Le Monde Tech",
-        "url": "https://www.lemonde.fr",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.lemonde.fr&sz=64"
-      },
-      "category": "Research",
-      "tags": [],
-      "publishedAt": "Thu, 21 May 2026 16:00:12 +0200",
-      "imageUrl": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.lemonde.fr/economie/article/2026/05/21/le-transhumaniste-suedois-nick-bostrom-redoute-un-retour-de-balancier-trop-fort-contre-l-ia_6691896_3234.html"
-    },
-    {
-      "id": "mpfo6azf6aanzsyt847",
-      "title": "Hark raises $700M Series A for its secretive “universal” AI interface",
-      "summary": "Brett Adcock's new AI startup is now valued at $6 billion by its investors....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Funding",
-      "tags": [
-        "Startup"
-      ],
-      "publishedAt": "Thu, 21 May 2026 14:00:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/05/21/hark-raises-700m-series-a-for-its-secretive-universal-ai-interface/"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-05-24T04:41:39.617Z",
-  "edition": 152
+  "lastUpdated": "2026-05-24T08:45:47.904Z",
+  "edition": 153
 }
