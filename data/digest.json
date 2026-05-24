@@ -1,6 +1,40 @@
 {
-  "date": "2026-05-24T14:03:19.094Z",
+  "date": "2026-05-24T19:42:36.698Z",
   "articles": [
+    {
+      "id": "mpk6p7z8dfhx8kftvt4",
+      "title": "I tried Amazon’s Bee wearable and am both intrigued and slightly creeped out",
+      "summary": "Like other AI wearables, Amazon's Bee offers an odd combination of convenience and privacy anxiety. ...",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Sun, 24 May 2026 15:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/05/24/i-tried-amazons-bee-wearable-and-am-both-intrigued-and-slightly-creeped-out/"
+    },
+    {
+      "id": "mpk6pf09549vg2g15yi",
+      "title": "Nvidia, Apple et… des sushis : la folle théorie sur les derniers investissements de Donald Trump",
+      "summary": "...",
+      "source": {
+        "name": "Numerama",
+        "url": "https://www.numerama.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Nvidia"
+      ],
+      "publishedAt": "Sun, 24 May 2026 14:30:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.numerama.com/politique/2258137-nvidia-apple-et-des-sushis-la-folle-theorie-sur-les-derniers-investissements-de-donald-trump.html"
+    },
     {
       "id": "mpjul00wmycxf25y6zb",
       "title": "Microsoft Research Releases Webwright: A Terminal-Native Web Agent Framework That Scores 60.1% on Odysseys, Up from Base GPT-5.4’s 33.5%",
@@ -810,45 +844,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
       "readTime": 1,
       "originalUrl": "https://techcrunch.com/2026/05/21/spotify-adds-ai-powered-qa-and-briefing-generation-features-to-podcasts/"
-    },
-    {
-      "id": "mpfo6azf2wj1jw4b3ne",
-      "title": "Spotify takes on Google’s NotebookLM with its new app",
-      "summary": "Spotify is releasing the new desktop app as a research preview in more than 20 markets...",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Research",
-      "tags": [
-        "Google"
-      ],
-      "publishedAt": "Thu, 21 May 2026 15:27:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/05/21/spotify-debuts-a-new-desktop-app-for-creating-personal-podcasts/"
-    },
-    {
-      "id": "mpfo6i467jl65bquok2",
-      "title": "Ce robot bienveillant utilise l’IA pour ausculter les plantes et détecter leur stress",
-      "summary": "...",
-      "source": {
-        "name": "Numerama",
-        "url": "https://www.numerama.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
-      },
-      "category": "Policy",
-      "tags": [
-        "Robotics"
-      ],
-      "publishedAt": "Thu, 21 May 2026 15:07:47 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1575517111839-3a3843ee7f5d?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.numerama.com/tech/2257975-ce-robot-bienveillant-utilise-lia-pour-ausculter-les-plantes-et-detecter-leur-stress.html"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-05-24T14:03:19.094Z",
-  "edition": 154
+  "lastUpdated": "2026-05-24T19:42:36.698Z",
+  "edition": 155
 }
