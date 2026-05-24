@@ -1,6 +1,22 @@
 {
-  "date": "2026-05-23T19:39:26.020Z",
+  "date": "2026-05-24T04:41:39.617Z",
   "articles": [
+    {
+      "id": "mpjairnad7stskcoz4",
+      "title": "Dans l’Aveyron, l’ancien site de la fonderie SAM va voir deux entreprises s’implanter, avec 375 emplois attendus d’ici 2032",
+      "summary": "La présidente de la région Occitanie, Carole Delga, a annoncé l’arrivée de la société Matière qui fabriquera des pylônes électriques, ainsi que celle de la firme britannique Paragon-Id qui produira des puces RFID....",
+      "source": {
+        "name": "Le Monde Tech",
+        "url": "https://www.lemonde.fr",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.lemonde.fr&sz=64"
+      },
+      "category": "Policy",
+      "tags": [],
+      "publishedAt": "Sun, 24 May 2026 05:17:26 +0200",
+      "imageUrl": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.lemonde.fr/economie/article/2026/05/24/dans-l-aveyron-l-ancien-site-de-la-fonderie-sam-va-voir-deux-entreprises-s-implanter-avec-375-emplois-attendus-d-ici-2032_6693053_3234.html"
+    },
     {
       "id": "mpir5ekx1bl84dowfkh",
       "title": "Tencent Open-Sources TencentDB Agent Memory: A 4-Tier Local Memory Pipeline for AI Agents",
@@ -828,27 +844,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=800",
       "readTime": 1,
       "originalUrl": "https://techcrunch.com/2026/05/21/hark-raises-700m-series-a-for-its-secretive-universal-ai-interface/"
-    },
-    {
-      "id": "mpfo6azgwfqiedg0ws9",
-      "title": "The Path, founded by Tony Robbins and Calm alums, hopes to offer safer AI therapy",
-      "summary": "The Path says its AI model has scored 95 on the mental health safety AI benchmark, Vera-MH. This compares to a top score of 65 for the consumer bots. ...",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Ethics",
-      "tags": [
-        "AI Safety"
-      ],
-      "publishedAt": "Thu, 21 May 2026 14:00:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/05/21/the-path-founded-by-tony-robbins-and-calm-alums-wants-to-offer-safer-ai-therapy/"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-05-23T19:39:26.020Z",
-  "edition": 151
+  "lastUpdated": "2026-05-24T04:41:39.617Z",
+  "edition": 152
 }
