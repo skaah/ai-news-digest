@@ -1,6 +1,54 @@
 {
-  "date": "2026-05-25T04:55:06.358Z",
+  "date": "2026-05-25T10:51:47.408Z",
   "articles": [
+    {
+      "id": "mpl36javo4pza004lre",
+      "title": "Best Authentication Platforms for AI Agents and MCP Servers in 2026",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Mon, 25 May 2026 10:34:02 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/05/25/best-authentication-platforms-for-ai-agents-and-mcp-servers-in-2026/"
+    },
+    {
+      "id": "mpl36m96j7c2i5letr",
+      "title": "Instagram vous laisse personnaliser son algorithme : voici comment reprendre le contrôle de votre fil",
+      "summary": "...",
+      "source": {
+        "name": "Numerama",
+        "url": "https://www.numerama.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Mon, 25 May 2026 08:47:39 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.numerama.com/tech/2259649-instagram-vous-laisse-personnaliser-son-algorithme-voici-comment-reprendre-le-controle-de-votre-fil.html"
+    },
+    {
+      "id": "mpl36jawrgy0x61kix8",
+      "title": "WorkOS Releases auth.md: An Open Agent Registration Protocol Built on OAuth Standards",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Mon, 25 May 2026 07:38:15 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/05/25/workos-releases-auth-md-an-open-agent-registration-protocol-built-on-oauth-standards/"
+    },
     {
       "id": "mpkqftmzl5690up86p",
       "title": "BOHM: Zero-Cost Hierarchical Attribution for Compound AI Systems",
@@ -790,61 +838,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
       "readTime": 1,
       "originalUrl": "https://openai.com/index/gartner-2026-agentic-coding-leader"
-    },
-    {
-      "id": "mpgfja9tjpps4co71ja",
-      "title": "How CopilotKit Is Redefining the Agentic AI Stack in 2026",
-      "summary": "...",
-      "source": {
-        "name": "MarkTechPost",
-        "url": "https://www.marktechpost.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Microsoft"
-      ],
-      "publishedAt": "Thu, 21 May 2026 23:23:07 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.marktechpost.com/2026/05/21/how-copilotkit-is-redefining-the-agentic-ai-stack-in-2026/"
-    },
-    {
-      "id": "mpgfja9uu3chmm189xd",
-      "title": "Qwen Introduces Qwen3.7-Max: A Reasoning Agent Model With a 1M-Token Context Window",
-      "summary": "...",
-      "source": {
-        "name": "MarkTechPost",
-        "url": "https://www.marktechpost.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Thu, 21 May 2026 22:33:10 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.marktechpost.com/2026/05/21/qwen-introduces-qwen3-7-max-a-reasoning-agent-model-with-a-1m-token-context-window/"
-    },
-    {
-      "id": "mpgfja9vk5p9ihr9fy",
-      "title": "Cohere Releases Command A+: A 218B Sparse MoE Model for Agentic Workflows That Runs on as Few as Two H100 GPUs",
-      "summary": "...",
-      "source": {
-        "name": "MarkTechPost",
-        "url": "https://www.marktechpost.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
-      },
-      "category": "Hardware",
-      "tags": [
-        "Nvidia"
-      ],
-      "publishedAt": "Thu, 21 May 2026 21:47:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.marktechpost.com/2026/05/21/cohere-releases-command-a-a-218b-sparse-moe-model-for-agentic-workflows-that-runs-on-as-few-as-two-h100-gpus/"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-05-25T04:55:06.358Z",
-  "edition": 156
+  "lastUpdated": "2026-05-25T10:51:47.408Z",
+  "edition": 157
 }
