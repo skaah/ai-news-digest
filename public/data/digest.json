@@ -1,6 +1,42 @@
 {
-  "date": "2026-05-27T04:51:53.203Z",
+  "date": "2026-05-27T10:32:15.946Z",
   "articles": [
+    {
+      "id": "mpnxd4akbd76wa0b9kf",
+      "title": "Meet EAGLE 3.1: The Speculative Decoding Algorithm That Fixes Attention Drift in LLM Inference",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "LLM"
+      ],
+      "publishedAt": "Wed, 27 May 2026 07:23:10 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/05/27/meet-eagle-3-1-the-speculative-decoding-algorithm-that-fixes-attention-drift-in-llm-inference/"
+    },
+    {
+      "id": "mpnxd4al203rdtlzmrt",
+      "title": "MEMO: A Modular Framework for Training a Dedicated Memory Model on New Knowledge Without Modifying LLM Parameters",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "LLM"
+      ],
+      "publishedAt": "Wed, 27 May 2026 05:24:33 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/05/26/memo-a-modular-framework-for-training-a-dedicated-memory-model-on-new-knowledge-without-modifying-llm-parameters/"
+    },
     {
       "id": "mpnl7f1qpbnocuayt8",
       "title": "BrickAnything: Geometry-Conditioned Buildable Brick Generation with Structure-Aware Tokenization",
@@ -805,45 +841,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?w=800",
       "readTime": 1,
       "originalUrl": "https://www.marktechpost.com/2026/05/24/microsoft-research-releases-webwright-a-terminal-native-web-agent-framework-that-scores-60-1-on-odysseys-up-from-base-gpt-5-4s-33-5/"
-    },
-    {
-      "id": "mpjj8nq59vab4jitgtl",
-      "title": "NVIDIA AI Releases Gated DeltaNet-2: A Linear Attention Layer That Decouples Erase and Write in the Delta Rule",
-      "summary": "...",
-      "source": {
-        "name": "MarkTechPost",
-        "url": "https://www.marktechpost.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Nvidia"
-      ],
-      "publishedAt": "Sun, 24 May 2026 07:42:09 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.marktechpost.com/2026/05/24/nvidia-ai-releases-gated-deltanet-2-a-linear-attention-layer-that-decouples-erase-and-write-in-the-delta-rule/"
-    },
-    {
-      "id": "mpjj8ql3t79ik2ed4ne",
-      "title": "Pic de chaleur en France, taïkonautes autour de la Lune, Google Gemini change de design — le récap’ de la semaine",
-      "summary": "...",
-      "source": {
-        "name": "Numerama",
-        "url": "https://www.numerama.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
-      },
-      "category": "Policy",
-      "tags": [
-        "Google"
-      ],
-      "publishedAt": "Sun, 24 May 2026 05:05:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.numerama.com/sciences/2259205-pic-de-chaleur-en-france-taikonautes-autour-de-la-lune-google-gemini-change-de-design-le-recap-de-la-semaine.html"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-05-27T04:51:53.203Z",
-  "edition": 164
+  "lastUpdated": "2026-05-27T10:32:15.946Z",
+  "edition": 165
 }
