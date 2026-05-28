@@ -1,6 +1,91 @@
 {
-  "date": "2026-05-28T16:34:59.203Z",
+  "date": "2026-05-28T20:39:06.007Z",
   "articles": [
+    {
+      "id": "mppyh9opdt3vhr4j1vk",
+      "title": "Asana acquires no-code agent-builder Stack AI",
+      "summary": "Asana will incorporate Stack AI into its growing suite of AI workflow tools....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Thu, 28 May 2026 20:06:07 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/05/28/asana-acquires-no-code-agent-builder-stack-ai/"
+    },
+    {
+      "id": "mppyh9oqo8cmoei5fa",
+      "title": "Anthropic raises $65 billion, nears $1T valuation ahead of IPO",
+      "summary": "Anthropic has closed a $65 billion Series H round at a $965 billion post-money valuation, marking what could be the AI startup's final private fundraise before a highly anticipated IPO....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Funding",
+      "tags": [
+        "Anthropic",
+        "Startup"
+      ],
+      "publishedAt": "Thu, 28 May 2026 18:52:51 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/05/28/anthropic-raises-65-billion-nears-1t-valuation-ahead-of-ipo/"
+    },
+    {
+      "id": "mppyh9orrj0qbodfe6",
+      "title": "Just like gold and oil, we’ll soon be able to trade AI token futures",
+      "summary": "Large exchanges are designing derivative products around AI tokens, which are increasingly being considered less a computational output and more a raw material input, like electricity or bandwidth. ...",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Product",
+      "tags": [],
+      "publishedAt": "Thu, 28 May 2026 18:32:25 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1550009158-9ebf690be655?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/05/28/just-like-gold-and-oil-well-soon-be-able-to-trade-ai-token-futures/"
+    },
+    {
+      "id": "mppyh9orkboeojav4r8",
+      "title": "In just 3 weeks, StrictlyVC is coming to Los Angeles",
+      "summary": "StrictlyVC Los Angeles is on June 18. Join for meaningful networking and fireside chats with leaders from Mach Industries, Shinkei Systems, and more. Register today....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Thu, 28 May 2026 17:30:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/05/28/in-just-3-weeks-strictlyvc-is-coming-to-los-angeles/"
+    },
+    {
+      "id": "mppyh9osjbobhkgs4p",
+      "title": "Anthropic releases Opus 4.8 with new ‘dynamic workflow’ tool",
+      "summary": "The new Opus model comes with a tool called Dynamic Workflows, for coordinating swarms of subagents....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Anthropic"
+      ],
+      "publishedAt": "Thu, 28 May 2026 17:00:09 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/05/28/anthropic-releases-opus-4-8-with-new-dynamic-workflow-tool/"
+    },
     {
       "id": "mppprdmmhla1gj71klf",
       "title": "Media Advisory: MIT to establish regional quantum hub",
@@ -773,91 +858,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
       "readTime": 1,
       "originalUrl": "https://arxiv.org/abs/2605.26256"
-    },
-    {
-      "id": "mpnl7f1srgkh02vbm9p",
-      "title": "Constraint acquisition needs better benchmarks",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Wed, 27 May 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2605.26279"
-    },
-    {
-      "id": "mpoiqlnsz6xr077i3l",
-      "title": "Warp’s big bet on building open source with GPT-5.5",
-      "summary": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows....",
-      "source": {
-        "name": "OpenAI News",
-        "url": "https://openai.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "OpenAI"
-      ],
-      "publishedAt": "Wed, 27 May 2026 00:00:00 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://openai.com/index/warp"
-    },
-    {
-      "id": "mpoiqlns21zcht8h36z",
-      "title": "Election information and safeguards in 2026",
-      "summary": "Ahead of global elections, we’re helping people access information, supporting cyber defenders, and increasing AI transparency...",
-      "source": {
-        "name": "OpenAI News",
-        "url": "https://openai.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Wed, 27 May 2026 00:00:00 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://openai.com/index/election-safeguards-2026"
-    },
-    {
-      "id": "mpo9kimc9j47a4u2vtd",
-      "title": "Reachy Mini goes fully local",
-      "summary": "...",
-      "source": {
-        "name": "Hugging Face Blog",
-        "url": "https://huggingface.co",
-        "favicon": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Wed, 27 May 2026 00:00:00 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://huggingface.co/blog/local-reachy-mini-conversation"
-    },
-    {
-      "id": "mpo9kimdpjsf4dzmj2k",
-      "title": "Shipping a Trillion Parameters With a Hub Bucket: Delta Weight Sync in TRL",
-      "summary": "...",
-      "source": {
-        "name": "Hugging Face Blog",
-        "url": "https://huggingface.co",
-        "favicon": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Wed, 27 May 2026 00:00:00 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://huggingface.co/blog/delta-weight-sync"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-05-28T16:34:59.203Z",
-  "edition": 170
+  "lastUpdated": "2026-05-28T20:39:06.007Z",
+  "edition": 171
 }
