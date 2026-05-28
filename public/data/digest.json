@@ -1,6 +1,138 @@
 {
-  "date": "2026-05-28T04:44:09.965Z",
+  "date": "2026-05-28T10:35:09.427Z",
   "articles": [
+    {
+      "id": "mppcwelgbny29p13ou8",
+      "title": "« Aucun algorithme ne peut inventer l’âme » : Steven Spielberg pousse un coup de gueule contre l’IA",
+      "summary": "...",
+      "source": {
+        "name": "Numerama",
+        "url": "https://www.numerama.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
+      },
+      "category": "Policy",
+      "tags": [],
+      "publishedAt": "Thu, 28 May 2026 10:26:06 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1575517111839-3a3843ee7f5d?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.numerama.com/pop-culture/2261713-aucun-algorithme-ne-peut-inventer-lame-steven-spielberg-pousse-un-coup-de-gueule-contre-lia.html"
+    },
+    {
+      "id": "mppcwe2t7yadi0hoqz",
+      "title": "L’UE inflige une amende de 200 millions d’euros à Temu, géant chinois du commerce en ligne, pour avoir permis la vente de produits illégaux",
+      "summary": "Pour prouver cette infraction, la commission européenne s’est notamment appuyée sur des achats réalisés par ses propres équipes, en se faisant passer pour des clients lambdas....",
+      "source": {
+        "name": "Le Monde Tech",
+        "url": "https://www.lemonde.fr",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.lemonde.fr&sz=64"
+      },
+      "category": "Funding",
+      "tags": [],
+      "publishedAt": "Thu, 28 May 2026 12:18:53 +0200",
+      "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.lemonde.fr/economie/article/2026/05/28/l-ue-inflige-une-amende-de-200-millions-d-euros-a-temu-geant-chinois-du-commerce-en-ligne-pour-avoir-permis-la-vente-de-produits-illegaux_6694456_3234.html"
+    },
+    {
+      "id": "mppcw8nbgawtn6ecfqk",
+      "title": "The AI Hype Index: AI gets booed in graduation season",
+      "summary": "It is one thing to say AI will change the world. It is another to expect the class of 2026 to applaud it. In fact, when former Google CEO Eric Schmidt told University of Arizona graduates that their task is to help shape AI, he was met with a resounding chorus of boos. “I can…...",
+      "source": {
+        "name": "MIT Tech Review AI",
+        "url": "https://www.technologyreview.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.technologyreview.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Google"
+      ],
+      "publishedAt": "Thu, 28 May 2026 09:51:11 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.technologyreview.com/2026/05/28/1138053/the-ai-hype-index-ai-gets-booed-in-graduation-season/"
+    },
+    {
+      "id": "mppcwelhuj5q42rjmeg",
+      "title": "Le créateur de Metal Gear déçoit ses fans en participant à une publicité générée par IA pour Prada",
+      "summary": "...",
+      "source": {
+        "name": "Numerama",
+        "url": "https://www.numerama.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
+      },
+      "category": "Policy",
+      "tags": [
+        "Meta"
+      ],
+      "publishedAt": "Thu, 28 May 2026 09:47:42 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1575517111839-3a3843ee7f5d?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.numerama.com/pop-culture/2261677-le-createur-de-metal-gear-decoit-ses-fans-en-participant-a-une-publicite-generee-par-ia-pour-prada.html"
+    },
+    {
+      "id": "mppcwbm3mzik9ek8v8l",
+      "title": "Perplexity AI Open-Sources Unigram Tokenizer That Achieves 5x Lower p50 Latency Than Hugging Face tokenizers Crate",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Thu, 28 May 2026 09:08:20 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/05/28/perplexity-ai-open-sources-unigram-tokenizer-that-achieves-5x-lower-p50-latency-than-hugging-face-tokenizers-crate/"
+    },
+    {
+      "id": "mppcwt194vns7fzcwvn",
+      "title": "Mistral AI souffle sa 3e bougie en s’alliant à Airbus et BMW",
+      "summary": "...",
+      "source": {
+        "name": "Maddyness",
+        "url": "https://www.maddyness.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.maddyness.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Thu, 28 May 2026 09:00:13 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.maddyness.com/2026/05/28/mistral-ai-souffle-sa-3e-bougie-en-salliant-a-airbus-et-bmw/"
+    },
+    {
+      "id": "mppcwt19795qm8ba0mn",
+      "title": "Mistral AI vise une capacité de calcul d’un gigawatt à l’horizon 2030",
+      "summary": "...",
+      "source": {
+        "name": "Maddyness",
+        "url": "https://www.maddyness.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.maddyness.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Thu, 28 May 2026 08:45:09 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.maddyness.com/2026/05/28/mistral-ai-vise-une-capacite-de-calcul-dun-gigawatt-a-lhorizon-2030/"
+    },
+    {
+      "id": "mppcwbm44wr63fw322r",
+      "title": "A Coding Guide to Implement a pgvector-Powered Semantic, Hybrid, Sparse, and Quantized Vector Search System",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Thu, 28 May 2026 08:07:09 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/05/28/a-coding-guide-to-implement-a-pgvector-powered-semantic-hybrid-sparse-and-quantized-vector-search-system/"
+    },
     {
       "id": "mpp0dfg5tfxyh22ots",
       "title": "Mistral AI, Dataiku, OpenAI : pourquoi les acteurs de l’IA organisent leurs propres évènements",
@@ -721,141 +853,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
       "readTime": 1,
       "originalUrl": "https://www.technologyreview.com/2026/05/26/1137855/a-reality-check-on-the-ai-jobs-hysteria/"
-    },
-    {
-      "id": "mpmhuynmznl4s6m9far",
-      "title": "It’s time to address the looming crisis in entry-level work.",
-      "summary": "Artificial intelligence has not so far produced a clean story of mass unemployment. Aggregate employment in developed countries remains broadly stable, and recent assessments have found limited evidence that AI has shifted the headline numbers. But a troubling change may be hidin...",
-      "source": {
-        "name": "MIT Tech Review AI",
-        "url": "https://www.technologyreview.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.technologyreview.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Tue, 26 May 2026 09:00:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.technologyreview.com/2026/05/26/1137865/its-time-to-address-the-looming-crisis-in-entry-level-work/"
-    },
-    {
-      "id": "mpmhv4n2twaklhncf8k",
-      "title": "Optimisation GEO : pourquoi (et comment) les marques se battent pour exister dans les réponses des IA",
-      "summary": "...",
-      "source": {
-        "name": "Maddyness",
-        "url": "https://www.maddyness.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.maddyness.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Tue, 26 May 2026 08:00:04 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.maddyness.com/2026/05/26/optimisation-geo-pourquoi-et-comment-les-marques-se-battent-pour-exister-dans-les-reponses-des-ia/"
-    },
-    {
-      "id": "mpmhv1cicygh2gwswlg",
-      "title": "Meet OmniVoice Studio: A Local, Open-Source Alternative to ElevenLabs",
-      "summary": "...",
-      "source": {
-        "name": "MarkTechPost",
-        "url": "https://www.marktechpost.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Tue, 26 May 2026 07:56:17 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.marktechpost.com/2026/05/26/meet-omnivoice-studio-a-local-open-source-alternative-to-elevenlabs/"
-    },
-    {
-      "id": "mpmhv1cj0725nnel2nnd",
-      "title": "Design a Complete Multimodal RLVR Pipeline with Open-MM-RL, Vision-Language Prompting, Reward Scoring, and GRPO Export",
-      "summary": "...",
-      "source": {
-        "name": "MarkTechPost",
-        "url": "https://www.marktechpost.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Multimodal"
-      ],
-      "publishedAt": "Tue, 26 May 2026 07:25:55 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.marktechpost.com/2026/05/26/design-a-complete-multimodal-rlvr-pipeline-with-open-mm-rl-vision-language-prompting-reward-scoring-and-grpo-export/"
-    },
-    {
-      "id": "mpmhv4n3ofvtvuaxrzo",
-      "title": "La bombe à retardement des agents IA : pourquoi le dernier modèle ne sauvera pas vos données",
-      "summary": "...",
-      "source": {
-        "name": "Maddyness",
-        "url": "https://www.maddyness.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.maddyness.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Tue, 26 May 2026 07:00:44 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.maddyness.com/2026/05/26/la-bombe-a-retardement-des-agents-ia/"
-    },
-    {
-      "id": "mpmhv4n47aamr1qmjkf",
-      "title": "Mistral AI s’apprête à faire le show au Louvre",
-      "summary": "...",
-      "source": {
-        "name": "Maddyness",
-        "url": "https://www.maddyness.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.maddyness.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Tue, 26 May 2026 05:00:24 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.maddyness.com/2026/05/26/mistral-ai-sapprete-a-faire-le-show-au-louvre/"
-    },
-    {
-      "id": "mpm58iilppjlycusea9",
-      "title": "In Search of the Ingredients of Open-Endedness: Replicating Picbreeder with Large Vision-Language Models",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Tue, 26 May 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2605.23908"
-    },
-    {
-      "id": "mpm58iilsd0c64chuts",
-      "title": "Confidence Calibration in Large Language Models",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "LLM"
-      ],
-      "publishedAt": "Tue, 26 May 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2605.23909"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-05-28T04:44:09.964Z",
-  "edition": 168
+  "lastUpdated": "2026-05-28T10:35:09.427Z",
+  "edition": 169
 }
