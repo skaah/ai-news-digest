@@ -1,6 +1,141 @@
 {
-  "date": "2026-05-29T16:10:11.179Z",
+  "date": "2026-05-29T20:39:06.232Z",
   "articles": [
+    {
+      "id": "mprdxb7xysis4h73n3k",
+      "title": "G7 numérique : la France se félicite de l’adoption de déclarations sur l’IA, notamment sur la protection de l’enfance",
+      "summary": "La réunion des ministres du numérique du G7, vendredi à Paris, a abouti à une déclaration commune sur les enjeux du secteur, comportant des avancées sur la protection des mineurs et une timide reconnaissance de la voracité énergétique de l’intelligence artificielle....",
+      "source": {
+        "name": "Le Monde Tech",
+        "url": "https://www.lemonde.fr",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.lemonde.fr&sz=64"
+      },
+      "category": "Policy",
+      "tags": [],
+      "publishedAt": "Fri, 29 May 2026 22:31:23 +0200",
+      "imageUrl": "https://images.unsplash.com/photo-1555848962-6e79363ec58f?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.lemonde.fr/economie/article/2026/05/29/g7-numerique-la-france-se-felicite-de-l-adoption-de-declarations-sur-l-ia-notamment-sur-la-protection-de-l-enfance_6694823_3234.html"
+    },
+    {
+      "id": "mprdx4lysr87a11sh0p",
+      "title": "So you’ve heard these AI terms and nodded along; let’s fix that",
+      "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Fri, 29 May 2026 18:49:19 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/05/29/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/"
+    },
+    {
+      "id": "mprdx4ly64vnxm5g4ky",
+      "title": "What happens when companies become too AI-pilled?",
+      "summary": "The people deciding that AI can replace your job are also the ones least likely to understand what your job truly involves, according to Box founder Aaron Levie, who pointed to this as an example of “AI psychosis.” Indeed, ClickUp recently cut 22% of its workforce for AI agents, ...",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Fri, 29 May 2026 17:57:05 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/video/what-happens-when-companies-become-too-ai-pilled/"
+    },
+    {
+      "id": "mprdx4lzq22nkys1qld",
+      "title": "After Nvidia’s $20B not-aqui-hire, AI chip startup Groq reportedly raising $650M",
+      "summary": "Chipmaker Groq is looking to raise $650 million in internal funding as it pivots from hardware to focus more on AI inference, the process of refining the way AI models respond to prompted requests, per Axios. ...",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Funding",
+      "tags": [
+        "Nvidia",
+        "Startup"
+      ],
+      "publishedAt": "Fri, 29 May 2026 17:27:13 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/05/29/after-nvidias-20b-not-aqui-hire-ai-chip-startup-groq-reportedly-raising-650m/"
+    },
+    {
+      "id": "mprdxbnkagcgw0vpyq",
+      "title": "« Vous n’avez plus de messages gratuits » : Anthropic ajoute un bouton à Claude pour mieux gérer sa consommation",
+      "summary": "...",
+      "source": {
+        "name": "Numerama",
+        "url": "https://www.numerama.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
+      },
+      "category": "Policy",
+      "tags": [
+        "Anthropic"
+      ],
+      "publishedAt": "Fri, 29 May 2026 17:11:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.numerama.com/tech/2263077-vous-navez-plus-de-messages-gratuits-anthropic-ajoute-un-bouton-a-claude-pour-mieux-gerer-sa-consommation.html"
+    },
+    {
+      "id": "mprdxbnk6mqk75pr3c",
+      "title": "En Chine, les robots humanoïdes ont désormais leur propre passeport",
+      "summary": "...",
+      "source": {
+        "name": "Numerama",
+        "url": "https://www.numerama.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
+      },
+      "category": "Policy",
+      "tags": [
+        "Robotics"
+      ],
+      "publishedAt": "Fri, 29 May 2026 16:30:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1555848962-6e79363ec58f?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.numerama.com/tech/2263159-en-chine-les-robots-humanoides-ont-desormais-leur-propre-passeport.html"
+    },
+    {
+      "id": "mprdx4m008glgzn0e3t7",
+      "title": "Cognition’s Scott Wu says AI coding agents shouldn’t replace humans",
+      "summary": "Cognition makes Devin, the first and arguably most successful AI coding agent. But famed coder Wu says it isn't designed to supplant human programmers....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Fri, 29 May 2026 16:13:47 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/05/29/cognitions-scott-wu-says-ai-coding-agents-shouldnt-replace-humans/"
+    },
+    {
+      "id": "mprdxc76efyworpd63q",
+      "title": "Quantique : Quandela renouvelle sa gouvernance avec l’appui de l’ancien patron d’OVHcloud",
+      "summary": "...",
+      "source": {
+        "name": "Maddyness",
+        "url": "https://www.maddyness.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.maddyness.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Fri, 29 May 2026 16:05:07 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.maddyness.com/2026/05/29/quantique-quandela-renouvelle-sa-gouvernance-avec-lappui-de-lancien-patron-dovhcloud/"
+    },
     {
       "id": "mpr4bauiqmehavo8i49",
       "title": "Today is the last day to apply to speak at TechCrunch Disrupt 2026",
@@ -64,6 +199,24 @@
       "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
       "readTime": 1,
       "originalUrl": "https://techcrunch.com/2026/05/29/kiwibits-ai-powered-bird-feeder-is-my-new-backyard-buddy/"
+    },
+    {
+      "id": "mprdx6zatxyt5ed3tuo",
+      "title": "How Braintrust turns customer requests into code with Codex",
+      "summary": "How Braintrust engineers use Codex with GPT-5.5 to run experiments and code faster....",
+      "source": {
+        "name": "OpenAI News",
+        "url": "https://openai.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "OpenAI"
+      ],
+      "publishedAt": "Fri, 29 May 2026 12:00:00 GMT",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://openai.com/index/braintrust"
     },
     {
       "id": "mpr4baukz3e69tgb5ch",
@@ -339,6 +492,24 @@
       "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
       "readTime": 1,
       "originalUrl": "https://techcrunch.com/2026/05/28/gleans-top-line-crosses-300m-as-ai-budget-cutting-becomes-its-major-selling-point/"
+    },
+    {
+      "id": "mprdx6zbour1dfk2ty",
+      "title": "A shared playbook for trustworthy third party evaluations",
+      "summary": "OpenAI shares guidance on third-party AI evaluations, covering how to assess model capabilities, safeguards, and validity for frontier systems....",
+      "source": {
+        "name": "OpenAI News",
+        "url": "https://openai.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "OpenAI"
+      ],
+      "publishedAt": "Fri, 29 May 2026 00:00:00 GMT",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://openai.com/index/trustworthy-third-party-evaluations-foundations"
     },
     {
       "id": "mpr4bdtthlicm0b4vr6",
@@ -672,177 +843,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=800",
       "readTime": 1,
       "originalUrl": "https://www.lemonde.fr/economie/article/2026/05/28/l-ue-inflige-une-amende-de-200-millions-d-euros-a-temu-geant-chinois-du-commerce-en-ligne-pour-avoir-permis-la-vente-de-produits-illegaux_6694456_3234.html"
-    },
-    {
-      "id": "mppcw8nbgawtn6ecfqk",
-      "title": "The AI Hype Index: AI gets booed in graduation season",
-      "summary": "It is one thing to say AI will change the world. It is another to expect the class of 2026 to applaud it. In fact, when former Google CEO Eric Schmidt told University of Arizona graduates that their task is to help shape AI, he was met with a resounding chorus of boos. “I can…...",
-      "source": {
-        "name": "MIT Tech Review AI",
-        "url": "https://www.technologyreview.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.technologyreview.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Google"
-      ],
-      "publishedAt": "Thu, 28 May 2026 09:51:11 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.technologyreview.com/2026/05/28/1138053/the-ai-hype-index-ai-gets-booed-in-graduation-season/"
-    },
-    {
-      "id": "mppcwelhuj5q42rjmeg",
-      "title": "Le créateur de Metal Gear déçoit ses fans en participant à une publicité générée par IA pour Prada",
-      "summary": "...",
-      "source": {
-        "name": "Numerama",
-        "url": "https://www.numerama.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
-      },
-      "category": "Policy",
-      "tags": [
-        "Meta"
-      ],
-      "publishedAt": "Thu, 28 May 2026 09:47:42 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1575517111839-3a3843ee7f5d?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.numerama.com/pop-culture/2261677-le-createur-de-metal-gear-decoit-ses-fans-en-participant-a-une-publicite-generee-par-ia-pour-prada.html"
-    },
-    {
-      "id": "mppcwbm3mzik9ek8v8l",
-      "title": "Perplexity AI Open-Sources Unigram Tokenizer That Achieves 5x Lower p50 Latency Than Hugging Face tokenizers Crate",
-      "summary": "...",
-      "source": {
-        "name": "MarkTechPost",
-        "url": "https://www.marktechpost.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Thu, 28 May 2026 09:08:20 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.marktechpost.com/2026/05/28/perplexity-ai-open-sources-unigram-tokenizer-that-achieves-5x-lower-p50-latency-than-hugging-face-tokenizers-crate/"
-    },
-    {
-      "id": "mppcwt194vns7fzcwvn",
-      "title": "Mistral AI souffle sa 3e bougie en s’alliant à Airbus et BMW",
-      "summary": "...",
-      "source": {
-        "name": "Maddyness",
-        "url": "https://www.maddyness.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.maddyness.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Thu, 28 May 2026 09:00:13 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.maddyness.com/2026/05/28/mistral-ai-souffle-sa-3e-bougie-en-salliant-a-airbus-et-bmw/"
-    },
-    {
-      "id": "mppcwt19795qm8ba0mn",
-      "title": "Mistral AI vise une capacité de calcul d’un gigawatt à l’horizon 2030",
-      "summary": "...",
-      "source": {
-        "name": "Maddyness",
-        "url": "https://www.maddyness.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.maddyness.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Thu, 28 May 2026 08:45:09 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.maddyness.com/2026/05/28/mistral-ai-vise-une-capacite-de-calcul-dun-gigawatt-a-lhorizon-2030/"
-    },
-    {
-      "id": "mpppriojfxoxg26quq9",
-      "title": "Mistral AI veut être présent « sur toute la chaîne de valeur », des data centers aux applications chez les entreprises, pour contrer la domination américaine",
-      "summary": "Le leader français de l’intelligence artificielle poursuit le déploiement de ses centres de données et met en avant des partenariats avec de grands groupes industriels européens pour tenter de combler l’écart avec les grands acteurs américains du secteur....",
-      "source": {
-        "name": "Le Monde Tech",
-        "url": "https://www.lemonde.fr",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.lemonde.fr&sz=64"
-      },
-      "category": "Policy",
-      "tags": [],
-      "publishedAt": "Thu, 28 May 2026 10:45:01 +0200",
-      "imageUrl": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.lemonde.fr/economie/article/2026/05/28/mistral-ai-veut-etre-present-sur-toute-la-chaine-de-valeur-des-data-centers-aux-applications-chez-les-entreprises-pour-contrer-la-domination-americaine_6694441_3234.html"
-    },
-    {
-      "id": "mppcwbm44wr63fw322r",
-      "title": "A Coding Guide to Implement a pgvector-Powered Semantic, Hybrid, Sparse, and Quantized Vector Search System",
-      "summary": "...",
-      "source": {
-        "name": "MarkTechPost",
-        "url": "https://www.marktechpost.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Thu, 28 May 2026 08:07:09 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.marktechpost.com/2026/05/28/a-coding-guide-to-implement-a-pgvector-powered-semantic-hybrid-sparse-and-quantized-vector-search-system/"
-    },
-    {
-      "id": "mpp0dfg5tfxyh22ots",
-      "title": "Mistral AI, Dataiku, OpenAI : pourquoi les acteurs de l’IA organisent leurs propres évènements",
-      "summary": "...",
-      "source": {
-        "name": "Maddyness",
-        "url": "https://www.maddyness.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.maddyness.com&sz=64"
-      },
-      "category": "Policy",
-      "tags": [
-        "OpenAI"
-      ],
-      "publishedAt": "Thu, 28 May 2026 04:00:58 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1575517111839-3a3843ee7f5d?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.maddyness.com/2026/05/28/mistral-ai-dataiku-openai-pourquoi-les-acteurs-de-lia-organisent-leurs-propres-evenements/"
-    },
-    {
-      "id": "mpp0dc5k41zw3z70cy",
-      "title": "Identifying and Understanding Human Values in Text: A Tailorable LLM-based Architecture",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "LLM"
-      ],
-      "publishedAt": "Thu, 28 May 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2605.27373"
-    },
-    {
-      "id": "mpp0dc5lztqaqfcnbh",
-      "title": "Soro: A Lightweight Foundation Model and Chatbot for Tajik",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Thu, 28 May 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2605.27379"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-05-29T16:10:11.179Z",
-  "edition": 174
+  "lastUpdated": "2026-05-29T20:39:06.232Z",
+  "edition": 175
 }
