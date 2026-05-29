@@ -1,6 +1,58 @@
 {
-  "date": "2026-05-29T04:46:02.071Z",
+  "date": "2026-05-29T10:15:26.444Z",
   "articles": [
+    {
+      "id": "mpqrna4sacya48qgdtm",
+      "title": "« Et ensuite ? » Anthropic dévoile Opus 4.8 mais tous les yeux sont rivés ailleurs",
+      "summary": "...",
+      "source": {
+        "name": "Numerama",
+        "url": "https://www.numerama.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
+      },
+      "category": "Policy",
+      "tags": [
+        "Anthropic"
+      ],
+      "publishedAt": "Fri, 29 May 2026 09:35:53 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1555848962-6e79363ec58f?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.numerama.com/tech/2262565-et-ensuite-anthropic-devoile-opus-4-8-mais-tous-les-yeux-sont-rives-ailleurs.html"
+    },
+    {
+      "id": "mpqrna4ugty1lijbjbe",
+      "title": "500 millions de dollars brûlés en 30 jours : cette entreprise a « oublié » d’encadrer l’usage de l’IA Claude",
+      "summary": "...",
+      "source": {
+        "name": "Numerama",
+        "url": "https://www.numerama.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
+      },
+      "category": "Funding",
+      "tags": [
+        "Anthropic"
+      ],
+      "publishedAt": "Fri, 29 May 2026 09:15:59 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.numerama.com/tech/2262327-500-millions-de-dollars-brules-en-30-jours-cette-entreprise-a-oublie-dencadrer-lusage-de-lia-claude.html"
+    },
+    {
+      "id": "mpqrnawmccmoe4orpku",
+      "title": "La dérive de l'autorité numérique : quand l'intelligence artificielle supplante l'expertise humaine",
+      "summary": "...",
+      "source": {
+        "name": "Maddyness",
+        "url": "https://www.maddyness.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.maddyness.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Fri, 29 May 2026 07:00:46 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.maddyness.com/2026/05/29/la-derive-de-lautorite-numerique-quand/"
+    },
     {
       "id": "mpqfvl5ue3f0lprkoap",
       "title": "Behavior-Induced Mirror-Prox Temporal-Difference Learning for Faster Off-Policy Prediction",
@@ -692,6 +744,24 @@
       "originalUrl": "https://techcrunch.com/2026/05/27/why-googles-ai-cant-spell-google-or-anything-else/"
     },
     {
+      "id": "mpqrn62f940o0e7vmn7",
+      "title": "MUFG aims to become AI-native with OpenAI",
+      "summary": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale....",
+      "source": {
+        "name": "OpenAI News",
+        "url": "https://openai.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "OpenAI"
+      ],
+      "publishedAt": "Thu, 28 May 2026 00:00:00 GMT",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://openai.com/index/mufg"
+    },
+    {
       "id": "mppprefiionh1lgx8w",
       "title": "OpenAI’s Frontier Governance Framework",
       "summary": "Explore OpenAI’s Frontier Governance Framework and how our AI safety, security, and risk practices align with emerging EU and California regulations....",
@@ -781,80 +851,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800",
       "readTime": 1,
       "originalUrl": "https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/"
-    },
-    {
-      "id": "mpoiqm56rjc1taugo9p",
-      "title": "ITBench-AA: Frontier Models Score Below 50% on the First Benchmark for Agentic Enterprise IT Tasks — by Artificial Analysis and IBM",
-      "summary": "...",
-      "source": {
-        "name": "Hugging Face Blog",
-        "url": "https://huggingface.co",
-        "favicon": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Wed, 27 May 2026 17:20:29 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://huggingface.co/blog/ibm-research/itbench-aa"
-    },
-    {
-      "id": "mpoiqnox5io1jjujcfg",
-      "title": "NVIDIA Releases Polar, a Token-Faithful Rollout Framework for GRPO Training Across Codex, Claude Code, and Qwen Code",
-      "summary": "...",
-      "source": {
-        "name": "MarkTechPost",
-        "url": "https://www.marktechpost.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Anthropic",
-        "Nvidia"
-      ],
-      "publishedAt": "Wed, 27 May 2026 17:09:38 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.marktechpost.com/2026/05/27/nvidia-releases-polar-a-token-faithful-rollout-framework-for-grpo-training-across-codex-claude-code-and-qwen-code/"
-    },
-    {
-      "id": "mpo9kf7jfyla54hf7ys",
-      "title": "AI coding startup Cognition raises $1B at $25B pre-money valuation",
-      "summary": "As Cognition reaches $492 in annualized revenue run rate, it more than doubled its valuation in eight months, it says....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Startup"
-      ],
-      "publishedAt": "Wed, 27 May 2026 16:00:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/05/27/ai-coding-startup-cognition-raises-1b-at-25b-pre-money-valuation/"
-    },
-    {
-      "id": "mpo9kf7kmkiyvqoyp6",
-      "title": "Startup Battlefield 200 applications close today: Nominate a founder or submit your startup",
-      "summary": "Today is the final day to apply or nominate a startup for Startup Battlefield 200. Once the clock strikes 11:59 p.m. PT, the window closes on your chance to compete for $100,000 in equity-free funding, gain global visibility, connect directly with investors, and launch on the Tec...",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Product",
-      "tags": [
-        "Startup"
-      ],
-      "publishedAt": "Wed, 27 May 2026 14:15:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/05/27/startup-battlefield-200-applications-close-today-nominate-a-founder-or-submit-your-startup/"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-05-29T04:46:02.071Z",
-  "edition": 172
+  "lastUpdated": "2026-05-29T10:15:26.444Z",
+  "edition": 173
 }
