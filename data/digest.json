@@ -1,6 +1,44 @@
 {
-  "date": "2026-05-30T04:28:52.883Z",
+  "date": "2026-05-30T08:41:36.877Z",
   "articles": [
+    {
+      "id": "mps3qh7kpo77xx5qep8",
+      "title": "« 25.0528, 121.5990 » : pourquoi Nvidia, Microsoft et Arm ont tous publié ces mêmes coordonnées GPS en même temps",
+      "summary": "...",
+      "source": {
+        "name": "Numerama",
+        "url": "https://www.numerama.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Microsoft",
+        "Nvidia"
+      ],
+      "publishedAt": "Sat, 30 May 2026 07:07:20 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.numerama.com/tech/2263419-25-0528-121-5990-pourquoi-nvidia-microsoft-et-arm-ont-tous-publie-ces-memes-coordonnees-gps-en-meme-temps.html"
+    },
+    {
+      "id": "mps3qh7lu67jkyyasc",
+      "title": "Anthropic vaut 5 fois ce que valaient Uber et Facebook réunis avant leur cotation",
+      "summary": "...",
+      "source": {
+        "name": "Numerama",
+        "url": "https://www.numerama.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
+      },
+      "category": "Policy",
+      "tags": [
+        "Anthropic",
+        "Meta"
+      ],
+      "publishedAt": "Sat, 30 May 2026 06:01:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1555848962-6e79363ec58f?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.numerama.com/tech/2262343-anthropic-vaut-pres-de-5-fois-ce-que-valaient-uber-et-facebook-reunis-avant-leur-cotation.html"
+    },
     {
       "id": "mprupdo22qi39spxly6",
       "title": "Hermes Agent Ships Tool Search for MCP: Anthropic Evals Show 49% to 74% Accuracy Gain on Opus 4",
@@ -818,41 +856,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
       "readTime": 1,
       "originalUrl": "https://techcrunch.com/2026/05/28/sneak-peek-at-new-siri-app-reveals-apples-plans-to-take-on-chatgpt-and-more/"
-    },
-    {
-      "id": "mppprbx1bj2wsj0uaq",
-      "title": "RSI is the new AGI — and it’s just as hard to pin down",
-      "summary": "A new crop of AI labs are focused on recursive self-improvement — but the goal is proving elusive....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Thu, 28 May 2026 14:30:17 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/05/28/rsi-is-the-new-agi-and-its-just-as-hard-to-pin-down/"
-    },
-    {
-      "id": "mppprbx1844u3b63ze7",
-      "title": "At TechCrunch Disrupt 2026: Databricks’ co-founder on what kills enterprise AI deals",
-      "summary": "Enterprise AI is entering a different phase now, one where enterprises are no longer evaluating whether AI is exciting. They are evaluating whether it is safe to deploy broadly....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Thu, 28 May 2026 14:30:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/05/28/techcrunch-disrupt-2026-databricks-co-founder-on-what-kills-enterprise-ai-deals/"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-05-30T04:28:52.883Z",
-  "edition": 176
+  "lastUpdated": "2026-05-30T08:41:36.877Z",
+  "edition": 177
 }
