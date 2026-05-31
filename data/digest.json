@@ -1,6 +1,22 @@
 {
-  "date": "2026-05-31T14:13:21.738Z",
+  "date": "2026-05-31T19:42:44.192Z",
   "articles": [
+    {
+      "id": "mpu6sce8a2qx3oie0ah",
+      "title": "Making sense of the debate over AI psychosis",
+      "summary": "On the latest episode of Equity, we debate whether tech CEOs are \"uniquely prone to AI psychosis.\"...",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Sun, 31 May 2026 15:30:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/05/31/making-sense-of-the-debate-over-ai-psychosis/"
+    },
     {
       "id": "mptkqxil9r0vammuznk",
       "title": "A Coding Implementation on Loguru for Designing Robust, Structured, Concurrent, and Production-Ready Python Logging Pipelines",
@@ -839,25 +855,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
       "readTime": 1,
       "originalUrl": "https://openai.com/index/trustworthy-third-party-evaluations-foundations"
-    },
-    {
-      "id": "mpr4bdtthlicm0b4vr6",
-      "title": "Profiling in PyTorch (Part 1): A Beginner's Guide to torch.profiler",
-      "summary": "...",
-      "source": {
-        "name": "Hugging Face Blog",
-        "url": "https://huggingface.co",
-        "favicon": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Fri, 29 May 2026 00:00:00 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://huggingface.co/blog/torch-profiler"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-05-31T14:13:21.737Z",
-  "edition": 182
+  "lastUpdated": "2026-05-31T19:42:44.192Z",
+  "edition": 183
 }
