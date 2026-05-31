@@ -1,6 +1,22 @@
 {
-  "date": "2026-05-30T19:43:11.063Z",
+  "date": "2026-05-31T04:54:33.634Z",
   "articles": [
+    {
+      "id": "mptb25gyfbmbh2ph48",
+      "title": "SoftBank says it will invest up to €75 billion to build French data centers",
+      "summary": "The goal, the firm said, is to develop and operate up to 5 gigawatts of additional data center capacity....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Funding",
+      "tags": [],
+      "publishedAt": "Sat, 30 May 2026 21:45:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/"
+    },
     {
       "id": "mpsrd25zsu8vulkmwca",
       "title": "‘What a joke’: Github Copilot’s new token-based billing spurs consternation among devs",
@@ -842,25 +858,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=800",
       "readTime": 1,
       "originalUrl": "https://techcrunch.com/2026/05/28/anthropic-raises-65-billion-nears-1t-valuation-ahead-of-ipo/"
-    },
-    {
-      "id": "mppyh9orrj0qbodfe6",
-      "title": "Just like gold and oil, we’ll soon be able to trade AI token futures",
-      "summary": "Large exchanges are designing derivative products around AI tokens, which are increasingly being considered less a computational output and more a raw material input, like electricity or bandwidth. ...",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Product",
-      "tags": [],
-      "publishedAt": "Thu, 28 May 2026 18:32:25 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1550009158-9ebf690be655?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/05/28/just-like-gold-and-oil-well-soon-be-able-to-trade-ai-token-futures/"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-05-30T19:43:11.063Z",
-  "edition": 179
+  "lastUpdated": "2026-05-31T04:54:33.634Z",
+  "edition": 180
 }
