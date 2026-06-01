@@ -1,6 +1,124 @@
 {
-  "date": "2026-06-01T12:11:10.927Z",
+  "date": "2026-06-01T18:17:37.162Z",
   "articles": [
+    {
+      "id": "mpvj6ug3whan5bpyyrj",
+      "title": "Meet Memory OS: A 6-Layer Open-Source Memory Stack Built on Top of Hermes Agent",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Mon, 01 Jun 2026 16:53:07 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/06/01/meet-memory-os-a-6-layer-open-source-memory-stack-built-on-top-of-hermes-agent/"
+    },
+    {
+      "id": "mpvj6qbe7p1ra0er4z4",
+      "title": "Anthropic files to go public",
+      "summary": "The company said Monday it has filed confidentially for an IPO....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Anthropic"
+      ],
+      "publishedAt": "Mon, 01 Jun 2026 16:36:55 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/"
+    },
+    {
+      "id": "mpvj6qbfuiheswyn48d",
+      "title": "This AI weather startup is out-forecasting government agencies",
+      "summary": "Windborne Systems' newest weather forecasting model beats the best government predictions by days....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Startup"
+      ],
+      "publishedAt": "Mon, 01 Jun 2026 16:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/06/01/this-ai-weather-startup-is-out-forecasting-government-agencies/"
+    },
+    {
+      "id": "mpvj6t369ukhm5yjl3",
+      "title": "Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains",
+      "summary": "...",
+      "source": {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co",
+        "favicon": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Mon, 01 Jun 2026 15:45:17 GMT",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://huggingface.co/blog/JetBrains/mellum2-launch"
+    },
+    {
+      "id": "mpvj6qbg776v56j1cjk",
+      "title": "DuckDuckGo makes its ‘no-AI’ search engine easier to access as its traffic booms",
+      "summary": "Alternative search engine DuckDuckGo launches 'no AI' web extensions for Chrome and Firefox users. ...",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Product",
+      "tags": [],
+      "publishedAt": "Mon, 01 Jun 2026 14:49:10 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/06/01/duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms/"
+    },
+    {
+      "id": "mpvj6t36iaao6hw5qe",
+      "title": "Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic",
+      "summary": "...",
+      "source": {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co",
+        "favicon": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "LLM"
+      ],
+      "publishedAt": "Mon, 01 Jun 2026 13:51:18 GMT",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption"
+    },
+    {
+      "id": "mpvj6wn0e5pkz681pq7",
+      "title": "Les projets irréalistes d’Elon Musk censés justifier la valorisation astronomique de SpaceX",
+      "summary": "L’entrée en Bourse à venir de l’entreprise détenue à plus de 50 % par le milliardaire américain la valorise à près de 2 000 milliards de dollars. Un montant qui suppose la réussite, à horizon financier raisonnable, de projets tels que l’implantation d’une colonie sur Mars ou la c...",
+      "source": {
+        "name": "Le Monde Tech",
+        "url": "https://www.lemonde.fr",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.lemonde.fr&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Mon, 01 Jun 2026 15:03:51 +0200",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.lemonde.fr/economie/article/2026/06/01/les-projets-irrealistes-d-elon-musk-censes-justifier-la-valorisation-astronomique-de-spacex_6695971_3234.html"
+    },
     {
       "id": "mpv63nzn5r13sensfg",
       "title": "RTX Spark, les nouveaux processeurs pour ordinateurs Windows de Nvidia, dont l’ambition est de « réinventer le PC »",
@@ -727,133 +845,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
       "readTime": 1,
       "originalUrl": "https://techcrunch.com/2026/05/29/kiwibits-ai-powered-bird-feeder-is-my-new-backyard-buddy/"
-    },
-    {
-      "id": "mprdx6zatxyt5ed3tuo",
-      "title": "How Braintrust turns customer requests into code with Codex",
-      "summary": "How Braintrust engineers use Codex with GPT-5.5 to run experiments and code faster....",
-      "source": {
-        "name": "OpenAI News",
-        "url": "https://openai.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "OpenAI"
-      ],
-      "publishedAt": "Fri, 29 May 2026 12:00:00 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://openai.com/index/braintrust"
-    },
-    {
-      "id": "mpr4baukz3e69tgb5ch",
-      "title": "This chip startup just raised $135M on a bet that AI’s biggest bottleneck isn’t compute — it’s memory",
-      "summary": "South Korean chip startup XCENA is betting that AI's real bottleneck is not compute, but memory....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Hardware",
-      "tags": [
-        "Startup"
-      ],
-      "publishedAt": "Fri, 29 May 2026 12:00:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/05/29/xcena-secures-135m-at-570m-valuation-betting-on-memory-as-ais-real-bottleneck/"
-    },
-    {
-      "id": "mpr4bdd76abyrsiztk",
-      "title": "Boston Children’s uses AI to unlock new diagnoses",
-      "summary": "Boston Children’s Hospital uses OpenAI technology to improve patient care, reduce operational burden, and help diagnose more than 40 rare disease cases....",
-      "source": {
-        "name": "OpenAI News",
-        "url": "https://openai.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "OpenAI"
-      ],
-      "publishedAt": "Fri, 29 May 2026 12:00:00 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://openai.com/index/boston-childrens-hospital"
-    },
-    {
-      "id": "mpr4bc8qn0cv1j5q9un",
-      "title": "How the Pope’s Magnifica Humanitas offers a template for individuals to meet the AI moment",
-      "summary": "Pope Leo XIV’s new encyclical on artificial intelligence includes a statement that warrants serious attention from technologists and policymakers: “Technology is never neutral.” Magnifica Humanitas (“Magnificent Humanity”) is a clarion call to all people to act with courage and s...",
-      "source": {
-        "name": "MIT Tech Review AI",
-        "url": "https://www.technologyreview.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.technologyreview.com&sz=64"
-      },
-      "category": "Policy",
-      "tags": [],
-      "publishedAt": "Fri, 29 May 2026 10:00:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.technologyreview.com/2026/05/29/1138107/how-the-popes-magnifica-humanitas-offers-a-template-for-individuals-to-meet-the-ai-moment/"
-    },
-    {
-      "id": "mpqrna4sacya48qgdtm",
-      "title": "« Et ensuite ? » Anthropic dévoile Opus 4.8 mais tous les yeux sont rivés ailleurs",
-      "summary": "...",
-      "source": {
-        "name": "Numerama",
-        "url": "https://www.numerama.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
-      },
-      "category": "Policy",
-      "tags": [
-        "Anthropic"
-      ],
-      "publishedAt": "Fri, 29 May 2026 09:35:53 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1555848962-6e79363ec58f?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.numerama.com/tech/2262565-et-ensuite-anthropic-devoile-opus-4-8-mais-tous-les-yeux-sont-rives-ailleurs.html"
-    },
-    {
-      "id": "mpqrna4ugty1lijbjbe",
-      "title": "500 millions de dollars brûlés en 30 jours : cette entreprise a « oublié » d’encadrer l’usage de l’IA Claude",
-      "summary": "...",
-      "source": {
-        "name": "Numerama",
-        "url": "https://www.numerama.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
-      },
-      "category": "Funding",
-      "tags": [
-        "Anthropic"
-      ],
-      "publishedAt": "Fri, 29 May 2026 09:15:59 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.numerama.com/tech/2262327-500-millions-de-dollars-brules-en-30-jours-cette-entreprise-a-oublie-dencadrer-lusage-de-lia-claude.html"
-    },
-    {
-      "id": "mpr4bf06wedjeceprw",
-      "title": "Meet mKernel: A Multi-GPU, Multi-Node Fused Kernel Library for GPU-Driven Communication",
-      "summary": "...",
-      "source": {
-        "name": "MarkTechPost",
-        "url": "https://www.marktechpost.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
-      },
-      "category": "Hardware",
-      "tags": [
-        "Nvidia"
-      ],
-      "publishedAt": "Fri, 29 May 2026 08:43:32 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1555664424-778a69022365?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.marktechpost.com/2026/05/29/meet-mkernel-a-multi-gpu-multi-node-fused-kernel-library-for-gpu-driven-communication/"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-06-01T12:11:10.927Z",
-  "edition": 185
+  "lastUpdated": "2026-06-01T18:17:37.162Z",
+  "edition": 186
 }
