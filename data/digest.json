@@ -1,6 +1,76 @@
 {
-  "date": "2026-06-02T05:02:17.646Z",
+  "date": "2026-06-02T10:56:41.926Z",
   "articles": [
+    {
+      "id": "mpwivo94h37nhh0utzl",
+      "title": "Alibaba’s Qwen Team Launches Qwen3.7-Plus, Adding Vision, Deep Reasoning, Tool Invocation, and Autonomous Iteration on the Bailian Platform",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Product",
+      "tags": [
+        "China"
+      ],
+      "publishedAt": "Tue, 02 Jun 2026 09:07:48 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1550009158-9ebf690be655?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/06/02/alibabas-qwen-team-launches-qwen3-7-plus-adding-vision-deep-reasoning-tool-invocation-and-autonomous-iteration-on-the-bailian-platform/"
+    },
+    {
+      "id": "mpwivlc18shtl5j2kc5",
+      "title": "How small businesses can leverage AI",
+      "summary": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox,sign up here. From accounting to design to market research and product development, there’s a staggering breadth of skill...",
+      "source": {
+        "name": "MIT Tech Review AI",
+        "url": "https://www.technologyreview.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.technologyreview.com&sz=64"
+      },
+      "category": "Product",
+      "tags": [
+        "LLM"
+      ],
+      "publishedAt": "Tue, 02 Jun 2026 09:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1550009158-9ebf690be655?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.technologyreview.com/2026/06/02/1138227/how-small-businesses-can-leverage-ai/"
+    },
+    {
+      "id": "mpwivo94bhgpvguy15b",
+      "title": "JetBrains Releases Mellum2: A 12B MoE Model for Fast, Specialized Tasks in Multi-Model AI Pipelines",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Tue, 02 Jun 2026 08:00:32 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/06/02/jetbrains-releases-mellum2-a-12b-moe-model-for-fast-specialized-tasks-in-multi-model-ai-pipelines/"
+    },
+    {
+      "id": "mpwivro0goh31xnyrw",
+      "title": "IA : La course aux GPU est morte. Vive les mégawatts !",
+      "summary": "...",
+      "source": {
+        "name": "Maddyness",
+        "url": "https://www.maddyness.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.maddyness.com&sz=64"
+      },
+      "category": "Hardware",
+      "tags": [
+        "Nvidia"
+      ],
+      "publishedAt": "Tue, 02 Jun 2026 07:00:05 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1555664424-778a69022365?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.maddyness.com/2026/06/02/ia-la-course-aux-gpu-est-morte-vive-les-megawatts/"
+    },
     {
       "id": "mpw67x4t0z1wblivro2g",
       "title": "Position Paper: Post-Solve Robustness in Decision Engines: Feasible Regions and Smoothness Under Perturbations",
@@ -80,6 +150,22 @@
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
       "readTime": 1,
       "originalUrl": "https://arxiv.org/abs/2606.00009"
+    },
+    {
+      "id": "mpwivmmhj8jzi4cdjj",
+      "title": "Codex is becoming a productivity tool for everyone",
+      "summary": "The Next Era of Knowledge Work report explores how Codex is transforming productivity through AI-powered research, data analysis, workflow automation, and content creation....",
+      "source": {
+        "name": "OpenAI News",
+        "url": "https://openai.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
+      },
+      "category": "Product",
+      "tags": [],
+      "publishedAt": "Tue, 02 Jun 2026 02:00:00 GMT",
+      "imageUrl": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=800",
+      "readTime": 1,
+      "originalUrl": "https://openai.com/index/codex-for-knowledge-work"
     },
     {
       "id": "mpw67wk5i3l70pczmxf",
@@ -762,102 +848,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
       "readTime": 1,
       "originalUrl": "https://www.marktechpost.com/2026/05/30/genesis-ai-releases-nyx-quadrants-and-genesis-world-1-0-physics-platform-for-scalable-robotics-foundation-model-evaluation/"
-    },
-    {
-      "id": "mps3qh7kpo77xx5qep8",
-      "title": "« 25.0528, 121.5990 » : pourquoi Nvidia, Microsoft et Arm ont tous publié ces mêmes coordonnées GPS en même temps",
-      "summary": "...",
-      "source": {
-        "name": "Numerama",
-        "url": "https://www.numerama.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Microsoft",
-        "Nvidia"
-      ],
-      "publishedAt": "Sat, 30 May 2026 07:07:20 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.numerama.com/tech/2263419-25-0528-121-5990-pourquoi-nvidia-microsoft-et-arm-ont-tous-publie-ces-memes-coordonnees-gps-en-meme-temps.html"
-    },
-    {
-      "id": "mps3qh7lu67jkyyasc",
-      "title": "Anthropic vaut 5 fois ce que valaient Uber et Facebook réunis avant leur cotation",
-      "summary": "...",
-      "source": {
-        "name": "Numerama",
-        "url": "https://www.numerama.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
-      },
-      "category": "Policy",
-      "tags": [
-        "Anthropic",
-        "Meta"
-      ],
-      "publishedAt": "Sat, 30 May 2026 06:01:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1555848962-6e79363ec58f?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.numerama.com/tech/2262343-anthropic-vaut-pres-de-5-fois-ce-que-valaient-uber-et-facebook-reunis-avant-leur-cotation.html"
-    },
-    {
-      "id": "mprupdo22qi39spxly6",
-      "title": "Hermes Agent Ships Tool Search for MCP: Anthropic Evals Show 49% to 74% Accuracy Gain on Opus 4",
-      "summary": "...",
-      "source": {
-        "name": "MarkTechPost",
-        "url": "https://www.marktechpost.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Anthropic"
-      ],
-      "publishedAt": "Sat, 30 May 2026 03:11:59 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.marktechpost.com/2026/05/29/hermes-agent-ships-tool-search-for-mcp-anthropic-evals-show-49-to-74-accuracy-gain-on-opus-4/"
-    },
-    {
-      "id": "mprupdo2d5tnby5u9mj",
-      "title": "How to Use AgentTrove: Streaming 1.7M Agentic Traces and Building a Clean ShareGPT SFT Dataset in Python",
-      "summary": "...",
-      "source": {
-        "name": "MarkTechPost",
-        "url": "https://www.marktechpost.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "OpenAI"
-      ],
-      "publishedAt": "Sat, 30 May 2026 00:46:05 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.marktechpost.com/2026/05/29/how-to-use-agenttrove-streaming-1-7m-agentic-traces-and-building-a-clean-sharegpt-sft-dataset-in-python/"
-    },
-    {
-      "id": "mprupdo3a1l04tpt217",
-      "title": "NVIDIA Introduces X-Token: Projection-Guided Cross-Tokenizer KD That Outperforms GOLD by +3.82 Average Points on Llama-3.2-1B",
-      "summary": "...",
-      "source": {
-        "name": "MarkTechPost",
-        "url": "https://www.marktechpost.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Meta",
-        "Nvidia"
-      ],
-      "publishedAt": "Fri, 29 May 2026 23:19:14 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.marktechpost.com/2026/05/29/nvidia-introduces-x-token-projection-guided-cross-tokenizer-kd-that-outperforms-gold-by-3-82-average-points-on-llama-3-2-1b/"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-06-02T05:02:17.645Z",
-  "edition": 187
+  "lastUpdated": "2026-06-02T10:56:41.926Z",
+  "edition": 188
 }
