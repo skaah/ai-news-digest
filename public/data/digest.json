@@ -1,6 +1,124 @@
 {
-  "date": "2026-06-02T21:25:17.486Z",
+  "date": "2026-06-03T05:20:13.216Z",
   "articles": [
+    {
+      "id": "mpxmaqoa28dtpazjrrq",
+      "title": "MIT researchers teach AI models to interpret charts",
+      "summary": "The new ChartNet training dataset could improve the accuracy of vision-language models that help analyze business trends or interpret scientific figures. ...",
+      "source": {
+        "name": "MIT News AI",
+        "url": "https://news.mit.edu",
+        "favicon": "https://www.google.com/s2/favicons?domain=news.mit.edu&sz=64"
+      },
+      "category": "Research",
+      "tags": [],
+      "publishedAt": "Wed, 03 Jun 2026 00:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?w=800",
+      "readTime": 1,
+      "originalUrl": "https://news.mit.edu/2026/mit-researchers-teach-ai-models-to-interpret-charts-0603"
+    },
+    {
+      "id": "mpxmatef0si701ev3vor",
+      "title": "Visual Graph Scaffolds for Structural Reasoning in Large Language Models",
+      "summary": "...",
+      "source": {
+        "name": "ArXiv cs.AI",
+        "url": "https://arxiv.org",
+        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "LLM"
+      ],
+      "publishedAt": "Wed, 03 Jun 2026 00:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://arxiv.org/abs/2606.02673"
+    },
+    {
+      "id": "mpxmatefxfpcfcexay",
+      "title": "AURA: Action-Gated Memory for Robot Policies at Constant VRAM",
+      "summary": "...",
+      "source": {
+        "name": "ArXiv cs.AI",
+        "url": "https://arxiv.org",
+        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Robotics"
+      ],
+      "publishedAt": "Wed, 03 Jun 2026 00:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://arxiv.org/abs/2606.02775"
+    },
+    {
+      "id": "mpxmateg9s81hijhmm",
+      "title": "Evaluating Transformer and LSTM Frameworks for Prediction in Ungauged Basins",
+      "summary": "...",
+      "source": {
+        "name": "ArXiv cs.AI",
+        "url": "https://arxiv.org",
+        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Wed, 03 Jun 2026 00:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://arxiv.org/abs/2606.02791"
+    },
+    {
+      "id": "mpxmategjfiecmmmhas",
+      "title": "BehaviorBench: Modeling Real-World User Decisions from Behavioral Traces",
+      "summary": "...",
+      "source": {
+        "name": "ArXiv cs.AI",
+        "url": "https://arxiv.org",
+        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Wed, 03 Jun 2026 00:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://arxiv.org/abs/2606.02798"
+    },
+    {
+      "id": "mpxmategd4h1rynhdz",
+      "title": "ChatHealthAI: Aligning Electronic Health Record Representations with Large Language Models for Grounded Clinical Reasoning",
+      "summary": "...",
+      "source": {
+        "name": "ArXiv cs.AI",
+        "url": "https://arxiv.org",
+        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "LLM"
+      ],
+      "publishedAt": "Wed, 03 Jun 2026 00:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://arxiv.org/abs/2606.02802"
+    },
+    {
+      "id": "mpxmaoqn95p6jg6uzs",
+      "title": "Cyera eyes $12B valuation at 80x ARR multiple despite operating losses",
+      "summary": "The cybersecurity company is nearing a $300 million round led by Evolution Equity Partners....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Funding",
+      "tags": [],
+      "publishedAt": "Tue, 02 Jun 2026 22:50:56 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/06/02/cyera-eyes-12b-valuation-at-80x-arr-multiple-despite-operating-losses/"
+    },
     {
       "id": "mpx5c4m7aaa7wps1hvv",
       "title": "Microsoft vient de dévoiler une IA capable de gérer vos mails et réunions toute seule en arrière-plan",
@@ -737,129 +855,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
       "readTime": 1,
       "originalUrl": "https://www.lemonde.fr/economie/article/2026/06/01/les-projets-irrealistes-d-elon-musk-censes-justifier-la-valorisation-astronomique-de-spacex_6695971_3234.html"
-    },
-    {
-      "id": "mpw67uuadile8p8nqxv",
-      "title": "Building the infrastructure for the Intelligence Age in Michigan",
-      "summary": "OpenAI breaks ground on a 1GW data center project in Michigan as part of Stargate, building AI infrastructure to expand access, create jobs, and support communities....",
-      "source": {
-        "name": "OpenAI News",
-        "url": "https://openai.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "OpenAI"
-      ],
-      "publishedAt": "Mon, 01 Jun 2026 12:00:00 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://openai.com/index/stargate-michigan-data-center"
-    },
-    {
-      "id": "mpw67uub7m650u6vjmd",
-      "title": "OpenAI frontier models and Codex are now available on AWS",
-      "summary": "OpenAI frontier models and Codex are now generally available on AWS, giving enterprises a new path to build with OpenAI through the AWS environments, controls, and procurement workflows they already use. Customers can get started with OpenAI on AWS and move faster from evaluation...",
-      "source": {
-        "name": "OpenAI News",
-        "url": "https://openai.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
-      },
-      "category": "Product",
-      "tags": [
-        "OpenAI"
-      ],
-      "publishedAt": "Mon, 01 Jun 2026 10:00:00 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1550009158-9ebf690be655?w=800",
-      "readTime": 1,
-      "originalUrl": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws"
-    },
-    {
-      "id": "mpv63nzn5r13sensfg",
-      "title": "RTX Spark, les nouveaux processeurs pour ordinateurs Windows de Nvidia, dont l’ambition est de « réinventer le PC »",
-      "summary": "Nvidia promet des PC capables de gérer localement des agents d’IA puissants, ouvrant la voie à de nouveaux usages professionnels et scientifiques sur Windows....",
-      "source": {
-        "name": "Le Monde Tech",
-        "url": "https://www.lemonde.fr",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.lemonde.fr&sz=64"
-      },
-      "category": "Policy",
-      "tags": [
-        "Nvidia"
-      ],
-      "publishedAt": "Mon, 01 Jun 2026 10:31:22 +0200",
-      "imageUrl": "https://images.unsplash.com/photo-1555848962-6e79363ec58f?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.lemonde.fr/pixels/article/2026/06/01/nvidia-lance-ses-propres-processeurs-pour-ordinateurs-portables-windows_6695943_4408996.html"
-    },
-    {
-      "id": "mpurdpq7fmoo66s25k7",
-      "title": "Welcome NVIDIA Cosmos 3: The First Open Omni-model for Physical AI Reasoning and Action",
-      "summary": "...",
-      "source": {
-        "name": "Hugging Face Blog",
-        "url": "https://huggingface.co",
-        "favicon": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Nvidia"
-      ],
-      "publishedAt": "Mon, 01 Jun 2026 04:44:55 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://huggingface.co/blog/nvidia/cosmos-3-for-physical-ai"
-    },
-    {
-      "id": "mpv63lsxlcyx0tx69p9",
-      "title": "Parallax: A Parameterized Local Linear Attention That Keeps Softmax and Adds a Learned Covariance Correction Branch",
-      "summary": "...",
-      "source": {
-        "name": "MarkTechPost",
-        "url": "https://www.marktechpost.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Mon, 01 Jun 2026 04:36:49 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.marktechpost.com/2026/05/31/parallax-a-parameterized-local-linear-attention-that-keeps-softmax-and-adds-a-learned-covariance-correction-branch/"
-    },
-    {
-      "id": "mpurdrf4my1qaqvq0d",
-      "title": "PhyDrawGen: Physically Grounded Diagram Generation from Natural Language",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Mon, 01 Jun 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2605.30512"
-    },
-    {
-      "id": "mpurdrf4ujvdtouv4g",
-      "title": "Physically Viable World Models: A Case for Query-Conditioned Embodied AI",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Mon, 01 Jun 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2605.30542"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-06-02T21:25:17.486Z",
-  "edition": 190
+  "lastUpdated": "2026-06-03T05:20:13.216Z",
+  "edition": 191
 }
