@@ -1,6 +1,127 @@
 {
-  "date": "2026-06-04T15:47:52.155Z",
+  "date": "2026-06-04T20:26:24.081Z",
   "articles": [
+    {
+      "id": "mpzy3yd7iqepz2u3uuo",
+      "title": "PATH to boost AI training and career opportunities for industry-aligned jobs",
+      "summary": "MIT RAISE and Georgia State University announce an initiative to connect universities, community colleges, industry, and government to expand industry-aligned AI training and career pathways....",
+      "source": {
+        "name": "MIT News AI",
+        "url": "https://news.mit.edu",
+        "favicon": "https://www.google.com/s2/favicons?domain=news.mit.edu&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Thu, 04 Jun 2026 15:50:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://news.mit.edu/2026/mit-raise-georgia-state-university-announce-path-0604"
+    },
+    {
+      "id": "mpzy3wkor6upeu3hv0k",
+      "title": "Meta steals a tactic from Tesla and builds data centers in tents",
+      "summary": "Meta may have one found one way to slash its massive data center bill: tents....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Meta"
+      ],
+      "publishedAt": "Thu, 04 Jun 2026 19:33:09 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/06/04/meta-steals-a-tactic-from-tesla-and-builds-data-centers-in-tents/"
+    },
+    {
+      "id": "mpzy3wkp3qx4uwhst22",
+      "title": "Apple approves Poke as the first AI agent on its Messages for Business platform",
+      "summary": "Poke, the startup that lets people use AI agents through simple text messages, has become the first AI agent approved for Apple’s Messages for Business platform. ...",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Startup"
+      ],
+      "publishedAt": "Thu, 04 Jun 2026 19:20:58 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/06/04/apple-approves-poke-as-the-first-ai-agent-on-its-messages-for-business-platform/"
+    },
+    {
+      "id": "mpzy3zi54ntfayd38v4",
+      "title": "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI",
+      "summary": "...",
+      "source": {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co",
+        "favicon": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=64"
+      },
+      "category": "Ethics",
+      "tags": [
+        "Multimodal",
+        "AI Safety"
+      ],
+      "publishedAt": "Thu, 04 Jun 2026 18:57:45 GMT",
+      "imageUrl": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=800",
+      "readTime": 1,
+      "originalUrl": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety"
+    },
+    {
+      "id": "mpzy3wkqsapmrf7kjhh",
+      "title": "Meta rolls out a new AI creator assistant on Facebook",
+      "summary": "Creators often have to parse through charts and dashboards to understand their performance, but with the new AI assistant, they can get quick answers to questions like \"When should I post?\" and \"What are people saying in my comments?\" ...",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Meta"
+      ],
+      "publishedAt": "Thu, 04 Jun 2026 16:32:48 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/06/04/meta-rolls-out-a-new-ai-creator-assistant-on-facebook/"
+    },
+    {
+      "id": "mpzy3wkqp5ucdv65tx",
+      "title": "What to expect from WWDC 2026: Siri’s highly anticipated revamp and Apple Intelligence updates",
+      "summary": "Apple's WWDC nears: Here's what you can look forward to....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Thu, 04 Jun 2026 16:31:12 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/06/04/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/"
+    },
+    {
+      "id": "mpzy3yd71ahnr6ehng",
+      "title": "NSF renews support for MIT-led AI and physics institute, expanding a new model for discovery",
+      "summary": "IAIFI enters its second phase with increased funding, broader ambitions, and a growing community at the frontier of AI and fundamental physics....",
+      "source": {
+        "name": "MIT News AI",
+        "url": "https://news.mit.edu",
+        "favicon": "https://www.google.com/s2/favicons?domain=news.mit.edu&sz=64"
+      },
+      "category": "Funding",
+      "tags": [],
+      "publishedAt": "Thu, 04 Jun 2026 12:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800",
+      "readTime": 1,
+      "originalUrl": "https://news.mit.edu/2026/nsf-renews-support-mit-led-ai-and-physics-institute-0604"
+    },
     {
       "id": "mpzo5pwzpzz96jjzdz",
       "title": "Is Silicon Valley ready to put robots in people’s homes? Hello Robot is.",
@@ -117,6 +238,24 @@
       "imageUrl": "https://images.unsplash.com/photo-1555848962-6e79363ec58f?w=800",
       "readTime": 1,
       "originalUrl": "https://www.lemonde.fr/economie/article/2026/06/04/au-vietnam-la-folle-envolee-de-la-vente-en-ligne_6697334_3234.html"
+    },
+    {
+      "id": "mpzy3z1subqy716ly7l",
+      "title": "Dreaming: Better memory for a more helpful ChatGPT",
+      "summary": "ChatGPT introduces a new memory system to better remember preferences, keeping context fresh and relevant across conversations....",
+      "source": {
+        "name": "OpenAI News",
+        "url": "https://openai.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "OpenAI"
+      ],
+      "publishedAt": "Thu, 04 Jun 2026 09:00:00 GMT",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://openai.com/index/chatgpt-memory-dreaming"
     },
     {
       "id": "mpzc7dgrj4hd17s3eis",
@@ -714,148 +853,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
       "readTime": 1,
       "originalUrl": "https://arxiv.org/abs/2606.02791"
-    },
-    {
-      "id": "mpxmategjfiecmmmhas",
-      "title": "BehaviorBench: Modeling Real-World User Decisions from Behavioral Traces",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Wed, 03 Jun 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2606.02798"
-    },
-    {
-      "id": "mpxmategd4h1rynhdz",
-      "title": "ChatHealthAI: Aligning Electronic Health Record Representations with Large Language Models for Grounded Clinical Reasoning",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "LLM"
-      ],
-      "publishedAt": "Wed, 03 Jun 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2606.02802"
-    },
-    {
-      "id": "mpyc1gd3nsvrpfw7yi",
-      "title": "How to Fine-Tune LFM2 Using QLoRA and DPO: A Complete Step-by-Step Coding Tutorial on Google Colab",
-      "summary": "...",
-      "source": {
-        "name": "MarkTechPost",
-        "url": "https://www.marktechpost.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Google"
-      ],
-      "publishedAt": "Wed, 03 Jun 2026 00:51:10 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.marktechpost.com/2026/06/02/how-to-fine-tune-lfm2-using-qlora-and-dpo-a-complete-step-by-step-coding-tutorial-on-google-colab/"
-    },
-    {
-      "id": "mpyc1f333hm7nuryp6e",
-      "title": "Adding MCP Tools to Reachy Mini",
-      "summary": "...",
-      "source": {
-        "name": "Hugging Face Blog",
-        "url": "https://huggingface.co",
-        "favicon": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Wed, 03 Jun 2026 00:00:00 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://huggingface.co/blog/adding-mcp-tools-to-reachy-mini"
-    },
-    {
-      "id": "mpxmaoqn95p6jg6uzs",
-      "title": "Cyera eyes $12B valuation at 80x ARR multiple despite operating losses",
-      "summary": "The cybersecurity company is nearing a $300 million round led by Evolution Equity Partners....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Funding",
-      "tags": [],
-      "publishedAt": "Tue, 02 Jun 2026 22:50:56 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/06/02/cyera-eyes-12b-valuation-at-80x-arr-multiple-despite-operating-losses/"
-    },
-    {
-      "id": "mpx5c4m7aaa7wps1hvv",
-      "title": "Microsoft vient de dévoiler une IA capable de gérer vos mails et réunions toute seule en arrière-plan",
-      "summary": "...",
-      "source": {
-        "name": "Numerama",
-        "url": "https://www.numerama.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
-      },
-      "category": "Policy",
-      "tags": [
-        "Microsoft"
-      ],
-      "publishedAt": "Tue, 02 Jun 2026 20:48:25 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.numerama.com/tech/2265725-scout-le-nouvel-agent-autonome-de-microsoft-qui-veut-gerer-votre-quotidien-de-bureau.html"
-    },
-    {
-      "id": "mpx5c4m8hhq43tir4ra",
-      "title": "Le pari de Microsoft : une IA partout, tout le temps, mais sans écran. C’est le projet Solara",
-      "summary": "...",
-      "source": {
-        "name": "Numerama",
-        "url": "https://www.numerama.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Microsoft"
-      ],
-      "publishedAt": "Tue, 02 Jun 2026 20:46:44 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.numerama.com/tech/2265643-microsoft-devoile-solara-une-puce-pour-connecter-votre-porte-cle-ou-votre-cravate-a-un-agent-ia.html"
-    },
-    {
-      "id": "mpx5c4m8zsqixwwtpy",
-      "title": "Microsoft Build 2026 : modèles MAI sans OpenAI, agent Scout et puce Solara… le résumé de toutes les annonces",
-      "summary": "...",
-      "source": {
-        "name": "Numerama",
-        "url": "https://www.numerama.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
-      },
-      "category": "Hardware",
-      "tags": [
-        "OpenAI",
-        "Microsoft"
-      ],
-      "publishedAt": "Tue, 02 Jun 2026 19:16:22 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.numerama.com/tech/2264573-microsoft-build-2026-toutes-les-annonces-windows-copilot-ia.html"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-06-04T15:47:52.155Z",
-  "edition": 197
+  "lastUpdated": "2026-06-04T20:26:24.081Z",
+  "edition": 198
 }
