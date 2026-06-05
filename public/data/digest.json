@@ -1,6 +1,38 @@
 {
-  "date": "2026-06-05T10:17:52.857Z",
+  "date": "2026-06-05T15:29:37.692Z",
   "articles": [
+    {
+      "id": "mq12y3haajd6cyk16lr",
+      "title": "The token bill comes due: Inside the industry scramble to manage AI’s runaway costs",
+      "summary": "\"The whole conversation shifted from tokenmaxxing and 'go fast' to 'we need guardrails, how do we control this?'\"...",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Fri, 05 Jun 2026 14:49:12 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/06/05/the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ais-runaway-costs/"
+    },
+    {
+      "id": "mq12y3hba0b4z3e5rxf",
+      "title": "AirTrunk commits $30B to build 5GW of AI data centers in India",
+      "summary": "The Australian data center operator plans to set up 5GW of capacity in India....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Fri, 05 Jun 2026 13:03:10 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/06/05/airtrunk-commits-30b-to-build-5gw-of-ai-data-centers-in-india/"
+    },
     {
       "id": "mq0rtdmpeixr0wredrg",
       "title": "« La France exporte nettement mieux ses footballeurs que ses entrepreneurs, faut-il s’en réjouir ou s’en inquiéter ? »",
@@ -16,6 +48,24 @@
       "imageUrl": "https://images.unsplash.com/photo-1575517111839-3a3843ee7f5d?w=800",
       "readTime": 1,
       "originalUrl": "https://www.lemonde.fr/economie/article/2026/06/05/la-france-exporte-nettement-mieux-ses-footballeurs-que-ses-entrepreneurs-faut-il-s-en-rejouir-ou-s-en-inquieter_6697930_3234.html"
+    },
+    {
+      "id": "mq12y4uauh2lo3f5x2f",
+      "title": "The Meta hack shows there’s more to AI security than Mythos",
+      "summary": "On June 5, 404 Media reported that attackers had been using Meta’s AI customer support agent to steal Instagram accounts. Their approach was simple: They asked the agent to link the accounts to email addresses that they controlled, and the agent complied. One attacker broke into ...",
+      "source": {
+        "name": "MIT Tech Review AI",
+        "url": "https://www.technologyreview.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.technologyreview.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Meta"
+      ],
+      "publishedAt": "Fri, 05 Jun 2026 09:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/"
     },
     {
       "id": "mq0rtdmqq9uruzni2fb",
@@ -790,62 +840,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1575517111839-3a3843ee7f5d?w=800",
       "readTime": 1,
       "originalUrl": "https://www.lemonde.fr/economie/article/2026/06/03/le-plan-de-l-europe-pour-reduire-sa-dependance-numerique-face-aux-etats-unis-et-a-la-chine_6696653_3234.html"
-    },
-    {
-      "id": "mpyc1c7rcjmi9c85846",
-      "title": "Amazon will show AI product images when you search for some reason",
-      "summary": "Amazon will use visual search and AI to show AI generated product images that match your search queries. The retailer says it will help guide users to products....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Product",
-      "tags": [],
-      "publishedAt": "Wed, 03 Jun 2026 15:50:26 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1550009158-9ebf690be655?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/06/03/amazon-will-show-ai-product-images-when-you-search-for-some-reason/"
-    },
-    {
-      "id": "mpyc1c7sh7j8uq7mqkb",
-      "title": "These two founders left Goldman and Meta to build voice AI for markets everyone else overlooked",
-      "summary": "The startup's own stack for Africa and Middle East is now handling more than 17,000 calls per day....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Meta",
-        "Startup"
-      ],
-      "publishedAt": "Wed, 03 Jun 2026 15:00:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/06/03/these-two-founders-left-goldman-and-meta-to-build-voice-ai-for-markets-everyone-else-overlooked/"
-    },
-    {
-      "id": "mpyc1c7sq88oz5urrj",
-      "title": "Publishers will be able to opt out of AI Search, thanks to new regulation",
-      "summary": "U.K. regulators are requiring Google offer a tool allowing website publishers to opt-out of generative AI search features. The option will be tested in the U.K. then rolled out globally. ...",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Policy",
-      "tags": [
-        "Google"
-      ],
-      "publishedAt": "Wed, 03 Jun 2026 14:58:33 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1555848962-6e79363ec58f?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/06/03/publishers-will-be-able-to-opt-out-of-ai-search-thanks-to-new-regulation/"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-06-05T10:17:52.857Z",
-  "edition": 200
+  "lastUpdated": "2026-06-05T15:29:37.692Z",
+  "edition": 201
 }
