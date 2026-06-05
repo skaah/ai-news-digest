@@ -1,6 +1,88 @@
 {
-  "date": "2026-06-05T04:49:24.282Z",
+  "date": "2026-06-05T10:17:52.857Z",
   "articles": [
+    {
+      "id": "mq0rtdmpeixr0wredrg",
+      "title": "« La France exporte nettement mieux ses footballeurs que ses entrepreneurs, faut-il s’en réjouir ou s’en inquiéter ? »",
+      "summary": "Les fondateurs hexagonaux des start-up à succès tendent à choisir la France plutôt que les Etats-Unis pour y établir leur siège social, constate Isabelle Chaperon, chroniqueuse au service Economie du « Monde »....",
+      "source": {
+        "name": "Le Monde Tech",
+        "url": "https://www.lemonde.fr",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.lemonde.fr&sz=64"
+      },
+      "category": "Policy",
+      "tags": [],
+      "publishedAt": "Fri, 05 Jun 2026 11:16:47 +0200",
+      "imageUrl": "https://images.unsplash.com/photo-1575517111839-3a3843ee7f5d?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.lemonde.fr/economie/article/2026/06/05/la-france-exporte-nettement-mieux-ses-footballeurs-que-ses-entrepreneurs-faut-il-s-en-rejouir-ou-s-en-inquieter_6697930_3234.html"
+    },
+    {
+      "id": "mq0rtdmqq9uruzni2fb",
+      "title": "Souveraineté numérique : un réveil douloureux pour l’UE",
+      "summary": "La Commission européenne a dévoilé, le 3 juin, un paquet législatif pour pallier sa dépendance stratégique en matière technologique. Les défis sont immenses mais les Vingt-Sept ne peuvent plus tergiverser au moment où l’IA prend une importance grandissante à une vitesse stupéfian...",
+      "source": {
+        "name": "Le Monde Tech",
+        "url": "https://www.lemonde.fr",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.lemonde.fr&sz=64"
+      },
+      "category": "Policy",
+      "tags": [],
+      "publishedAt": "Fri, 05 Jun 2026 10:15:07 +0200",
+      "imageUrl": "https://images.unsplash.com/photo-1575517111839-3a3843ee7f5d?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.lemonde.fr/idees/article/2026/06/05/souverainete-numerique-un-reveil-douloureux-pour-l-ue_6697915_3232.html"
+    },
+    {
+      "id": "mq0rtdmr3pziiukdlkm",
+      "title": "Pour l’IA, des dépenses historiques et des conséquences économiques encore incertaines",
+      "summary": "Les investissements dans l’intelligence artificielle devraient atteindre 750 milliards de dollars cette année. Mais les répercussions en matière de productivité sont encore mal mesurées....",
+      "source": {
+        "name": "Le Monde Tech",
+        "url": "https://www.lemonde.fr",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.lemonde.fr&sz=64"
+      },
+      "category": "Product",
+      "tags": [],
+      "publishedAt": "Fri, 05 Jun 2026 09:44:28 +0200",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.lemonde.fr/economie/article/2026/06/05/pour-l-ia-des-depenses-historiques-et-des-consequences-economiques-encore-incertaines_6697910_3234.html"
+    },
+    {
+      "id": "mq0rt7huxciuaeb91z",
+      "title": "Mira Murati steps back into the spotlight, carefully",
+      "summary": "In the current environment, remaining heads down has diminishing returns; at some point, you have to make some noise just to remind the market you exist....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Fri, 05 Jun 2026 05:06:37 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/06/04/mira-murati-steps-back-into-the-spotlight-carefully/"
+    },
+    {
+      "id": "mq0rtejnlref1djdasb",
+      "title": "H Company rejoint Nvidia dans sa coalition internationale dédiée aux modèles IA open source",
+      "summary": "...",
+      "source": {
+        "name": "Maddyness",
+        "url": "https://www.maddyness.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.maddyness.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Nvidia"
+      ],
+      "publishedAt": "Fri, 05 Jun 2026 05:00:16 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.maddyness.com/2026/06/05/h-company-rejoint-nvidia-dans-sa-coalition-internationale-dediee-aux-modeles-ia-open-source/"
+    },
     {
       "id": "mq0g2wbnu3bxiv8g85l",
       "title": "How Far Did They Go? The Persuasive Tactics of Covert LLM Agents in a Discontinued Field Experiment",
@@ -761,93 +843,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1555848962-6e79363ec58f?w=800",
       "readTime": 1,
       "originalUrl": "https://techcrunch.com/2026/06/03/publishers-will-be-able-to-opt-out-of-ai-search-thanks-to-new-regulation/"
-    },
-    {
-      "id": "mpyc1ixs6am0j02o2yn",
-      "title": "« Ne pas dépendre des autres » : l’Europe dévoile son nouveau plan d’urgence pour les puces IA",
-      "summary": "...",
-      "source": {
-        "name": "Numerama",
-        "url": "https://www.numerama.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
-      },
-      "category": "Policy",
-      "tags": [],
-      "publishedAt": "Wed, 03 Jun 2026 14:50:43 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.numerama.com/politique/2266669-ne-pas-dependre-des-autres-leurope-devoile-son-nouveau-plan-durgence-pour-les-puces-ia.html"
-    },
-    {
-      "id": "mpyc1c7tehze3omcfos",
-      "title": "Meta’s AI agent for WhatsApp Business is now available globally",
-      "summary": "WhatsApp will charge businesses for using its AI agent based on token usage...",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Meta"
-      ],
-      "publishedAt": "Wed, 03 Jun 2026 13:40:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/06/03/metas-ai-agent-for-whatsapp-business-is-now-available-globally/"
-    },
-    {
-      "id": "mpykzj8uhhu3e5qmwhn",
-      "title": "Introducing new capabilities to GPT-Rosalind",
-      "summary": "GPT-Rosalind advances life sciences research with enhanced biological reasoning, medicinal chemistry expertise, genomics analysis, and experimental workflow capabilities....",
-      "source": {
-        "name": "OpenAI News",
-        "url": "https://openai.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
-      },
-      "category": "Research",
-      "tags": [
-        "OpenAI"
-      ],
-      "publishedAt": "Wed, 03 Jun 2026 13:15:00 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?w=800",
-      "readTime": 1,
-      "originalUrl": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind"
-    },
-    {
-      "id": "mpyc1c7ttgi5dils7u",
-      "title": "Coralogix raises $200M on bet that someone needs to watch the AI agents",
-      "summary": "The Series F round values Coralogix at $1.6 billion and comes less than a year after its previous raise....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Funding",
-      "tags": [],
-      "publishedAt": "Wed, 03 Jun 2026 13:02:51 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/06/03/coralogix-raises-200m-in-race-to-build-the-monitoring-layer-for-ai-agents/"
-    },
-    {
-      "id": "mpyc1f33z4cnp67j248",
-      "title": "Direct Preference Optimization Beyond Chatbots",
-      "summary": "...",
-      "source": {
-        "name": "Hugging Face Blog",
-        "url": "https://huggingface.co",
-        "favicon": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Wed, 03 Jun 2026 12:55:11 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-06-05T04:49:24.282Z",
-  "edition": 199
+  "lastUpdated": "2026-06-05T10:17:52.857Z",
+  "edition": 200
 }
