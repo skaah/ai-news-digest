@@ -1,6 +1,54 @@
 {
-  "date": "2026-06-05T20:16:02.887Z",
+  "date": "2026-06-06T04:30:38.887Z",
   "articles": [
+    {
+      "id": "mq1uuoesqpeck3jx88",
+      "title": "Philippe Van Parijs, philosophe : « Pour éviter que l’IA ne crée de l’exclusion, il faut associer revenu universel et formation tout au long de la vie »",
+      "summary": "Dans un entretien au « Monde », le chercheur spécialiste de la question du revenu inconditionnel explique pourquoi la révolution de l’intelligence artificielle mène presque mécaniquement au revenu universel....",
+      "source": {
+        "name": "Le Monde Tech",
+        "url": "https://www.lemonde.fr",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.lemonde.fr&sz=64"
+      },
+      "category": "Policy",
+      "tags": [],
+      "publishedAt": "Sat, 06 Jun 2026 06:00:17 +0200",
+      "imageUrl": "https://images.unsplash.com/photo-1555848962-6e79363ec58f?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.lemonde.fr/idees/article/2026/06/06/philippe-van-parijs-philosophe-pour-eviter-que-l-ia-ne-cree-de-l-exclusion-il-faut-associer-revenu-universel-et-formation-tout-au-long-de-la-vie_6698078_3232.html"
+    },
+    {
+      "id": "mq1uulqvg16j0xyw5ue",
+      "title": "A Hands-On Coding Tutorial on Qualcomm AI Hub Models for Classification, Object Detection, and Hardware-Aware Deployment",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Hardware",
+      "tags": [],
+      "publishedAt": "Fri, 05 Jun 2026 22:32:51 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1555664424-778a69022365?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/06/05/a-hands-on-coding-tutorial-on-qualcomm-ai-hub-models-for-classification-object-detection-and-hardware-aware-deployment/"
+    },
+    {
+      "id": "mq1uukl6h0ygty3le7l",
+      "title": "Thousand Token Wood: shipping a multi-agent economy on a 3B model",
+      "summary": "...",
+      "source": {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co",
+        "favicon": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Fri, 05 Jun 2026 22:18:46 GMT",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim"
+    },
     {
       "id": "mq1d6hnpdegsltx0i3r",
       "title": "The crucial human component in computing and AI",
@@ -799,59 +847,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
       "readTime": 1,
       "originalUrl": "https://arxiv.org/abs/2606.04037"
-    },
-    {
-      "id": "mpz1fvsnxl86uwvfa5",
-      "title": "Stumbling Into AI Emotional Dependence: How Routine AI Interactions Reshape Human Connection",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Thu, 04 Jun 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2606.04150"
-    },
-    {
-      "id": "mpz1fvsoygvr8zpeas",
-      "title": "Thinking Through Signs: PEEL as a Semiotic Scaffolding for Epistemically Accountable AI-Enabled Research",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Research",
-      "tags": [],
-      "publishedAt": "Thu, 04 Jun 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2606.04152"
-    },
-    {
-      "id": "mpz1fvso9dg4gq58k5d",
-      "title": "SMAC-Talk: A Natural Language Extension of the StarCraft Multi-Agent Challenge for Large Language Models",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "LLM"
-      ],
-      "publishedAt": "Thu, 04 Jun 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2606.04202"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-06-05T20:16:02.887Z",
-  "edition": 202
+  "lastUpdated": "2026-06-06T04:30:38.887Z",
+  "edition": 203
 }
