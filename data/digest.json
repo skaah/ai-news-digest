@@ -1,6 +1,24 @@
 {
-  "date": "2026-06-06T04:30:38.887Z",
+  "date": "2026-06-06T08:47:37.366Z",
   "articles": [
+    {
+      "id": "mq2413djr3zpgcu2mtp",
+      "title": "NVIDIA Releases Nemotron 3.5 ASR: A 600M-Parameter Cache-Aware Streaming Model Transcribing 40 Language-Locales in Real Time",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Nvidia"
+      ],
+      "publishedAt": "Sat, 06 Jun 2026 07:55:40 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/06/06/nvidia-releases-nemotron-3-5-asr-a-600m-parameter-cache-aware-streaming-model-transcribing-40-language-locales-in-real-time/"
+    },
     {
       "id": "mq1uuoesqpeck3jx88",
       "title": "Philippe Van Parijs, philosophe : « Pour éviter que l’IA ne crée de l’exclusion, il faut associer revenu universel et formation tout au long de la vie »",
@@ -831,25 +849,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
       "readTime": 1,
       "originalUrl": "https://www.marktechpost.com/2026/06/03/meet-openjarvis-a-local-first-framework-for-on-device-personal-ai-agents-with-tools-memory-and-learning/"
-    },
-    {
-      "id": "mpz1fvsmnuftem1v1nf",
-      "title": "Toward Pre-Deployment Assurance for Enterprise AI Agents: Ontology-Grounded Simulation and Trust Certification",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Thu, 04 Jun 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2606.04037"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-06-06T04:30:38.887Z",
-  "edition": 203
+  "lastUpdated": "2026-06-06T08:47:37.365Z",
+  "edition": 204
 }
