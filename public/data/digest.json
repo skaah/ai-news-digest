@@ -1,6 +1,24 @@
 {
-  "date": "2026-06-06T19:48:41.296Z",
+  "date": "2026-06-07T04:58:23.123Z",
   "articles": [
+    {
+      "id": "mq3ba15bvj8nk8xwwg",
+      "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
+      "summary": "Even with Lockdown Mode, ChatGPT could be still vulnerable to prompt injections, but the goal is to reduce the likelihood that sensitive data gets shared in the process....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "OpenAI"
+      ],
+      "publishedAt": "Sat, 06 Jun 2026 20:32:24 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/"
+    },
     {
       "id": "mq2rn6rso3z4aaoz8u",
       "title": "Five labs, five minds: building a multi-model finance drama on small models",
@@ -831,27 +849,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
       "readTime": 1,
       "originalUrl": "https://huggingface.co/blog/ServiceNow-AI/eva-bench-data"
-    },
-    {
-      "id": "mpzc7btkqq9i9vnvgml",
-      "title": "How Endava is redesigning software delivery around AI agents",
-      "summary": "Learn how Endava is using AI agents, ChatGPT Enterprise, and Codex to accelerate software delivery, automate workflows, and build an AI-native culture across the enterprise....",
-      "source": {
-        "name": "OpenAI News",
-        "url": "https://openai.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "OpenAI"
-      ],
-      "publishedAt": "Thu, 04 Jun 2026 12:00:00 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://openai.com/index/endava-frontiers"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-06-06T19:48:41.296Z",
-  "edition": 206
+  "lastUpdated": "2026-06-07T04:58:23.123Z",
+  "edition": 207
 }
