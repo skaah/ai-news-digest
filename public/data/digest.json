@@ -1,6 +1,74 @@
 {
-  "date": "2026-06-07T14:22:34.473Z",
+  "date": "2026-06-07T19:48:31.104Z",
   "articles": [
+    {
+      "id": "mq472tccw7snaiort5",
+      "title": "Amazing Digital Dentures (a failed project)",
+      "summary": "...",
+      "source": {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co",
+        "favicon": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Sun, 07 Jun 2026 19:44:27 GMT",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://huggingface.co/blog/build-small-hackathon/amazingdigitaldentures"
+    },
+    {
+      "id": "mq472q1bu5cjubqt0sj",
+      "title": "Notion restores access to Anthropic after service disruption",
+      "summary": "Notion's head of product said he was \"astonished\" at “the amount of people RT-ing this.\"...",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Product",
+      "tags": [
+        "Anthropic"
+      ],
+      "publishedAt": "Sun, 07 Jun 2026 17:56:22 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/06/07/notion-restores-access-to-anthropic-after-service-disruption/"
+    },
+    {
+      "id": "mq472ui5mqdydg2xqfe",
+      "title": "Building Reflective Prompt Optimization with GEPA: Multi-Component Prompts, Structured Feedback, and Held-Out Validation",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Sun, 07 Jun 2026 17:05:04 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/06/07/building-reflective-prompt-optimization-with-gepa-multi-component-prompts-structured-feedback-and-held-out-validation/"
+    },
+    {
+      "id": "mq472q1cm9rv22p6kmd",
+      "title": "OpenAI is still working on that ‘super app’",
+      "summary": "\"Chat is dead\" — at least, according to a senior OpenAI employee....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "OpenAI"
+      ],
+      "publishedAt": "Sun, 07 Jun 2026 16:23:22 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app/"
+    },
     {
       "id": "mq3vfrs7ipmwj4blql",
       "title": "« Au début, on nous prenait pour des fous » : entretien avec William Méauzoone, co-fondateur du cloud français Leviia",
@@ -140,6 +208,22 @@
       "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
       "readTime": 1,
       "originalUrl": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim-v2"
+    },
+    {
+      "id": "mq472q1d7x29yz0ycoi",
+      "title": "What to expect from WWDC 2026: Siri’s highly anticipated revamp and Apple Intelligence updates",
+      "summary": "Apple's WWDC nears: Here's what you can look forward to....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Sat, 06 Jun 2026 18:13:36 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/"
     },
     {
       "id": "mq2rn3y1zslfck78k3i",
@@ -767,98 +851,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
       "readTime": 1,
       "originalUrl": "https://techcrunch.com/2026/06/04/defense-tech-ai-and-fundraising-take-center-stage-at-strictlyvc-los-angeles-on-june-18/"
-    },
-    {
-      "id": "mpzy3yd7iqepz2u3uuo",
-      "title": "PATH to boost AI training and career opportunities for industry-aligned jobs",
-      "summary": "MIT RAISE and Georgia State University announce an initiative to connect universities, community colleges, industry, and government to expand industry-aligned AI training and career pathways....",
-      "source": {
-        "name": "MIT News AI",
-        "url": "https://news.mit.edu",
-        "favicon": "https://www.google.com/s2/favicons?domain=news.mit.edu&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Thu, 04 Jun 2026 15:50:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://news.mit.edu/2026/mit-raise-georgia-state-university-announce-path-0604"
-    },
-    {
-      "id": "mpzy3wkor6upeu3hv0k",
-      "title": "Meta steals a tactic from Tesla and builds data centers in tents",
-      "summary": "Meta may have one found one way to slash its massive data center bill: tents....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Meta"
-      ],
-      "publishedAt": "Thu, 04 Jun 2026 19:33:09 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/06/04/meta-steals-a-tactic-from-tesla-and-builds-data-centers-in-tents/"
-    },
-    {
-      "id": "mpzy3wkp3qx4uwhst22",
-      "title": "Apple approves Poke as the first AI agent on its Messages for Business platform",
-      "summary": "Poke, the startup that lets people use AI agents through simple text messages, has become the first AI agent approved for Apple’s Messages for Business platform. ...",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Startup"
-      ],
-      "publishedAt": "Thu, 04 Jun 2026 19:20:58 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/06/04/apple-approves-poke-as-the-first-ai-agent-on-its-messages-for-business-platform/"
-    },
-    {
-      "id": "mpzy3zi54ntfayd38v4",
-      "title": "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI",
-      "summary": "...",
-      "source": {
-        "name": "Hugging Face Blog",
-        "url": "https://huggingface.co",
-        "favicon": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=64"
-      },
-      "category": "Ethics",
-      "tags": [
-        "Multimodal",
-        "AI Safety"
-      ],
-      "publishedAt": "Thu, 04 Jun 2026 18:57:45 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=800",
-      "readTime": 1,
-      "originalUrl": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety"
-    },
-    {
-      "id": "mpzy3wkqsapmrf7kjhh",
-      "title": "Meta rolls out a new AI creator assistant on Facebook",
-      "summary": "Creators often have to parse through charts and dashboards to understand their performance, but with the new AI assistant, they can get quick answers to questions like \"When should I post?\" and \"What are people saying in my comments?\" ...",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Meta"
-      ],
-      "publishedAt": "Thu, 04 Jun 2026 16:32:48 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/06/04/meta-rolls-out-a-new-ai-creator-assistant-on-facebook/"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-06-07T14:22:34.472Z",
-  "edition": 209
+  "lastUpdated": "2026-06-07T19:48:31.104Z",
+  "edition": 210
 }
