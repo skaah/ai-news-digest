@@ -1,6 +1,40 @@
 {
-  "date": "2026-06-07T09:41:36.842Z",
+  "date": "2026-06-07T14:22:34.473Z",
   "articles": [
+    {
+      "id": "mq3vfrs7ipmwj4blql",
+      "title": "« Au début, on nous prenait pour des fous » : entretien avec William Méauzoone, co-fondateur du cloud français Leviia",
+      "summary": "...",
+      "source": {
+        "name": "Numerama",
+        "url": "https://www.numerama.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
+      },
+      "category": "Policy",
+      "tags": [],
+      "publishedAt": "Sun, 07 Jun 2026 13:31:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.numerama.com/tech/2264435-au-debut-on-nous-prenait-pour-des-fous-entretien-avec-william-co-fondateur-du-cloud-francais-leviia.html"
+    },
+    {
+      "id": "mq3vfl5g8m0x542mc0g",
+      "title": "Sponsors especially OPENAI CODEX voucher usage for codex - openAI challange",
+      "summary": "...",
+      "source": {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co",
+        "favicon": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "OpenAI"
+      ],
+      "publishedAt": "Sun, 07 Jun 2026 11:38:54 GMT",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://huggingface.co/blog/build-small-hackathon/sponsors-vouchers"
+    },
     {
       "id": "mq3ledaptqi0adhrkjc",
       "title": "Best 21 Low-Code and No-Code AI Tools in 2026",
@@ -822,41 +856,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
       "readTime": 1,
       "originalUrl": "https://techcrunch.com/2026/06/04/meta-rolls-out-a-new-ai-creator-assistant-on-facebook/"
-    },
-    {
-      "id": "mpzy3wkqp5ucdv65tx",
-      "title": "What to expect from WWDC 2026: Siri’s highly anticipated revamp and Apple Intelligence updates",
-      "summary": "Apple's WWDC nears: Here's what you can look forward to....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Thu, 04 Jun 2026 16:31:12 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/06/04/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/"
-    },
-    {
-      "id": "mpzy3yd71ahnr6ehng",
-      "title": "NSF renews support for MIT-led AI and physics institute, expanding a new model for discovery",
-      "summary": "IAIFI enters its second phase with increased funding, broader ambitions, and a growing community at the frontier of AI and fundamental physics....",
-      "source": {
-        "name": "MIT News AI",
-        "url": "https://news.mit.edu",
-        "favicon": "https://www.google.com/s2/favicons?domain=news.mit.edu&sz=64"
-      },
-      "category": "Funding",
-      "tags": [],
-      "publishedAt": "Thu, 04 Jun 2026 12:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800",
-      "readTime": 1,
-      "originalUrl": "https://news.mit.edu/2026/nsf-renews-support-mit-led-ai-and-physics-institute-0604"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-06-07T09:41:36.842Z",
-  "edition": 208
+  "lastUpdated": "2026-06-07T14:22:34.472Z",
+  "edition": 209
 }
