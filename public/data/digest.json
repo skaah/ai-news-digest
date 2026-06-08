@@ -1,6 +1,104 @@
 {
-  "date": "2026-06-08T16:30:31.198Z",
+  "date": "2026-06-08T20:36:05.526Z",
   "articles": [
+    {
+      "id": "mq5o7rzrui9wd8l94in",
+      "title": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence and more",
+      "summary": "Apple’s WWDC 2026 event kicked off this morning at 10 a.m. PT at Apple Park, starting a week full of expected announcements around Siri, iOS 27, Apple Intelligence and more, along with developer events and demos. This year’s event is particularly notable for a couple things. It m...",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Mon, 08 Jun 2026 19:41:32 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/06/08/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/"
+    },
+    {
+      "id": "mq5o7yw0yqw4190a5wr",
+      "title": "Apple annonce Siri AI propulsé par Google Gemini : le vrai début de l’IA sur iPhone ?",
+      "summary": "...",
+      "source": {
+        "name": "Numerama",
+        "url": "https://www.numerama.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Google"
+      ],
+      "publishedAt": "Mon, 08 Jun 2026 18:53:42 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.numerama.com/tech/2271171-apple-annonce-siri-ai-propulse-par-google-gemini-le-vrai-debut-de-lia-sur-iphone.html"
+    },
+    {
+      "id": "mq5o7rzsa6mfiqgqkh8",
+      "title": "Apple just taught your iPhone to finish your sentences, your photos, and your workflows",
+      "summary": "Apple is adding new AI-powered features to Safari, Shortcuts, and Password apps....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Mon, 08 Jun 2026 18:48:45 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/06/08/apple-just-taught-your-iphone-to-finish-your-sentences-your-photos-and-your-workflows/"
+    },
+    {
+      "id": "mq5o7rzsoy82luva4t9",
+      "title": "Apple will let you build workflows using AI in its new Shortcuts app",
+      "summary": "Shortcuts gets an AI upgrade, letting you describe the workflow you want in a prompt....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Mon, 08 Jun 2026 18:45:12 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/06/08/apple-will-let-you-build-workflows-using-ai-in-its-new-shortcuts-app/"
+    },
+    {
+      "id": "mq5o7rzta09fc87vsdm",
+      "title": "Apple’s Image Playground doesn’t suck anymore",
+      "summary": "Apple's AI image generator is getting a makeover that could make it more competitive....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Mon, 08 Jun 2026 18:38:07 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/06/08/apples-image-playground-doesnt-suck-anymore/"
+    },
+    {
+      "id": "mq5o7rzt3yf5uzk45w4",
+      "title": "Apple’s Photos app is getting new AI editing features",
+      "summary": "A new spatial \"Reframe\" feature will let users use AI to adjust perspectives. ...",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Mon, 08 Jun 2026 18:36:04 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/06/08/apples-photos-app-is-getting-new-ai-editing-features/"
+    },
     {
       "id": "mq5ffz0w2c46tis3wlk",
       "title": "Amazon now lets you design custom merch using AI",
@@ -186,6 +284,43 @@
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800",
       "readTime": 1,
       "originalUrl": "https://arxiv.org/abs/2606.06526"
+    },
+    {
+      "id": "mq5o7umvcd4eruphtxh",
+      "title": "Built for broad benefit",
+      "summary": "A vision for the future of AI, focusing on access, safety, and shared prosperity as OpenAI works to ensure AGI benefits everyone....",
+      "source": {
+        "name": "OpenAI News",
+        "url": "https://openai.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
+      },
+      "category": "Ethics",
+      "tags": [
+        "OpenAI",
+        "AI Safety"
+      ],
+      "publishedAt": "Mon, 08 Jun 2026 01:30:00 GMT",
+      "imageUrl": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=800",
+      "readTime": 1,
+      "originalUrl": "https://openai.com/index/built-for-broad-benefit"
+    },
+    {
+      "id": "mq5o7umv96564o2b3xd",
+      "title": "Introducing the OpenAI Economic Research Exchange",
+      "summary": "OpenAI launches the Economic Research Exchange to study AI’s impact on jobs, productivity, and the economy. Applications are now open for selected research projects....",
+      "source": {
+        "name": "OpenAI News",
+        "url": "https://openai.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
+      },
+      "category": "Product",
+      "tags": [
+        "OpenAI"
+      ],
+      "publishedAt": "Mon, 08 Jun 2026 00:00:00 GMT",
+      "imageUrl": "https://images.unsplash.com/photo-1550009158-9ebf690be655?w=800",
+      "readTime": 1,
+      "originalUrl": "https://openai.com/index/economic-research-exchange"
     },
     {
       "id": "mq5fg20ebigarju94c",
@@ -714,146 +849,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
       "readTime": 1,
       "originalUrl": "https://techcrunch.com/podcast/the-together-tech-wave-might-be-the-most-intriguing-startup-bet-of-2026/"
-    },
-    {
-      "id": "mq12y3hba0b4z3e5rxf",
-      "title": "AirTrunk commits $30B to build 5GW of AI data centers in India",
-      "summary": "The Australian data center operator plans to set up 5GW of capacity in India....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Fri, 05 Jun 2026 13:03:10 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/06/05/airtrunk-commits-30b-to-build-5gw-of-ai-data-centers-in-india/"
-    },
-    {
-      "id": "mq1d6k2dalldkf0z3ms",
-      "title": "NVIDIA AI Releases Dynamo Snapshot: A CRIU-Based Fast Startup System for AI Inference on Kubernetes",
-      "summary": "...",
-      "source": {
-        "name": "MarkTechPost",
-        "url": "https://www.marktechpost.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Nvidia",
-        "Startup"
-      ],
-      "publishedAt": "Fri, 05 Jun 2026 10:23:12 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.marktechpost.com/2026/06/05/nvidia-ai-releases-dynamo-snapshot-a-criu-based-fast-startup-system-for-ai-inference-on-kubernetes/"
-    },
-    {
-      "id": "mq1d6k2easri1b8dxek",
-      "title": "Perplexity AI Introduces Hybrid Local-Server Inference Orchestrator for Personal Computer: Automatic On-Device and Cloud Task Routing",
-      "summary": "...",
-      "source": {
-        "name": "MarkTechPost",
-        "url": "https://www.marktechpost.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Fri, 05 Jun 2026 09:44:39 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.marktechpost.com/2026/06/05/perplexity-ai-introduces-hybrid-local-server-inference-orchestrator-for-personal-computer-automatic-on-device-and-cloud-task-routing/"
-    },
-    {
-      "id": "mq0rtdmpeixr0wredrg",
-      "title": "« La France exporte nettement mieux ses footballeurs que ses entrepreneurs, faut-il s’en réjouir ou s’en inquiéter ? »",
-      "summary": "Les fondateurs hexagonaux des start-up à succès tendent à choisir la France plutôt que les Etats-Unis pour y établir leur siège social, constate Isabelle Chaperon, chroniqueuse au service Economie du « Monde »....",
-      "source": {
-        "name": "Le Monde Tech",
-        "url": "https://www.lemonde.fr",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.lemonde.fr&sz=64"
-      },
-      "category": "Policy",
-      "tags": [],
-      "publishedAt": "Fri, 05 Jun 2026 11:16:47 +0200",
-      "imageUrl": "https://images.unsplash.com/photo-1575517111839-3a3843ee7f5d?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.lemonde.fr/economie/article/2026/06/05/la-france-exporte-nettement-mieux-ses-footballeurs-que-ses-entrepreneurs-faut-il-s-en-rejouir-ou-s-en-inquieter_6697930_3234.html"
-    },
-    {
-      "id": "mq1d6k2evtsa2rfpes",
-      "title": "Microsoft Fara Tutorial: Run a Browser-Use Agent in Google Colab with a Mock OpenAI-Compatible Endpoint",
-      "summary": "...",
-      "source": {
-        "name": "MarkTechPost",
-        "url": "https://www.marktechpost.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "OpenAI",
-        "Google",
-        "Microsoft"
-      ],
-      "publishedAt": "Fri, 05 Jun 2026 09:04:55 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.marktechpost.com/2026/06/05/microsoft-fara-tutorial-run-a-browser-use-agent-in-google-colab-with-a-mock-openai-compatible-endpoint/"
-    },
-    {
-      "id": "mq12y4uauh2lo3f5x2f",
-      "title": "The Meta hack shows there’s more to AI security than Mythos",
-      "summary": "On June 5, 404 Media reported that attackers had been using Meta’s AI customer support agent to steal Instagram accounts. Their approach was simple: They asked the agent to link the accounts to email addresses that they controlled, and the agent complied. One attacker broke into ...",
-      "source": {
-        "name": "MIT Tech Review AI",
-        "url": "https://www.technologyreview.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.technologyreview.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Meta"
-      ],
-      "publishedAt": "Fri, 05 Jun 2026 09:00:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/"
-    },
-    {
-      "id": "mq0rtdmqq9uruzni2fb",
-      "title": "Souveraineté numérique : un réveil douloureux pour l’UE",
-      "summary": "La Commission européenne a dévoilé, le 3 juin, un paquet législatif pour pallier sa dépendance stratégique en matière technologique. Les défis sont immenses mais les Vingt-Sept ne peuvent plus tergiverser au moment où l’IA prend une importance grandissante à une vitesse stupéfian...",
-      "source": {
-        "name": "Le Monde Tech",
-        "url": "https://www.lemonde.fr",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.lemonde.fr&sz=64"
-      },
-      "category": "Policy",
-      "tags": [],
-      "publishedAt": "Fri, 05 Jun 2026 10:15:07 +0200",
-      "imageUrl": "https://images.unsplash.com/photo-1575517111839-3a3843ee7f5d?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.lemonde.fr/idees/article/2026/06/05/souverainete-numerique-un-reveil-douloureux-pour-l-ue_6697915_3232.html"
-    },
-    {
-      "id": "mq1d6k2emqg9qm0lo6g",
-      "title": "15 Best Vibe Coding Tools in 2026 Compared: Pricing, Features, and Best Fit",
-      "summary": "...",
-      "source": {
-        "name": "MarkTechPost",
-        "url": "https://www.marktechpost.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Fri, 05 Jun 2026 08:07:46 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.marktechpost.com/2026/06/05/15-best-vibe-coding-tools-in-2026-compared-pricing-features-and-best-fit/"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-06-08T16:30:31.197Z",
-  "edition": 213
+  "lastUpdated": "2026-06-08T20:36:05.526Z",
+  "edition": 214
 }
