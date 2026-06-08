@@ -1,6 +1,38 @@
 {
-  "date": "2026-06-08T11:21:40.927Z",
+  "date": "2026-06-08T16:30:31.198Z",
   "articles": [
+    {
+      "id": "mq5ffz0w2c46tis3wlk",
+      "title": "Amazon now lets you design custom merch using AI",
+      "summary": "A new feature in the Amazon Shopping app allows users to generate designs with Alexa, then print them on products like T-shirts, hoodies, and tumblers....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Product",
+      "tags": [],
+      "publishedAt": "Mon, 08 Jun 2026 15:49:12 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/06/08/amazon-now-lets-you-design-custom-merch-using-ai/"
+    },
+    {
+      "id": "mq5fg20eqc59sh4dp3",
+      "title": "The crash that vanished: control and emergence in a five-model economy",
+      "summary": "...",
+      "source": {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co",
+        "favicon": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Mon, 08 Jun 2026 13:10:48 GMT",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim-v3"
+    },
     {
       "id": "mq54ezt5rgxiwaxnhmm",
       "title": "Ce ne sont pas des mannequins : UBTECH dévoile ses robots humanoïdes ultra-réalistes",
@@ -154,6 +186,22 @@
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800",
       "readTime": 1,
       "originalUrl": "https://arxiv.org/abs/2606.06526"
+    },
+    {
+      "id": "mq5fg20ebigarju94c",
+      "title": "The Open Source Community is backing OpenEnv for Agentic RL",
+      "summary": "...",
+      "source": {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co",
+        "favicon": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Mon, 08 Jun 2026 00:00:00 GMT",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://huggingface.co/blog/openenv-agentic-rl"
     },
     {
       "id": "mq4qx3j1bothzul5xom",
@@ -803,59 +851,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
       "readTime": 1,
       "originalUrl": "https://www.marktechpost.com/2026/06/05/15-best-vibe-coding-tools-in-2026-compared-pricing-features-and-best-fit/"
-    },
-    {
-      "id": "mq0rtdmr3pziiukdlkm",
-      "title": "Pour l’IA, des dépenses historiques et des conséquences économiques encore incertaines",
-      "summary": "Les investissements dans l’intelligence artificielle devraient atteindre 750 milliards de dollars cette année. Mais les répercussions en matière de productivité sont encore mal mesurées....",
-      "source": {
-        "name": "Le Monde Tech",
-        "url": "https://www.lemonde.fr",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.lemonde.fr&sz=64"
-      },
-      "category": "Product",
-      "tags": [],
-      "publishedAt": "Fri, 05 Jun 2026 09:44:28 +0200",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.lemonde.fr/economie/article/2026/06/05/pour-l-ia-des-depenses-historiques-et-des-consequences-economiques-encore-incertaines_6697910_3234.html"
-    },
-    {
-      "id": "mq0rt7huxciuaeb91z",
-      "title": "Mira Murati steps back into the spotlight, carefully",
-      "summary": "In the current environment, remaining heads down has diminishing returns; at some point, you have to make some noise just to remind the market you exist....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Fri, 05 Jun 2026 05:06:37 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/06/04/mira-murati-steps-back-into-the-spotlight-carefully/"
-    },
-    {
-      "id": "mq0rtejnlref1djdasb",
-      "title": "H Company rejoint Nvidia dans sa coalition internationale dédiée aux modèles IA open source",
-      "summary": "...",
-      "source": {
-        "name": "Maddyness",
-        "url": "https://www.maddyness.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.maddyness.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Nvidia"
-      ],
-      "publishedAt": "Fri, 05 Jun 2026 05:00:16 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.maddyness.com/2026/06/05/h-company-rejoint-nvidia-dans-sa-coalition-internationale-dediee-aux-modeles-ia-open-source/"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-06-08T11:21:40.927Z",
-  "edition": 212
+  "lastUpdated": "2026-06-08T16:30:31.197Z",
+  "edition": 213
 }
