@@ -1,6 +1,56 @@
 {
-  "date": "2026-06-09T04:38:25.299Z",
+  "date": "2026-06-09T10:04:41.875Z",
   "articles": [
+    {
+      "id": "mq6h3u3yiqlaoen7ea",
+      "title": "AI1 : voilà la toute première génération de satellite IA de SpaceX",
+      "summary": "...",
+      "source": {
+        "name": "Numerama",
+        "url": "https://www.numerama.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Tue, 09 Jun 2026 09:45:13 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.numerama.com/tech/2271539-ai1-voila-la-toute-premiere-generation-de-satellite-ia-de-spacex.html"
+    },
+    {
+      "id": "mq6h3qr9lzfs33phqzp",
+      "title": "NVIDIA cuTile Python Tutorial: Building Tiled GPU Kernels for Vector Addition, Matrix Addition, and Matrix Multiplication in Colab",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Hardware",
+      "tags": [
+        "Nvidia"
+      ],
+      "publishedAt": "Tue, 09 Jun 2026 08:37:48 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/06/09/nvidia-cutile-python-tutorial-building-tiled-gpu-kernels-for-vector-addition-matrix-addition-and-matrix-multiplication-in-colab/"
+    },
+    {
+      "id": "mq6h3qra5orn8rlzpuf",
+      "title": "A New Study from Harvard and Perplexity Finds AI Agents Perform 26 Minutes of Autonomous Work per Session vs 33 Seconds for Search",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Research",
+      "tags": [],
+      "publishedAt": "Tue, 09 Jun 2026 05:53:36 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/06/08/a-new-study-from-harvard-and-perplexity-finds-ai-agents-perform-26-minutes-of-autonomous-work-per-session-vs-33-seconds-for-search/"
+    },
     {
       "id": "mq65g6t22vbou67xtnj",
       "title": "PathoSage: Towards Multi-Source Evidence Adjudication in Pathology via Experience-Aware Agentic Workflow",
@@ -801,57 +851,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
       "readTime": 1,
       "originalUrl": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/"
-    },
-    {
-      "id": "mq2rn6rso3z4aaoz8u",
-      "title": "Five labs, five minds: building a multi-model finance drama on small models",
-      "summary": "...",
-      "source": {
-        "name": "Hugging Face Blog",
-        "url": "https://huggingface.co",
-        "favicon": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Sat, 06 Jun 2026 19:02:33 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim-v2"
-    },
-    {
-      "id": "mq472q1d7x29yz0ycoi",
-      "title": "What to expect from WWDC 2026: Siri’s highly anticipated revamp and Apple Intelligence updates",
-      "summary": "Apple's WWDC nears: Here's what you can look forward to....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Sat, 06 Jun 2026 18:13:36 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/"
-    },
-    {
-      "id": "mq2rn3y1zslfck78k3i",
-      "title": "Sriram Krishnan is leaving his role as White House AI advisor",
-      "summary": "Krishnan is reportedly starting a new institution to continue shaping Trump's AI policy....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Policy",
-      "tags": [],
-      "publishedAt": "Sat, 06 Jun 2026 17:42:15 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1575517111839-3a3843ee7f5d?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-06-09T04:38:25.299Z",
-  "edition": 215
+  "lastUpdated": "2026-06-09T10:04:41.875Z",
+  "edition": 216
 }
