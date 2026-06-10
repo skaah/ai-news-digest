@@ -1,6 +1,212 @@
 {
-  "date": "2026-06-09T20:21:41.626Z",
+  "date": "2026-06-10T04:51:39.837Z",
   "articles": [
+    {
+      "id": "mq7lcz4b5bopugywqeg",
+      "title": "Startup’s nuclear-inspired cooling system could make data centers more sustainable",
+      "summary": "Founded by two researchers from MIT, Ferveret reduces the amount of energy and water required to cool the chips that power AI....",
+      "source": {
+        "name": "MIT News AI",
+        "url": "https://news.mit.edu",
+        "favicon": "https://www.google.com/s2/favicons?domain=news.mit.edu&sz=64"
+      },
+      "category": "Research",
+      "tags": [
+        "Startup"
+      ],
+      "publishedAt": "Wed, 10 Jun 2026 00:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=800",
+      "readTime": 1,
+      "originalUrl": "https://news.mit.edu/2026/nuclear-inspired-cooling-system-ferveret-could-make-data-centers-more-sustainable-0610"
+    },
+    {
+      "id": "mq7ld2f9eqvyc2wu5ia",
+      "title": "Business World Model",
+      "summary": "...",
+      "source": {
+        "name": "ArXiv cs.AI",
+        "url": "https://arxiv.org",
+        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Wed, 10 Jun 2026 00:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://arxiv.org/abs/2606.10044"
+    },
+    {
+      "id": "mq7ld2fa7wexo3je887",
+      "title": "Deployment-Time Memorization in Foundation-Model Agents",
+      "summary": "...",
+      "source": {
+        "name": "ArXiv cs.AI",
+        "url": "https://arxiv.org",
+        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Wed, 10 Jun 2026 00:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://arxiv.org/abs/2606.10062"
+    },
+    {
+      "id": "mq7ld2fao1alscftapa",
+      "title": "Exploratory Responsiveness and Adaptive Rigidity under AI-Assisted Optimization",
+      "summary": "...",
+      "source": {
+        "name": "ArXiv cs.AI",
+        "url": "https://arxiv.org",
+        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Wed, 10 Jun 2026 00:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://arxiv.org/abs/2606.10086"
+    },
+    {
+      "id": "mq7ld2fbx2hg77qrpa",
+      "title": "Predictive Assistance and the Temporal Dynamics of Exploratory Compression",
+      "summary": "...",
+      "source": {
+        "name": "ArXiv cs.AI",
+        "url": "https://arxiv.org",
+        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Wed, 10 Jun 2026 00:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://arxiv.org/abs/2606.10094"
+    },
+    {
+      "id": "mq7ld2fblfuudoxat",
+      "title": "From Senses to Decisions: The Information Flow of Auditory and Visual Perception in Multimodal LLMs",
+      "summary": "...",
+      "source": {
+        "name": "ArXiv cs.AI",
+        "url": "https://arxiv.org",
+        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "LLM",
+        "Multimodal"
+      ],
+      "publishedAt": "Wed, 10 Jun 2026 00:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://arxiv.org/abs/2606.10147"
+    },
+    {
+      "id": "mq7ld46awajppso0gx",
+      "title": "Gwynne Shotwell, vraie patronne de SpaceX et femme de confiance d’Elon Musk",
+      "summary": "Entrée dans le groupe en 2002, la présidente et directrice générale opérationnelle a réussi à développer une entreprise qui écrase le marché mondial des lanceurs civils et militaires. A la veille de l’une des introductions en Bourse les plus ahurissantes de l’histoire, elle détie...",
+      "source": {
+        "name": "Le Monde Tech",
+        "url": "https://www.lemonde.fr",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.lemonde.fr&sz=64"
+      },
+      "category": "Policy",
+      "tags": [],
+      "publishedAt": "Wed, 10 Jun 2026 05:54:17 +0200",
+      "imageUrl": "https://images.unsplash.com/photo-1575517111839-3a3843ee7f5d?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.lemonde.fr/economie/article/2026/06/10/gwynne-shotwell-vraie-patronne-de-spacex-et-femme-de-confiance-d-elon-musk_6700395_3234.html"
+    },
+    {
+      "id": "mq7lcx8iytgx5l9d39",
+      "title": "Google just fired a warning shot in the AI subscription price wars",
+      "summary": "Google just made it significantly cheaper to enjoy its budget AI subscription tier. ...",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Google"
+      ],
+      "publishedAt": "Wed, 10 Jun 2026 00:26:10 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/06/09/google-just-fired-a-warning-shot-in-the-ai-subscription-price-wars/"
+    },
+    {
+      "id": "mq7lcx8ijrivkulww9",
+      "title": "How Justin Ernest invested nearly $500M into hot startups without a traditional VC fund",
+      "summary": "Instead of spending a year raising a formal venture fund, the Sabertooth VC founder used a captive network of LPs to invest in startups like Anthropic, Anduril, and SpaceX....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Anthropic",
+        "Startup"
+      ],
+      "publishedAt": "Tue, 09 Jun 2026 23:17:51 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/06/09/how-justin-ernest-invested-nearly-500m-into-hot-startups-without-a-traditional-vc-fund/"
+    },
+    {
+      "id": "mq7lcx8jsxlgy6qfzb",
+      "title": "Hey, Siri, here’s what I actually want from AI",
+      "summary": "I'm desperate for a personal AI assistant, but do I really want to become the kind of person who can't function without the friendly robot voice in my phone?...",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Robotics"
+      ],
+      "publishedAt": "Tue, 09 Jun 2026 20:50:17 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/06/09/hey-siri-heres-what-i-actually-want-from-ai/"
+    },
+    {
+      "id": "mq7lcx8k157xhn1nwc4",
+      "title": "Anthropic’s Fable 5 can make weirdly fun video games with the click of a button",
+      "summary": "Anthropic's Claude Fable 5 is going to be a big hit with the web's vibe coders. ...",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Anthropic"
+      ],
+      "publishedAt": "Tue, 09 Jun 2026 20:37:49 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/06/09/anthropics-fable-5-can-make-weirdly-fun-video-games-with-the-click-of-a-button/"
+    },
+    {
+      "id": "mq7lcz4blyydyh0z98s",
+      "title": "The consequences of relying on AI for accurate news",
+      "summary": "Media Lab study shows that, much like how GPS has weakened our navigation skills, AI can make us worse at detecting fake news....",
+      "source": {
+        "name": "MIT News AI",
+        "url": "https://news.mit.edu",
+        "favicon": "https://www.google.com/s2/favicons?domain=news.mit.edu&sz=64"
+      },
+      "category": "Research",
+      "tags": [],
+      "publishedAt": "Tue, 09 Jun 2026 16:30:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800",
+      "readTime": 1,
+      "originalUrl": "https://news.mit.edu/2026/consequences-of-relying-on-ai-for-accurate-news-0609"
+    },
     {
       "id": "mq735694nuk34v4lk8",
       "title": "Can Voice Agents Handle Bilingual Customers? Benchmarking Frontier ASR on Code-Switched Speech",
@@ -145,6 +351,22 @@
       "originalUrl": "https://techcrunch.com/2026/06/09/its-not-faang-anymore-its-mangos/"
     },
     {
+      "id": "mq7ld0p0fboquwlnuh",
+      "title": "Introducing North Mini Code: Cohere’s First Model For Developers",
+      "summary": "...",
+      "source": {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co",
+        "favicon": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Tue, 09 Jun 2026 15:56:23 GMT",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://huggingface.co/blog/CohereLabs/introducing-north-mini-code"
+    },
+    {
       "id": "mq6soxgqs34ce1rtf4",
       "title": "Sandstone raises $30M to bring AI to in-house legal teams",
       "summary": "Sandstone's Series A was led by Lightspeed Partners, with participation from Sequoia....",
@@ -241,6 +463,22 @@
       "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
       "readTime": 1,
       "originalUrl": "https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/"
+    },
+    {
+      "id": "mq7ld08fp7fyc310ou",
+      "title": "What Codex unlocks for Notion",
+      "summary": "How Notion uses Codex to one-shot specs, build AI Voice Input for the web, and multiply engineering power across small teams....",
+      "source": {
+        "name": "OpenAI News",
+        "url": "https://openai.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Tue, 09 Jun 2026 10:00:00 GMT",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://openai.com/index/notion"
     },
     {
       "id": "mq6h3u3yiqlaoen7ea",
@@ -423,6 +661,38 @@
       "originalUrl": "https://techcrunch.com/2026/06/08/mercors-brendan-foody-calls-out-sequoia-over-dual-pricing-valuation-tricks/"
     },
     {
+      "id": "mq7ld08gtzvhk5hzcak",
+      "title": "Industrial policy for the Intelligence Age",
+      "summary": "Explore our ambitious, people-first industrial policy ideas for the AI era—focused on expanding opportunity, sharing prosperity, and building resilient institutions as advanced intelligence evolves....",
+      "source": {
+        "name": "OpenAI News",
+        "url": "https://openai.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
+      },
+      "category": "Policy",
+      "tags": [],
+      "publishedAt": "Tue, 09 Jun 2026 00:00:00 GMT",
+      "imageUrl": "https://images.unsplash.com/photo-1555848962-6e79363ec58f?w=800",
+      "readTime": 1,
+      "originalUrl": "https://openai.com/index/industrial-policy-for-the-intelligence-age"
+    },
+    {
+      "id": "mq7ld0p1f6zu4aayurh",
+      "title": "Migrating Your GitHub CI to Hugging Face Jobs",
+      "summary": "...",
+      "source": {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co",
+        "favicon": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Tue, 09 Jun 2026 00:00:00 GMT",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://huggingface.co/blog/github-ci-hf-jobs"
+    },
+    {
       "id": "mq65g277djettfk2g2m",
       "title": "As OpenAI files for IPO, Sam Altman’s eye-scanning company is doing layoffs, report says",
       "summary": "Tools for Humanity, Sam Altman's identity verification company, is reportedly struggling to generate revenue and will downsize its staff....",
@@ -574,282 +844,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
       "readTime": 1,
       "originalUrl": "https://techcrunch.com/2026/06/08/apple-will-let-you-build-workflows-using-ai-in-its-new-shortcuts-app/"
-    },
-    {
-      "id": "mq5o7rzta09fc87vsdm",
-      "title": "Apple’s Image Playground doesn’t suck anymore",
-      "summary": "Apple's AI image generator is getting a makeover that could make it more competitive....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Mon, 08 Jun 2026 18:38:07 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/06/08/apples-image-playground-doesnt-suck-anymore/"
-    },
-    {
-      "id": "mq5o7rzt3yf5uzk45w4",
-      "title": "Apple’s Photos app is getting new AI editing features",
-      "summary": "A new spatial \"Reframe\" feature will let users use AI to adjust perspectives. ...",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Mon, 08 Jun 2026 18:36:04 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/06/08/apples-photos-app-is-getting-new-ai-editing-features/"
-    },
-    {
-      "id": "mq65g6c6wqamfr2me9a",
-      "title": "Xiaomi MiMo and TileRT Push a 1-Trillion-Parameter Model Past 1000 Tokens Per Second on Commodity GPUs",
-      "summary": "...",
-      "source": {
-        "name": "MarkTechPost",
-        "url": "https://www.marktechpost.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
-      },
-      "category": "Hardware",
-      "tags": [
-        "Nvidia"
-      ],
-      "publishedAt": "Mon, 08 Jun 2026 16:49:04 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.marktechpost.com/2026/06/08/xiaomi-mimo-and-tilert-push-a-1-trillion-parameter-model-past-1000-tokens-per-second-on-commodity-gpus/"
-    },
-    {
-      "id": "mq5ffz0w2c46tis3wlk",
-      "title": "Amazon now lets you design custom merch using AI",
-      "summary": "A new feature in the Amazon Shopping app allows users to generate designs with Alexa, then print them on products like T-shirts, hoodies, and tumblers....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Product",
-      "tags": [],
-      "publishedAt": "Mon, 08 Jun 2026 15:49:12 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/06/08/amazon-now-lets-you-design-custom-merch-using-ai/"
-    },
-    {
-      "id": "mq65g4o4r5y3z7framl",
-      "title": "Confidential submission of draft S-1 to the SEC",
-      "summary": "OpenAI confirms a confidential S-1 submission to the SEC and has not yet determined timing for further action....",
-      "source": {
-        "name": "OpenAI News",
-        "url": "https://openai.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "OpenAI"
-      ],
-      "publishedAt": "Mon, 08 Jun 2026 14:00:00 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://openai.com/index/openai-submits-confidential-s-1"
-    },
-    {
-      "id": "mq5fg20eqc59sh4dp3",
-      "title": "The crash that vanished: control and emergence in a five-model economy",
-      "summary": "...",
-      "source": {
-        "name": "Hugging Face Blog",
-        "url": "https://huggingface.co",
-        "favicon": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Mon, 08 Jun 2026 13:10:48 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim-v3"
-    },
-    {
-      "id": "mq54ezt5rgxiwaxnhmm",
-      "title": "Ce ne sont pas des mannequins : UBTECH dévoile ses robots humanoïdes ultra-réalistes",
-      "summary": "...",
-      "source": {
-        "name": "Numerama",
-        "url": "https://www.numerama.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Robotics"
-      ],
-      "publishedAt": "Mon, 08 Jun 2026 11:00:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.numerama.com/tech/2270137-ce-ne-sont-pas-des-mannequins-ubtech-devoile-ses-robots-humanoides-ultra-realistes.html"
-    },
-    {
-      "id": "mq54ezt7w8zmj5t6mp",
-      "title": "Pour empêcher les fuites de données, ChatGPT lance un « mode verrouillé » : voici ce qu’il bloque, et ce qu’il ne bloque pas",
-      "summary": "...",
-      "source": {
-        "name": "Numerama",
-        "url": "https://www.numerama.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "OpenAI"
-      ],
-      "publishedAt": "Mon, 08 Jun 2026 10:30:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.numerama.com/cyberguerre/2270181-pour-empecher-les-fuites-de-donnees-chatgpt-lance-un-mode-verrouille-voici-ce-quil-bloque-et-ce-quil-ne-bloque-pas.html"
-    },
-    {
-      "id": "mq54ex1wehajyg2spvk",
-      "title": "Microsoft AI Introduces MAI-Transcribe-1.5: 2.4% WER on Artificial Analysis, Best-in-Class FLEURS Accuracy, and Up to 5x Faster Long-Audio Transcription",
-      "summary": "...",
-      "source": {
-        "name": "MarkTechPost",
-        "url": "https://www.marktechpost.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
-      },
-      "category": "Policy",
-      "tags": [
-        "Microsoft"
-      ],
-      "publishedAt": "Mon, 08 Jun 2026 08:56:49 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.marktechpost.com/2026/06/08/microsoft-ai-introduces-mai-transcribe-1-5-2-4-wer-on-artificial-analysis-best-in-class-fleurs-accuracy-and-up-to-5x-faster-long-audio-transcription/"
-    },
-    {
-      "id": "mq54ex1xa9017lwo3cr",
-      "title": "Google Research Adds Agentic RAG to Gemini Enterprise Agent Platform with a Sufficient Context Agent for multi-hop queries",
-      "summary": "...",
-      "source": {
-        "name": "MarkTechPost",
-        "url": "https://www.marktechpost.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
-      },
-      "category": "Research",
-      "tags": [
-        "Google"
-      ],
-      "publishedAt": "Mon, 08 Jun 2026 08:25:51 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.marktechpost.com/2026/06/08/google-research-adds-agentic-rag-to-gemini-enterprise-agent-platform-with-a-sufficient-context-agent-for-multi-hop-queries/"
-    },
-    {
-      "id": "mq4qx8vfmkeu7vlrnrr",
-      "title": "Detecting and Mitigating Bias by Treating Fairness as a Symmetry Operation",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Mon, 08 Jun 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2606.06514"
-    },
-    {
-      "id": "mq4qx8vgndo9sjqi4wl",
-      "title": "DiBS: Diffusion-Informed Branch Selection",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Mon, 08 Jun 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2606.06518"
-    },
-    {
-      "id": "mq4qx8vg8sqa84kq6ca",
-      "title": "SafeGene: Reusable Adapters for Transferable Safety Alignment",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Policy",
-      "tags": [
-        "AI Safety"
-      ],
-      "publishedAt": "Mon, 08 Jun 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1555848962-6e79363ec58f?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2606.06519"
-    },
-    {
-      "id": "mq4qx8vhnr7zakhvr2",
-      "title": "Lean4Agent: Formal Modeling and Verification for Agent Workflow and Trajectory",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Mon, 08 Jun 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2606.06523"
-    },
-    {
-      "id": "mq4qx8vhfaf2tvmqv6",
-      "title": "CrowdMath: A Dataset of Crowdsourced Mathematical Research Discussions",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Research",
-      "tags": [],
-      "publishedAt": "Mon, 08 Jun 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2606.06526"
-    },
-    {
-      "id": "mq65g4o43y0029i08cr",
-      "title": "Built to benefit everyone: our plan",
-      "summary": "A vision for the future of AI, focusing on access, safety, and shared prosperity as OpenAI works to ensure AGI benefits everyone....",
-      "source": {
-        "name": "OpenAI News",
-        "url": "https://openai.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
-      },
-      "category": "Ethics",
-      "tags": [
-        "OpenAI",
-        "AI Safety"
-      ],
-      "publishedAt": "Mon, 08 Jun 2026 01:30:00 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=800",
-      "readTime": 1,
-      "originalUrl": "https://openai.com/index/built-to-benefit-everyone-our-plan"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-06-09T20:21:41.626Z",
-  "edition": 218
+  "lastUpdated": "2026-06-10T04:51:39.837Z",
+  "edition": 219
 }
