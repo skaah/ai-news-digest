@@ -1,6 +1,108 @@
 {
-  "date": "2026-06-10T10:35:42.639Z",
+  "date": "2026-06-10T16:11:02.560Z",
   "articles": [
+    {
+      "id": "mq89mtgnc5bapvgf9bc",
+      "title": "Pourquoi Apple prive l’Europe de son nouveau Siri dopé à l’intelligence artificielle : le grand récap en vidéo",
+      "summary": "...",
+      "source": {
+        "name": "Numerama",
+        "url": "https://www.numerama.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
+      },
+      "category": "Policy",
+      "tags": [],
+      "publishedAt": "Wed, 10 Jun 2026 15:46:38 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1555848962-6e79363ec58f?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.numerama.com/tech/2273277-pourquoi-apple-prive-leurope-de-son-nouveau-siri-dope-a-lintelligence-artificielle-le-grand-recap-en-video.html"
+    },
+    {
+      "id": "mq89m3h58tdnxincz5c",
+      "title": "Cybersecurity researchers aren’t happy about the guardrails on Anthropic’s Fable",
+      "summary": "Cybersecurity researchers are complaining that Anthropic's new model Fable has guardrails that are too strict for any cybersecurity work....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Research",
+      "tags": [
+        "Anthropic"
+      ],
+      "publishedAt": "Wed, 10 Jun 2026 15:41:22 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/"
+    },
+    {
+      "id": "mq89m3h6tzadixtshge",
+      "title": "Datadog veterans launch AI coding startup Niteshift on a bet against Big AI lock-in",
+      "summary": "AI coding agent startup Niteshift has raised a $7 million seed round from a who's who of angels. It's betting companies will want power over, not lock-in with model makers....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Product",
+      "tags": [
+        "Startup"
+      ],
+      "publishedAt": "Wed, 10 Jun 2026 15:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/06/10/datadog-veterans-launch-ai-coding-startup-niteshift-on-a-bet-against-big-ai-lock-in/"
+    },
+    {
+      "id": "mq89m3h7ge0dey8uhtu",
+      "title": "The three hard-tech moonshots fueling SpaceX’s unbelievable IPO",
+      "summary": "Most of the value in SpaceX's IPO is effectively a call option on the company's ambitious space data center plans. ...",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Wed, 10 Jun 2026 14:48:01 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/06/10/the-three-hard-tech-moonshots-fueling-spacexs-unbelievable-ipo/"
+    },
+    {
+      "id": "mq89m3h789z8g148rxm",
+      "title": "Warner Music acquires AI attribution startup Sureel AI",
+      "summary": "Through the acquisition, WMG aims to better track when its artists' work is used in AI-generated content or for training AI models....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Startup"
+      ],
+      "publishedAt": "Wed, 10 Jun 2026 14:31:30 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/06/10/warner-music-acquires-ai-attribution-startup-sureel-ai/"
+    },
+    {
+      "id": "mq89m3h7b6cyyj28808",
+      "title": "Jedify raises $24M to help companies arm AI agents with context on their business",
+      "summary": "The funding round was led by Norwest, with participation S Capital VC, Cerca Partners, and Oceans Ventures. Snowflake Ventures also participated as a strategic investor....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Funding",
+      "tags": [],
+      "publishedAt": "Wed, 10 Jun 2026 13:33:09 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/06/10/jedify-raises-24m-to-help-companies-arm-ai-agents-with-context-on-their-business/"
+    },
     {
       "id": "mq7xni8gp0fv8rvzb0r",
       "title": "Top AI Coding Agents and Development Platforms in 2026: Atoms, Devin, Windsurf, Cursor, Warp, and More Compared",
@@ -750,110 +852,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
       "readTime": 1,
       "originalUrl": "https://techcrunch.com/2026/06/08/why-apples-slow-and-steady-ai-bet-is-starting-to-look-pretty-smart/"
-    },
-    {
-      "id": "mq65g277it5x7li1ick",
-      "title": "Mercor’s Brendan Foody calls out Sequoia, accusing it of ‘dual-pricing’ valuation tricks",
-      "summary": "Sequoia is just one of the top firms that sells same equity at two different prices....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Tue, 09 Jun 2026 00:45:56 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/06/08/mercors-brendan-foody-calls-out-sequoia-over-dual-pricing-valuation-tricks/"
-    },
-    {
-      "id": "mq7ld08gtzvhk5hzcak",
-      "title": "Industrial policy for the Intelligence Age",
-      "summary": "Explore our ambitious, people-first industrial policy ideas for the AI era—focused on expanding opportunity, sharing prosperity, and building resilient institutions as advanced intelligence evolves....",
-      "source": {
-        "name": "OpenAI News",
-        "url": "https://openai.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
-      },
-      "category": "Policy",
-      "tags": [],
-      "publishedAt": "Tue, 09 Jun 2026 00:00:00 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1555848962-6e79363ec58f?w=800",
-      "readTime": 1,
-      "originalUrl": "https://openai.com/index/industrial-policy-for-the-intelligence-age"
-    },
-    {
-      "id": "mq7ld0p1f6zu4aayurh",
-      "title": "Migrating Your GitHub CI to Hugging Face Jobs",
-      "summary": "...",
-      "source": {
-        "name": "Hugging Face Blog",
-        "url": "https://huggingface.co",
-        "favicon": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Tue, 09 Jun 2026 00:00:00 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://huggingface.co/blog/github-ci-hf-jobs"
-    },
-    {
-      "id": "mq65g277djettfk2g2m",
-      "title": "As OpenAI files for IPO, Sam Altman’s eye-scanning company is doing layoffs, report says",
-      "summary": "Tools for Humanity, Sam Altman's identity verification company, is reportedly struggling to generate revenue and will downsize its staff....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "OpenAI"
-      ],
-      "publishedAt": "Mon, 08 Jun 2026 22:41:45 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/06/08/as-openai-files-for-ipo-sam-altmans-eye-scanning-company-is-doing-layoffs-report-says/"
-    },
-    {
-      "id": "mq65g278s2zstt3eh2s",
-      "title": "Apple’s WWDC AI demos looked more real after $250M false ad settlement",
-      "summary": "The vibe of Apple's 2026 WWDC keynote felt like a spouse proudly listing all the honey-do-list items tackled. One subtle example: the many AI demos of someone standing, phone in hand....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Mon, 08 Jun 2026 22:39:57 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/06/08/apples-wwdc-ai-demos-looked-more-real-after-250m-false-ad-settlement/"
-    },
-    {
-      "id": "mq65g278lny8htoms6",
-      "title": "OpenAI files confidentially for IPO, following Anthropic",
-      "summary": "The filing comes a little more than a week after its main rival, Anthropic, also filed to go public, ramping up the race between the two AI firms....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "OpenAI",
-        "Anthropic"
-      ],
-      "publishedAt": "Mon, 08 Jun 2026 21:29:57 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/06/08/following-anthropic-openai-files-confidentially-for-ipo/"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-06-10T10:35:42.639Z",
-  "edition": 220
+  "lastUpdated": "2026-06-10T16:11:02.560Z",
+  "edition": 221
 }
