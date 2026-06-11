@@ -1,6 +1,73 @@
 {
-  "date": "2026-06-11T10:59:28.539Z",
+  "date": "2026-06-11T16:31:11.311Z",
   "articles": [
+    {
+      "id": "mq9pse4y5308yqbdjd",
+      "title": "Pool’s new app turns your screenshots into something useful",
+      "summary": "Pool's new app automatically sorts screenshots into personalized collections, tracks down the original links behind saved content, and helps you rediscover products, recipes, travel ideas, and other things you meant to revisit....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Product",
+      "tags": [],
+      "publishedAt": "Thu, 11 Jun 2026 15:30:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/06/11/pools-new-app-turns-your-screenshots-into-a-searchable-memory-bank/"
+    },
+    {
+      "id": "mq9pse4zrvmirktmtr",
+      "title": "DoorDash’s new AI chatbot lets you order with prompts and photos",
+      "summary": "The new chatbot, called Ask DoorDash, allows users to search the app for what they're looking for in their own words instead of having to scroll through restaurants and stores to build a cart. ...",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Thu, 11 Jun 2026 14:23:43 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/06/11/doordashs-new-ai-chatbot-lets-you-order-with-prompts-and-photos/"
+    },
+    {
+      "id": "mq9pslax5cmvkfshoc",
+      "title": "IA : Akeneo s’offre Pricing Hub pour faire le pont entre les données produits et les prix",
+      "summary": "...",
+      "source": {
+        "name": "Maddyness",
+        "url": "https://www.maddyness.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.maddyness.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Thu, 11 Jun 2026 13:02:09 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.maddyness.com/2026/06/11/ia-akeneo-soffre-pricing-hub-pour-faire-le-pont-entre-les-donnees-produits-et-les-prix/"
+    },
+    {
+      "id": "mq9psffwu9lme7k28yl",
+      "title": "Google DeepMind is worried about what happens when millions of agents start to interact",
+      "summary": "Google DeepMind is funding research into the potential dangers of situations where millions of different AI agents interact with each other online. According to Rohin Shah, who directs the company’s AGI safety and alignment research, the mass-market arrival of agents that can car...",
+      "source": {
+        "name": "MIT Tech Review AI",
+        "url": "https://www.technologyreview.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.technologyreview.com&sz=64"
+      },
+      "category": "Research",
+      "tags": [
+        "Google",
+        "AI Safety"
+      ],
+      "publishedAt": "Thu, 11 Jun 2026 11:00:45 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/"
+    },
     {
       "id": "mq9dxx00d2ftsk51ai",
       "title": "Nous Research Ships Hermes Agent Profile Builder: Identity, Model, Skills, and MCP Servers in One Dashboard Flow",
@@ -148,6 +215,24 @@
       "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
       "readTime": 1,
       "originalUrl": "https://techcrunch.com/2026/06/10/anthropics-dario-amodei-has-just-one-direct-report/"
+    },
+    {
+      "id": "mq9psgkfjmlplifycq",
+      "title": "OpenAI to acquire Ona",
+      "summary": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows....",
+      "source": {
+        "name": "OpenAI News",
+        "url": "https://openai.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "OpenAI"
+      ],
+      "publishedAt": "Thu, 11 Jun 2026 00:00:00 GMT",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://openai.com/index/openai-to-acquire-ona"
     },
     {
       "id": "mq9dxv8aw2r26sxe8qb",
@@ -767,98 +852,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
       "readTime": 1,
       "originalUrl": "https://huggingface.co/blog/ServiceNow-AI/code-switching"
-    },
-    {
-      "id": "mq7352v0ngjs25oxu4l",
-      "title": "Can tech companies learn to love cheaper AI models?",
-      "summary": "If those same AI workloads can be handled by cheaper models without affecting quality, it would mean a massive shift in the economics of AI....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Tue, 09 Jun 2026 18:56:09 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/06/09/can-tech-companies-learn-to-love-cheaper-models/"
-    },
-    {
-      "id": "mq735a4qiu6a219pqpl",
-      "title": "Intelligence artificielle : Anthropic sort une version bridée de son modèle Mythos, adaptée au grand public",
-      "summary": "La start-up américaine annonce avoir mis en place des « garde-fous » pour limiter les requêtes en matière de cybersécurité sur son modèle rendu accessible en avril à un groupe restreint de partenaires....",
-      "source": {
-        "name": "Le Monde Tech",
-        "url": "https://www.lemonde.fr",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.lemonde.fr&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Anthropic"
-      ],
-      "publishedAt": "Tue, 09 Jun 2026 20:21:46 +0200",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.lemonde.fr/economie/article/2026/06/09/intelligence-artificielle-anthropic-sort-une-version-bridee-de-son-modele-mythos-adaptee-au-grand-public_6700212_3234.html"
-    },
-    {
-      "id": "mq735ar3qp7dtdnh7nb",
-      "title": "Claude Fable 5 : Anthropic libère sa première IA de niveau Mythos, et évoque un modèle mystérieux",
-      "summary": "...",
-      "source": {
-        "name": "Numerama",
-        "url": "https://www.numerama.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
-      },
-      "category": "Policy",
-      "tags": [
-        "Anthropic"
-      ],
-      "publishedAt": "Tue, 09 Jun 2026 17:55:55 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.numerama.com/tech/2272305-claude-fable-5-anthropic-libere-sa-premiere-ia-de-niveau-mythos-et-evoque-un-modele-mysterieux.html"
-    },
-    {
-      "id": "mq7357gaxrhbp5fyorn",
-      "title": "Google Releases Gemini 3.5 Live Translate, a Streaming Speech-to-Speech Audio Model Covering 70+ Languages Across Meet, Translate, and the Live API",
-      "summary": "...",
-      "source": {
-        "name": "MarkTechPost",
-        "url": "https://www.marktechpost.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Google"
-      ],
-      "publishedAt": "Tue, 09 Jun 2026 17:24:11 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.marktechpost.com/2026/06/09/google-releases-gemini-3-5-live-translate-a-streaming-speech-to-speech-audio-model-covering-70-languages-across-meet-translate-and-the-live-api/"
-    },
-    {
-      "id": "mq7352v29yjl10jqolr",
-      "title": "Anthropic’s Claude Fable 5 is a version of Mythos the public can access today",
-      "summary": "Anthropic is releasing Claude Fable 5, its first Mythos-class model available to the public. The model comes with guardrails that block responses in high-risk areas like cybersecurity and biology....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Ethics",
-      "tags": [
-        "Anthropic",
-        "AI Safety"
-      ],
-      "publishedAt": "Tue, 09 Jun 2026 17:00:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/06/09/anthropic-released-claude-fable-5-its-most-powerful-model-publicly-days-after-warning-ai-is-getting-too-dangerous/"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-06-11T10:59:28.539Z",
-  "edition": 224
+  "lastUpdated": "2026-06-11T16:31:11.311Z",
+  "edition": 225
 }
