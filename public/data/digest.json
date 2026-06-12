@@ -1,6 +1,38 @@
 {
-  "date": "2026-06-12T10:41:27.526Z",
+  "date": "2026-06-12T15:42:58.334Z",
   "articles": [
+    {
+      "id": "mqb3iewk4ozkta723uw",
+      "title": "Voici pourquoi vous ne devriez pas choisir une clinique esthétique avec une IA",
+      "summary": "...",
+      "source": {
+        "name": "Numerama",
+        "url": "https://www.numerama.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Fri, 12 Jun 2026 14:16:25 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.numerama.com/tech/2274105-voici-pourquoi-vous-ne-devriez-pas-choisir-une-clinique-esthetique-avec-une-ia.html"
+    },
+    {
+      "id": "mqb3i76y40cv0m2w0qm",
+      "title": "SpaceX IPO: Everything you need to know",
+      "summary": "TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and maybe some who won't), pre-IPO deals, and what's tucked inside its S-1 registration ...",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Fri, 12 Jun 2026 14:08:54 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/06/12/spacex-ipo-everything-you-need-to-know/"
+    },
     {
       "id": "mqasqnz8izix0z7s14",
       "title": "« Nous avons fait le mauvais choix » : Anthropic avoue avoir secrètement bridé les capacités de Fable 5",
@@ -805,41 +837,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
       "readTime": 1,
       "originalUrl": "https://techcrunch.com/2026/06/10/ai-pilled-firms-spend-7500-per-employee-each-month-on-ai/"
-    },
-    {
-      "id": "mq8jhoulb84yijd3lql",
-      "title": "How memory tools can make AI models worse",
-      "summary": "New research suggests that AI memory systems can degrade model performance and encourage sycophantic tendencies....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Research",
-      "tags": [],
-      "publishedAt": "Wed, 10 Jun 2026 16:11:08 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/06/10/how-memory-tools-can-make-ai-models-worse/"
-    },
-    {
-      "id": "mq89mtgnc5bapvgf9bc",
-      "title": "Pourquoi Apple prive l’Europe de son nouveau Siri dopé à l’intelligence artificielle : le grand récap en vidéo",
-      "summary": "...",
-      "source": {
-        "name": "Numerama",
-        "url": "https://www.numerama.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
-      },
-      "category": "Policy",
-      "tags": [],
-      "publishedAt": "Wed, 10 Jun 2026 15:46:38 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1555848962-6e79363ec58f?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.numerama.com/tech/2273277-pourquoi-apple-prive-leurope-de-son-nouveau-siri-dope-a-lintelligence-artificielle-le-grand-recap-en-video.html"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-06-12T10:41:27.526Z",
-  "edition": 228
+  "lastUpdated": "2026-06-12T15:42:58.334Z",
+  "edition": 229
 }
