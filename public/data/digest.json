@@ -1,6 +1,24 @@
 {
-  "date": "2026-06-14T14:32:27.757Z",
+  "date": "2026-06-14T20:00:15.729Z",
   "articles": [
+    {
+      "id": "mqe7kp8g3l8m50y75c2",
+      "title": "As AI companies race to go public, who else is along for the ride?",
+      "summary": "Startups are trying to \"ride that SpaceX IPO wave.\"...",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Startup"
+      ],
+      "publishedAt": "Sun, 14 Jun 2026 16:38:09 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/"
+    },
     {
       "id": "mqdbtudxtpxzen3gxwp",
       "title": "Databricks Open-Sources Omnigent: A Meta-Harness That Composes, Governs, and Shares AI Agents Across Claude Code, Codex, and Pi",
@@ -848,25 +866,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=800",
       "readTime": 1,
       "originalUrl": "https://techcrunch.com/2026/06/11/spacex-spv-investors-wont-know-their-true-holdings-until-post-ipo-lock-ups-lift/"
-    },
-    {
-      "id": "mq9ym5m8i9pve33ewwe",
-      "title": "When it comes to predicting people’s preferences, it pays to consider “the power of three”",
-      "summary": "MIT researchers provide a major upgrade to the nearly century-old idea of random utility models....",
-      "source": {
-        "name": "MIT News AI",
-        "url": "https://news.mit.edu",
-        "favicon": "https://www.google.com/s2/favicons?domain=news.mit.edu&sz=64"
-      },
-      "category": "Research",
-      "tags": [],
-      "publishedAt": "Thu, 11 Jun 2026 15:10:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?w=800",
-      "readTime": 1,
-      "originalUrl": "https://news.mit.edu/2026/when-predicting-preferences-it-pays-to-consider-power-of-three-0611"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-06-14T14:32:27.757Z",
-  "edition": 237
+  "lastUpdated": "2026-06-14T20:00:15.729Z",
+  "edition": 238
 }
