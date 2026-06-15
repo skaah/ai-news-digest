@@ -1,6 +1,124 @@
 {
-  "date": "2026-06-15T12:44:39.081Z",
+  "date": "2026-06-15T21:25:44.291Z",
   "articles": [
+    {
+      "id": "mqfq2m4bnf3pzy5hwui",
+      "title": "Why do South Koreans love AI so much?",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. When I landed in Seoul after a grueling 12-hour flight from San Francisco, I walked through an unmanned immigration checkpoint, where a machin...",
+      "source": {
+        "name": "MIT Tech Review AI",
+        "url": "https://www.technologyreview.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.technologyreview.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Mon, 15 Jun 2026 18:46:08 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.technologyreview.com/2026/06/15/1138983/why-do-south-koreans-love-ai-so-much/"
+    },
+    {
+      "id": "mqfq2koge05tpaf1w5",
+      "title": "Meta’s new ‘AI Mode’ on Facebook pulls from public info across its platforms",
+      "summary": "Meta announced Monday that it's rolling out a wave of new AI features on Facebook, the latest sign of the company's effort to catch up in the AI race and keep users more engaged on the platform....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Meta"
+      ],
+      "publishedAt": "Mon, 15 Jun 2026 18:30:58 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms/"
+    },
+    {
+      "id": "mqfq2koh6g0bscvb5ka",
+      "title": "SpaceX is public: Everything you need to know post-IPO",
+      "summary": "TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and maybe some who won't), pre-IPO deals, and what's tucked inside its S-1 registration ...",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Mon, 15 Jun 2026 18:30:34 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/06/15/spacex-is-public-everything-you-need-to-know-post-ipo/"
+    },
+    {
+      "id": "mqfq2koid92z1wubu4j",
+      "title": "Cybersecurity vets protest ‘dangerous’ US government ban on Anthropic’s most powerful models",
+      "summary": "A group made up of dozens of cybersecurity experts urged the White House to remove export-control restrictions on Anthropic’s Fable and Mythos models, arguing that the order is going to limit the ability of cybersecurity defenders to secure their software and products....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Product",
+      "tags": [
+        "Anthropic"
+      ],
+      "publishedAt": "Mon, 15 Jun 2026 15:29:51 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/06/15/cybersecurity-vets-protest-dangerous-us-government-ban-on-anthropics-most-powerful-models/"
+    },
+    {
+      "id": "mqfq2rz2zsnttuevmv",
+      "title": "Ponytail, l’agent IA qui cherche à optimiser votre code en limitant ses efforts au maximum",
+      "summary": "...",
+      "source": {
+        "name": "Numerama",
+        "url": "https://www.numerama.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Mon, 15 Jun 2026 15:27:59 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.numerama.com/tech/2276469-ponytail-lagent-ia-qui-cherche-a-optimiser-votre-code-en-en-faisant-le-moins-possible.html"
+    },
+    {
+      "id": "mqfq2koipwkn4s2uq7o",
+      "title": "Salesforce acquires AI customer service platform Fin for $3.6B",
+      "summary": "Salesforce says it wants to use Fin's team and technology to improve Agentforce, its existing enterprise platform that businesses can use to build custom AI agents that automate tasks....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Mon, 15 Jun 2026 14:34:45 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/"
+    },
+    {
+      "id": "mqfq2koif09ewrz0p56",
+      "title": "Sarvam becomes India’s newest AI unicorn with $234 million funding round led by HCLTech",
+      "summary": "Indian IT services company HCLTech is investing $150 million in the Bengaluru startup....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Funding",
+      "tags": [
+        "Startup"
+      ],
+      "publishedAt": "Mon, 15 Jun 2026 13:46:08 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/06/15/sarvam-becomes-indias-newest-ai-unicorn-with-234-million-funding-round-led-by-hcltech/"
+    },
     {
       "id": "mqf7gnkonlmynvcst0q",
       "title": "Ce faux chatbot « anti-IA slop » envoie vos prompts à d’autres humains",
@@ -748,127 +866,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
       "readTime": 1,
       "originalUrl": "https://techcrunch.com/2026/06/12/spacex-ipo-everything-you-need-to-know/"
-    },
-    {
-      "id": "mqasqnz8izix0z7s14",
-      "title": "« Nous avons fait le mauvais choix » : Anthropic avoue avoir secrètement bridé les capacités de Fable 5",
-      "summary": "...",
-      "source": {
-        "name": "Numerama",
-        "url": "https://www.numerama.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Anthropic"
-      ],
-      "publishedAt": "Fri, 12 Jun 2026 10:15:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.numerama.com/tech/2273861-nous-avons-fait-le-mauvais-choix-anthropic-avoue-avoir-secretement-bride-les-capacites-de-fable-5.html"
-    },
-    {
-      "id": "mqbdpsoi9ejil17cn8",
-      "title": "New OpenAI Academy courses for the next era of work",
-      "summary": "OpenAI introduces three Academy courses that help people build practical AI skills, create repeatable workflows, and apply agents in everyday work....",
-      "source": {
-        "name": "OpenAI News",
-        "url": "https://openai.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "OpenAI"
-      ],
-      "publishedAt": "Fri, 12 Jun 2026 10:00:00 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://openai.com/index/academy-courses-applying-ai-at-work"
-    },
-    {
-      "id": "mqasqkyp13dzyqwb3609",
-      "title": "Moonshot AI Launches Kimi Work, a Local Desktop Agent Reportedly Running on Kimi K2.6 With a 300-Sub-Agent Agent Swarm",
-      "summary": "...",
-      "source": {
-        "name": "MarkTechPost",
-        "url": "https://www.marktechpost.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
-      },
-      "category": "Product",
-      "tags": [],
-      "publishedAt": "Fri, 12 Jun 2026 09:37:30 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.marktechpost.com/2026/06/12/moonshot-ai-launches-kimi-work-a-local-desktop-agent-reportedly-running-on-kimi-k2-6-with-a-300-sub-agent-agent-swarm/"
-    },
-    {
-      "id": "mqasqos007a90i2l9xuq",
-      "title": "IA : un sommet à Lille après les milliards annoncés dans les Hauts-de-France",
-      "summary": "...",
-      "source": {
-        "name": "Maddyness",
-        "url": "https://www.maddyness.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.maddyness.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Fri, 12 Jun 2026 08:23:16 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.maddyness.com/2026/06/12/ia-un-sommet-a-lille-apres-les-milliards-annonces-dans-les-hauts-de-france/"
-    },
-    {
-      "id": "mqasqkypg2k44y2gew6",
-      "title": "Zyphra Release Zamba2-VL: Hybrid Mamba2–Transformer Vision-Language Models That Cut Time-to-First-Token by About an Order of Magnitude",
-      "summary": "...",
-      "source": {
-        "name": "MarkTechPost",
-        "url": "https://www.marktechpost.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Fri, 12 Jun 2026 08:06:26 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.marktechpost.com/2026/06/12/zyphra-release-zamba2-vl-hybrid-mamba2-transformer-vision-language-models-that-cut-time-to-first-token-by-about-an-order-of-magnitude/"
-    },
-    {
-      "id": "mqasqos0i98uv5n1htb",
-      "title": "OVHcloud va s'offrir la startup d'IA vocale Gladia",
-      "summary": "...",
-      "source": {
-        "name": "Maddyness",
-        "url": "https://www.maddyness.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.maddyness.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Startup"
-      ],
-      "publishedAt": "Fri, 12 Jun 2026 07:32:33 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.maddyness.com/2026/06/12/ovhcloud-va-soffrir-la-startup-dia-vocale-gladia/"
-    },
-    {
-      "id": "mqasqkyqfryxbc8nwuo",
-      "title": "A Coding Implementation on MONAI for End-to-End 3D Spleen Segmentation Using UNet on Medical CT Volumes",
-      "summary": "...",
-      "source": {
-        "name": "MarkTechPost",
-        "url": "https://www.marktechpost.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Fri, 12 Jun 2026 07:10:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.marktechpost.com/2026/06/12/a-coding-implementation-on-monai-for-end-to-end-3d-spleen-segmentation-using-unet-on-medical-ct-volumes/"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-06-15T12:44:39.081Z",
-  "edition": 240
+  "lastUpdated": "2026-06-15T21:25:44.290Z",
+  "edition": 241
 }
