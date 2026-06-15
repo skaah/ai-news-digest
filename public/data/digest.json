@@ -1,6 +1,88 @@
 {
-  "date": "2026-06-15T05:30:15.932Z",
+  "date": "2026-06-15T12:44:39.081Z",
   "articles": [
+    {
+      "id": "mqf7gnkonlmynvcst0q",
+      "title": "Ce faux chatbot « anti-IA slop » envoie vos prompts à d’autres humains",
+      "summary": "...",
+      "source": {
+        "name": "Numerama",
+        "url": "https://www.numerama.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Mon, 15 Jun 2026 10:32:32 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.numerama.com/tech/2276163-ce-faux-chatbot-anti-ia-slop-envoie-vos-prompts-a-dautres-humains.html"
+    },
+    {
+      "id": "mqf7gkr8ydwbk5aseo",
+      "title": "Meet Flash-KMeans: An IO-Aware, Exact K-Means That Runs Over 200× Faster Than FAISS on GPUs",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Hardware",
+      "tags": [
+        "Nvidia"
+      ],
+      "publishedAt": "Mon, 15 Jun 2026 09:16:09 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/06/15/meet-flash-kmeans-an-io-aware-exact-k-means-that-runs-over-200x-faster-than-faiss-on-gpus/"
+    },
+    {
+      "id": "mqf7gn1vnjdvbacy6or",
+      "title": "IA : « Il faudra désormais se méfier des sauts de puces »",
+      "summary": "Avec l’essor de l’intelligence artificielle, la hiérarchie industrielle se trouve bouleversée. Ainsi, sur les marchés boursiers du monde entier, les fabricants de semi-conducteurs et d’infrastructures technologiques voient leurs cours s’envoler, constate Isabelle Chaperon, chroni...",
+      "source": {
+        "name": "Le Monde Tech",
+        "url": "https://www.lemonde.fr",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.lemonde.fr&sz=64"
+      },
+      "category": "Policy",
+      "tags": [],
+      "publishedAt": "Mon, 15 Jun 2026 10:56:33 +0200",
+      "imageUrl": "https://images.unsplash.com/photo-1575517111839-3a3843ee7f5d?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.lemonde.fr/economie/article/2026/06/15/ia-il-faudra-desormais-se-mefier-des-sauts-de-puces_6703175_3234.html"
+    },
+    {
+      "id": "mqf7ggidmbut0gagrb",
+      "title": "The AI layoff wave is becoming a powder keg",
+      "summary": "What makes this combustible: at the very moment that tens of thousands of workers are being shown the door, a small cohort of AI insiders is becoming wealthy on a scale that's hard to comprehend....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Mon, 15 Jun 2026 07:25:41 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/06/15/the-ai-layoff-wave-is-becoming-a-powder-keg/"
+    },
+    {
+      "id": "mqf7gkr99ppy30of41",
+      "title": "Z.ai Launches GLM-5.2 With a Usable 1M-Token Context, Two Thinking-Effort Levels, and No Benchmarks at Launch",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Product",
+      "tags": [],
+      "publishedAt": "Mon, 15 Jun 2026 06:10:23 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/06/14/z-ai-launches-glm-5-2-with-a-usable-1m-token-context-two-thinking-effort-levels-and-no-benchmarks-at-launch/"
+    },
     {
       "id": "mqerxycino3ob2et46",
       "title": "A Deep Reinforcement Learning (DRL)-Based Transformer Method for Solving the Open Shop Scheduling Problem",
@@ -82,6 +164,40 @@
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800",
       "readTime": 1,
       "originalUrl": "https://arxiv.org/abs/2606.13710"
+    },
+    {
+      "id": "mqf7gkr9oyd5y1snqli",
+      "title": "Claude Code Guide 2026: 25 Features with Examples + Demo",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Anthropic"
+      ],
+      "publishedAt": "Mon, 15 Jun 2026 01:04:53 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/06/14/claude-code-guide-2026-25-features-with-examples-demo/"
+    },
+    {
+      "id": "mqf7gkr97rb70h9gasb",
+      "title": "A Coding Hands-On on FineWeb for Streaming, Filtering, Deduplication, Tokenization, and Large-Scale Web Corpus Analytics",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Sun, 14 Jun 2026 20:45:32 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/06/14/a-coding-hands-on-on-fineweb-for-streaming-filtering-deduplication-tokenization-and-large-scale-web-corpus-analytics/"
     },
     {
       "id": "mqerxw4uxalj7hodhof",
@@ -191,6 +307,24 @@
       "imageUrl": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800",
       "readTime": 1,
       "originalUrl": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/"
+    },
+    {
+      "id": "mqf7gn1vgetaw875krr",
+      "title": "« La guerre de l’IA a commencé » : le blocage du dernier modèle d’Anthropic par les Etats-Unis inquiète en France et en Europe",
+      "summary": "La start-up américaine a désactivé son dernier modèle d’IA, Mythos 5, à la demande de Washington. Une décision vue d’Europe comme l’illustration de la puissance américaine sur le secteur et de la volonté de contrôle de l’administration Trump....",
+      "source": {
+        "name": "Le Monde Tech",
+        "url": "https://www.lemonde.fr",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.lemonde.fr&sz=64"
+      },
+      "category": "Policy",
+      "tags": [
+        "Anthropic"
+      ],
+      "publishedAt": "Sat, 13 Jun 2026 23:45:17 +0200",
+      "imageUrl": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.lemonde.fr/pixels/article/2026/06/13/la-guerre-de-l-ia-a-commence-le-blocage-du-dernier-modele-d-anthropic-par-les-etats-unis-inquiete-en-france-et-en-europe_6702060_4408996.html"
     },
     {
       "id": "mqdbtpp7t0tcdfzbkqn",
@@ -732,143 +866,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
       "readTime": 1,
       "originalUrl": "https://www.marktechpost.com/2026/06/12/a-coding-implementation-on-monai-for-end-to-end-3d-spleen-segmentation-using-unet-on-medical-ct-volumes/"
-    },
-    {
-      "id": "mqasqgms6pvz666t8wp",
-      "title": "Cheaper, faster, and culturally aware, Avataar’s video AI is built for India’s scale",
-      "summary": "Avataar AI's distilled video model is priced at $0.005 for every second of generation...",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Fri, 12 Jun 2026 04:30:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/06/11/cheaper-faster-and-culturally-aware-avataars-video-ai-is-built-for-indias-scale/"
-    },
-    {
-      "id": "mqagtfuz37a5ws914rs",
-      "title": "ToolSense: A Diagnostic Framework for Auditing Parametric Tool Knowledge in LLMs",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "LLM"
-      ],
-      "publishedAt": "Fri, 12 Jun 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2606.12451"
-    },
-    {
-      "id": "mqagtfv0yhx8da2ks1",
-      "title": "Arbor: Tree Search as a Cognition Layer for Autonomous Agents",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Fri, 12 Jun 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2606.12563"
-    },
-    {
-      "id": "mqagtfv0an86toqkyuh",
-      "title": "Strategic Decision Support for AI Agents",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Fri, 12 Jun 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2606.12587"
-    },
-    {
-      "id": "mqagtfv0nfp6cuga67",
-      "title": "Pythagoras-Prover: Advancing Efficient Formal Proving via Augmented Lean Formalisation",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Fri, 12 Jun 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2606.12594"
-    },
-    {
-      "id": "mqagtfv1zs10gm71yl",
-      "title": "PersonaDrive: Human-Style Retrieval-Augmented VLA Agents for Closed-Loop Driving Simulation",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Fri, 12 Jun 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2606.12616"
-    },
-    {
-      "id": "mqagtbahk6ghum5nam",
-      "title": "Theker just raised $85M to build the factory robot that doesn’t specialize in anything",
-      "summary": "Unlike humanoid robots designed around a fixed form — think Boston Dynamics — Theker's machines are built to be reconfigured....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Robotics"
-      ],
-      "publishedAt": "Fri, 12 Jun 2026 01:48:07 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/06/11/theker-just-raised-85m-to-build-the-factory-robot-that-doesnt-specialize-in-anything/"
-    },
-    {
-      "id": "mqagtbaina8gv647teh",
-      "title": "Jeff Bezos’s Prometheus raises $12B to build an ‘artificial general engineer’ for the physical world",
-      "summary": "The new round values the physical AI startup that aims to automate heavy engineering and drug design at $41 billion....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Funding",
-      "tags": [
-        "Startup"
-      ],
-      "publishedAt": "Fri, 12 Jun 2026 01:04:38 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-06-15T05:30:15.932Z",
-  "edition": 239
+  "lastUpdated": "2026-06-15T12:44:39.081Z",
+  "edition": 240
 }
