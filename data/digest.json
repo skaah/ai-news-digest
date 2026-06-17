@@ -1,6 +1,88 @@
 {
-  "date": "2026-06-17T05:18:59.030Z",
+  "date": "2026-06-17T11:18:32.924Z",
   "articles": [
+    {
+      "id": "mqhz9j7lbesmc1qm22",
+      "title": "From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot",
+      "summary": "...",
+      "source": {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co",
+        "favicon": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=64"
+      },
+      "category": "Hardware",
+      "tags": [
+        "Robotics"
+      ],
+      "publishedAt": "Wed, 17 Jun 2026 10:18:05 GMT",
+      "imageUrl": "https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?w=800",
+      "readTime": 1,
+      "originalUrl": "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware"
+    },
+    {
+      "id": "mqhz9m8zs58vhexxtk",
+      "title": "Au Royaume-Uni, Palantir Technologies multiplie les contrats et les critiques",
+      "summary": "Le Royaume-Uni est le deuxième marché mondial du groupe américain d’analyse de données. Mais son imbrication croissante avec les services de l’Etat suscite des craintes, notamment quant à la sécurité....",
+      "source": {
+        "name": "Le Monde Tech",
+        "url": "https://www.lemonde.fr",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.lemonde.fr&sz=64"
+      },
+      "category": "Policy",
+      "tags": [],
+      "publishedAt": "Wed, 17 Jun 2026 11:44:50 +0200",
+      "imageUrl": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.lemonde.fr/economie/article/2026/06/17/au-royaume-uni-palantir-technologies-multiplie-les-contrats-et-les-critiques_6704198_3234.html"
+    },
+    {
+      "id": "mqhz9j7lyiomq86wg6q",
+      "title": "GLM-5.2: Built for Long-Horizon Tasks",
+      "summary": "...",
+      "source": {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co",
+        "favicon": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Wed, 17 Jun 2026 09:01:25 GMT",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://huggingface.co/blog/zai-org/glm-52-blog"
+    },
+    {
+      "id": "mqhz9n8lkvlyymaez2c",
+      "title": "Pourquoi l'intelligence artificielle ne remplacera jamais le médecin",
+      "summary": "...",
+      "source": {
+        "name": "Maddyness",
+        "url": "https://www.maddyness.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.maddyness.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Wed, 17 Jun 2026 07:00:39 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.maddyness.com/2026/06/17/pourquoi-lintelligence-artificielle-ne-remplacera-jamais-le-medecin/"
+    },
+    {
+      "id": "mqhz9n8m6kzpfyy1mr",
+      "title": "IA Act : le marketing CRM est-il déjà dans la catégorie à risque ?",
+      "summary": "...",
+      "source": {
+        "name": "Maddyness",
+        "url": "https://www.maddyness.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.maddyness.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Wed, 17 Jun 2026 07:00:05 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.maddyness.com/2026/06/17/ia-act-le-marketing-crm-est-il-deja-dans-la-categorie-a-risque/"
+    },
     {
       "id": "mqhmf8pt9mrrc1xjbv6",
       "title": "VivaTech : Aive s’associe à Nvidia pour améliorer le référencement de la vidéo par les IA",
@@ -18,6 +100,22 @@
       "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
       "readTime": 1,
       "originalUrl": "https://www.maddyness.com/2026/06/17/vivatech-aive-sassocie-a-nvidia-pour-ameliorer-le-referencement-de-la-video-par-les-ia/"
+    },
+    {
+      "id": "mqhz9m8z4jrjie0ts2b",
+      "title": "Renseignement : le remplacement de Palantir par le français ChapsVision à la DGSI, un choix de souveraineté au long cours et complexe",
+      "summary": "Utilisé depuis les attentats de 2015, le logiciel d’analyse de données de la société américaine controversée doit progressivement laisser la place à celui de l’éditeur français. Une décision espérée de longue date, mais aussi, un défi technologique....",
+      "source": {
+        "name": "Le Monde Tech",
+        "url": "https://www.lemonde.fr",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.lemonde.fr&sz=64"
+      },
+      "category": "Policy",
+      "tags": [],
+      "publishedAt": "Wed, 17 Jun 2026 06:20:09 +0200",
+      "imageUrl": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.lemonde.fr/societe/article/2026/06/17/renseignement-le-remplacement-de-palantir-par-le-francais-chapsvision-a-la-dgsi-un-choix-de-souverainete-au-long-cours-et-complexe_6704166_3224.html"
     },
     {
       "id": "mqhmf2u9e2u7lf8nly5",
@@ -739,107 +837,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?w=800",
       "readTime": 1,
       "originalUrl": "https://www.marktechpost.com/2026/06/15/meet-flash-kmeans-an-io-aware-exact-k-means-that-runs-over-200x-faster-than-faiss-on-gpus/"
-    },
-    {
-      "id": "mqf7gn1vnjdvbacy6or",
-      "title": "IA : « Il faudra désormais se méfier des sauts de puces »",
-      "summary": "Avec l’essor de l’intelligence artificielle, la hiérarchie industrielle se trouve bouleversée. Ainsi, sur les marchés boursiers du monde entier, les fabricants de semi-conducteurs et d’infrastructures technologiques voient leurs cours s’envoler, constate Isabelle Chaperon, chroni...",
-      "source": {
-        "name": "Le Monde Tech",
-        "url": "https://www.lemonde.fr",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.lemonde.fr&sz=64"
-      },
-      "category": "Policy",
-      "tags": [],
-      "publishedAt": "Mon, 15 Jun 2026 10:56:33 +0200",
-      "imageUrl": "https://images.unsplash.com/photo-1575517111839-3a3843ee7f5d?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.lemonde.fr/economie/article/2026/06/15/ia-il-faudra-desormais-se-mefier-des-sauts-de-puces_6703175_3234.html"
-    },
-    {
-      "id": "mqf7ggidmbut0gagrb",
-      "title": "The AI layoff wave is becoming a powder keg",
-      "summary": "What makes this combustible: at the very moment that tens of thousands of workers are being shown the door, a small cohort of AI insiders is becoming wealthy on a scale that's hard to comprehend....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Mon, 15 Jun 2026 07:25:41 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/06/15/the-ai-layoff-wave-is-becoming-a-powder-keg/"
-    },
-    {
-      "id": "mqf7gkr99ppy30of41",
-      "title": "Z.ai Launches GLM-5.2 With a Usable 1M-Token Context, Two Thinking-Effort Levels, and No Benchmarks at Launch",
-      "summary": "...",
-      "source": {
-        "name": "MarkTechPost",
-        "url": "https://www.marktechpost.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
-      },
-      "category": "Product",
-      "tags": [],
-      "publishedAt": "Mon, 15 Jun 2026 06:10:23 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.marktechpost.com/2026/06/14/z-ai-launches-glm-5-2-with-a-usable-1m-token-context-two-thinking-effort-levels-and-no-benchmarks-at-launch/"
-    },
-    {
-      "id": "mqerxycino3ob2et46",
-      "title": "A Deep Reinforcement Learning (DRL)-Based Transformer Method for Solving the Open Shop Scheduling Problem",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Mon, 15 Jun 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2606.13682"
-    },
-    {
-      "id": "mqerxycj4m8euarcv",
-      "title": "UP-NRPA: User Portrait based Nested Rollout Policy Adaptation for Planning with Large Language Models in Goal-oriented Dialogue Systems",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Policy",
-      "tags": [
-        "LLM"
-      ],
-      "publishedAt": "Mon, 15 Jun 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1575517111839-3a3843ee7f5d?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2606.13683"
-    },
-    {
-      "id": "mqerxycksmwmqbn93vq",
-      "title": "History of the Muddy Children Puzzle",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Mon, 15 Jun 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2606.13703"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-06-17T05:18:59.030Z",
-  "edition": 246
+  "lastUpdated": "2026-06-17T11:18:32.924Z",
+  "edition": 247
 }
