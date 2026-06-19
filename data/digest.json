@@ -1,6 +1,60 @@
 {
-  "date": "2026-06-19T15:44:17.103Z",
+  "date": "2026-06-19T20:05:27.819Z",
   "articles": [
+    {
+      "id": "mqlcyt75agpdelv6ii7",
+      "title": "A better way to model the behavior of metal alloys",
+      "summary": "MIT researchers’ approach captures subtle atomic patterns, improving predictions of material properties....",
+      "source": {
+        "name": "MIT News AI",
+        "url": "https://news.mit.edu",
+        "favicon": "https://www.google.com/s2/favicons?domain=news.mit.edu&sz=64"
+      },
+      "category": "Research",
+      "tags": [
+        "Meta"
+      ],
+      "publishedAt": "Fri, 19 Jun 2026 14:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=800",
+      "readTime": 1,
+      "originalUrl": "https://news.mit.edu/2026/better-way-to-model-metal-alloys-behavior-0619"
+    },
+    {
+      "id": "mqlcyr9rrv8vhid8o7",
+      "title": "Is the US government’s Anthropic ban accidentally helping the brand?",
+      "summary": "Just as last week was ending, the US government forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to bypass Fable 5’s guardrails.  Cybersecurity researchers have since ...",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Research",
+      "tags": [
+        "Anthropic"
+      ],
+      "publishedAt": "Fri, 19 Jun 2026 16:08:17 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/"
+    },
+    {
+      "id": "mqlcyr9sovmis6bpsa",
+      "title": "The US banned Anthropic’s Fable 5 release, but the numbers don’t seem to care",
+      "summary": "Just as last week was ending, the US government forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to bypass Fable 5’s guardrails.  Cybersecurity researchers have since ...",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Research",
+      "tags": [
+        "Anthropic"
+      ],
+      "publishedAt": "Fri, 19 Jun 2026 16:01:03 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/podcast/the-us-banned-anthropics-fable-5-release-but-the-numbers-dont-seem-to-care/"
+    },
     {
       "id": "mql3n36gt2fx0eq206",
       "title": "VivaTech : les robots des startups européennes tentent de tirer leur épingle du jeu face aux géants chinois",
@@ -810,60 +864,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1555848962-6e79363ec58f?w=800",
       "readTime": 1,
       "originalUrl": "https://www.maddyness.com/2026/06/17/vivatech-yann-lecun-livre-un-plaidoyer-en-faveur-dune-ia-souveraine-pour-chaque-etat/"
-    },
-    {
-      "id": "mqi9kzaz56ec25qkcz5",
-      "title": "MolmoMotion: Language-guided 3D motion forecasting",
-      "summary": "...",
-      "source": {
-        "name": "Hugging Face Blog",
-        "url": "https://huggingface.co",
-        "favicon": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Wed, 17 Jun 2026 15:26:44 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://huggingface.co/blog/allenai/molmomotion"
-    },
-    {
-      "id": "mqi9kwkeb71hu5i6sdr",
-      "title": "The slowtech revolution is here to kill your phone addiction and rescue your attention span",
-      "summary": "“People just really want to take back control of their time, their lives, their attention... They’re down for whatever helps them do that.”...",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Wed, 17 Jun 2026 15:24:41 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/06/17/the-slowtech-revolution-is-here-to-kill-your-phone-addiction-and-rescue-your-attention-span/"
-    },
-    {
-      "id": "mqi9kwkfqoyq2w50j6",
-      "title": "Collecting robot training data is dirty, unglamorous work. Some AI labs are already paying XDOF to do it.",
-      "summary": "If physical AI is going to match the accomplishments of LLMs, there's a data problem that needs to be solved....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "LLM",
-        "Robotics"
-      ],
-      "publishedAt": "Wed, 17 Jun 2026 15:00:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/06/17/collecting-robot-training-data-is-dirty-unglamorous-work-some-ai-labs-are-already-paying-xdof-to-do-it/"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-06-19T15:44:17.102Z",
-  "edition": 256
+  "lastUpdated": "2026-06-19T20:05:27.819Z",
+  "edition": 257
 }
