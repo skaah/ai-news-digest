@@ -1,6 +1,128 @@
 {
-  "date": "2026-06-18T20:40:15.089Z",
+  "date": "2026-06-19T05:27:51.601Z",
   "articles": [
+    {
+      "id": "mqkhma6oz6wvuqiy55",
+      "title": "Deontic Policies for Runtime Governance of Agentic AI Systems",
+      "summary": "...",
+      "source": {
+        "name": "ArXiv cs.AI",
+        "url": "https://arxiv.org",
+        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Fri, 19 Jun 2026 00:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://arxiv.org/abs/2606.19464"
+    },
+    {
+      "id": "mqkhma6p6qhil9esen5",
+      "title": "Measuring Curriculum Alignment across Topical Coverage, Competency, and Cognitive Depth: A Longitudinal Framework Applied to CS2013 and CS2023",
+      "summary": "...",
+      "source": {
+        "name": "ArXiv cs.AI",
+        "url": "https://arxiv.org",
+        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "AI Safety"
+      ],
+      "publishedAt": "Fri, 19 Jun 2026 00:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://arxiv.org/abs/2606.19469"
+    },
+    {
+      "id": "mqkhma6pf1hsbxi5nf",
+      "title": "Diffusion Language Models: An Experimental Analysis",
+      "summary": "...",
+      "source": {
+        "name": "ArXiv cs.AI",
+        "url": "https://arxiv.org",
+        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Fri, 19 Jun 2026 00:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://arxiv.org/abs/2606.19475"
+    },
+    {
+      "id": "mqkhma6p936733v4bei",
+      "title": "Hidden Anchors in Multi-Agent LLM Deliberation",
+      "summary": "...",
+      "source": {
+        "name": "ArXiv cs.AI",
+        "url": "https://arxiv.org",
+        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "LLM"
+      ],
+      "publishedAt": "Fri, 19 Jun 2026 00:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://arxiv.org/abs/2606.19494"
+    },
+    {
+      "id": "mqkhma6qkba0l1atj4r",
+      "title": "DeXposure-Claw: An Agentic System for DeFi Risk Supervision",
+      "summary": "...",
+      "source": {
+        "name": "ArXiv cs.AI",
+        "url": "https://arxiv.org",
+        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
+      },
+      "category": "Policy",
+      "tags": [
+        "AI Safety"
+      ],
+      "publishedAt": "Fri, 19 Jun 2026 00:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1555848962-6e79363ec58f?w=800",
+      "readTime": 1,
+      "originalUrl": "https://arxiv.org/abs/2606.19501"
+    },
+    {
+      "id": "mqkhm5iyfjjuokpm35w",
+      "title": "Source: Elastic agrees to buy CRV-backed DeductiveAI for up to $85M",
+      "summary": "DeductiveAI, a startup that uses AI to catch and resolve bugs in software, was founded just three years ago. ...",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Startup"
+      ],
+      "publishedAt": "Fri, 19 Jun 2026 00:51:11 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/"
+    },
+    {
+      "id": "mqkhm5iyce3yetkul2w",
+      "title": "AI inference startup Baseten reportedly raising $1.5B months after its last mega-round",
+      "summary": "Startup Baseten is reportedly close to finalizing a $1.5 billion round at a $13 billion as the “inference gold rush\" marches on....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Funding",
+      "tags": [
+        "Startup"
+      ],
+      "publishedAt": "Thu, 18 Jun 2026 21:20:13 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/"
+    },
     {
       "id": "mqjyrmm290mtzfrhrfu",
       "title": "Snap spins off AI video team into new company, Dotmo, due to costs",
@@ -726,128 +848,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
       "readTime": 1,
       "originalUrl": "https://www.maddyness.com/2026/06/17/ia-act-le-marketing-crm-est-il-deja-dans-la-categorie-a-risque/"
-    },
-    {
-      "id": "mqij0qucc3pjqmultp",
-      "title": "OpenAI’s Deployment Simulation Extends Pre-Deployment Risk Assessment to Agentic Coding Through Simulated Tool Calls",
-      "summary": "...",
-      "source": {
-        "name": "MarkTechPost",
-        "url": "https://www.marktechpost.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
-      },
-      "category": "Ethics",
-      "tags": [
-        "OpenAI",
-        "AI Safety"
-      ],
-      "publishedAt": "Wed, 17 Jun 2026 05:49:54 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.marktechpost.com/2026/06/16/openai-deployment-simulation/"
-    },
-    {
-      "id": "mqhmf8pt9mrrc1xjbv6",
-      "title": "VivaTech : Aive s’associe à Nvidia pour améliorer le référencement de la vidéo par les IA",
-      "summary": "...",
-      "source": {
-        "name": "Maddyness",
-        "url": "https://www.maddyness.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.maddyness.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Nvidia"
-      ],
-      "publishedAt": "Wed, 17 Jun 2026 04:50:23 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.maddyness.com/2026/06/17/vivatech-aive-sassocie-a-nvidia-pour-ameliorer-le-referencement-de-la-video-par-les-ia/"
-    },
-    {
-      "id": "mqhz9m8z4jrjie0ts2b",
-      "title": "Renseignement : le remplacement de Palantir par le français ChapsVision à la DGSI, un choix de souveraineté au long cours et complexe",
-      "summary": "Utilisé depuis les attentats de 2015, le logiciel d’analyse de données de la société américaine controversée doit progressivement laisser la place à celui de l’éditeur français. Une décision espérée de longue date, mais aussi, un défi technologique....",
-      "source": {
-        "name": "Le Monde Tech",
-        "url": "https://www.lemonde.fr",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.lemonde.fr&sz=64"
-      },
-      "category": "Policy",
-      "tags": [],
-      "publishedAt": "Wed, 17 Jun 2026 06:20:09 +0200",
-      "imageUrl": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.lemonde.fr/societe/article/2026/06/17/renseignement-le-remplacement-de-palantir-par-le-francais-chapsvision-a-la-dgsi-un-choix-de-souverainete-au-long-cours-et-complexe_6704166_3224.html"
-    },
-    {
-      "id": "mqhmf2u9e2u7lf8nly5",
-      "title": "Could AI tell you where you left your keys?",
-      "summary": "A new spatial memory system for robots efficiently captures details about the objects they see while exploring their environment....",
-      "source": {
-        "name": "MIT News AI",
-        "url": "https://news.mit.edu",
-        "favicon": "https://www.google.com/s2/favicons?domain=news.mit.edu&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Robotics"
-      ],
-      "publishedAt": "Wed, 17 Jun 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://news.mit.edu/2026/could-ai-tell-you-where-you-left-your-keys-0617"
-    },
-    {
-      "id": "mqhmf5yv2bagemeqi2o",
-      "title": "Beyond Parallel Sampling: Diverse Query Initialization for Agentic Search",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Wed, 17 Jun 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2606.17209"
-    },
-    {
-      "id": "mqhmf5yw1kmhq7l4uhg",
-      "title": "When Rules Learn: A Self-Evolving Agent for Legal Case Retrieval",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Wed, 17 Jun 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2606.17220"
-    },
-    {
-      "id": "mqhmf5ywq3ew33wk7m",
-      "title": "SkillChain-Gym: A Benchmark for Reskilling-Aware Production-Inventory Control under Disruptions",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Product",
-      "tags": [],
-      "publishedAt": "Wed, 17 Jun 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1550009158-9ebf690be655?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2606.17266"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-06-18T20:40:15.088Z",
-  "edition": 253
+  "lastUpdated": "2026-06-19T05:27:51.601Z",
+  "edition": 254
 }
