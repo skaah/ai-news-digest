@@ -1,6 +1,41 @@
 {
-  "date": "2026-06-20T14:33:43.806Z",
+  "date": "2026-06-20T19:58:22.477Z",
   "articles": [
+    {
+      "id": "mqms5hwumdtxuz2xu09",
+      "title": "In the Weights is your new AI-centric vanity search",
+      "summary": "So ... what's your In the Weights score?...",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Sat, 20 Jun 2026 19:41:11 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/"
+    },
+    {
+      "id": "mqms5hwvo2o0zpdxfor",
+      "title": "Nobel laureate John Jumper is leaving DeepMind for rival Anthropic",
+      "summary": "Jumper isn't the only big name leaving Google DeepMind....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Anthropic",
+        "Google"
+      ],
+      "publishedAt": "Sat, 20 Jun 2026 16:39:57 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/"
+    },
     {
       "id": "mqmgk6oq3rtjh6gb1vs",
       "title": "« L’Europe est nue » : à Eurosatory, la rude leçon de l’Ukraine sur les drones et les robots terrestres",
@@ -831,41 +866,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
       "readTime": 1,
       "originalUrl": "https://techcrunch.com/2026/06/17/how-to-turn-off-ai-in-your-google-docs/"
-    },
-    {
-      "id": "mqjokzhytmjcxn7beob",
-      "title": "Beyond LoRA: Can you beat the most popular fine-tuning technique?",
-      "summary": "...",
-      "source": {
-        "name": "Hugging Face Blog",
-        "url": "https://huggingface.co",
-        "favicon": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Thu, 18 Jun 2026 00:00:00 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://huggingface.co/blog/peft-beyond-lora"
-    },
-    {
-      "id": "mqjokzhyqayqsykgj",
-      "title": "Is it agentic enough? Benchmarking open models on your own tooling",
-      "summary": "...",
-      "source": {
-        "name": "Hugging Face Blog",
-        "url": "https://huggingface.co",
-        "favicon": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Thu, 18 Jun 2026 00:00:00 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://huggingface.co/blog/is-it-agentic-enough"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-06-20T14:33:43.806Z",
-  "edition": 260
+  "lastUpdated": "2026-06-20T19:58:22.477Z",
+  "edition": 261
 }
