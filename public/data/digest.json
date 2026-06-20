@@ -1,6 +1,40 @@
 {
-  "date": "2026-06-20T09:44:39.968Z",
+  "date": "2026-06-20T14:33:43.806Z",
   "articles": [
+    {
+      "id": "mqmgk6oq3rtjh6gb1vs",
+      "title": "« L’Europe est nue » : à Eurosatory, la rude leçon de l’Ukraine sur les drones et les robots terrestres",
+      "summary": "...",
+      "source": {
+        "name": "Numerama",
+        "url": "https://www.numerama.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
+      },
+      "category": "Policy",
+      "tags": [
+        "Robotics"
+      ],
+      "publishedAt": "Sat, 20 Jun 2026 13:30:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1555848962-6e79363ec58f?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.numerama.com/tech/2279909-comme-faire-un-marathon-avant-meme-de-savoir-marcher-a-eurosatory-la-lecon-ukrainienne-en-matiere-de-drones-et-de-robots-terrestres.html"
+    },
+    {
+      "id": "mqmgk6osim9j3idfyx",
+      "title": "Est-il possible de tester Siri AI en France malgré le blocage en Europe ?",
+      "summary": "...",
+      "source": {
+        "name": "Numerama",
+        "url": "https://www.numerama.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
+      },
+      "category": "Policy",
+      "tags": [],
+      "publishedAt": "Sat, 20 Jun 2026 10:44:24 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1555848962-6e79363ec58f?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.numerama.com/tech/2276231-est-il-possible-de-tester-siri-ai-en-france-malgre-le-blocage-en-europe.html"
+    },
     {
       "id": "mqm68dks9u9tkigknog",
       "title": "Yandex Open-Sources YaFF: A Zero-Copy Wire Format for Protobuf With Near-Struct Read Speed",
@@ -829,41 +863,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
       "readTime": 1,
       "originalUrl": "https://huggingface.co/blog/is-it-agentic-enough"
-    },
-    {
-      "id": "mqj1ebvrev9xln59gpw",
-      "title": "Roelof Botha joins SpaceX’s board of directors",
-      "summary": "The former Sequoia Capital leader is filling an \"existing vacancy\" on SpaceX's board, days after the company went public in the largest IPO ever....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Wed, 17 Jun 2026 20:32:52 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/06/17/roelof-botha-joins-spacexs-board-of-directors/"
-    },
-    {
-      "id": "mqj1ebvsvnq3zdznt8",
-      "title": "After unveiling ridiculously expensive AR glasses, Snap’s stock takes a dive",
-      "summary": "Snap's long-awaited smart glasses debut hasn't exactly done wonders for the company's stock. ...",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Wed, 17 Jun 2026 20:24:28 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/06/17/after-unveiling-ridiculously-expensive-ar-glasses-snaps-stock-takes-a-dive/"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-06-20T09:44:39.968Z",
-  "edition": 259
+  "lastUpdated": "2026-06-20T14:33:43.806Z",
+  "edition": 260
 }
