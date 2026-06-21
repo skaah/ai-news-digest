@@ -1,6 +1,40 @@
 {
-  "date": "2026-06-21T05:20:38.619Z",
+  "date": "2026-06-21T10:07:00.187Z",
   "articles": [
+    {
+      "id": "mqnmh13gqqd5ykhv4aa",
+      "title": "Chaton Fat, carte bancaire dans le métro et IA souveraine : le récap tech de la semaine",
+      "summary": "...",
+      "source": {
+        "name": "Numerama",
+        "url": "https://www.numerama.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Sun, 21 Jun 2026 07:30:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.numerama.com/tech/2281181-chaton-fat-carte-bancaire-dans-le-metro-et-ia-souveraine-le-recap-tech-de-la-semaine.html"
+    },
+    {
+      "id": "mqnmgygco4wiom2unl8",
+      "title": "Crawlee for Python: Build a Web Crawling Pipeline with Robots Handling, Link Graphs, and RAG Chunk Export",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Robotics"
+      ],
+      "publishedAt": "Sun, 21 Jun 2026 06:52:10 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/06/20/crawlee-for-python-build-a-web-crawling-pipeline-with-robots-handling-link-graphs-and-rag-chunk-export/"
+    },
     {
       "id": "mqnc8ojwshw3eov9bfp",
       "title": "Cisco AI Introduces FAPO: Pipeline-Aware Prompt Optimization With Step-Level Failure Attribution and Claude Code Orchestration",
@@ -827,43 +861,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
       "readTime": 1,
       "originalUrl": "https://www.marktechpost.com/2026/06/18/the-kv-cache-compression-race-turboquant-vs-oscar-vs-epicache/"
-    },
-    {
-      "id": "mqjokyyc67qdtsj94bj",
-      "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
-      "summary": "Researchers used an OpenAI reasoning model to help diagnose rare diseases, identifying 18 new diagnoses in previously unsolved cases....",
-      "source": {
-        "name": "OpenAI News",
-        "url": "https://openai.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
-      },
-      "category": "Research",
-      "tags": [
-        "OpenAI"
-      ],
-      "publishedAt": "Thu, 18 Jun 2026 08:00:00 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=800",
-      "readTime": 1,
-      "originalUrl": "https://openai.com/index/diagnose-rare-childhood-diseases"
-    },
-    {
-      "id": "mqjokxt7ngt3vl4xez",
-      "title": "MIT in the media: For the future of tech, \"Massachusetts can absolutely lead\"",
-      "summary": "Leaders, faculty across MIT discuss fostering innovation and talent in Greater Boston in special series of articles published alongside the outlet's annual list of 'Tech Power Players'...",
-      "source": {
-        "name": "MIT News AI",
-        "url": "https://news.mit.edu",
-        "favicon": "https://www.google.com/s2/favicons?domain=news.mit.edu&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Thu, 18 Jun 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://news.mit.edu/2026/mit-media-future-tech-massachusetts-can-absolutely-lead"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-06-21T05:20:38.619Z",
-  "edition": 262
+  "lastUpdated": "2026-06-21T10:07:00.187Z",
+  "edition": 263
 }
