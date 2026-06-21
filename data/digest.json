@@ -1,6 +1,22 @@
 {
-  "date": "2026-06-21T10:07:00.187Z",
+  "date": "2026-06-21T14:34:49.524Z",
   "articles": [
+    {
+      "id": "mqnw1g8fnsbbgpqu5to",
+      "title": "Quand on a plus le temps de suivre le protocole : c’est quoi un hotfix en cybersécurité ?",
+      "summary": "...",
+      "source": {
+        "name": "Numerama",
+        "url": "https://www.numerama.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Sun, 21 Jun 2026 13:31:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.numerama.com/cyberguerre/2279243-quand-on-a-plus-le-temps-de-suivre-le-protocole-cest-quoi-un-hotfix-en-cybersecurite.html"
+    },
     {
       "id": "mqnmh13gqqd5ykhv4aa",
       "title": "Chaton Fat, carte bancaire dans le métro et IA souveraine : le récap tech de la semaine",
@@ -845,25 +861,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
       "readTime": 1,
       "originalUrl": "https://openai.com/index/improving-health-intelligence-in-chatgpt"
-    },
-    {
-      "id": "mqjol0r9thusi5bw2i",
-      "title": "The KV Cache Compression Race: TurboQuant vs OSCAR vs EpiCache",
-      "summary": "...",
-      "source": {
-        "name": "MarkTechPost",
-        "url": "https://www.marktechpost.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Thu, 18 Jun 2026 09:14:31 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.marktechpost.com/2026/06/18/the-kv-cache-compression-race-turboquant-vs-oscar-vs-epicache/"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-06-21T10:07:00.187Z",
-  "edition": 263
+  "lastUpdated": "2026-06-21T14:34:49.524Z",
+  "edition": 264
 }
