@@ -1,6 +1,24 @@
 {
-  "date": "2026-06-21T20:05:58.962Z",
+  "date": "2026-06-22T05:33:33.046Z",
   "articles": [
+    {
+      "id": "mqos53syuwk0vimh7p",
+      "title": "Samsung Electronics brings ChatGPT and Codex to employees",
+      "summary": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts....",
+      "source": {
+        "name": "OpenAI News",
+        "url": "https://openai.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "OpenAI"
+      ],
+      "publishedAt": "Sun, 21 Jun 2026 23:00:00 GMT",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment"
+    },
     {
       "id": "mqo7v4vtsk70tee53uf",
       "title": "When the Trump administration cracks down on Anthropic, who benefits?",
@@ -843,27 +861,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
       "readTime": 1,
       "originalUrl": "https://openai.com/index/chatgpt-enterprise-spend-controls"
-    },
-    {
-      "id": "mqjokvj1e6avpvtshhh",
-      "title": "General Intuition in talks to raise $300M at around $2B valuation",
-      "summary": "General Intuition is in talks to raise around $300 million at a roughly $2 billion valuation from backers including Jeff Bezos. The startup trains AI agents on spatial-temporal reasoning....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Funding",
-      "tags": [
-        "Startup"
-      ],
-      "publishedAt": "Thu, 18 Jun 2026 15:20:37 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/06/18/general-intuition-in-talks-to-raise-300m-at-around-2b-valuation/"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-06-21T20:05:58.961Z",
-  "edition": 265
+  "lastUpdated": "2026-06-22T05:33:33.046Z",
+  "edition": 266
 }
