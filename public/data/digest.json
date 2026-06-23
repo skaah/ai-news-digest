@@ -1,6 +1,92 @@
 {
-  "date": "2026-06-23T10:04:48.787Z",
+  "date": "2026-06-23T15:26:23.590Z",
   "articles": [
+    {
+      "id": "mqqsrgozp5a8daijeq",
+      "title": "Claude est en panne : Anthropic confirme un incident",
+      "summary": "...",
+      "source": {
+        "name": "Numerama",
+        "url": "https://www.numerama.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Anthropic"
+      ],
+      "publishedAt": "Tue, 23 Jun 2026 14:30:14 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.numerama.com/tech/2283195-claude-est-en-panne-anthropic-confirme-un-incident.html"
+    },
+    {
+      "id": "mqqsrgp0pnw3xt3pz2j",
+      "title": "Cloudflare, Firefox, Chrome et Microsoft Edge s’allient pour créer PACT, un protocole qui veut en finir avec les CAPTCHA",
+      "summary": "...",
+      "source": {
+        "name": "Numerama",
+        "url": "https://www.numerama.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
+      },
+      "category": "Policy",
+      "tags": [
+        "Microsoft"
+      ],
+      "publishedAt": "Tue, 23 Jun 2026 14:03:52 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1575517111839-3a3843ee7f5d?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.numerama.com/tech/2283009-cloudflare-firefox-chrome-et-microsoft-edge-sallient-pour-creer-pact-un-protocole-qui-veut-en-finir-avec-les-captcha.html"
+    },
+    {
+      "id": "mqqsr9wj2oej67a94fz",
+      "title": "4 days left to save up to $190 on TechCrunch Founder Summit 2026",
+      "summary": "Four days left to save up to $190 on your pass to TechCrunch Founder Summit 2026 - the ultimate founder bootcamp - before Early Bird rates end on June 26 at 11:59 p.m. PT. Register here....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Tue, 23 Jun 2026 14:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/06/23/4-days-left-to-save-up-to-190-on-techcrunch-founder-summit-2026/"
+    },
+    {
+      "id": "mqqsr9wkpwjytbp058",
+      "title": "Fika Jobs raises $4M to build a video-first hiring platform where AI agents interview candidates",
+      "summary": "Stockholm-based startup Fika Jobs is building a video-first hiring platform that combines AI interview agents with short-form video profiles, creating something that feels like a cross between LinkedIn and TikTok....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Startup"
+      ],
+      "publishedAt": "Tue, 23 Jun 2026 13:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/06/23/fika-jobs-raises-4m-to-build-a-video-first-hiring-platform-where-ai-agents-interview-candidates/"
+    },
+    {
+      "id": "mqqsrcrmjmpki7u608",
+      "title": "Build real agentic apps using CUGA: two dozen working examples on a lightweight harness",
+      "summary": "...",
+      "source": {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co",
+        "favicon": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Tue, 23 Jun 2026 12:51:55 GMT",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://huggingface.co/blog/ibm-research/cuga-apps"
+    },
     {
       "id": "mqqh9rdbiqmtqqfv8zi",
       "title": "The $400 million machine powering the future of chipmaking",
@@ -759,93 +845,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
       "readTime": 1,
       "originalUrl": "https://www.marktechpost.com/2026/06/20/yandex-open-sources-yaff-a-zero-copy-wire-format-for-protobuf-with-near-struct-read-speed/"
-    },
-    {
-      "id": "mqm68dktdavr6seizdd",
-      "title": "How to Build a Forecasting Pipeline with TimeCopilot Using Foundation Models and Automated Anomaly Detection",
-      "summary": "...",
-      "source": {
-        "name": "MarkTechPost",
-        "url": "https://www.marktechpost.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Microsoft"
-      ],
-      "publishedAt": "Sat, 20 Jun 2026 09:05:23 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.marktechpost.com/2026/06/20/how-to-build-a-forecasting-pipeline-with-timecopilot-using-foundation-models-and-automated-anomaly-detection/"
-    },
-    {
-      "id": "mqm68gbnsto574m7e1",
-      "title": "Écran AMOLED 120 Hz et Galaxy AI : le Samsung S25 FE est à prix cassé chez Amazon",
-      "summary": "...",
-      "source": {
-        "name": "Numerama",
-        "url": "https://www.numerama.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Sat, 20 Jun 2026 07:29:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.numerama.com/tech/2279711-ecran-amoled-120-hz-et-galaxy-ai-le-samsung-s25-fe-est-a-prix-casse-chez-amazon.html"
-    },
-    {
-      "id": "mqm68fs1mc11rifpqd",
-      "title": "Les entreprises face au bond spectaculaire de leur facture d’IA : « On sort de l’ère du repas gratuit »",
-      "summary": "Pour assurer une diffusion rapide de l’intelligence artificielle et gagner des parts de marché, les fabricants ont jusqu’ici « subventionné » l’utilisation de cette technologie. Maintenant que la demande explose, ils font évoluer leur mode de facturation, entraînant une envolée d...",
-      "source": {
-        "name": "Le Monde Tech",
-        "url": "https://www.lemonde.fr",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.lemonde.fr&sz=64"
-      },
-      "category": "Policy",
-      "tags": [],
-      "publishedAt": "Sat, 20 Jun 2026 08:30:07 +0200",
-      "imageUrl": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.lemonde.fr/economie/article/2026/06/20/les-entreprises-face-au-bond-spectaculaire-de-leur-facture-d-ia-on-sort-de-l-ere-du-repas-gratuit_6705279_3234.html"
-    },
-    {
-      "id": "mqlvg7osqszdkbssjln",
-      "title": "Les pouvoirs de la musique, ou comment nous sommes devenus les chefs d’orchestre des bandes-son de nos vies",
-      "summary": "Pratique culturelle plus répandue que la lecture ou le jeu vidéo, l’écoute musicale fait moins souvent l’objet de débats. Or la manière d’écouter a évolu�� au gré des techniques, passant peu à peu d’une pratique collective à un usage individuel, similaire à une forme d’autocondit...",
-      "source": {
-        "name": "Le Monde Tech",
-        "url": "https://www.lemonde.fr",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.lemonde.fr&sz=64"
-      },
-      "category": "Policy",
-      "tags": [],
-      "publishedAt": "Sat, 20 Jun 2026 06:00:39 +0200",
-      "imageUrl": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.lemonde.fr/idees/article/2026/06/20/les-pouvoirs-de-la-musique-ou-comment-nous-sommes-devenus-les-chefs-d-orchestre-des-bandes-son-de-nos-vies_6705269_3232.html"
-    },
-    {
-      "id": "mqlvg56pep7axme14ds",
-      "title": "NVIDIA AI Introduce SpatialClaw: A Training-Free Agent That Treats Code as the Action Interface for Spatial Reasoning",
-      "summary": "...",
-      "source": {
-        "name": "MarkTechPost",
-        "url": "https://www.marktechpost.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
-      },
-      "category": "Policy",
-      "tags": [
-        "Nvidia"
-      ],
-      "publishedAt": "Fri, 19 Jun 2026 22:51:59 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.marktechpost.com/2026/06/19/nvidia-ai-introduce-spatialclaw-a-training-free-agent-that-treats-code-as-the-action-interface-for-spatial-reasoning/"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-06-23T10:04:48.787Z",
-  "edition": 270
+  "lastUpdated": "2026-06-23T15:26:23.590Z",
+  "edition": 271
 }
