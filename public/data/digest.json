@@ -1,6 +1,56 @@
 {
-  "date": "2026-06-23T04:32:01.895Z",
+  "date": "2026-06-23T10:04:48.787Z",
   "articles": [
+    {
+      "id": "mqqh9rdbiqmtqqfv8zi",
+      "title": "The $400 million machine powering the future of chipmaking",
+      "summary": "Jos Benschop is climbing a ladder to get to the top of his newest machine.  It’s a bit of a schlep. The contraption is the size of a double-decker bus—more than 150 tons of gleaming precision-milled aluminum covered in thousands of snaking tubes, colored cables, and pressurized t...",
+      "source": {
+        "name": "MIT Tech Review AI",
+        "url": "https://www.technologyreview.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.technologyreview.com&sz=64"
+      },
+      "category": "Funding",
+      "tags": [],
+      "publishedAt": "Tue, 23 Jun 2026 09:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.technologyreview.com/2026/06/23/1138837/asml-400-million-dollar-machine-powering-future-of-chipmaking/"
+    },
+    {
+      "id": "mqqh9u6dzmgofajbexl",
+      "title": "Prime Intellect Releases prime-rl 0.6.0 to Train Trillion-Parameter MoE Models on Agentic RL Workloads",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Tue, 23 Jun 2026 07:20:44 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/06/23/prime-intellect-releases-prime-rl-0-6-0-to-train-trillion-parameter-moe-models-on-agentic-rl-workloads/"
+    },
+    {
+      "id": "mqqh9u6e4puh7a2o6b3",
+      "title": "GLM-5.2 OpenAI-Compatible API: A Hands-On Guide to Reasoning Effort, Function Calling, and Long-Context Retrieval",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "OpenAI"
+      ],
+      "publishedAt": "Tue, 23 Jun 2026 06:35:05 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/06/22/glm-5-2-openai-compatible-api-a-hands-on-guide-to-reasoning-effort-function-calling-and-long-context-retrieval/"
+    },
     {
       "id": "mqq5dsutqrnp7jz9p1",
       "title": "New chip could help tiny robots traverse complex environments",
@@ -100,6 +150,26 @@
       "originalUrl": "https://arxiv.org/abs/2606.20621"
     },
     {
+      "id": "mqqh9wke59eljpx07ae",
+      "title": "Google se fait braconner ses talents dans l’IA par OpenAI et Anthropic",
+      "summary": "La maison mère du géant de la tech, Alphabet, dévisse en Bourse, alors que les surinvestissements se poursuivent et qu’une guerre des prix dans l��intelligence artificielle, avec l’aide de modèles chinois, menace les leaders du secteur....",
+      "source": {
+        "name": "Le Monde Tech",
+        "url": "https://www.lemonde.fr",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.lemonde.fr&sz=64"
+      },
+      "category": "Policy",
+      "tags": [
+        "OpenAI",
+        "Anthropic",
+        "Google"
+      ],
+      "publishedAt": "Tue, 23 Jun 2026 05:27:21 +0200",
+      "imageUrl": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.lemonde.fr/international/article/2026/06/23/google-se-fait-braconner-ses-talents-dans-l-intelligence-artificielle-par-openai-et-anthropic_6708550_3210.html"
+    },
+    {
       "id": "mqq5dqxziomq7ysr3f9",
       "title": "The running list: major tech layoffs in 2026 where employers cited AI",
       "summary": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor....",
@@ -132,6 +202,40 @@
       "imageUrl": "https://images.unsplash.com/photo-1550009158-9ebf690be655?w=800",
       "readTime": 1,
       "originalUrl": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/"
+    },
+    {
+      "id": "mqqh9sg7pbvbx92e8f",
+      "title": "How Omio is building the future of conversational travel",
+      "summary": "Discover how Omio uses OpenAI to power conversational travel experiences, accelerate product development, and transform into an AI-native company....",
+      "source": {
+        "name": "OpenAI News",
+        "url": "https://openai.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
+      },
+      "category": "Product",
+      "tags": [
+        "OpenAI"
+      ],
+      "publishedAt": "Tue, 23 Jun 2026 00:00:00 GMT",
+      "imageUrl": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=800",
+      "readTime": 1,
+      "originalUrl": "https://openai.com/index/omio"
+    },
+    {
+      "id": "mqqh9sx7yhcfg4nhgym",
+      "title": "Shipping huggingface_hub every week with AI, open tools, and a human in the loop",
+      "summary": "...",
+      "source": {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co",
+        "favicon": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Tue, 23 Jun 2026 00:00:00 GMT",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://huggingface.co/blog/huggingface-hub-release-ci"
     },
     {
       "id": "mqppsfjriq6g57ayx6",
@@ -354,6 +458,22 @@
       "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
       "readTime": 1,
       "originalUrl": "https://www.marktechpost.com/2026/06/21/how-to-design-python-first-interactive-dashboards-with-prefab-reactive-ui-components-and-static-html-export/"
+    },
+    {
+      "id": "mqqh9sx86h2lj8uiw0e",
+      "title": "We got local models to triage the OpenClaw repo for FREE!*",
+      "summary": "...",
+      "source": {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co",
+        "favicon": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=64"
+      },
+      "category": "Policy",
+      "tags": [],
+      "publishedAt": "Mon, 22 Jun 2026 00:00:00 GMT",
+      "imageUrl": "https://images.unsplash.com/photo-1575517111839-3a3843ee7f5d?w=800",
+      "readTime": 1,
+      "originalUrl": "https://huggingface.co/blog/local-models-pr-triage"
     },
     {
       "id": "mqppshrgutblq4b8g7j",
@@ -723,132 +843,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800",
       "readTime": 1,
       "originalUrl": "https://www.marktechpost.com/2026/06/19/nvidia-ai-introduce-spatialclaw-a-training-free-agent-that-treats-code-as-the-action-interface-for-spatial-reasoning/"
-    },
-    {
-      "id": "mqlvg0si5x3w121vifc",
-      "title": "From PGP to Mythos: a brief history of export controls that didn’t stop anyone",
-      "summary": "For the last 30 years, stopping the flow of cybersecurity-related software has proven to be ineffective. It's unclear why it would work now with Anthropic’s cybersecurity model Mythos....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Anthropic"
-      ],
-      "publishedAt": "Fri, 19 Jun 2026 22:40:14 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/"
-    },
-    {
-      "id": "mqlvg56p1jueo3o74c1j",
-      "title": "VibeThinker-3B: A 3B Dense Reasoning Model Built on Qwen2.5-Coder-3B With the Spectrum-to-Signal Post-Training Pipeline",
-      "summary": "...",
-      "source": {
-        "name": "MarkTechPost",
-        "url": "https://www.marktechpost.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Fri, 19 Jun 2026 22:06:31 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.marktechpost.com/2026/06/19/vibethinker-3b-a-3b-dense-reasoning-model-built-on-qwen2-5-coder-3b-with-the-spectrum-to-signal-post-training-pipeline/"
-    },
-    {
-      "id": "mqlcyt75agpdelv6ii7",
-      "title": "A better way to model the behavior of metal alloys",
-      "summary": "MIT researchers’ approach captures subtle atomic patterns, improving predictions of material properties....",
-      "source": {
-        "name": "MIT News AI",
-        "url": "https://news.mit.edu",
-        "favicon": "https://www.google.com/s2/favicons?domain=news.mit.edu&sz=64"
-      },
-      "category": "Research",
-      "tags": [
-        "Meta"
-      ],
-      "publishedAt": "Fri, 19 Jun 2026 14:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=800",
-      "readTime": 1,
-      "originalUrl": "https://news.mit.edu/2026/better-way-to-model-metal-alloys-behavior-0619"
-    },
-    {
-      "id": "mqlcyr9rrv8vhid8o7",
-      "title": "Is the US government’s Anthropic ban accidentally helping the brand?",
-      "summary": "Just as last week was ending, the US government forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to bypass Fable 5’s guardrails.  Cybersecurity researchers have since ...",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Research",
-      "tags": [
-        "Anthropic"
-      ],
-      "publishedAt": "Fri, 19 Jun 2026 16:08:17 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/"
-    },
-    {
-      "id": "mqlcyr9sovmis6bpsa",
-      "title": "The US banned Anthropic’s Fable 5 release, but the numbers don’t seem to care",
-      "summary": "Just as last week was ending, the US government forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to bypass Fable 5’s guardrails.  Cybersecurity researchers have since ...",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Research",
-      "tags": [
-        "Anthropic"
-      ],
-      "publishedAt": "Fri, 19 Jun 2026 16:01:03 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/podcast/the-us-banned-anthropics-fable-5-release-but-the-numbers-dont-seem-to-care/"
-    },
-    {
-      "id": "mql3n36gt2fx0eq206",
-      "title": "VivaTech : les robots des startups européennes tentent de tirer leur épingle du jeu face aux géants chinois",
-      "summary": "...",
-      "source": {
-        "name": "Maddyness",
-        "url": "https://www.maddyness.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.maddyness.com&sz=64"
-      },
-      "category": "Policy",
-      "tags": [
-        "Robotics",
-        "Startup"
-      ],
-      "publishedAt": "Fri, 19 Jun 2026 15:37:31 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.maddyness.com/2026/06/19/vivatech-les-robots-des-startups-europeennes-tentent-de-tirer-leur-epingle-du-jeu-face-aux-geants-chinois/"
-    },
-    {
-      "id": "mql3mvmhbdtxtyu4alb",
-      "title": "Billionaire Ambani wants AI in every call, app, and home",
-      "summary": "Reliance is weaving AI into telecom services used by more than 500 million people....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Funding",
-      "tags": [],
-      "publishedAt": "Fri, 19 Jun 2026 15:23:28 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-06-23T04:32:01.895Z",
-  "edition": 269
+  "lastUpdated": "2026-06-23T10:04:48.787Z",
+  "edition": 270
 }
