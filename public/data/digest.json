@@ -1,6 +1,60 @@
 {
-  "date": "2026-06-23T15:26:23.590Z",
+  "date": "2026-06-23T20:24:57.449Z",
   "articles": [
+    {
+      "id": "mqr3ffc4ep2b8lw8124",
+      "title": "Nvidia dévoile un refroidissement 100 % liquide à 45 °C pour ses futurs data centers",
+      "summary": "...",
+      "source": {
+        "name": "Numerama",
+        "url": "https://www.numerama.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Nvidia"
+      ],
+      "publishedAt": "Tue, 23 Jun 2026 17:10:46 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.numerama.com/tech/2282377-nvidia-devoile-un-refroidissement-100-liquide-a-45-c-pour-ses-futurs-data-centers.html"
+    },
+    {
+      "id": "mqr3f89zt4dphya0csk",
+      "title": "Anthropic’s Claude Tag is learning your company, one Slack message at a time",
+      "summary": "Anthropic’s new Claude Tag brings an always-on AI teammate to Slack. But beyond productivity, the feature is a strategic play to capture organizational context, institutional knowledge, and enterprise workflows....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Product",
+      "tags": [
+        "Anthropic"
+      ],
+      "publishedAt": "Tue, 23 Jun 2026 17:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/06/23/anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time/"
+    },
+    {
+      "id": "mqr3fav4g82d4avl1rn",
+      "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
+      "summary": "GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior. The breakthrough could support cancer and autoimmune research....",
+      "source": {
+        "name": "OpenAI News",
+        "url": "https://openai.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
+      },
+      "category": "Research",
+      "tags": [
+        "OpenAI"
+      ],
+      "publishedAt": "Tue, 23 Jun 2026 17:00:00 GMT",
+      "imageUrl": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?w=800",
+      "readTime": 1,
+      "originalUrl": "https://openai.com/index/gpt-5-immunology-mystery"
+    },
     {
       "id": "mqqsrgozp5a8daijeq",
       "title": "Claude est en panne : Anthropic confirme un incident",
@@ -54,6 +108,25 @@
       "originalUrl": "https://techcrunch.com/2026/06/23/4-days-left-to-save-up-to-190-on-techcrunch-founder-summit-2026/"
     },
     {
+      "id": "mqr3fav3mw1iw3b5jr8",
+      "title": "Helping build shared standards for advanced AI",
+      "summary": "OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation....",
+      "source": {
+        "name": "OpenAI News",
+        "url": "https://openai.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
+      },
+      "category": "Ethics",
+      "tags": [
+        "OpenAI",
+        "AI Safety"
+      ],
+      "publishedAt": "Tue, 23 Jun 2026 13:00:00 GMT",
+      "imageUrl": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=800",
+      "readTime": 1,
+      "originalUrl": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai"
+    },
+    {
       "id": "mqqsr9wkpwjytbp058",
       "title": "Fika Jobs raises $4M to build a video-first hiring platform where AI agents interview candidates",
       "summary": "Stockholm-based startup Fika Jobs is building a video-first hiring platform that combines AI interview agents with short-form video profiles, creating something that feels like a cross between LinkedIn and TikTok....",
@@ -86,6 +159,22 @@
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
       "readTime": 1,
       "originalUrl": "https://huggingface.co/blog/ibm-research/cuga-apps"
+    },
+    {
+      "id": "mqr3f8a0w6c9yxoi99m",
+      "title": "Kiwibit’s AI-powered bird feeder is my new backyard buddy",
+      "summary": "If you're looking for a fun way to connect with nature while collecting bird species on an app like Pokémon, give this smart feeder a try....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Tue, 23 Jun 2026 12:30:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/06/23/kiwibits-ai-powered-bird-feeder-is-my-new-backyard-buddy/"
     },
     {
       "id": "mqqh9rdbiqmtqqfv8zi",
@@ -288,6 +377,22 @@
       "imageUrl": "https://images.unsplash.com/photo-1550009158-9ebf690be655?w=800",
       "readTime": 1,
       "originalUrl": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/"
+    },
+    {
+      "id": "mqr3fbe9ohxanx5vbsd",
+      "title": "Experimenting with the proposed Cross-Origin Storage API in Transformers.js",
+      "summary": "...",
+      "source": {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co",
+        "favicon": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Tue, 23 Jun 2026 00:00:00 GMT",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://huggingface.co/blog/cross-origin-storage"
     },
     {
       "id": "mqqh9sg7pbvbx92e8f",
@@ -744,110 +849,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800",
       "readTime": 1,
       "originalUrl": "https://www.marktechpost.com/2026/06/20/nous-research-updates-hermes-agent-with-a-blank-slate-mode-that-pins-toolsets-via-platform_toolsets-cli-and-disabled_toolsets/"
-    },
-    {
-      "id": "mqnc8kg5l7wmgvj9ky",
-      "title": "Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’",
-      "summary": "\"These are not your friends. These are not conscious beings. These are not sentient interlocutors.”...",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Sat, 20 Jun 2026 20:32:29 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/"
-    },
-    {
-      "id": "mqms5hwumdtxuz2xu09",
-      "title": "In the Weights is your new AI-centric vanity search",
-      "summary": "So ... what's your In the Weights score?...",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Sat, 20 Jun 2026 19:41:11 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/"
-    },
-    {
-      "id": "mqms5hwvo2o0zpdxfor",
-      "title": "Nobel laureate John Jumper is leaving DeepMind for rival Anthropic",
-      "summary": "Jumper isn't the only big name leaving Google DeepMind....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Anthropic",
-        "Google"
-      ],
-      "publishedAt": "Sat, 20 Jun 2026 16:39:57 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/"
-    },
-    {
-      "id": "mqmgk6oq3rtjh6gb1vs",
-      "title": "« L’Europe est nue » : à Eurosatory, la rude leçon de l’Ukraine sur les drones et les robots terrestres",
-      "summary": "...",
-      "source": {
-        "name": "Numerama",
-        "url": "https://www.numerama.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
-      },
-      "category": "Policy",
-      "tags": [
-        "Robotics"
-      ],
-      "publishedAt": "Sat, 20 Jun 2026 13:30:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1555848962-6e79363ec58f?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.numerama.com/tech/2279909-comme-faire-un-marathon-avant-meme-de-savoir-marcher-a-eurosatory-la-lecon-ukrainienne-en-matiere-de-drones-et-de-robots-terrestres.html"
-    },
-    {
-      "id": "mqmgk6osim9j3idfyx",
-      "title": "Est-il possible de tester Siri AI en France malgré le blocage en Europe ?",
-      "summary": "...",
-      "source": {
-        "name": "Numerama",
-        "url": "https://www.numerama.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
-      },
-      "category": "Policy",
-      "tags": [],
-      "publishedAt": "Sat, 20 Jun 2026 10:44:24 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1555848962-6e79363ec58f?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.numerama.com/tech/2276231-est-il-possible-de-tester-siri-ai-en-france-malgre-le-blocage-en-europe.html"
-    },
-    {
-      "id": "mqm68dks9u9tkigknog",
-      "title": "Yandex Open-Sources YaFF: A Zero-Copy Wire Format for Protobuf With Near-Struct Read Speed",
-      "summary": "...",
-      "source": {
-        "name": "MarkTechPost",
-        "url": "https://www.marktechpost.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Sat, 20 Jun 2026 09:23:59 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.marktechpost.com/2026/06/20/yandex-open-sources-yaff-a-zero-copy-wire-format-for-protobuf-with-near-struct-read-speed/"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-06-23T15:26:23.590Z",
-  "edition": 271
+  "lastUpdated": "2026-06-23T20:24:57.449Z",
+  "edition": 272
 }
