@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-25T04:36:17.195Z",
+  "date": "2026-06-25T09:46:07.906Z",
   "articles": [
     {
       "id": "mqt0ez8hh2b2o45aewe",
@@ -96,6 +96,24 @@
       "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
       "readTime": 1,
       "originalUrl": "https://arxiv.org/abs/2606.25103"
+    },
+    {
+      "id": "mqtbhgmqz7xq0g9yv5m",
+      "title": "How agents are transforming work",
+      "summary": "A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles....",
+      "source": {
+        "name": "OpenAI News",
+        "url": "https://openai.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
+      },
+      "category": "Product",
+      "tags": [
+        "OpenAI"
+      ],
+      "publishedAt": "Thu, 25 Jun 2026 02:00:00 GMT",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800",
+      "readTime": 1,
+      "originalUrl": "https://openai.com/index/how-agents-are-transforming-work"
     },
     {
       "id": "mqt0exednu2xd4je1fr",
@@ -828,25 +846,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
       "readTime": 1,
       "originalUrl": "https://huggingface.co/blog/ibm-research/cuga-apps"
-    },
-    {
-      "id": "mqr3f8a0w6c9yxoi99m",
-      "title": "Kiwibit’s AI-powered bird feeder is my new backyard buddy",
-      "summary": "If you're looking for a fun way to connect with nature while collecting bird species on an app like Pokémon, give this smart feeder a try....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Tue, 23 Jun 2026 12:30:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/06/23/kiwibits-ai-powered-bird-feeder-is-my-new-backyard-buddy/"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-06-25T04:36:17.195Z",
-  "edition": 277
+  "lastUpdated": "2026-06-25T09:46:07.906Z",
+  "edition": 278
 }
