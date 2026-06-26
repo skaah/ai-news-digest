@@ -1,6 +1,59 @@
 {
-  "date": "2026-06-26T09:53:15.120Z",
+  "date": "2026-06-26T14:49:03.680Z",
   "articles": [
+    {
+      "id": "mqv1qsnyzcboucsd3nm",
+      "title": "Early Bird pricing ends tonight for TechCrunch Founder Summit",
+      "summary": "Save up to $190 on your pass to TechCrunch Founder Summit 2026. Early Bird pricing ends today, at 11:59 p.m. PT, after which rates increase. Register now....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Fri, 26 Jun 2026 13:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/06/26/early-bird-pricing-ends-tonight-for-techcrunch-founder-summit/"
+    },
+    {
+      "id": "mqv1quqdajmy5jstf29",
+      "title": "LLMs help robots understand vague instructions and focus on key details",
+      "summary": " To help robots do chores in places like homes and factories, a new approach from MIT uses one language model to clarify users’ instructions, then another to ignore irrelevant info....",
+      "source": {
+        "name": "MIT News AI",
+        "url": "https://news.mit.edu",
+        "favicon": "https://www.google.com/s2/favicons?domain=news.mit.edu&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "LLM",
+        "Robotics"
+      ],
+      "publishedAt": "Fri, 26 Jun 2026 09:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://news.mit.edu/2026/llms-help-robots-understand-vague-instructions-and-focus-key-details-0626"
+    },
+    {
+      "id": "mqv1r02u3g8od8nokae",
+      "title": "Sony supprime plus d’un tiers des effectifs du studio Bungie, développeur de « Destiny » et « Marathon »",
+      "summary": "Le constructeur de la PlayStation avait déjà licencié, en 2024, 200 employés de ce studio acheté 3,6 milliards de dollars en 2024. Son rival Microsoft pourrait également réduire ses propres effectifs....",
+      "source": {
+        "name": "Le Monde Tech",
+        "url": "https://www.lemonde.fr",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.lemonde.fr&sz=64"
+      },
+      "category": "Policy",
+      "tags": [
+        "Microsoft"
+      ],
+      "publishedAt": "Fri, 26 Jun 2026 12:29:33 +0200",
+      "imageUrl": "https://images.unsplash.com/photo-1555848962-6e79363ec58f?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.lemonde.fr/pixels/article/2026/06/26/sony-supprime-plus-d-un-tiers-des-effectifs-du-studio-bungie-developpeur-de-destiny-et-marathon_6715830_4408996.html"
+    },
     {
       "id": "mqur6isk3flgfpngjw7",
       "title": "Meet container: Apple’s Open-Source Swift Tool for Running Linux Containers as Lightweight VMs on Apple Silicon",
@@ -794,59 +847,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
       "readTime": 1,
       "originalUrl": "https://www.technologyreview.com/2026/06/24/1139202/the-emergence-of-the-web-data-infrastructure-layer-for-ai/"
-    },
-    {
-      "id": "mqrw9vn17pqmhpw0xqt",
-      "title": "Anthropic lance Claude Tag  et souhaite devenir votre collègue dans Slack : voici comment le tester",
-      "summary": "...",
-      "source": {
-        "name": "Numerama",
-        "url": "https://www.numerama.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Anthropic"
-      ],
-      "publishedAt": "Wed, 24 Jun 2026 09:47:50 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.numerama.com/tech/2283531-anthropic-lance-claude-tag-et-souhaite-devenir-votre-collegue-dans-slack-voici-comment-le-tester.html"
-    },
-    {
-      "id": "mqrw9vn1vp7x7vf0b",
-      "title": "Mistral lance OCR 4, une IA capable de déchiffrer les manuscrits et 170 langues",
-      "summary": "...",
-      "source": {
-        "name": "Numerama",
-        "url": "https://www.numerama.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Wed, 24 Jun 2026 09:41:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.numerama.com/tech/2283529-mistral-lance-ocr-4-une-ia-capable-de-dechiffrer-les-manuscrits-et-170-langues.html"
-    },
-    {
-      "id": "mqrw9suip39ikespzya",
-      "title": "Using Graphify and NetworkX to Map Python Codebase Structure with God Nodes, Communities, and Architecture Visualizations",
-      "summary": "...",
-      "source": {
-        "name": "MarkTechPost",
-        "url": "https://www.marktechpost.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Wed, 24 Jun 2026 09:36:59 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.marktechpost.com/2026/06/24/using-graphify-and-networkx-to-map-python-codebase-structure-with-god-nodes-communities-and-architecture-visualizations/"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-06-26T09:53:15.120Z",
-  "edition": 282
+  "lastUpdated": "2026-06-26T14:49:03.680Z",
+  "edition": 283
 }
