@@ -1,6 +1,144 @@
 {
-  "date": "2026-06-25T20:23:37.901Z",
+  "date": "2026-06-26T04:42:35.447Z",
   "articles": [
+    {
+      "id": "mqug32gs1u4kxk96kfb",
+      "title": "Avec son modèle « 0,7 nm », IBM dévoile une nouvelle technologie qui augmente de 50 % la puissance des puces",
+      "summary": "Grâce à une nouvelle architecture en trois dimensions, le groupe américain promet de placer près de 100 milliards de transistors sur une puce de la taille d’un ongle de la main, soit le double de la densité du modèle actuel le plus avancé....",
+      "source": {
+        "name": "Le Monde Tech",
+        "url": "https://www.lemonde.fr",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.lemonde.fr&sz=64"
+      },
+      "category": "Hardware",
+      "tags": [],
+      "publishedAt": "Fri, 26 Jun 2026 06:31:15 +0200",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.lemonde.fr/pixels/article/2026/06/26/avec-son-modele-0-7-nm-ibm-devoile-une-nouvelle-technologie-qui-augmente-de-50-la-puissance-des-puces_6715793_4408996.html"
+    },
+    {
+      "id": "mqug30jyyricj7lmy5p",
+      "title": "Detecting and Controlling Sycophancy with Cascading Linear Features",
+      "summary": "...",
+      "source": {
+        "name": "ArXiv cs.AI",
+        "url": "https://arxiv.org",
+        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Fri, 26 Jun 2026 00:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://arxiv.org/abs/2606.26155"
+    },
+    {
+      "id": "mqug30jym5z69ffb3qa",
+      "title": "Life After Benchmark Saturation: A Case Study of CORE-Bench",
+      "summary": "...",
+      "source": {
+        "name": "ArXiv cs.AI",
+        "url": "https://arxiv.org",
+        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
+      },
+      "category": "Research",
+      "tags": [],
+      "publishedAt": "Fri, 26 Jun 2026 00:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=800",
+      "readTime": 1,
+      "originalUrl": "https://arxiv.org/abs/2606.26158"
+    },
+    {
+      "id": "mqug30jzhwr1l7ng8bn",
+      "title": "Refusal Lives Downstream of Persona in Chat Models",
+      "summary": "...",
+      "source": {
+        "name": "ArXiv cs.AI",
+        "url": "https://arxiv.org",
+        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Fri, 26 Jun 2026 00:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://arxiv.org/abs/2606.26161"
+    },
+    {
+      "id": "mqug30jztppzvdf7kp",
+      "title": "AlgoEvolve: LLM-driven Meta-evolution of Algorithmic Trading Programs",
+      "summary": "...",
+      "source": {
+        "name": "ArXiv cs.AI",
+        "url": "https://arxiv.org",
+        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Meta",
+        "LLM"
+      ],
+      "publishedAt": "Fri, 26 Jun 2026 00:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://arxiv.org/abs/2606.26173"
+    },
+    {
+      "id": "mqug30jzsjv029wsoc",
+      "title": "Agentic Analysis for Agentic Infrastructure: An LLM-Powered Pipeline for Comparative Governance of DAO and Corporate AI Protocols",
+      "summary": "...",
+      "source": {
+        "name": "ArXiv cs.AI",
+        "url": "https://arxiv.org",
+        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "LLM"
+      ],
+      "publishedAt": "Fri, 26 Jun 2026 00:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://arxiv.org/abs/2606.26203"
+    },
+    {
+      "id": "mqug2z1zmmrz5f1rmii",
+      "title": "Run a vLLM Server on HF Jobs in One Command",
+      "summary": "...",
+      "source": {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co",
+        "favicon": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "LLM"
+      ],
+      "publishedAt": "Fri, 26 Jun 2026 00:00:00 GMT",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://huggingface.co/blog/vllm-jobs"
+    },
+    {
+      "id": "mqug2vwx19aibfz9dcp",
+      "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
+      "summary": "penAI reportedly plans to share its newest model, GPT 5.6, with a select group of partners instead of to the broader public. The reason: the Trump administration told it to....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Ethics",
+      "tags": [
+        "OpenAI",
+        "AI Safety"
+      ],
+      "publishedAt": "Thu, 25 Jun 2026 23:34:39 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/"
+    },
     {
       "id": "mqty9847sxumhydyq4c",
       "title": "Patronus AI lands $50M  to build ‘digital worlds’ that stress-test AI agents",
@@ -704,144 +842,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
       "readTime": 1,
       "originalUrl": "https://www.marktechpost.com/2026/06/24/top-generative-ai-coding-tools-of-2026/"
-    },
-    {
-      "id": "mqrw9sukdmi5yrgb47r",
-      "title": "DFlash Speculative Decoding Drafts Whole Token Blocks in Parallel for Up to 15x Higher Throughput on NVIDIA Blackwell",
-      "summary": "...",
-      "source": {
-        "name": "MarkTechPost",
-        "url": "https://www.marktechpost.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Nvidia"
-      ],
-      "publishedAt": "Wed, 24 Jun 2026 07:21:10 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.marktechpost.com/2026/06/24/dflash-speculative-decoding-drafts-whole-token-blocks-in-parallel-for-up-to-15x-higher-throughput-on-nvidia-blackwell/"
-    },
-    {
-      "id": "mqs7mztd3w8u429nkhs",
-      "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
-      "summary": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems....",
-      "source": {
-        "name": "OpenAI News",
-        "url": "https://openai.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
-      },
-      "category": "Hardware",
-      "tags": [
-        "OpenAI",
-        "LLM"
-      ],
-      "publishedAt": "Wed, 24 Jun 2026 06:00:00 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1555664424-778a69022365?w=800",
-      "readTime": 1,
-      "originalUrl": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip"
-    },
-    {
-      "id": "mqrl3sxwmzf3q7f4krm",
-      "title": "RIFT-Bench: Dynamic Red-teaming For Agentic AI Systems",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Wed, 24 Jun 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2606.23927"
-    },
-    {
-      "id": "mqrl3sxwasxs11cglri",
-      "title": "Neuro-Symbolic Drive: Rule-Grounded Faithful Reasoning for Driving VLAs",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Policy",
-      "tags": [],
-      "publishedAt": "Wed, 24 Jun 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2606.23938"
-    },
-    {
-      "id": "mqrl3sxxoxbe6b5ggme",
-      "title": "Critique of Agent Model",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Wed, 24 Jun 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2606.23991"
-    },
-    {
-      "id": "mqrl3sxxrjm7c5v9dkf",
-      "title": "Safe and Generalizable Hierarchical Multi-Agent RL via Constraint Manifold Control",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Wed, 24 Jun 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2606.24010"
-    },
-    {
-      "id": "mqrl3sxx1c5o0dm64rl",
-      "title": "Reinforcement Learning Towards Broadly and Persistently Beneficial Models",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Wed, 24 Jun 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2606.24014"
-    },
-    {
-      "id": "mqrl3urptkqzao5l2w",
-      "title": "Alphabet, la maison mère de Google, va rejoindre l’indice Dow Jones",
-      "summary": "La décision prendra effet le 29 juin. Le géant du numérique américain était jusqu’ici coté au Nasdaq....",
-      "source": {
-        "name": "Le Monde Tech",
-        "url": "https://www.lemonde.fr",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.lemonde.fr&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Google"
-      ],
-      "publishedAt": "Wed, 24 Jun 2026 03:24:54 +0200",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.lemonde.fr/economie/article/2026/06/24/alphabet-la-maison-mere-de-google-va-rejoindre-l-indice-dow-jones_6710026_3234.html"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-06-25T20:23:37.901Z",
-  "edition": 280
+  "lastUpdated": "2026-06-26T04:42:35.447Z",
+  "edition": 281
 }
