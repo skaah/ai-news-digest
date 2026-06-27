@@ -1,6 +1,25 @@
 {
-  "date": "2026-06-27T04:18:42.320Z",
+  "date": "2026-06-27T09:06:55.748Z",
   "articles": [
+    {
+      "id": "mqw4yvvhzcl9jbcjaxq",
+      "title": "OpenAI dévoile GPT-5.6 Sol, Terra et Luna : trois versions pour répondre à Anthropic",
+      "summary": "...",
+      "source": {
+        "name": "Numerama",
+        "url": "https://www.numerama.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "OpenAI",
+        "Anthropic"
+      ],
+      "publishedAt": "Sat, 27 Jun 2026 07:22:31 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.numerama.com/tech/2286787-openai-devoile-gpt-5-6-sol-terra-et-luna-trois-versions-pour-repondre-a-anthropic.html"
+    },
     {
       "id": "mqvuo0txheobpkys6ej",
       "title": "Trump Admin releases Anthropic  Mythos to be used by more than 100 US companies, agencies",
@@ -840,27 +859,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
       "readTime": 1,
       "originalUrl": "https://techcrunch.com/2026/06/24/companies-are-scrambling-to-stop-employees-from-maxing-out-ai-budgets-with-small-tasks/"
-    },
-    {
-      "id": "mqsifg9nj7pypeu0du",
-      "title": "Gradium Launches stt-translate and s2s-translate, Real-Time Speech Translation Models Beating gpt-realtime-translate on Accuracy and Latency",
-      "summary": "...",
-      "source": {
-        "name": "MarkTechPost",
-        "url": "https://www.marktechpost.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
-      },
-      "category": "Product",
-      "tags": [
-        "OpenAI"
-      ],
-      "publishedAt": "Wed, 24 Jun 2026 20:00:21 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.marktechpost.com/2026/06/24/gradium-launches-stt-translate-and-s2s-translate-real-time-speech-translation-models-beating-gpt-realtime-translate-on-accuracy-and-latency/"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-06-27T04:18:42.320Z",
-  "edition": 285
+  "lastUpdated": "2026-06-27T09:06:55.748Z",
+  "edition": 286
 }
