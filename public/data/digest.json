@@ -1,6 +1,40 @@
 {
-  "date": "2026-06-29T05:01:49.984Z",
+  "date": "2026-06-29T11:25:21.961Z",
   "articles": [
+    {
+      "id": "mqz4slhzb5k8i7i1xtr",
+      "title": "Orange affecté par un « incident technique » entraînant des perturbations sur les connexions 4G et 5G",
+      "summary": "Cet incident technique, dont l’origine exacte n’a pas été précisée, concerne des clients d’Orange partout en France. « L’analyse se poursuit, et plusieurs actions techniques ont été engagées », assure l’opérateur....",
+      "source": {
+        "name": "Le Monde Tech",
+        "url": "https://www.lemonde.fr",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.lemonde.fr&sz=64"
+      },
+      "category": "Policy",
+      "tags": [],
+      "publishedAt": "Mon, 29 Jun 2026 12:35:52 +0200",
+      "imageUrl": "https://images.unsplash.com/photo-1555848962-6e79363ec58f?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.lemonde.fr/pixels/article/2026/06/29/orange-affecte-par-un-incident-technique-entrainant-des-perturbations-sur-les-connexions-4g-et-5g_6716903_4408996.html"
+    },
+    {
+      "id": "mqz4shy1qwyhjsr4yql",
+      "title": "Mapping Europe’s AI Workforce Opportunity",
+      "summary": "A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes....",
+      "source": {
+        "name": "OpenAI News",
+        "url": "https://openai.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
+      },
+      "category": "Policy",
+      "tags": [
+        "OpenAI"
+      ],
+      "publishedAt": "Mon, 29 Jun 2026 07:00:00 GMT",
+      "imageUrl": "https://images.unsplash.com/photo-1555848962-6e79363ec58f?w=800",
+      "readTime": 1,
+      "originalUrl": "https://openai.com/index/mapping-ai-jobs-transition-eu"
+    },
     {
       "id": "mqyr3dobt2pokicr21e",
       "title": "Le groupe identitaire Némésis se finance grâce à Paypal, qui ferme les yeux",
@@ -838,41 +872,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
       "readTime": 1,
       "originalUrl": "https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x/"
-    },
-    {
-      "id": "mqty9b1ea6uoryz12wk",
-      "title": "Which tokens does a hybrid model predict better?",
-      "summary": "...",
-      "source": {
-        "name": "Hugging Face Blog",
-        "url": "https://huggingface.co",
-        "favicon": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Thu, 25 Jun 2026 16:11:42 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://huggingface.co/blog/allenai/hybrid-token-prediction"
-    },
-    {
-      "id": "mqty99v93q8qqn03dgl",
-      "title": "MIT in the media: Exploring how curiosity-driven science is an essential ingredient in America’s success",
-      "summary": "“Scientific American” showcases the history and future of America’s scientific engine, highlighting promising young scientists and icons at MIT and beyond. ...",
-      "source": {
-        "name": "MIT News AI",
-        "url": "https://news.mit.edu",
-        "favicon": "https://www.google.com/s2/favicons?domain=news.mit.edu&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Thu, 25 Jun 2026 12:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://news.mit.edu/2026/mit-media-exploring-how-curiosity-driven-science-essential-ingredient-americas-success"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-06-29T05:01:49.984Z",
-  "edition": 293
+  "lastUpdated": "2026-06-29T11:25:21.960Z",
+  "edition": 294
 }
