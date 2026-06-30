@@ -1,6 +1,40 @@
 {
-  "date": "2026-06-29T20:17:12.787Z",
+  "date": "2026-06-30T04:36:22.752Z",
   "articles": [
+    {
+      "id": "mr05maxazmiglwydbxd",
+      "title": "The AI jobs debate just got messier",
+      "summary": "A new report finds \"high-intensity AI adopters” saw headcount increase 10.2%. Among those companies, entry-level headcount rose by 12%, countering the rhetoric that AI kills junior jobs. ...",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Tue, 30 Jun 2026 04:01:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/"
+    },
+    {
+      "id": "mr05maxbx68qtmbectf",
+      "title": "Vibe coding platform Base44 launches own model as AI startups seek defensibility",
+      "summary": "Wix-owned vibe coding platform Base44 has started rolling out its own AI model — with hopes that it will eventually outperform frontier models....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Product",
+      "tags": [
+        "Startup"
+      ],
+      "publishedAt": "Tue, 30 Jun 2026 02:28:41 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/"
+    },
     {
       "id": "mqznsdnuy5uii670w1s",
       "title": "Gemini’s personalized AI image generation is now free for U.S. users",
@@ -829,46 +863,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
       "readTime": 1,
       "originalUrl": "https://news.mit.edu/2026/llms-help-robots-understand-vague-instructions-and-focus-key-details-0626"
-    },
-    {
-      "id": "mqv1r02u3g8od8nokae",
-      "title": "Sony supprime plus d’un tiers des effectifs du studio Bungie, développeur de « Destiny » et « Marathon »",
-      "summary": "Le constructeur de la PlayStation avait déjà licencié, en 2024, 200 employés de ce studio acheté 3,6 milliards de dollars en 2024. Son rival Microsoft pourrait également réduire ses propres effectifs....",
-      "source": {
-        "name": "Le Monde Tech",
-        "url": "https://www.lemonde.fr",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.lemonde.fr&sz=64"
-      },
-      "category": "Policy",
-      "tags": [
-        "Microsoft"
-      ],
-      "publishedAt": "Fri, 26 Jun 2026 12:29:33 +0200",
-      "imageUrl": "https://images.unsplash.com/photo-1555848962-6e79363ec58f?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.lemonde.fr/pixels/article/2026/06/26/sony-supprime-plus-d-un-tiers-des-effectifs-du-studio-bungie-developpeur-de-destiny-et-marathon_6715830_4408996.html"
-    },
-    {
-      "id": "mqvdbtlbkegkuj9jla",
-      "title": "Previewing GPT-5.6 Sol: a next-generation model",
-      "summary": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack....",
-      "source": {
-        "name": "OpenAI News",
-        "url": "https://openai.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
-      },
-      "category": "Ethics",
-      "tags": [
-        "OpenAI",
-        "AI Safety"
-      ],
-      "publishedAt": "Fri, 26 Jun 2026 10:00:00 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=800",
-      "readTime": 1,
-      "originalUrl": "https://openai.com/index/previewing-gpt-5-6-sol"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-06-29T20:17:12.787Z",
-  "edition": 296
+  "lastUpdated": "2026-06-30T04:36:22.751Z",
+  "edition": 297
 }
