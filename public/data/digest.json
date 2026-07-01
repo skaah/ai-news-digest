@@ -1,6 +1,60 @@
 {
-  "date": "2026-07-01T04:55:55.827Z",
+  "date": "2026-07-01T10:17:03.650Z",
   "articles": [
+    {
+      "id": "mr1x8e2dwye4t2pu3jd",
+      "title": "NVIDIA Releases Nemotron-Labs-TwoTower: an Open-Weight Diffusion Language Model Built on a Frozen Autoregressive Nemotron-3-Nano-30B-A3B Backbone",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Nvidia"
+      ],
+      "publishedAt": "Wed, 01 Jul 2026 08:10:17 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/07/01/nvidia-releases-nemotron-labs-twotower/"
+    },
+    {
+      "id": "mr1x8e2ehxgrpis3b1i",
+      "title": "Google AI Introduces TabFM: A Hybrid-Attention Tabular Foundation Model for Zero-Shot Classification and Regression",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Google"
+      ],
+      "publishedAt": "Wed, 01 Jul 2026 07:48:59 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/07/01/google-ai-introduces-tabfm-a-hybrid-attention-tabular-foundation-model-for-zero-shot-classification-and-regression/"
+    },
+    {
+      "id": "mr1x8e2focjiookifoo",
+      "title": "CUP (Common Useful Python): Building Reliable Python Workflows with Baidu’s Utility Toolkit",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "China"
+      ],
+      "publishedAt": "Wed, 01 Jul 2026 06:03:21 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/06/30/cup-common-useful-python-building-reliable-python-workflows-with-baidus-utility-toolkit/"
+    },
     {
       "id": "mr1lrfbsl14b6n50qu",
       "title": "What Drives Interactive Improvement from Feedback?",
@@ -802,60 +856,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=800",
       "readTime": 1,
       "originalUrl": "https://techcrunch.com/2026/06/29/arena-the-ai-leaderboard-everyone-uses-is-now-a-100m-business/"
-    },
-    {
-      "id": "mqznsdnwnp2url42kx",
-      "title": "Cursor now has a mobile app for guiding your coding agent on the go",
-      "summary": "Cursor has launched a new mobile app for remote oversight over coding agents....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Product",
-      "tags": [],
-      "publishedAt": "Mon, 29 Jun 2026 17:03:50 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1550009158-9ebf690be655?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/06/29/cursor-now-has-a-mobile-app-for-guiding-your-coding-agent-on-the-go/"
-    },
-    {
-      "id": "mqzf2cl9acr88ntydf",
-      "title": "Agent confidence on the technical frontier",
-      "summary": "Enterprise investment in AI is booming. Gartner is calling 2026 an “inflection year” for organizations to align their AI projects with strategic business objectives. As the pressure to prove ROI mounts, executives and technology leaders are looking to agentic AI to drive the meas...",
-      "source": {
-        "name": "MIT Tech Review AI",
-        "url": "https://www.technologyreview.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.technologyreview.com&sz=64"
-      },
-      "category": "Funding",
-      "tags": [],
-      "publishedAt": "Mon, 29 Jun 2026 14:44:01 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.technologyreview.com/2026/06/29/1139635/agent-confidence-on-the-technical-frontier/"
-    },
-    {
-      "id": "mqzf2b4omo9ds7h6kvd",
-      "title": "Robot hand company settles Tesla trade secret suit and announces $11M raise",
-      "summary": "The startup, Proception, is taking a unique approach to collecting training data to tackle one of the hardest problems in robotics: hands....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Robotics",
-        "Startup"
-      ],
-      "publishedAt": "Mon, 29 Jun 2026 14:00:08 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-07-01T04:55:55.826Z",
-  "edition": 301
+  "lastUpdated": "2026-07-01T10:17:03.650Z",
+  "edition": 302
 }
