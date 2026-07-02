@@ -1,6 +1,43 @@
 {
-  "date": "2026-07-02T04:32:42.009Z",
+  "date": "2026-07-02T09:35:22.616Z",
   "articles": [
+    {
+      "id": "mr3b6n2jr35yz8a7l87",
+      "title": "The Google Health API Got a CLI: ghealth is an Open-Source Tool for Your Fitbit Air Data",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Google"
+      ],
+      "publishedAt": "Thu, 02 Jul 2026 08:46:56 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/07/02/the-google-health-api-got-a-cli-ghealth-is-an-open-source-tool-for-your-fitbit-air-data/"
+    },
+    {
+      "id": "mr3b6j3g46424s142s3",
+      "title": "Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office",
+      "summary": "Neo is Bhavin Turakhia’s fifth venture and his latest involving enterprise software. This time he's taking on Microsoft Office, Google Apps with AI....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Google",
+        "Microsoft"
+      ],
+      "publishedAt": "Thu, 02 Jul 2026 05:30:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/"
+    },
     {
       "id": "mr30dfe0rie876s9yde",
       "title": "Constructive Alignment: Governing Preference Dynamics in Human-AI Interaction",
@@ -98,6 +135,40 @@
       "imageUrl": "https://images.unsplash.com/photo-1575517111839-3a3843ee7f5d?w=800",
       "readTime": 1,
       "originalUrl": "https://www.lemonde.fr/economie/article/2026/07/02/dans-le-guihzou-la-frenesie-de-construction-de-ponts-et-d-autoroutes-au-c-ur-du-modele-de-developpement-chinois-se-heurte-au-mur-de-la-dette_6717750_3234.html"
+    },
+    {
+      "id": "mr3b6n2jnk1ulstl0f",
+      "title": "Using Lift to Turn Research PDFs into Structured JSON with Controlled, Schema-Guided Field-Level Evaluation",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Research",
+      "tags": [],
+      "publishedAt": "Wed, 01 Jul 2026 21:09:53 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/07/01/using-lift-to-turn-research-pdfs-into-structured-json-with-controlled-schema-guided-field-level-evaluation/"
+    },
+    {
+      "id": "mr3b6n2kul7u25x65r",
+      "title": "Anthropic Redeploys Claude Fable 5 on July 1 After US Export Controls Lift, Adds New Cybersecurity Classifier",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Anthropic"
+      ],
+      "publishedAt": "Wed, 01 Jul 2026 20:41:56 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/07/01/anthropic-redeploys-claude-fable-5-on-july-1-after-us-export-controls-lift-adds-new-cybersecurity-classifier/"
     },
     {
       "id": "mr30dco6i7duzdxxer",
@@ -793,75 +864,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
       "readTime": 1,
       "originalUrl": "https://openai.com/index/how-chatgpt-adoption-has-expanded"
-    },
-    {
-      "id": "mr0hablqd272x7k3uvt",
-      "title": "Crypto exchange OKX wants AI agents to hire and pay each other",
-      "summary": "OKX is bringing together payments, identity and reputation into a marketplace for AI agents....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Tue, 30 Jun 2026 09:00:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/06/30/crypto-exchange-okx-wants-ai-agents-to-hire-and-pay-each-other/"
-    },
-    {
-      "id": "mr0haffkrley31vd6po",
-      "title": "Meta AI Releases Brain2Qwerty v2: A Non-Invasive MEG Brain-to-Text Pipeline Decoding Typed Sentences at 61% Word Accuracy",
-      "summary": "...",
-      "source": {
-        "name": "MarkTechPost",
-        "url": "https://www.marktechpost.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Meta"
-      ],
-      "publishedAt": "Tue, 30 Jun 2026 08:13:41 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.marktechpost.com/2026/06/30/meta-ai-releases-brain2qwerty-v2-a-non-invasive-meg-brain-to-text-pipeline-decoding-typed-sentences-at-61-word-accuracy/"
-    },
-    {
-      "id": "mr0hahlb318yzve3p2v",
-      "title": "La taxe française de 2 euros sur les « petits colis » va être suspendue, remplacée par un droit de douane européen",
-      "summary": "La taxe devait initialement s’ajouter au nouveau droit de douane européen de 3 euros, mais le gouvernement a renoncé à ce cumul au nom d’une harmonisation à l’échelle des Vingt-Sept....",
-      "source": {
-        "name": "Le Monde Tech",
-        "url": "https://www.lemonde.fr",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.lemonde.fr&sz=64"
-      },
-      "category": "Policy",
-      "tags": [],
-      "publishedAt": "Tue, 30 Jun 2026 06:50:12 +0200",
-      "imageUrl": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.lemonde.fr/economie/article/2026/06/30/la-taxe-francaise-de-2-euros-sur-les-petits-colis-va-etre-suspendue-remplacee-par-un-droit-de-douane-europeen_6717212_3234.html"
-    },
-    {
-      "id": "mr05maxazmiglwydbxd",
-      "title": "The AI jobs debate just got messier",
-      "summary": "A new report finds \"high-intensity AI adopters” saw headcount increase 10.2%. Among those companies, entry-level headcount rose by 12%, countering the rhetoric that AI kills junior jobs. ...",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Tue, 30 Jun 2026 04:01:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-07-02T04:32:42.009Z",
-  "edition": 305
+  "lastUpdated": "2026-07-02T09:35:22.616Z",
+  "edition": 306
 }
