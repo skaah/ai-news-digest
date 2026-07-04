@@ -1,6 +1,38 @@
 {
-  "date": "2026-07-03T19:52:24.525Z",
+  "date": "2026-07-04T04:04:59.184Z",
   "articles": [
+    {
+      "id": "mr5u9j4hr5198cmi9ec",
+      "title": "IA : entre les géants américains et chinois, l’Europe tente d’exister",
+      "summary": "Les dépendances du Vieux Continent aux acteurs américains et le décalage des investissements réalisés de part et d’autre de l’Atlantique sont tels que certains experts plaident pour une « stratégie de rattrapage » et des transferts de technologies....",
+      "source": {
+        "name": "Le Monde Tech",
+        "url": "https://www.lemonde.fr",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.lemonde.fr&sz=64"
+      },
+      "category": "Policy",
+      "tags": [],
+      "publishedAt": "Sat, 04 Jul 2026 05:00:24 +0200",
+      "imageUrl": "https://images.unsplash.com/photo-1575517111839-3a3843ee7f5d?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.lemonde.fr/economie/article/2026/07/04/ia-entre-les-geants-americains-et-chinois-l-europe-tente-d-exister_6720598_3234.html"
+    },
+    {
+      "id": "mr5u9cjmemt3r4vokif",
+      "title": "The only AI glossary you’ll need this year",
+      "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Fri, 03 Jul 2026 21:20:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/"
+    },
     {
       "id": "mr5cnw5dom253o9w8z",
       "title": "The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari",
@@ -826,43 +858,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
       "readTime": 1,
       "originalUrl": "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/"
-    },
-    {
-      "id": "mr1lragcsv7vyio6euk",
-      "title": "Wayve launches $85M employee tender offer at $8.5B valuation",
-      "summary": "Wayve’s offering is part of a growing trend of AI startups using employee tenders as a strategic tool to attract and retain talent....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Product",
-      "tags": [
-        "Startup"
-      ],
-      "publishedAt": "Wed, 01 Jul 2026 02:04:40 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/06/30/wayve-launches-85m-employee-tender-offer-at-8-5b-valuation/"
-    },
-    {
-      "id": "mr27tkqk5y7wx64iajq",
-      "title": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
-      "summary": "...",
-      "source": {
-        "name": "Hugging Face Blog",
-        "url": "https://huggingface.co",
-        "favicon": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Wed, 01 Jul 2026 00:00:00 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://huggingface.co/blog/cerebras-gemma4-voice-ai"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-07-03T19:52:24.525Z",
-  "edition": 312
+  "lastUpdated": "2026-07-04T04:04:59.183Z",
+  "edition": 313
 }
