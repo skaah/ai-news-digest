@@ -1,6 +1,22 @@
 {
-  "date": "2026-07-05T14:11:38.416Z",
+  "date": "2026-07-05T19:44:56.271Z",
   "articles": [
+    {
+      "id": "mr879zqyn1994s8ba89",
+      "title": "Amazon will stop accepting new customers for Mechanical Turk",
+      "summary": "These may be the last days of Amazon’s Mechanical Turk....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Sun, 05 Jul 2026 17:43:36 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/"
+    },
     {
       "id": "mr7vdgpf9buy23h39zo",
       "title": "LlamaIndex ‘legal-kb’: Agentic Retrieval over Index v2 with retrieve, find, read, and grep Tools",
@@ -831,25 +847,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800",
       "readTime": 1,
       "originalUrl": "https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/"
-    },
-    {
-      "id": "mr2inxd9xh9qgz0oyo",
-      "title": "PlayStation annonce la fin des jeux vidéo sur disque dès 2028",
-      "summary": "Sony devient le premier constructeur majeur de consoles à abandonner définitivement le support physique. Un tournant dans le mouvement de dématérialisation du jeu électronique....",
-      "source": {
-        "name": "Le Monde Tech",
-        "url": "https://www.lemonde.fr",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.lemonde.fr&sz=64"
-      },
-      "category": "Policy",
-      "tags": [],
-      "publishedAt": "Wed, 01 Jul 2026 19:13:35 +0200",
-      "imageUrl": "https://images.unsplash.com/photo-1575517111839-3a3843ee7f5d?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.lemonde.fr/pixels/article/2026/07/01/playstation-annonce-la-fin-des-jeux-video-sur-disque-a-partir-de-janvier-2028_6717586_4408996.html"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-07-05T14:11:38.416Z",
-  "edition": 319
+  "lastUpdated": "2026-07-05T19:44:56.270Z",
+  "edition": 320
 }
