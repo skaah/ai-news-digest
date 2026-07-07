@@ -1,6 +1,104 @@
 {
-  "date": "2026-07-06T20:15:58.946Z",
+  "date": "2026-07-07T04:18:30.938Z",
   "articles": [
+    {
+      "id": "mra52fzxfpg20wfh7uv",
+      "title": "iFLYTEK-Embodied-Omni Technical Report",
+      "summary": "...",
+      "source": {
+        "name": "ArXiv cs.AI",
+        "url": "https://arxiv.org",
+        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Tue, 07 Jul 2026 00:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://arxiv.org/abs/2607.02542"
+    },
+    {
+      "id": "mra52fzyyts1fi7cis8",
+      "title": "Internal Pluralism and the Limits of Pairwise Comparisons",
+      "summary": "...",
+      "source": {
+        "name": "ArXiv cs.AI",
+        "url": "https://arxiv.org",
+        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Tue, 07 Jul 2026 00:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://arxiv.org/abs/2607.02672"
+    },
+    {
+      "id": "mra52fzy0dhqhn51d0zt",
+      "title": "ASK in the Dark: Uncertainty-Gated LLM Assistance under Partial Observability",
+      "summary": "...",
+      "source": {
+        "name": "ArXiv cs.AI",
+        "url": "https://arxiv.org",
+        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "LLM"
+      ],
+      "publishedAt": "Tue, 07 Jul 2026 00:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://arxiv.org/abs/2607.02686"
+    },
+    {
+      "id": "mra52fzylt5mq4u2t",
+      "title": "Automated Data Readiness for Scientific AI",
+      "summary": "...",
+      "source": {
+        "name": "ArXiv cs.AI",
+        "url": "https://arxiv.org",
+        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Tue, 07 Jul 2026 00:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://arxiv.org/abs/2607.02771"
+    },
+    {
+      "id": "mra52fzzh3f3ks3qdjt",
+      "title": "SwarmResearch: Orchestrating Coding Agents for Open-Ended Discovery",
+      "summary": "...",
+      "source": {
+        "name": "ArXiv cs.AI",
+        "url": "https://arxiv.org",
+        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
+      },
+      "category": "Research",
+      "tags": [],
+      "publishedAt": "Tue, 07 Jul 2026 00:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?w=800",
+      "readTime": 1,
+      "originalUrl": "https://arxiv.org/abs/2607.02807"
+    },
+    {
+      "id": "mra52fkptg4j1vxy6h",
+      "title": "Building a Scaffold-Split Random Forest QSAR Co-Scientist for EGFR Inhibitor Discovery Using ChEMBL, RDKit, SHAP, and BRICS",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Tue, 07 Jul 2026 01:43:28 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/07/06/building-a-scaffold-split-random-forest-qsar-co-scientist-for-egfr-inhibitor-discovery-using-chembl-rdkit-shap-and-brics/"
+    },
     {
       "id": "mr947gffu83j3g9w4i",
       "title": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
@@ -18,6 +116,38 @@
       "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
       "readTime": 1,
       "originalUrl": "https://huggingface.co/blog/lerobot-release-v060"
+    },
+    {
+      "id": "mra52baleuqr4witynq",
+      "title": "The ‘first’ AI-run ransomware attack still needed a human",
+      "summary": "...",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Mon, 06 Jul 2026 23:56:14 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/"
+    },
+    {
+      "id": "mra52bamwk02377jnc",
+      "title": "US investors will soon get access to SK Hynix, another memory maker riding the AI boom",
+      "summary": "SK Hynix is experiencing a boom credited to AI. It will ride that to a multibillion-dollar U.S. IPO, expected to take place on Friday....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Funding",
+      "tags": [],
+      "publishedAt": "Mon, 06 Jul 2026 23:21:03 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/"
     },
     {
       "id": "mr9ntsmql4d08x7sg4m",
@@ -705,152 +835,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
       "readTime": 1,
       "originalUrl": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/"
-    },
-    {
-      "id": "mr3xb75gjx22ge3ahe",
-      "title": "Meta quietly launches vibe-coded gaming app Pocket",
-      "summary": "Meta has quietly launched Pocket, an experimental AI app that lets users generate and share interactive mini games using text prompts....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Product",
-      "tags": [
-        "Meta"
-      ],
-      "publishedAt": "Thu, 02 Jul 2026 18:44:02 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/"
-    },
-    {
-      "id": "mr3xb75h7fyjcl28buc",
-      "title": "Anthropic is discussing a new custom chip with Samsung",
-      "summary": "The news comes about a week after OpenAI announced its own custom AI chip in a partnership with Broadcom. ...",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Hardware",
-      "tags": [
-        "OpenAI",
-        "Anthropic"
-      ],
-      "publishedAt": "Thu, 02 Jul 2026 18:31:09 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1555664424-778a69022365?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/"
-    },
-    {
-      "id": "mr3xbdfu7fzvyvn64of",
-      "title": "Daniela Amodei, présidente d’Anthropic : « Nous devons embrasser à la fois le côté positif et la part d’ombre de l’IA »",
-      "summary": "La présidente de la start-up américaine d’intelligence artificielle, valorisée 965 milliards de dollars et connue pour ses alertes sur les risques de cette technologie, expose dans un entretien au « Monde » sa vision des enjeux du secteur : sécurité et souveraineté autour de son ...",
-      "source": {
-        "name": "Le Monde Tech",
-        "url": "https://www.lemonde.fr",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.lemonde.fr&sz=64"
-      },
-      "category": "Policy",
-      "tags": [
-        "Anthropic"
-      ],
-      "publishedAt": "Thu, 02 Jul 2026 17:45:25 +0200",
-      "imageUrl": "https://images.unsplash.com/photo-1575517111839-3a3843ee7f5d?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.lemonde.fr/economie/article/2026/07/02/daniela-amodei-presidente-d-anthropic-nous-devons-embrasser-le-cote-positif-et-la-part-d-ombre-de-l-ia_6718196_3234.html"
-    },
-    {
-      "id": "mr3xb8j3joz3jcbjnz",
-      "title": "Achieving operational excellence with AI",
-      "summary": "Frameworks like Lean Six Sigma and business process management (BPM) first gained traction because they promised clarity in the chaos—a structured way to bring order to messy, sprawling operations. Lean Six Sigma emphasized statistical rigor and quality control; BPM created end-t...",
-      "source": {
-        "name": "MIT Tech Review AI",
-        "url": "https://www.technologyreview.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.technologyreview.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Thu, 02 Jul 2026 15:37:08 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/"
-    },
-    {
-      "id": "mr3xb75hwg825rxzof",
-      "title": "OpenAI proposed donating 5% of its equity to a US sovereign wealth fund",
-      "summary": "OpenAI CEO Sam Altman has reportedly proposed giving 5% of the company’s equity to a U.S. sovereign wealth fund, reviving discussions about letting the public share in the financial gains from the AI boom. ...",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "OpenAI"
-      ],
-      "publishedAt": "Thu, 02 Jul 2026 15:20:51 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/"
-    },
-    {
-      "id": "mr3xbdvwl3zfjl6h07h",
-      "title": "« Ne mangez pas les ChocoPoC ! » : comment des chercheurs en cybersécurité ont été piégés par de faux exploits sur GitHub",
-      "summary": "...",
-      "source": {
-        "name": "Numerama",
-        "url": "https://www.numerama.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
-      },
-      "category": "Policy",
-      "tags": [],
-      "publishedAt": "Thu, 02 Jul 2026 15:17:32 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1575517111839-3a3843ee7f5d?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.numerama.com/cyberguerre/2289863-ne-mangez-pas-les-chocopoc-comment-des-chercheurs-en-cybersecurite-ont-ete-pieges-par-de-faux-exploits-sur-github.html"
-    },
-    {
-      "id": "mr3lqp0pvt55knxp938",
-      "title": "Microsoft launches its own AI deployment company with $2.5 billion commitment",
-      "summary": "Microsoft follows Amazon, OpenAI and Anthropic with its new AI deployment group....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Product",
-      "tags": [
-        "OpenAI",
-        "Anthropic",
-        "Microsoft"
-      ],
-      "publishedAt": "Thu, 02 Jul 2026 13:53:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1550009158-9ebf690be655?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/"
-    },
-    {
-      "id": "mr3lqqaoi18q6w36l58",
-      "title": "Teaching AI to run with the turbines",
-      "summary": "Artificial intelligence may have captured the public imagination through chatbots and image generators, but some of its most consequential use cases are unfolding far from consumer-facing tools. In industries where physical infrastructure, operational continuity, and safety are p...",
-      "source": {
-        "name": "MIT Tech Review AI",
-        "url": "https://www.technologyreview.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.technologyreview.com&sz=64"
-      },
-      "category": "Ethics",
-      "tags": [
-        "AI Safety"
-      ],
-      "publishedAt": "Thu, 02 Jul 2026 12:51:44 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-07-06T20:15:58.946Z",
-  "edition": 324
+  "lastUpdated": "2026-07-07T04:18:30.938Z",
+  "edition": 325
 }
