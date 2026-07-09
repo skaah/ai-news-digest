@@ -1,6 +1,122 @@
 {
-  "date": "2026-07-08T19:57:38.850Z",
+  "date": "2026-07-09T04:15:58.520Z",
   "articles": [
+    {
+      "id": "mrczuvik5hi9j8k1z5s",
+      "title": "AgentLens: Production-Assessed Trajectory Reviews for Coding Agent Evaluation",
+      "summary": "...",
+      "source": {
+        "name": "ArXiv cs.AI",
+        "url": "https://arxiv.org",
+        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
+      },
+      "category": "Product",
+      "tags": [],
+      "publishedAt": "Thu, 09 Jul 2026 00:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1550009158-9ebf690be655?w=800",
+      "readTime": 1,
+      "originalUrl": "https://arxiv.org/abs/2607.06624"
+    },
+    {
+      "id": "mrczuviksb9k5crl93d",
+      "title": "When Does In-Context Search Help? A Sampling-Complexity Theory of Reflection-Driven Reasoning",
+      "summary": "...",
+      "source": {
+        "name": "ArXiv cs.AI",
+        "url": "https://arxiv.org",
+        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Thu, 09 Jul 2026 00:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://arxiv.org/abs/2607.06720"
+    },
+    {
+      "id": "mrczuvilo3suhwpw4xd",
+      "title": "LLM-powered reasoning in agent-based modeling",
+      "summary": "...",
+      "source": {
+        "name": "ArXiv cs.AI",
+        "url": "https://arxiv.org",
+        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "LLM"
+      ],
+      "publishedAt": "Thu, 09 Jul 2026 00:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://arxiv.org/abs/2607.06757"
+    },
+    {
+      "id": "mrczuvil4icsx6d1lbr",
+      "title": "QANTIS: Hardware-Calibrated Sequential POMDP Belief Updates on IBM Heron",
+      "summary": "...",
+      "source": {
+        "name": "ArXiv cs.AI",
+        "url": "https://arxiv.org",
+        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
+      },
+      "category": "Hardware",
+      "tags": [],
+      "publishedAt": "Thu, 09 Jul 2026 00:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1555664424-778a69022365?w=800",
+      "readTime": 1,
+      "originalUrl": "https://arxiv.org/abs/2607.06760"
+    },
+    {
+      "id": "mrczuvimawv2g7unolo",
+      "title": "Cost-Effective Agent Harnesses for Abstract Reasoning and Generalization on ARC-AGI-1",
+      "summary": "...",
+      "source": {
+        "name": "ArXiv cs.AI",
+        "url": "https://arxiv.org",
+        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Thu, 09 Jul 2026 00:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://arxiv.org/abs/2607.06764"
+    },
+    {
+      "id": "mrczur3zta72wepaes",
+      "title": "Lovable reportedly in talks to double its valuation to $13.2B",
+      "summary": "The $300 million round is expected to be led by Menlo Ventures, Sifted reported. ...",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Funding",
+      "tags": [],
+      "publishedAt": "Wed, 08 Jul 2026 22:41:33 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/07/08/lovable-reportedly-in-talks-to-double-its-valuation-to-13-2b/"
+    },
+    {
+      "id": "mrczur403799l67p6wx",
+      "title": "Google’s deepfake detector system used to debunk McConnell hoax pic",
+      "summary": "Earlier this week, a picture seemed to show Kentucky Senator Mitch McConnell covered in tubes in a hospital bed in a state of extreme distress. It turned out to be an AI-generated fake....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Google"
+      ],
+      "publishedAt": "Wed, 08 Jul 2026 20:37:03 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/07/08/googles-deepfake-detector-system-used-to-debunk-mcconnell-hoax-pic/"
+    },
     {
       "id": "mrci1uyk86mjzrn5xik",
       "title": "SpaceXAI releases Grok 4.5, which Elon describes as an ‘Opus-class model’",
@@ -145,6 +261,43 @@
       "imageUrl": "https://images.unsplash.com/photo-1555848962-6e79363ec58f?w=800",
       "readTime": 1,
       "originalUrl": "https://www.maddyness.com/2026/07/08/raise-summit-la-startup-americaine-sambanova-valorisee-11-milliards-de-dollars-veut-seriger-en-rival-de-nvidia/"
+    },
+    {
+      "id": "mrczutlgdbltes9ix0p",
+      "title": "Our approach to government and national security partnerships",
+      "summary": "Learn how OpenAI approaches government and national security partnerships, with principles for responsible AI use, democratic accountability, and public safety....",
+      "source": {
+        "name": "OpenAI News",
+        "url": "https://openai.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
+      },
+      "category": "Ethics",
+      "tags": [
+        "OpenAI",
+        "AI Safety"
+      ],
+      "publishedAt": "Wed, 08 Jul 2026 13:30:00 GMT",
+      "imageUrl": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=800",
+      "readTime": 1,
+      "originalUrl": "https://openai.com/index/government-national-security-partnerships"
+    },
+    {
+      "id": "mrczutlh05g6m4di3hbo",
+      "title": "Separating signal from noise in coding evaluations",
+      "summary": "A new analysis from OpenAI reveals issues in SWE-Bench Pro, a popular coding benchmark, raising concerns about reliability and accuracy in evaluating AI models....",
+      "source": {
+        "name": "OpenAI News",
+        "url": "https://openai.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "OpenAI"
+      ],
+      "publishedAt": "Wed, 08 Jul 2026 13:00:00 GMT",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://openai.com/index/separating-signal-from-noise-coding-evaluations"
     },
     {
       "id": "mrc6strw8xsx3cqwvlw",
@@ -710,159 +863,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
       "readTime": 1,
       "originalUrl": "https://www.numerama.com/cyberguerre/2291589-anthropic-dit-avoir-decouvert-le-j-space-lespace-ou-claude-pense-sans-le-dire.html"
-    },
-    {
-      "id": "mrasmno2znulwnd82bg",
-      "title": "Tencent Releases Hy3: An Open 295B Mixture-of-Experts (MoE) Model with 21B Active Parameters and 256K Context",
-      "summary": "...",
-      "source": {
-        "name": "MarkTechPost",
-        "url": "https://www.marktechpost.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Tue, 07 Jul 2026 05:59:07 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.marktechpost.com/2026/07/06/tencent-releases-hy3-open-295b-moe-model/"
-    },
-    {
-      "id": "mrasmno309wafs6j3blg",
-      "title": "OpenAI Releases GPT-Realtime-2.1 and GPT-Realtime-2.1-mini for Low-Latency Voice Agents in the API",
-      "summary": "...",
-      "source": {
-        "name": "MarkTechPost",
-        "url": "https://www.marktechpost.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "OpenAI"
-      ],
-      "publishedAt": "Tue, 07 Jul 2026 04:35:09 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.marktechpost.com/2026/07/06/openai-gpt-realtime-2-1-mini-reasoning-realtime-api/"
-    },
-    {
-      "id": "mra52fzxfpg20wfh7uv",
-      "title": "iFLYTEK-Embodied-Omni Technical Report",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Tue, 07 Jul 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2607.02542"
-    },
-    {
-      "id": "mra52fzyyts1fi7cis8",
-      "title": "Internal Pluralism and the Limits of Pairwise Comparisons",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Tue, 07 Jul 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2607.02672"
-    },
-    {
-      "id": "mra52fzy0dhqhn51d0zt",
-      "title": "ASK in the Dark: Uncertainty-Gated LLM Assistance under Partial Observability",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "LLM"
-      ],
-      "publishedAt": "Tue, 07 Jul 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2607.02686"
-    },
-    {
-      "id": "mra52fzylt5mq4u2t",
-      "title": "Automated Data Readiness for Scientific AI",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Tue, 07 Jul 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2607.02771"
-    },
-    {
-      "id": "mra52fzzh3f3ks3qdjt",
-      "title": "SwarmResearch: Orchestrating Coding Agents for Open-Ended Discovery",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Research",
-      "tags": [],
-      "publishedAt": "Tue, 07 Jul 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2607.02807"
-    },
-    {
-      "id": "mra52fkptg4j1vxy6h",
-      "title": "Building a Scaffold-Split Random Forest QSAR Co-Scientist for EGFR Inhibitor Discovery Using ChEMBL, RDKit, SHAP, and BRICS",
-      "summary": "...",
-      "source": {
-        "name": "MarkTechPost",
-        "url": "https://www.marktechpost.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Tue, 07 Jul 2026 01:43:28 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.marktechpost.com/2026/07/06/building-a-scaffold-split-random-forest-qsar-co-scientist-for-egfr-inhibitor-discovery-using-chembl-rdkit-shap-and-brics/"
-    },
-    {
-      "id": "mrbjfcgoxboaqb6s03",
-      "title": "MUFG aims to become AI-native with OpenAI",
-      "summary": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale....",
-      "source": {
-        "name": "OpenAI News",
-        "url": "https://openai.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "OpenAI"
-      ],
-      "publishedAt": "Tue, 07 Jul 2026 00:00:00 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://openai.com/index/mufg"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-07-08T19:57:38.850Z",
-  "edition": 332
+  "lastUpdated": "2026-07-09T04:15:58.520Z",
+  "edition": 333
 }
