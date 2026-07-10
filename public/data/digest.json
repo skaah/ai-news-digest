@@ -1,6 +1,59 @@
 {
-  "date": "2026-07-10T09:54:28.105Z",
+  "date": "2026-07-10T15:04:31.410Z",
   "articles": [
+    {
+      "id": "mrf2gud7pujgszin3ec",
+      "title": "Après une pause de 3 mois, la Française Fidji Simo quitte son poste chez OpenAI pour se soigner",
+      "summary": "...",
+      "source": {
+        "name": "Maddyness",
+        "url": "https://www.maddyness.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.maddyness.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "OpenAI"
+      ],
+      "publishedAt": "Fri, 10 Jul 2026 14:11:11 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.maddyness.com/2026/07/10/apres-une-pause-de-3-mois-la-francaise-fidji-simo-quitte-son-poste-chez-openai-pour-se-soigner/"
+    },
+    {
+      "id": "mrf2gtjq0v9w0dz1upve",
+      "title": "OpenAI abandonne déjà un de ses projets phares de 2025 : Google a vaincu",
+      "summary": "...",
+      "source": {
+        "name": "Numerama",
+        "url": "https://www.numerama.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "OpenAI",
+        "Google"
+      ],
+      "publishedAt": "Fri, 10 Jul 2026 12:23:12 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.numerama.com/tech/2293765-openai-abandonne-deja-un-de-ses-projets-phares-de-2025-google-a-vaincu.html"
+    },
+    {
+      "id": "mrf2gud8vw5p5fn31u",
+      "title": "IA : Lovable en route pour atteindre une valorisation de 13,2 milliards de dollars",
+      "summary": "...",
+      "source": {
+        "name": "Maddyness",
+        "url": "https://www.maddyness.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.maddyness.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Fri, 10 Jul 2026 10:30:27 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.maddyness.com/2026/07/10/ia-lovable-en-route-pour-atteindre-une-valorisation-de-132-milliards-de-dollars/"
+    },
     {
       "id": "mrere07e3hel1mtl9l7",
       "title": "Google Research Introduces SensorFM: A Wearable Health Foundation Model Pretrained on One Trillion Minutes of Sensor Data",
@@ -836,61 +889,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
       "readTime": 1,
       "originalUrl": "https://techcrunch.com/video/why-this-ceo-thinks-video-games-make-better-training-data-than-the-internet/"
-    },
-    {
-      "id": "mrci1y70ia8i7vz9",
-      "title": "Data for Agents",
-      "summary": "...",
-      "source": {
-        "name": "Hugging Face Blog",
-        "url": "https://huggingface.co",
-        "favicon": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Wed, 08 Jul 2026 17:16:05 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://huggingface.co/blog/nvidia/open-data-for-agents"
-    },
-    {
-      "id": "mrci1uynwkv07ilkfki",
-      "title": "Meta wants its AI glasses to seem less creepy. Its AI strategy says otherwise.",
-      "summary": "Meta is adding a new safeguard to stop people from secretly recording others with its AI glasses. But the update comes as the company continues to expand how much personal data its AI products collect and use....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Product",
-      "tags": [
-        "Meta"
-      ],
-      "publishedAt": "Wed, 08 Jul 2026 17:11:18 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1550009158-9ebf690be655?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/07/08/meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strategy-says-otherwise/"
-    },
-    {
-      "id": "mrci22p9514h3we87be",
-      "title": "Plus intelligent, plus naturel, plus expressif : OpenAI dévoile deux nouveaux modèles vocaux pour ChatGPT",
-      "summary": "...",
-      "source": {
-        "name": "Numerama",
-        "url": "https://www.numerama.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
-      },
-      "category": "Policy",
-      "tags": [
-        "OpenAI"
-      ],
-      "publishedAt": "Wed, 08 Jul 2026 17:00:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1555848962-6e79363ec58f?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.numerama.com/tech/2292751-plus-intelligent-plus-naturel-plus-expressif-openai-devoile-deux-nouveaux-modeles-vocaux-pour-chatgpt.html"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-07-10T09:54:28.105Z",
-  "edition": 338
+  "lastUpdated": "2026-07-10T15:04:31.410Z",
+  "edition": 339
 }
