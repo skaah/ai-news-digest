@@ -1,6 +1,58 @@
 {
-  "date": "2026-07-10T04:18:18.461Z",
+  "date": "2026-07-10T09:54:28.105Z",
   "articles": [
+    {
+      "id": "mrere07e3hel1mtl9l7",
+      "title": "Google Research Introduces SensorFM: A Wearable Health Foundation Model Pretrained on One Trillion Minutes of Sensor Data",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Research",
+      "tags": [
+        "Google"
+      ],
+      "publishedAt": "Fri, 10 Jul 2026 08:52:04 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/07/10/google-research-introduces-sensorfm-a-wearable-health-foundation-model-pretrained-on-one-trillion-minutes-of-sensor-data/"
+    },
+    {
+      "id": "mrerdynzaktqyzq5mz6",
+      "title": "How Deutsche Telekom is rewiring telecommunications with AI",
+      "summary": "How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice....",
+      "source": {
+        "name": "OpenAI News",
+        "url": "https://openai.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
+      },
+      "category": "Policy",
+      "tags": [
+        "OpenAI"
+      ],
+      "publishedAt": "Fri, 10 Jul 2026 07:00:00 GMT",
+      "imageUrl": "https://images.unsplash.com/photo-1555848962-6e79363ec58f?w=800",
+      "readTime": 1,
+      "originalUrl": "https://openai.com/index/deutsche-telekom"
+    },
+    {
+      "id": "mrere07efcnn5b3sj5d",
+      "title": "Meet LingBot-World-Infinity: An Open Causal World Model With An Agentic Harness",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Fri, 10 Jul 2026 04:38:20 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/07/09/meet-lingbot-world-infinity-an-open-causal-world-model-with-an-agentic-harness/"
+    },
     {
       "id": "mrefdk1tjwlvefg6tz",
       "title": "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter",
@@ -19,6 +71,22 @@
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800",
       "readTime": 1,
       "originalUrl": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/"
+    },
+    {
+      "id": "mrerdz6r7466mqa3s0y",
+      "title": "Profiling in PyTorch (Part 3): Attention is all you profile",
+      "summary": "...",
+      "source": {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co",
+        "favicon": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Fri, 10 Jul 2026 00:00:00 GMT",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://huggingface.co/blog/torch-attention-profile"
     },
     {
       "id": "mrefdk1t1navm7yxj9w",
@@ -820,84 +888,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1555848962-6e79363ec58f?w=800",
       "readTime": 1,
       "originalUrl": "https://www.numerama.com/tech/2292751-plus-intelligent-plus-naturel-plus-expressif-openai-devoile-deux-nouveaux-modeles-vocaux-pour-chatgpt.html"
-    },
-    {
-      "id": "mrc6strv4p3xmitt8ok",
-      "title": "Raise Summit : la startup américaine SambaNova, valorisée 11 milliards de dollars, veut s'ériger en rival de Nvidia",
-      "summary": "...",
-      "source": {
-        "name": "Maddyness",
-        "url": "https://www.maddyness.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.maddyness.com&sz=64"
-      },
-      "category": "Policy",
-      "tags": [
-        "Nvidia",
-        "Startup"
-      ],
-      "publishedAt": "Wed, 08 Jul 2026 14:10:15 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1555848962-6e79363ec58f?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.maddyness.com/2026/07/08/raise-summit-la-startup-americaine-sambanova-valorisee-11-milliards-de-dollars-veut-seriger-en-rival-de-nvidia/"
-    },
-    {
-      "id": "mrczutlgdbltes9ix0p",
-      "title": "Our approach to government and national security partnerships",
-      "summary": "Learn how OpenAI approaches government and national security partnerships, with principles for responsible AI use, democratic accountability, and public safety....",
-      "source": {
-        "name": "OpenAI News",
-        "url": "https://openai.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
-      },
-      "category": "Ethics",
-      "tags": [
-        "OpenAI",
-        "AI Safety"
-      ],
-      "publishedAt": "Wed, 08 Jul 2026 13:30:00 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=800",
-      "readTime": 1,
-      "originalUrl": "https://openai.com/index/government-national-security-partnerships"
-    },
-    {
-      "id": "mrczutlh05g6m4di3hbo",
-      "title": "Separating signal from noise in coding evaluations",
-      "summary": "A new analysis from OpenAI reveals issues in SWE-Bench Pro, a popular coding benchmark, raising concerns about reliability and accuracy in evaluating AI models....",
-      "source": {
-        "name": "OpenAI News",
-        "url": "https://openai.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "OpenAI"
-      ],
-      "publishedAt": "Wed, 08 Jul 2026 13:00:00 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://openai.com/index/separating-signal-from-noise-coding-evaluations"
-    },
-    {
-      "id": "mrc6strw8xsx3cqwvlw",
-      "title": "Le Machina Summit transforme Station F en temple de la robotique",
-      "summary": "...",
-      "source": {
-        "name": "Maddyness",
-        "url": "https://www.maddyness.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.maddyness.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Robotics",
-        "China"
-      ],
-      "publishedAt": "Wed, 08 Jul 2026 12:46:03 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.maddyness.com/2026/07/08/le-machina-summit-transforme-station-f-en-temple-de-la-robotique/"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-07-10T04:18:18.461Z",
-  "edition": 337
+  "lastUpdated": "2026-07-10T09:54:28.105Z",
+  "edition": 338
 }
