@@ -1,6 +1,126 @@
 {
-  "date": "2026-07-11T03:45:42.287Z",
+  "date": "2026-07-11T08:15:58.491Z",
   "articles": [
+    {
+      "id": "mrg3b73ge3501q5kmxb",
+      "title": "Ant Group’s Robbyant Unveils LingBot-VA 2.0: A Causal Video-Action Model Built Natively for Physical AI",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Sat, 11 Jul 2026 07:56:11 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/07/11/ant-groups-robbyant-unveils-lingbot-va-2-0/"
+    },
+    {
+      "id": "mrg3b9w06ulqt9ia39k",
+      "title": "Apple attaque OpenAI en justice pour vol de secrets industriels",
+      "summary": "...",
+      "source": {
+        "name": "Numerama",
+        "url": "https://www.numerama.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "OpenAI"
+      ],
+      "publishedAt": "Sat, 11 Jul 2026 07:23:47 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.numerama.com/tech/2294553-apple-attaque-openai-en-justice-pour-vol-de-secrets-industriels.html"
+    },
+    {
+      "id": "mrg3b7jdol9axoqlz9",
+      "title": "Context Graphs for Proactive Enterprise Agents",
+      "summary": "...",
+      "source": {
+        "name": "ArXiv cs.AI",
+        "url": "https://arxiv.org",
+        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Sat, 11 Jul 2026 00:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://arxiv.org/abs/2607.07721"
+    },
+    {
+      "id": "mrg3b7jd6ll5ahemtfv",
+      "title": "AI-integrated models for assessing agricultural resilience",
+      "summary": "...",
+      "source": {
+        "name": "ArXiv cs.AI",
+        "url": "https://arxiv.org",
+        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Sat, 11 Jul 2026 00:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://arxiv.org/abs/2607.07759"
+    },
+    {
+      "id": "mrg3b7je2gdhjptd5q6",
+      "title": "Adversarial Social Epistemology for Assemblies of Humans and Large Language Models",
+      "summary": "...",
+      "source": {
+        "name": "ArXiv cs.AI",
+        "url": "https://arxiv.org",
+        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "LLM"
+      ],
+      "publishedAt": "Sat, 11 Jul 2026 00:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://arxiv.org/abs/2607.07760"
+    },
+    {
+      "id": "mrg3b7jerojgb4i0rm",
+      "title": "Aligning Clinical Needs and AI Capabilities: A Survey on LLMs for Medical Reasoning",
+      "summary": "...",
+      "source": {
+        "name": "ArXiv cs.AI",
+        "url": "https://arxiv.org",
+        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "LLM"
+      ],
+      "publishedAt": "Sat, 11 Jul 2026 00:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://arxiv.org/abs/2607.07761"
+    },
+    {
+      "id": "mrg3b7jeyhfudh42os",
+      "title": "Alignment Plausibility: A New Standard for Assuring AI in Healthcare",
+      "summary": "...",
+      "source": {
+        "name": "ArXiv cs.AI",
+        "url": "https://arxiv.org",
+        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "AI Safety"
+      ],
+      "publishedAt": "Sat, 11 Jul 2026 00:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://arxiv.org/abs/2607.07766"
+    },
     {
       "id": "mrftnhb6jwvjtxdz0jp",
       "title": "Meta removes controversial AI feature on Instagram after backlash",
@@ -763,127 +883,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
       "readTime": 1,
       "originalUrl": "https://www.marktechpost.com/2026/07/09/datalab-lift-vs-the-field-how-a-9b-schema-first-extractor-compares-with-nuextract3-llamaextract-marker-and-docling/"
-    },
-    {
-      "id": "mrdc45k9asznaqjpaq",
-      "title": "Mistral dévoile son premier modèle d'IA à destination des robots",
-      "summary": "...",
-      "source": {
-        "name": "Maddyness",
-        "url": "https://www.maddyness.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.maddyness.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Robotics"
-      ],
-      "publishedAt": "Thu, 09 Jul 2026 07:09:02 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.maddyness.com/2026/07/09/mistral-devoile-son-premier-modele-dia-a-destination-des-robots/"
-    },
-    {
-      "id": "mrczuvik5hi9j8k1z5s",
-      "title": "AgentLens: Production-Assessed Trajectory Reviews for Coding Agent Evaluation",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Product",
-      "tags": [],
-      "publishedAt": "Thu, 09 Jul 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1550009158-9ebf690be655?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2607.06624"
-    },
-    {
-      "id": "mrczuviksb9k5crl93d",
-      "title": "When Does In-Context Search Help? A Sampling-Complexity Theory of Reflection-Driven Reasoning",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Thu, 09 Jul 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2607.06720"
-    },
-    {
-      "id": "mrczuvilo3suhwpw4xd",
-      "title": "LLM-powered reasoning in agent-based modeling",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "LLM"
-      ],
-      "publishedAt": "Thu, 09 Jul 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2607.06757"
-    },
-    {
-      "id": "mrczuvil4icsx6d1lbr",
-      "title": "QANTIS: Hardware-Calibrated Sequential POMDP Belief Updates on IBM Heron",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Hardware",
-      "tags": [],
-      "publishedAt": "Thu, 09 Jul 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1555664424-778a69022365?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2607.06760"
-    },
-    {
-      "id": "mrczuvimawv2g7unolo",
-      "title": "Cost-Effective Agent Harnesses for Abstract Reasoning and Generalization on ARC-AGI-1",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Thu, 09 Jul 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2607.06764"
-    },
-    {
-      "id": "mrdc41tvyeppbxbaoyn",
-      "title": "Robbyant Releases LingBot-VLA 2.0: An Open-Source 6B Vision-Language-Action (VLA) Model for Cross-Embodiment Robot Manipulation",
-      "summary": "...",
-      "source": {
-        "name": "MarkTechPost",
-        "url": "https://www.marktechpost.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Robotics"
-      ],
-      "publishedAt": "Thu, 09 Jul 2026 00:45:39 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.marktechpost.com/2026/07/08/lingbot-vla-2-0/"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-07-11T03:45:42.287Z",
-  "edition": 341
+  "lastUpdated": "2026-07-11T08:15:58.491Z",
+  "edition": 342
 }
