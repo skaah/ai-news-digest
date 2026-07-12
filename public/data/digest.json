@@ -1,6 +1,24 @@
 {
-  "date": "2026-07-12T08:32:34.123Z",
+  "date": "2026-07-12T13:58:21.991Z",
   "articles": [
+    {
+      "id": "mrhuzfwu31lfui49xge",
+      "title": "GitHub piégé par un simple ticket, le Flipper Zero passe le relais et Claude cache ses pensées : on vous raconte la semaine Cyberguerre",
+      "summary": "...",
+      "source": {
+        "name": "Numerama",
+        "url": "https://www.numerama.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Anthropic"
+      ],
+      "publishedAt": "Sun, 12 Jul 2026 12:30:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.numerama.com/cyberguerre/2294425-github-piege-par-un-simple-ticket-le-flipper-zero-passe-le-relais-et-claude-cache-ses-pensees-on-vous-raconte-la-semaine-cyberguerre.html"
+    },
     {
       "id": "mrh9oxq94mryyqui6zy",
       "title": "Mira Murati’s Thinking Machines Lab Makes The Technical Case For Human-Centered AI Built On Customizable Model Weights",
@@ -862,27 +880,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
       "readTime": 1,
       "originalUrl": "https://openai.com/index/bio-bug-bounty"
-    },
-    {
-      "id": "mrdxtryjlucx351k988",
-      "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
-      "summary": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work....",
-      "source": {
-        "name": "OpenAI News",
-        "url": "https://openai.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "OpenAI"
-      ],
-      "publishedAt": "Thu, 09 Jul 2026 10:00:00 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://openai.com/index/gpt-5-6"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-07-12T08:32:34.122Z",
-  "edition": 346
+  "lastUpdated": "2026-07-12T13:58:21.991Z",
+  "edition": 347
 }
