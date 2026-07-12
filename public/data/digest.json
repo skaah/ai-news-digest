@@ -1,6 +1,24 @@
 {
-  "date": "2026-07-12T13:58:21.991Z",
+  "date": "2026-07-12T19:33:27.851Z",
   "articles": [
+    {
+      "id": "mri6ydsw2qmroboec2q",
+      "title": "Alternatives aux clims mobiles, projet IA de Doctolib et nouveaux modèles vocaux ChatGPT : le récap tech de la semaine",
+      "summary": "...",
+      "source": {
+        "name": "Numerama",
+        "url": "https://www.numerama.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "OpenAI"
+      ],
+      "publishedAt": "Sun, 12 Jul 2026 14:02:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.numerama.com/tech/2294117-alternatives-aux-clims-mobiles-projet-ia-de-doctolib-et-nouveaux-modeles-vocaux-chatgpt-le-recap-tech-de-la-semaine.html"
+    },
     {
       "id": "mrhuzfwu31lfui49xge",
       "title": "GitHub piégé par un simple ticket, le Flipper Zero passe le relais et Claude cache ses pensées : on vous raconte la semaine Cyberguerre",
@@ -862,27 +880,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
       "readTime": 1,
       "originalUrl": "https://openai.com/index/chatgpt-for-your-most-ambitious-work"
-    },
-    {
-      "id": "mrdxtryj7dh48icmysc",
-      "title": "GPT-5.5 Bio Bug Bounty",
-      "summary": "Details about the OpenAI Bio Bounty program...",
-      "source": {
-        "name": "OpenAI News",
-        "url": "https://openai.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "OpenAI"
-      ],
-      "publishedAt": "Thu, 09 Jul 2026 10:00:00 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://openai.com/index/bio-bug-bounty"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-07-12T13:58:21.991Z",
-  "edition": 347
+  "lastUpdated": "2026-07-12T19:33:27.851Z",
+  "edition": 348
 }
