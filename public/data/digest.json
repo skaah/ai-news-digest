@@ -1,6 +1,40 @@
 {
-  "date": "2026-07-13T09:49:13.998Z",
+  "date": "2026-07-13T15:14:05.931Z",
   "articles": [
+    {
+      "id": "mrjd4ok7455j6qmvmel",
+      "title": "Mégalevée de fonds pour Helsing, start-up européenne d’IA de défense, valorisée 18 milliards de dollars désormais",
+      "summary": "L’entreprise a annoncé, lundi, avoir récolté 1,8 milliard de dollars lors de son sixième tour de table....",
+      "source": {
+        "name": "Le Monde Tech",
+        "url": "https://www.lemonde.fr",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.lemonde.fr&sz=64"
+      },
+      "category": "Funding",
+      "tags": [],
+      "publishedAt": "Mon, 13 Jul 2026 16:26:57 +0200",
+      "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.lemonde.fr/economie/article/2026/07/13/megalevee-de-fonds-pour-helsing-start-up-europeenne-d-ia-de-defense-valorisee-18-milliards-de-dollars-desormais_6723095_3234.html"
+    },
+    {
+      "id": "mrjd4ia19qkkl1yzgza",
+      "title": "Waze adds new AI-powered features and customization updates",
+      "summary": "Some of the new features are powered by Google's Gemini AI assistant, which reflects the the tech giant's broader push to integrate Gemini across its products while also better positioning Waze to compete with rival services such as Apple Maps....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Product",
+      "tags": [
+        "Google"
+      ],
+      "publishedAt": "Mon, 13 Jul 2026 14:18:16 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1550009158-9ebf690be655?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/07/13/waze-adds-new-ai-powered-features-and-customization-updates/"
+    },
     {
       "id": "mrj1iufkes9gxcm94bi",
       "title": "Stanford Researchers Introduce TRACE: A Capability-Targeted Agentic Training System That Turns Recurrent Agent Failures Into Synthetic RL Environment",
@@ -822,45 +856,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
       "readTime": 1,
       "originalUrl": "https://www.marktechpost.com/2026/07/09/meet-nemotron-labs-3-puzzle-75b-a9b/"
-    },
-    {
-      "id": "mrdxtpczcko9wenm4br",
-      "title": "New York Times says OpenAI hid evidence in ChatGPT copyright trial",
-      "summary": "News publishers say OpenAI hid tools and datasets that could identify copyrighted journalism in ChatGPT outputs, escalating their lawsuit with a new motion for sanctions....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Policy",
-      "tags": [
-        "OpenAI"
-      ],
-      "publishedAt": "Thu, 09 Jul 2026 19:05:58 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1575517111839-3a3843ee7f5d?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/07/09/new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial/"
-    },
-    {
-      "id": "mrdxtpczzqx857gnjcn",
-      "title": "Google will now disclose which ads are made with AI",
-      "summary": "While Google prohibits misleading and deceptive ads, an ad can still leverage AI to create some type of synthetic or digitally altered content. Until now, that's something Google only required election ads to disclose....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Google"
-      ],
-      "publishedAt": "Thu, 09 Jul 2026 18:40:51 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/07/09/google-will-now-disclose-which-ads-are-made-with-ai/"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-07-13T09:49:13.998Z",
-  "edition": 350
+  "lastUpdated": "2026-07-13T15:14:05.930Z",
+  "edition": 351
 }
