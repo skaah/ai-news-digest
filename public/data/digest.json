@@ -1,6 +1,25 @@
 {
-  "date": "2026-07-15T03:39:19.610Z",
+  "date": "2026-07-15T08:37:29.411Z",
   "articles": [
+    {
+      "id": "mrltu9l1ncxiplu6acl",
+      "title": "Google Releases LiteRT.js: A JavaScript Binding of LiteRT That Runs .tflite Models in Browsers via WebGPU",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Hardware",
+      "tags": [
+        "Google",
+        "Nvidia"
+      ],
+      "publishedAt": "Wed, 15 Jul 2026 07:36:17 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/07/15/google-releases-litert-js-a-javascript-binding-of-litert-that-runs-tflite-models-in-browsers-via-webgpu/"
+    },
     {
       "id": "mrlj6q83mb8557jz0lm",
       "title": "OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B",
@@ -831,25 +850,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
       "readTime": 1,
       "originalUrl": "https://www.maddyness.com/2026/07/13/geo-la-presidentielle-2027-se-jouera-aussi-dans-les-reponses-des-ia/"
-    },
-    {
-      "id": "mrj1ixljzwmqy3tz73",
-      "title": "Cloud souverain : et si le mythe devenait enfin réalité ?",
-      "summary": "...",
-      "source": {
-        "name": "Maddyness",
-        "url": "https://www.maddyness.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.maddyness.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Mon, 13 Jul 2026 07:00:04 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.maddyness.com/2026/07/13/cloud-souverain-et-si-le-mythe-devenait-enfin-realite/"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-07-15T03:39:19.610Z",
-  "edition": 357
+  "lastUpdated": "2026-07-15T08:37:29.411Z",
+  "edition": 358
 }
