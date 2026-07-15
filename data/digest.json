@@ -1,6 +1,106 @@
 {
-  "date": "2026-07-15T08:37:29.411Z",
+  "date": "2026-07-15T14:13:30.603Z",
   "articles": [
+    {
+      "id": "mrm5u9ngg38cmqripz",
+      "title": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not models",
+      "summary": "Anthropic-backed Ode launches as AI labs bet that embedding forward-deployed engineers inside enterprises is the key to accelerating enterprise AI adoption....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Product",
+      "tags": [
+        "Anthropic"
+      ],
+      "publishedAt": "Wed, 15 Jul 2026 13:10:47 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1550009158-9ebf690be655?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/"
+    },
+    {
+      "id": "mrm5u9nh5hz4k27kh0w",
+      "title": "Reelful’s AI turns your camera roll into short-form videos for social media",
+      "summary": "The app is designed for people who want to create social content, but find traditional video editing tools too complex or time-consuming....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Wed, 15 Jul 2026 13:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/07/15/reelfuls-ai-turns-your-camera-roll-into-short-form-videos-for-social-media/"
+    },
+    {
+      "id": "mrm5u9nirf2bjoyhm1g",
+      "title": "Rime picks up $24M Series A to help enterprises field customer calls",
+      "summary": "Rime is handling over 100 million calls each month across multiple companies....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Funding",
+      "tags": [],
+      "publishedAt": "Wed, 15 Jul 2026 13:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/07/15/rime-picks-up-24m-series-a-to-help-enterprises-field-customer-calls/"
+    },
+    {
+      "id": "mrm5u9njwyc3k8srwd",
+      "title": "Indian AI coding startup Emergent becomes a unicorn with $130M Series C",
+      "summary": "The startup has reached a $120 million annualized revenue run rate and more than 200,000 paying customers....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Funding",
+      "tags": [
+        "Startup"
+      ],
+      "publishedAt": "Wed, 15 Jul 2026 12:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/07/15/indian-ai-coding-startup-emergent-becomes-a-unicorn-just-over-a-year-after-launch/"
+    },
+    {
+      "id": "mrm5u9nj1cekepnzgnu",
+      "title": "Vint Cerf is working on a plan to unleash AI agents on the open internet",
+      "summary": "The guy behind TCP/IP is working on a standard for identifying AI agents in the wild. ...",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Wed, 15 Jul 2026 12:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/07/15/vint-cerf-is-working-on-a-plan-to-unleash-ai-agents-on-the-open-internet/"
+    },
+    {
+      "id": "mrm5uhysygpp12ra76m",
+      "title": "VivaTech 2026 : KPMG accélère le passage d'une IA de confiance",
+      "summary": "...",
+      "source": {
+        "name": "Maddyness",
+        "url": "https://www.maddyness.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.maddyness.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Wed, 15 Jul 2026 09:30:50 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.maddyness.com/2026/07/15/vivatech-2026-kpmg-accelere-le-passage-dune-ia-de-confiance/"
+    },
     {
       "id": "mrltu9l1ncxiplu6acl",
       "title": "Google Releases LiteRT.js: A JavaScript Binding of LiteRT That Runs .tflite Models in Browsers via WebGPU",
@@ -38,6 +138,22 @@
       "imageUrl": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=800",
       "readTime": 1,
       "originalUrl": "https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/"
+    },
+    {
+      "id": "mrm5ud033zcrgpaf8lg",
+      "title": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
+      "summary": "...",
+      "source": {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co",
+        "favicon": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Wed, 15 Jul 2026 00:00:00 GMT",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://huggingface.co/blog/real-world-voiceeq"
     },
     {
       "id": "mrlj6wpes9snptpj17c",
@@ -734,125 +850,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
       "readTime": 1,
       "originalUrl": "https://techcrunch.com/2026/07/13/sam-altmans-space-data-center-trash-talk-is-what-most-experts-already-believe/"
-    },
-    {
-      "id": "mrjn27xrlau3i21dobg",
-      "title": "Should AI help you get away with killing your spouse?",
-      "summary": "What does a world of total user-aligned AI actually look like?...",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Mon, 13 Jul 2026 16:31:23 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/07/13/should-ai-help-you-get-away-with-killing-your-spouse/"
-    },
-    {
-      "id": "mrjn27xr02e3uvwzcc2d",
-      "title": "Anthropic starts localizing Claude pricing for India, its biggest market after the US",
-      "summary": "Claude users in India are starting to see Indian rupee-denominated subscription plans....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Anthropic"
-      ],
-      "publishedAt": "Mon, 13 Jul 2026 15:34:59 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/07/13/anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-the-us/"
-    },
-    {
-      "id": "mrjd4ok7455j6qmvmel",
-      "title": "Mégalevée de fonds pour Helsing, start-up européenne d’IA de défense, valorisée 18 milliards de dollars désormais",
-      "summary": "L’entreprise a annoncé, lundi, avoir récolté 1,8 milliard de dollars lors de son sixième tour de table....",
-      "source": {
-        "name": "Le Monde Tech",
-        "url": "https://www.lemonde.fr",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.lemonde.fr&sz=64"
-      },
-      "category": "Funding",
-      "tags": [],
-      "publishedAt": "Mon, 13 Jul 2026 16:26:57 +0200",
-      "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.lemonde.fr/economie/article/2026/07/13/megalevee-de-fonds-pour-helsing-start-up-europeenne-d-ia-de-defense-valorisee-18-milliards-de-dollars-desormais_6723095_3234.html"
-    },
-    {
-      "id": "mrjd4ia19qkkl1yzgza",
-      "title": "Waze adds new AI-powered features and customization updates",
-      "summary": "Some of the new features are powered by Google's Gemini AI assistant, which reflects the the tech giant's broader push to integrate Gemini across its products while also better positioning Waze to compete with rival services such as Apple Maps....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Product",
-      "tags": [
-        "Google"
-      ],
-      "publishedAt": "Mon, 13 Jul 2026 14:18:16 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1550009158-9ebf690be655?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/07/13/waze-adds-new-ai-powered-features-and-customization-updates/"
-    },
-    {
-      "id": "mrj1iufkes9gxcm94bi",
-      "title": "Stanford Researchers Introduce TRACE: A Capability-Targeted Agentic Training System That Turns Recurrent Agent Failures Into Synthetic RL Environment",
-      "summary": "...",
-      "source": {
-        "name": "MarkTechPost",
-        "url": "https://www.marktechpost.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
-      },
-      "category": "Research",
-      "tags": [],
-      "publishedAt": "Mon, 13 Jul 2026 08:45:12 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.marktechpost.com/2026/07/13/stanford-researchers-introduce-trace/"
-    },
-    {
-      "id": "mrj1iufkxxzhxd30a0b",
-      "title": "Prime Intellect Releases Verifiers v1: Composable Tasksets, Harnesses, and Runtimes for Agentic RL Training and Evaluations",
-      "summary": "...",
-      "source": {
-        "name": "MarkTechPost",
-        "url": "https://www.marktechpost.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Mon, 13 Jul 2026 07:40:18 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.marktechpost.com/2026/07/13/prime-intellect-releases-verifiers-v1/"
-    },
-    {
-      "id": "mrj1ixlj40kc5hqgm52",
-      "title": "GEO : la présidentielle 2027 se jouera aussi dans les réponses des IA",
-      "summary": "...",
-      "source": {
-        "name": "Maddyness",
-        "url": "https://www.maddyness.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.maddyness.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Mon, 13 Jul 2026 07:00:05 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.maddyness.com/2026/07/13/geo-la-presidentielle-2027-se-jouera-aussi-dans-les-reponses-des-ia/"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-07-15T08:37:29.411Z",
-  "edition": 358
+  "lastUpdated": "2026-07-15T14:13:30.602Z",
+  "edition": 359
 }
