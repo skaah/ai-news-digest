@@ -1,6 +1,22 @@
 {
-  "date": "2026-07-16T19:35:37.014Z",
+  "date": "2026-07-17T03:41:12.950Z",
   "articles": [
+    {
+      "id": "mroe4yv5y87fpsaytg",
+      "title": "Moonshot AI Releases Kimi K3: A 2.8 Trillion Parameter Open MoE Model With Kimi Delta Attention and 1M Context",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Thu, 16 Jul 2026 23:47:05 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/07/16/moonshot-ai-releases-kimi-k3-a-2-8-trillion-parameter-open-moe-model-with-kimi-delta-attention-and-1m-context/"
+    },
     {
       "id": "mrnwshi9duy0qapkzsq",
       "title": "OpenAI Details GPT-Red: An Internal Automated Red-Teaming Model That Beat Human Red-Teamers 84% To 13% On Prompt Injection",
@@ -834,25 +850,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
       "readTime": 1,
       "originalUrl": "https://arxiv.org/abs/2607.11888"
-    },
-    {
-      "id": "mrmypr3kzz1o17aqtg",
-      "title": "In-Context Reinforcement Learning under Non-Stationarity: A Survey",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Wed, 15 Jul 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2607.11906"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-07-16T19:35:37.014Z",
-  "edition": 364
+  "lastUpdated": "2026-07-17T03:41:12.950Z",
+  "edition": 365
 }
