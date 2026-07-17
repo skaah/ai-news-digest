@@ -1,6 +1,58 @@
 {
-  "date": "2026-07-17T08:30:03.646Z",
+  "date": "2026-07-17T14:05:29.608Z",
   "articles": [
+    {
+      "id": "mrp0fojy6y7vtuoe5s8",
+      "title": "Why the first GPU financiers are turning to inference chips in a $400 million deal",
+      "summary": "A $400 million chip-backed loan points to the next wave of AI infrastructure deals....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Funding",
+      "tags": [
+        "Nvidia"
+      ],
+      "publishedAt": "Fri, 17 Jul 2026 12:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/"
+    },
+    {
+      "id": "mrp0fr10ahb00rmqwl6",
+      "title": "A scorecard for the AI age",
+      "summary": "Sarah Friar, CFO of OpenaAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute....",
+      "source": {
+        "name": "OpenAI News",
+        "url": "https://openai.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Fri, 17 Jul 2026 10:00:00 GMT",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://openai.com/index/a-scorecard-for-the-ai-age"
+    },
+    {
+      "id": "mrp0fpwcgvq6ckwo959",
+      "title": "The risk of weather data sabotage is rising",
+      "summary": "Every morning, airline dispatchers, grid operators, and farmers around the world make decisions based on the same thing: a weather forecast. While these forecasts are something that most people glance at for two seconds, weather predictions influence major strategic decisions in ...",
+      "source": {
+        "name": "MIT Tech Review AI",
+        "url": "https://www.technologyreview.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.technologyreview.com&sz=64"
+      },
+      "category": "Ethics",
+      "tags": [
+        "AI Safety"
+      ],
+      "publishedAt": "Fri, 17 Jul 2026 08:57:32 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.technologyreview.com/2026/07/17/1140622/weather-data-sabotage/"
+    },
     {
       "id": "mroogiblug89nbk7pc8",
       "title": "Face à la colère des utilisateurs, OpenAI répare en urgence l’application ChatGPT",
@@ -800,60 +852,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=800",
       "readTime": 1,
       "originalUrl": "https://techcrunch.com/2026/07/15/indian-ai-coding-startup-emergent-becomes-a-unicorn-just-over-a-year-after-launch/"
-    },
-    {
-      "id": "mrm5u9nj1cekepnzgnu",
-      "title": "Vint Cerf is working on a plan to unleash AI agents on the open internet",
-      "summary": "The guy behind TCP/IP is working on a standard for identifying AI agents in the wild. ...",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Wed, 15 Jul 2026 12:00:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/07/15/vint-cerf-is-working-on-a-plan-to-unleash-ai-agents-on-the-open-internet/"
-    },
-    {
-      "id": "mrmhg6evzh68b901abj",
-      "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
-      "summary": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness....",
-      "source": {
-        "name": "OpenAI News",
-        "url": "https://openai.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
-      },
-      "category": "Ethics",
-      "tags": [
-        "OpenAI",
-        "AI Safety"
-      ],
-      "publishedAt": "Wed, 15 Jul 2026 10:00:00 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=800",
-      "readTime": 1,
-      "originalUrl": "https://openai.com/index/unlocking-self-improvement-gpt-red"
-    },
-    {
-      "id": "mrm5uhysygpp12ra76m",
-      "title": "VivaTech 2026 : KPMG accélère le passage d'une IA de confiance",
-      "summary": "...",
-      "source": {
-        "name": "Maddyness",
-        "url": "https://www.maddyness.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.maddyness.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Wed, 15 Jul 2026 09:30:50 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.maddyness.com/2026/07/15/vivatech-2026-kpmg-accelere-le-passage-dune-ia-de-confiance/"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-07-17T08:30:03.645Z",
-  "edition": 366
+  "lastUpdated": "2026-07-17T14:05:29.608Z",
+  "edition": 367
 }
