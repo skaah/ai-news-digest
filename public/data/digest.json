@@ -1,6 +1,94 @@
 {
-  "date": "2026-07-17T14:05:29.608Z",
+  "date": "2026-07-17T19:35:05.808Z",
   "articles": [
+    {
+      "id": "mrpc7j7vn8ovm1rpqu",
+      "title": "How Apple’s big lawsuit could disrupt OpenAI’s IPO plans",
+      "summary": "Apple filed a trade secrets lawsuit against OpenAI last Friday, and it’s not messing around. The complaint alleges a pattern of misconduct reaching all the way up to OpenAI’s chief hardware officer and claims more than 400 former Apple employees now work at the c...",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Policy",
+      "tags": [
+        "OpenAI"
+      ],
+      "publishedAt": "Fri, 17 Jul 2026 17:45:46 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1575517111839-3a3843ee7f5d?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/"
+    },
+    {
+      "id": "mrpc7l53j0250b4lc8c",
+      "title": "Following the questions where they lead",
+      "summary": "Assistant Professor Bailey Flanigan has arrived at complex computational methods for helping democracy thrive....",
+      "source": {
+        "name": "MIT News AI",
+        "url": "https://news.mit.edu",
+        "favicon": "https://www.google.com/s2/favicons?domain=news.mit.edu&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Fri, 17 Jul 2026 13:25:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://news.mit.edu/2026/following-questions-where-they-lead-bailey-flanigan-0717"
+    },
+    {
+      "id": "mrpc7md63zgi9602agy",
+      "title": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
+      "summary": "...",
+      "source": {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co",
+        "favicon": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Nvidia"
+      ],
+      "publishedAt": "Fri, 17 Jul 2026 15:57:54 GMT",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel"
+    },
+    {
+      "id": "mrpc7j7wmsdn42sdvd",
+      "title": "Patreon stops asking AI bots not to scrape — and starts blocking them",
+      "summary": "Patreon is strengthening its defenses against AI scraping by working with Cloudflare to block bots that train AI models on creators’ content without permission. The move marks a shift away from relying on websites using robots.txt alone to actively block unauthorized AI training....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Robotics"
+      ],
+      "publishedAt": "Fri, 17 Jul 2026 15:21:17 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/"
+    },
+    {
+      "id": "mrpc7j7x0ll19o87kvfk",
+      "title": "Apple’s lawsuit couldn’t come at a worse time for OpenAI",
+      "summary": "Apple filed a trade secrets lawsuit against OpenAI last Friday, and it’s not messing around. The complaint alleges a pattern of misconduct reaching all the way up to OpenAI’s chief hardware officer and claims more than 400 former Apple employees now work at the c...",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Policy",
+      "tags": [
+        "OpenAI"
+      ],
+      "publishedAt": "Fri, 17 Jul 2026 14:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1575517111839-3a3843ee7f5d?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/podcast/apples-lawsuit-couldnt-come-at-a-worse-time-for-openai/"
+    },
     {
       "id": "mrp0fojy6y7vtuoe5s8",
       "title": "Why the first GPU financiers are turning to inference chips in a $400 million deal",
@@ -765,96 +853,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=800",
       "readTime": 1,
       "originalUrl": "https://techcrunch.com/2026/07/15/microsoft-patches-record-number-of-security-vulnerabilities-citing-its-use-of-ai/"
-    },
-    {
-      "id": "mrm5u9ngg38cmqripz",
-      "title": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not models",
-      "summary": "Anthropic-backed Ode launches as AI labs bet that embedding forward-deployed engineers inside enterprises is the key to accelerating enterprise AI adoption....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Product",
-      "tags": [
-        "Anthropic"
-      ],
-      "publishedAt": "Wed, 15 Jul 2026 13:10:47 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1550009158-9ebf690be655?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/"
-    },
-    {
-      "id": "mrm5u9nh5hz4k27kh0w",
-      "title": "Reelful’s AI turns your camera roll into short-form videos for social media",
-      "summary": "The app is designed for people who want to create social content, but find traditional video editing tools too complex or time-consuming....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Wed, 15 Jul 2026 13:00:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/07/15/reelfuls-ai-turns-your-camera-roll-into-short-form-videos-for-social-media/"
-    },
-    {
-      "id": "mrm5u9nirf2bjoyhm1g",
-      "title": "Rime picks up $24M Series A to help enterprises field customer calls",
-      "summary": "Rime is handling over 100 million calls each month across multiple companies....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Funding",
-      "tags": [],
-      "publishedAt": "Wed, 15 Jul 2026 13:00:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/07/15/rime-picks-up-24m-series-a-to-help-enterprises-field-customer-calls/"
-    },
-    {
-      "id": "mrmhg6ev012q6nqtn0eho",
-      "title": "The US is advancing AI safety through state and federal action",
-      "summary": "OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI....",
-      "source": {
-        "name": "OpenAI News",
-        "url": "https://openai.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
-      },
-      "category": "Policy",
-      "tags": [
-        "OpenAI",
-        "AI Safety"
-      ],
-      "publishedAt": "Wed, 15 Jul 2026 12:00:00 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1575517111839-3a3843ee7f5d?w=800",
-      "readTime": 1,
-      "originalUrl": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action"
-    },
-    {
-      "id": "mrm5u9njwyc3k8srwd",
-      "title": "Indian AI coding startup Emergent becomes a unicorn with $130M Series C",
-      "summary": "The startup has reached a $120 million annualized revenue run rate and more than 200,000 paying customers....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Funding",
-      "tags": [
-        "Startup"
-      ],
-      "publishedAt": "Wed, 15 Jul 2026 12:00:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/07/15/indian-ai-coding-startup-emergent-becomes-a-unicorn-just-over-a-year-after-launch/"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-07-17T14:05:29.608Z",
-  "edition": 367
+  "lastUpdated": "2026-07-17T19:35:05.808Z",
+  "edition": 368
 }
