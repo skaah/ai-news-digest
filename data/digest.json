@@ -1,6 +1,91 @@
 {
-  "date": "2026-07-18T03:36:43.919Z",
+  "date": "2026-07-18T08:11:05.847Z",
   "articles": [
+    {
+      "id": "mrq37vieqzablcnmsj",
+      "title": "Google Cloud’s Always-On Memory Agent Replaces RAG and Embeddings With Continuous LLM Consolidation on Gemini 3.1 Flash-Lite",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Google",
+        "LLM"
+      ],
+      "publishedAt": "Sat, 18 Jul 2026 07:57:51 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/07/18/google-clouds-always-on-memory-agent-replaces-rag-and-embeddings-with-continuous-llm-consolidation-on-gemini-3-1-flash-lite/"
+    },
+    {
+      "id": "mrq37z1dwe9kkm4vuu",
+      "title": "Claude Fable 5 reste inclus dans certains forfaits Anthropic, mais avec des quotas divisés par deux",
+      "summary": "...",
+      "source": {
+        "name": "Numerama",
+        "url": "https://www.numerama.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
+      },
+      "category": "Policy",
+      "tags": [
+        "Anthropic"
+      ],
+      "publishedAt": "Sat, 18 Jul 2026 07:11:13 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1555848962-6e79363ec58f?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.numerama.com/tech/2297337-claude-fable-5-reste-inclus-dans-certains-forfaits-anthropic-mais-avec-des-quotas-divises-par-deux.html"
+    },
+    {
+      "id": "mrq37viem3q962bzr4n",
+      "title": "How to Build Plasmid Engineering Workbench with Circular Mapping, Restriction Analysis, Virtual Gels, and Primer Design",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Sat, 18 Jul 2026 06:51:05 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/07/17/how-to-build-plasmid-engineering-workbench-with-circular-mapping-restriction-analysis-virtual-gels-and-primer-design/"
+    },
+    {
+      "id": "mrq37vifw02xxjypai",
+      "title": "Sakana AI’s Error Diffusion Trains Dale-Compliant Dual-Stream Networks, Reaching 96.7% MNIST and 61.7% CIFAR-10 Without Backpropagation",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Sat, 18 Jul 2026 06:32:43 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/07/17/sakana-ais-error-diffusion-trains-dale-compliant-dual-stream-networks-reaching-96-7-mnist-and-61-7-cifar-10-without-backpropagation/"
+    },
+    {
+      "id": "mrq37qwvb9wwxfestc",
+      "title": "Neil Rimer thinks the AI money is coming back out",
+      "summary": "Neil Rimer, the venture capitalist who co-founded Index Ventures, predicts the historic wealth AI is generating in Silicon Valley will have to be redistributed, voluntarily or involuntarily....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Sat, 18 Jul 2026 04:47:25 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/"
+    },
     {
       "id": "mrptex44o64770v7h8b",
       "title": "Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs",
@@ -766,91 +851,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
       "readTime": 1,
       "originalUrl": "https://www.marktechpost.com/2026/07/15/soofi-consortium-releases-soofi-s-30b-a3b-an-open-hybrid-mamba-transformer-moe-foundation-model-for-german-and-english/"
-    },
-    {
-      "id": "mrmypo3qisn3jxvgt98",
-      "title": "3 Questions: Neural transparency and the future of AI design",
-      "summary": "Assistant Professor Pat Pataranutaporn describes a new interface that lets everyday users glimpse inside an AI's neural network before their chatbot ever says a word....",
-      "source": {
-        "name": "MIT News AI",
-        "url": "https://news.mit.edu",
-        "favicon": "https://www.google.com/s2/favicons?domain=news.mit.edu&sz=64"
-      },
-      "category": "Policy",
-      "tags": [],
-      "publishedAt": "Wed, 15 Jul 2026 16:25:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800",
-      "readTime": 1,
-      "originalUrl": "https://news.mit.edu/2026/3-questions-neural-transparency-and-future-of-ai-design-0715"
-    },
-    {
-      "id": "mrmypm3oeev9a8qp9nb",
-      "title": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
-      "summary": "OpenAI, which is in the middle of a legal battle with Apple over hardware trade theft allegations, just released a light-up keyboard designed to be paired with its agentic coding app. ...",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Hardware",
-      "tags": [
-        "OpenAI"
-      ],
-      "publishedAt": "Wed, 15 Jul 2026 19:41:38 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/"
-    },
-    {
-      "id": "mrmypm3pc4d7afah2vo",
-      "title": "SpaceX falls to $135 IPO price ahead of Starship launch",
-      "summary": "The stock has steadily fallen from the euphoric post-IPO high, showing that markets may be sobering up to the promises CEO Elon Musk made before and after SpaceX went public....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Product",
-      "tags": [],
-      "publishedAt": "Wed, 15 Jul 2026 18:06:05 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1550009158-9ebf690be655?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/07/15/spacex-falls-to-135-ipo-price-ahead-of-starship-launch/"
-    },
-    {
-      "id": "mrmhg3t7neo0s7p9sr",
-      "title": "SpaceX slips below its $135 IPO price ahead of Starship launch",
-      "summary": "The stock has steadily fallen from the euphoric post-IPO high, showing that markets may be sobering up to the promises CEO Elon Musk made before and after SpaceX went public....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Product",
-      "tags": [],
-      "publishedAt": "Wed, 15 Jul 2026 18:06:05 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/07/15/spacex-slips-below-its-135-ipo-price-ahead-of-starship-launch/"
-    },
-    {
-      "id": "mrmhg3t8eyy1os1hjjk",
-      "title": "Thinking Machines amps up its bet against one-size-fits-all AI with its first open model, Inkling",
-      "summary": "It's the company's first public proof point after a year and a half spent building AI infrastructure largely out of public view....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Wed, 15 Jul 2026 18:04:06 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-07-18T03:36:43.919Z",
-  "edition": 369
+  "lastUpdated": "2026-07-18T08:11:05.847Z",
+  "edition": 370
 }
