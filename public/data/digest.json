@@ -1,6 +1,72 @@
 {
-  "date": "2026-07-19T13:56:07.065Z",
+  "date": "2026-07-19T19:35:28.201Z",
   "articles": [
+    {
+      "id": "mrs73pbd2dj5wt9b2f3",
+      "title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
+      "summary": "On the latest episode of Equity, we debate whether Apple's lawsuit will cast over OpenAi's much-discussed plans to get into hardware and go public....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Policy",
+      "tags": [
+        "OpenAI"
+      ],
+      "publishedAt": "Sun, 19 Jul 2026 19:24:45 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1555848962-6e79363ec58f?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/"
+    },
+    {
+      "id": "mrs73xfh9etdlpubbxp",
+      "title": "L’imprécision mène à « l’open-washing » : qu’est-ce qui distingue les IA open source des open weight ?",
+      "summary": "...",
+      "source": {
+        "name": "Numerama",
+        "url": "https://www.numerama.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Sun, 19 Jul 2026 18:05:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.numerama.com/tech/2297077-limprecision-mene-a-lopen-washing-quest-ce-qui-distingue-les-ia-open-source-des-open-weight.html"
+    },
+    {
+      "id": "mrs73pbexi9qx8hticj",
+      "title": "‘Odyssey’ director Christopher Nolan calls AI an obvious ‘Trojan horse’",
+      "summary": "\"Everybody knows the Greeks are inside.\"...",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Sun, 19 Jul 2026 14:52:08 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/"
+    },
+    {
+      "id": "mrs73pbf3q3qkfsxyvb",
+      "title": "Nonprofit Current AI is racing to build the World Wide Web of AI, free for all",
+      "summary": "Current AI, a non-profit building AI that leaves no one culture behind, has made remarkable progress across devices, AI chat and more. ...",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Sun, 19 Jul 2026 14:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/"
+    },
     {
       "id": "mrrjj7ieg53a9dg96aw",
       "title": "Perplexity AI Releases WANDR: An Open Benchmark Evaluating Research Agents That Must Search Wide And Deep",
@@ -786,77 +852,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=800",
       "readTime": 1,
       "originalUrl": "https://news.mit.edu/2026/turning-2d-designs-into-3d-models-for-rapid-prototyping-0716"
-    },
-    {
-      "id": "mrn998b51g1awuzgkjb",
-      "title": "OriginBlame: Record- and Token-Level Data Provenance for AI Training Datasets",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Thu, 16 Jul 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2607.13037"
-    },
-    {
-      "id": "mrn998b5mhg4qgt0uwd",
-      "title": "SPINE: Bridging the Cyber-Physical Gap with Agentic AI",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Thu, 16 Jul 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2607.13049"
-    },
-    {
-      "id": "mrn998b60n2nwfk5kua",
-      "title": "Interventional Grounding Audits: Black-Box Premise-Dependency Tests for LLM Chain-of-Thought via Predicate Substitution",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "LLM"
-      ],
-      "publishedAt": "Thu, 16 Jul 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2607.13069"
-    },
-    {
-      "id": "mrn998b6rzpmxpyju8f",
-      "title": "Probabilistic Extension of Neuro-Symbolic AGI Robots based on Belnap's Typed Intensional FOL",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Policy",
-      "tags": [
-        "Robotics"
-      ],
-      "publishedAt": "Thu, 16 Jul 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2607.13073"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-07-19T13:56:07.065Z",
-  "edition": 375
+  "lastUpdated": "2026-07-19T19:35:28.201Z",
+  "edition": 376
 }
