@@ -1,6 +1,40 @@
 {
-  "date": "2026-07-19T03:58:41.070Z",
+  "date": "2026-07-19T08:35:34.320Z",
   "articles": [
+    {
+      "id": "mrrjj7ieg53a9dg96aw",
+      "title": "Perplexity AI Releases WANDR: An Open Benchmark Evaluating Research Agents That Must Search Wide And Deep",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Research",
+      "tags": [],
+      "publishedAt": "Sun, 19 Jul 2026 07:19:14 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/07/19/perplexity-ai-releases-wandr-an-open-benchmark-evaluating-research-agents-that-must-search-wide-and-deep/"
+    },
+    {
+      "id": "mrrjj7ifwxk4l1ydj7f",
+      "title": "10 Open-Source No-Code AI Platforms for Building LLM Apps, RAG Systems, and AI Agents",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "LLM"
+      ],
+      "publishedAt": "Sun, 19 Jul 2026 05:53:19 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/07/18/10-open-source-no-code-ai-platforms-for-building-llm-apps-rag-systems-and-ai-agents/"
+    },
     {
       "id": "mrr9n57p40xao7deewr",
       "title": "Kimi K3 vs DeepSeek V4 Pro vs GLM-5.2: Open Trillion-Scale MoE Models Compared on Benchmarks, License, and Serving Cost",
@@ -820,43 +854,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800",
       "readTime": 1,
       "originalUrl": "https://arxiv.org/abs/2607.13073"
-    },
-    {
-      "id": "mrn998b7c8uld74ug4o",
-      "title": "Self-Improvements in Modern Agentic Systems: A Survey",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Thu, 16 Jul 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2607.13104"
-    },
-    {
-      "id": "mrnwsfflrm80nb684ui",
-      "title": "How Cars24 scales conversations and builds faster with OpenAI",
-      "summary": "Cars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams across the company....",
-      "source": {
-        "name": "OpenAI News",
-        "url": "https://openai.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "OpenAI"
-      ],
-      "publishedAt": "Thu, 16 Jul 2026 00:00:00 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://openai.com/index/cars24"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-07-19T03:58:41.070Z",
-  "edition": 373
+  "lastUpdated": "2026-07-19T08:35:34.320Z",
+  "edition": 374
 }
