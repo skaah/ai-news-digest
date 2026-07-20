@@ -1,6 +1,40 @@
 {
-  "date": "2026-07-20T04:07:33.755Z",
+  "date": "2026-07-20T09:36:41.932Z",
   "articles": [
+    {
+      "id": "mrt15rfh7o53467ccas",
+      "title": "« La leçon pratique pour les défenseurs » : comment un piratage par IA a forcé Hugging Face à abandonner ses modèles frontière",
+      "summary": "...",
+      "source": {
+        "name": "Numerama",
+        "url": "https://www.numerama.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
+      },
+      "category": "Policy",
+      "tags": [],
+      "publishedAt": "Mon, 20 Jul 2026 09:13:31 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.numerama.com/cyberguerre/2297499-la-lecon-pratique-pour-les-defenseurs-comment-un-piratage-par-ia-a-force-hugging-face-a-abandonner-ses-modeles-frontiere.html"
+    },
+    {
+      "id": "mrt15l3lyvbjtmcmpld",
+      "title": "AI is more likely than humans to form biases when hiring",
+      "summary": "The next time you apply for a job, AI may screen your résumé before any human sees it. But there’s good reason to question whether AI will judge you fairly. Researchers already know that LLMs pick up human biases from their training data. New research suggests that LLMs can also ...",
+      "source": {
+        "name": "MIT Tech Review AI",
+        "url": "https://www.technologyreview.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.technologyreview.com&sz=64"
+      },
+      "category": "Research",
+      "tags": [
+        "LLM"
+      ],
+      "publishedAt": "Mon, 20 Jul 2026 08:39:01 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/"
+    },
     {
       "id": "mrspef2jdyuazqlae0j",
       "title": "GraphDx: A Cost-Aware Knowledge-Enhanced Multi-Agent Framework for Sequential Diagnosis",
@@ -823,45 +857,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
       "readTime": 1,
       "originalUrl": "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb"
-    },
-    {
-      "id": "mrnwscubbmj408vlss",
-      "title": "Google’s AI Mode now lets you link and interact with select apps",
-      "summary": "With this new update, Google is expanding AI Mode beyond answering questions and into completing tasks across the apps they use regularly....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Google"
-      ],
-      "publishedAt": "Thu, 16 Jul 2026 16:00:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/07/16/googles-ai-mode-now-lets-you-link-and-interact-with-select-apps/"
-    },
-    {
-      "id": "mrnwsffkiibbptol4ja",
-      "title": "Why teens deserve access to safe AI",
-      "summary": "Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships....",
-      "source": {
-        "name": "OpenAI News",
-        "url": "https://openai.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "OpenAI"
-      ],
-      "publishedAt": "Thu, 16 Jul 2026 16:00:00 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://openai.com/index/why-teens-deserve-access-safe-ai"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-07-20T04:07:33.755Z",
-  "edition": 377
+  "lastUpdated": "2026-07-20T09:36:41.932Z",
+  "edition": 378
 }
