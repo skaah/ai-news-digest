@@ -1,6 +1,92 @@
 {
-  "date": "2026-07-20T19:58:36.540Z",
+  "date": "2026-07-21T03:49:46.566Z",
   "articles": [
+    {
+      "id": "mru4798bxgocup7mjw8",
+      "title": "Anthropic’s landmark $1.5B copyright settlement is approved",
+      "summary": "The final approval settles one case, but it doesn't resolve the broader issue of using copyrighted works to train AI models. ...",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Anthropic"
+      ],
+      "publishedAt": "Tue, 21 Jul 2026 00:12:24 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/"
+    },
+    {
+      "id": "mru4798caz5wn73s6k7",
+      "title": "Trump’s latest AI czar has already resigned",
+      "summary": "The director role for the Center for AI Standards and Innovation (CAISI) has become a revolving door since David Sacks left his position as czar....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Mon, 20 Jul 2026 22:21:04 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/"
+    },
+    {
+      "id": "mru4798ceonkul3dgt",
+      "title": "Google is working on a new AI chip designed to make Gemini more efficient",
+      "summary": "Alphabet, Google's parent company, is reportedly working on a new chip designed to make its Gemini models run much more efficiently. ...",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Hardware",
+      "tags": [
+        "Google"
+      ],
+      "publishedAt": "Mon, 20 Jul 2026 21:21:15 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1555664424-778a69022365?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/"
+    },
+    {
+      "id": "mru47e316lna6cj0y4f",
+      "title": "Alibaba’s Tongyi Lab Releases Qwen-Audio-3.0-TTS, a Hosted Text-to-Speech Model in Flash and Plus Tiers Across 16 Languages",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "China"
+      ],
+      "publishedAt": "Mon, 20 Jul 2026 21:14:19 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/07/20/alibabas-tongyi-lab-releases-qwen-audio-3-0-tts-a-hosted-text-to-speech-model-in-flash-and-plus-tiers-across-16-languages/"
+    },
+    {
+      "id": "mru4798c9mgfkksv2g",
+      "title": "AI’s most important protocol is getting a little bit easier to use",
+      "summary": "Under the new system, the protocol will take a looser, \"stateless\" approach to session IDs on the server side, similar to how most ordinary websites already work....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Mon, 20 Jul 2026 20:50:40 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/"
+    },
     {
       "id": "mrtndc8awhlgf0eylv9",
       "title": "X relaunches a rebuilt Android app after year-long effort",
@@ -764,97 +850,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
       "readTime": 1,
       "originalUrl": "https://news.mit.edu/2026/following-questions-where-they-lead-bailey-flanigan-0717"
-    },
-    {
-      "id": "mrpc7md63zgi9602agy",
-      "title": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
-      "summary": "...",
-      "source": {
-        "name": "Hugging Face Blog",
-        "url": "https://huggingface.co",
-        "favicon": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Nvidia"
-      ],
-      "publishedAt": "Fri, 17 Jul 2026 15:57:54 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel"
-    },
-    {
-      "id": "mrpc7j7wmsdn42sdvd",
-      "title": "Patreon stops asking AI bots not to scrape — and starts blocking them",
-      "summary": "Patreon is strengthening its defenses against AI scraping by working with Cloudflare to block bots that train AI models on creators’ content without permission. The move marks a shift away from relying on websites using robots.txt alone to actively block unauthorized AI training....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Robotics"
-      ],
-      "publishedAt": "Fri, 17 Jul 2026 15:21:17 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/"
-    },
-    {
-      "id": "mrpc7j7x0ll19o87kvfk",
-      "title": "Apple’s lawsuit couldn’t come at a worse time for OpenAI",
-      "summary": "Apple filed a trade secrets lawsuit against OpenAI last Friday, and it’s not messing around. The complaint alleges a pattern of misconduct reaching all the way up to OpenAI’s chief hardware officer and claims more than 400 former Apple employees now work at the c...",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Policy",
-      "tags": [
-        "OpenAI"
-      ],
-      "publishedAt": "Fri, 17 Jul 2026 14:00:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1575517111839-3a3843ee7f5d?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/podcast/apples-lawsuit-couldnt-come-at-a-worse-time-for-openai/"
-    },
-    {
-      "id": "mrp0fojy6y7vtuoe5s8",
-      "title": "Why the first GPU financiers are turning to inference chips in a $400 million deal",
-      "summary": "A $400 million chip-backed loan points to the next wave of AI infrastructure deals....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Funding",
-      "tags": [
-        "Nvidia"
-      ],
-      "publishedAt": "Fri, 17 Jul 2026 12:00:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/"
-    },
-    {
-      "id": "mrp0fr10ahb00rmqwl6",
-      "title": "A scorecard for the AI age",
-      "summary": "Sarah Friar, CFO of OpenaAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute....",
-      "source": {
-        "name": "OpenAI News",
-        "url": "https://openai.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Fri, 17 Jul 2026 10:00:00 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://openai.com/index/a-scorecard-for-the-ai-age"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-07-20T19:58:36.540Z",
-  "edition": 380
+  "lastUpdated": "2026-07-21T03:49:46.565Z",
+  "edition": 381
 }
