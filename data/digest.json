@@ -1,6 +1,91 @@
 {
-  "date": "2026-07-22T19:46:55.424Z",
+  "date": "2026-07-23T03:48:26.434Z",
   "articles": [
+    {
+      "id": "mrwz18ld4hb5tyterju",
+      "title": "After shocking quarter, IBM insists that AI isn’t killing the mainframe",
+      "summary": "After IBM's stock crashed last week on warnings of poor mainframe sales, the CEO explained that AI wrecked corporate hardware budget, temporarily....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Hardware",
+      "tags": [],
+      "publishedAt": "Wed, 22 Jul 2026 23:47:54 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe/"
+    },
+    {
+      "id": "mrwz1dcyfkhw8cu442o",
+      "title": "Cursor Releases Cursor Router: A Request-Level Classifier Delivering Frontier Coding Quality at 30–50% Lower Cost",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Wed, 22 Jul 2026 22:37:44 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/07/22/cursor-releases-cursor-router-a-request-level-classifier/"
+    },
+    {
+      "id": "mrwz18le9z8wpnywico",
+      "title": "Google justifies its massive AI spending with a booming cloud business",
+      "summary": "Google's cloud business is thriving, as companies adopting its AI and AI infrastructure services help the tech giant to report record profits. ...",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Google"
+      ],
+      "publishedAt": "Wed, 22 Jul 2026 22:01:52 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/"
+    },
+    {
+      "id": "mrwz1dcyvkc1x5ypsfq",
+      "title": "Research-Grade EdgeBench Analysis: AI Agent Benchmarking, Leaderboard Analytics, Scaling Laws, and Evaluation Metrics",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Research",
+      "tags": [],
+      "publishedAt": "Wed, 22 Jul 2026 21:53:58 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/07/22/research-grade-edgebench-analysis-ai-agent-benchmarking-leaderboard-analytics-scaling-laws-and-evaluation-metrics/"
+    },
+    {
+      "id": "mrwz18lf57go7onewsd",
+      "title": "Treasury threatens sanctions after White House claims Moonshot distilled Anthropic’s Fable",
+      "summary": "The episode has also intensified a broader debate in Washington over the influx of Chinese open models. ...",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Anthropic",
+        "China"
+      ],
+      "publishedAt": "Wed, 22 Jul 2026 20:49:03 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/"
+    },
     {
       "id": "mrwhu05amuhk5zpr6f",
       "title": "How OpenAI’s human mistake led to the AI-powered hack on Hugging Face",
@@ -120,6 +205,24 @@
       "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
       "readTime": 1,
       "originalUrl": "https://techcrunch.com/2026/07/22/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/"
+    },
+    {
+      "id": "mrwz1b4fe8o2vusz62s",
+      "title": "How news organizations are using AI to advance their vital missions",
+      "summary": "News organizations are using AI to strengthen reporting, grow audiences, and improve business operations, with OpenAI tools supporting journalists and publishers worldwide....",
+      "source": {
+        "name": "OpenAI News",
+        "url": "https://openai.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "OpenAI"
+      ],
+      "publishedAt": "Wed, 22 Jul 2026 13:00:00 GMT",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://openai.com/index/how-news-organizations-are-using-ai"
     },
     {
       "id": "mrw6e628ldo4r29744l",
@@ -414,6 +517,24 @@
       "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
       "readTime": 1,
       "originalUrl": "https://www.marktechpost.com/2026/07/21/poolside-releases-laguna-s-2-1/"
+    },
+    {
+      "id": "mrwz1b4go45uo9or47f",
+      "title": "NTT DATA Group cuts incident analysis to 30 minutes with Codex",
+      "summary": "NTT DATA Group uses ChatGPT Enterprise and Codex to help 9,000 employees automate work, cut incident analysis to 30 minutes, and scale secure AI adoption....",
+      "source": {
+        "name": "OpenAI News",
+        "url": "https://openai.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "OpenAI"
+      ],
+      "publishedAt": "Wed, 22 Jul 2026 00:00:00 GMT",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://openai.com/index/ntt-data"
     },
     {
       "id": "mrvjnvzx25jfqfxyyxgi",
@@ -741,131 +862,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1575517111839-3a3843ee7f5d?w=800",
       "readTime": 1,
       "originalUrl": "https://www.numerama.com/cyberguerre/2298379-nous-devrons-faire-mieux-la-prochaine-fois-ovhcloud-raconte-comment-ses-equipes-ont-patche-januscape-la-faille-qui-dormait-depuis-16-ans-dans-linux.html"
-    },
-    {
-      "id": "mruev9hd5jaszk9do2u",
-      "title": "NVIDIA Releases Cosmos 3 Edge: A 4B-Parameter Open World Model That Reasons and Generates Robot Actions On-Device",
-      "summary": "...",
-      "source": {
-        "name": "MarkTechPost",
-        "url": "https://www.marktechpost.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Nvidia",
-        "Robotics"
-      ],
-      "publishedAt": "Tue, 21 Jul 2026 07:48:28 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.marktechpost.com/2026/07/21/nvidia-releases-cosmos-3-edge-a-4b-parameter-open-world-model-that-reasons-and-generates-robot-actions-on-device/"
-    },
-    {
-      "id": "mrvjnycf1505iua06wm",
-      "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
-      "summary": "OpenAI and Hugging Face share early findings from a security incident during AI model evaluation, highlighting advanced cyber capabilities and lessons for defenders....",
-      "source": {
-        "name": "OpenAI News",
-        "url": "https://openai.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "OpenAI"
-      ],
-      "publishedAt": "Tue, 21 Jul 2026 07:00:00 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://openai.com/index/hugging-face-model-evaluation-security-incident"
-    },
-    {
-      "id": "mruev9z6lvqtl6h93zd",
-      "title": "Rater State Bias in RLHF Preference Data: An Audit Framework",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Tue, 21 Jul 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2607.16195"
-    },
-    {
-      "id": "mruev9z7mi8qajwf3n",
-      "title": "Design and Validation of a Lightweight 1D CNN for Affective Touch Classification in Soft Plush Companions",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Tue, 21 Jul 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2607.16196"
-    },
-    {
-      "id": "mruev9z8otq3g1anagi",
-      "title": "Some Large Language Models Exhibit Consistent Risk Attitudes",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Ethics",
-      "tags": [
-        "LLM",
-        "AI Safety"
-      ],
-      "publishedAt": "Tue, 21 Jul 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2607.16197"
-    },
-    {
-      "id": "mruev9z8scpclz49p",
-      "title": "A Survey on GNN-based Link Prediction: Techniques, Applications, and Challenges",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Tue, 21 Jul 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2607.16198"
-    },
-    {
-      "id": "mruev9z8cak8c7xqj9",
-      "title": "PlanFlip: Attacking Multi-Agent LLM Systems via Planning-Phase Prompt Injection",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "LLM"
-      ],
-      "publishedAt": "Tue, 21 Jul 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2607.16199"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-07-22T19:46:55.424Z",
-  "edition": 388
+  "lastUpdated": "2026-07-23T03:48:26.434Z",
+  "edition": 389
 }
