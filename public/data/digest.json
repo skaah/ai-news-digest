@@ -1,6 +1,144 @@
 {
-  "date": "2026-07-24T03:47:18.381Z",
+  "date": "2026-07-24T08:44:51.658Z",
   "articles": [
+    {
+      "id": "mryp2i71nc9kfvf6p3q",
+      "title": "Un faux Claude, hébergé sur le vrai Claude, a piraté des dizaines d’entreprises : on décortique la mécanique de l’attaque",
+      "summary": "...",
+      "source": {
+        "name": "Numerama",
+        "url": "https://www.numerama.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Anthropic"
+      ],
+      "publishedAt": "Fri, 24 Jul 2026 08:01:42 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.numerama.com/cyberguerre/2300799-un-faux-claude-heberge-sur-le-vrai-claude-a-pirate-des-dizaines-dentreprises-on-decortique-la-mecanique-de-lattaque.html"
+    },
+    {
+      "id": "mryp2fecjql2dsuio4q",
+      "title": "How to Build an End-to-End OCR Pipeline with Baidu’s Unlimited-OCR for High-Resolution Images and Multi-Page PDF Parsing",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "China"
+      ],
+      "publishedAt": "Fri, 24 Jul 2026 05:16:28 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/07/23/how-to-build-an-end-to-end-ocr-pipeline-with-baidus-unlimited-ocr-for-high-resolution-images-and-multi-page-pdf-parsing/"
+    },
+    {
+      "id": "mryp2cumod5xbwqq9ke",
+      "title": "Working to automate nuclear plant operations",
+      "summary": "PhD student Lauren Fortier is building on the experience she gained operating a nuclear plant for the Navy to solve a critical hurdle in the wider adoption of the energy source....",
+      "source": {
+        "name": "MIT News AI",
+        "url": "https://news.mit.edu",
+        "favicon": "https://www.google.com/s2/favicons?domain=news.mit.edu&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Fri, 24 Jul 2026 00:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://news.mit.edu/2026/working-automate-nuclear-plant-operations-lauren-fortier-0724"
+    },
+    {
+      "id": "mryp2fubskmt2b0ustm",
+      "title": "AINTMA: Agentic AI Architecture for Autonomous Test Management with Generative Intelligence, Secure Cloud Communication and Adaptive Quality Analytics",
+      "summary": "...",
+      "source": {
+        "name": "ArXiv cs.AI",
+        "url": "https://arxiv.org",
+        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Fri, 24 Jul 2026 00:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://arxiv.org/abs/2607.20452"
+    },
+    {
+      "id": "mryp2fuce4bm6llhz58",
+      "title": "Marking the Wrong Symptoms: Evaluating LLM Watermarks in Medical Texts",
+      "summary": "...",
+      "source": {
+        "name": "ArXiv cs.AI",
+        "url": "https://arxiv.org",
+        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "LLM"
+      ],
+      "publishedAt": "Fri, 24 Jul 2026 00:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://arxiv.org/abs/2607.20462"
+    },
+    {
+      "id": "mryp2fuc01fsdzfy2xkm",
+      "title": "ClickGuard: Detecting and Spoiling Clickbait News with Informativeness Measures and Large Language Models",
+      "summary": "...",
+      "source": {
+        "name": "ArXiv cs.AI",
+        "url": "https://arxiv.org",
+        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "LLM"
+      ],
+      "publishedAt": "Fri, 24 Jul 2026 00:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://arxiv.org/abs/2607.20463"
+    },
+    {
+      "id": "mryp2fudqd6aujwq55h",
+      "title": "Stochastic Sampling is Epistemically Shallow: The Dimensionality Gap Between Temperature Variation and Model Diversity in LLMs",
+      "summary": "...",
+      "source": {
+        "name": "ArXiv cs.AI",
+        "url": "https://arxiv.org",
+        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "LLM"
+      ],
+      "publishedAt": "Fri, 24 Jul 2026 00:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://arxiv.org/abs/2607.20464"
+    },
+    {
+      "id": "mryp2fudy4mx3k7cyy",
+      "title": "JAXBench: Benchmarking Autonomous TPU Kernel Optimization",
+      "summary": "...",
+      "source": {
+        "name": "ArXiv cs.AI",
+        "url": "https://arxiv.org",
+        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Fri, 24 Jul 2026 00:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://arxiv.org/abs/2607.20466"
+    },
     {
       "id": "mryefm74xsxfchsgjva",
       "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
@@ -720,146 +858,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
       "readTime": 1,
       "originalUrl": "https://www.maddyness.com/2026/07/22/ai-overviews-non-le-seo-nest-pas-mort-il-vient-detre-promu/"
-    },
-    {
-      "id": "mrw6ecx0umuow9f66j",
-      "title": "Unsloth vs Axolotl vs TRL vs LLaMA-Factory: A Fine-Tuning Framework Comparison on Speed, VRAM, and Multi-GPU",
-      "summary": "...",
-      "source": {
-        "name": "MarkTechPost",
-        "url": "https://www.marktechpost.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
-      },
-      "category": "Hardware",
-      "tags": [
-        "Meta",
-        "Nvidia"
-      ],
-      "publishedAt": "Wed, 22 Jul 2026 09:16:40 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.marktechpost.com/2026/07/22/unsloth-vs-axolotl-vs-trl-vs-llama-factory-a-fine-tuning-framework-comparison-on-speed-vram-and-multi-gpu/"
-    },
-    {
-      "id": "mrvu99bkebqgaeoxzk",
-      "title": "Rocambolesque : OpenAI dévoile comment ses propres agents IA ont piraté Hugging Face pour réussir un test interne",
-      "summary": "...",
-      "source": {
-        "name": "Numerama",
-        "url": "https://www.numerama.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "OpenAI"
-      ],
-      "publishedAt": "Wed, 22 Jul 2026 08:12:33 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.numerama.com/cyberguerre/2299275-rocambolesque-openai-devoile-comment-ses-propres-agents-ia-ont-pirate-hugging-face-pour-reussir-un-test-interne.html"
-    },
-    {
-      "id": "mrvu915mkhu0xbit04",
-      "title": "Synthesia’s AI training platform is moving beyond videos into live coaching",
-      "summary": "Synthesia launched AI Roleplay Sessions, an interactive enterprise training platform where employees practice workplace conversations with AI avatars that provide feedback, scoring, and analytics to help companies measure training effectiveness....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Product",
-      "tags": [],
-      "publishedAt": "Wed, 22 Jul 2026 08:00:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/07/22/synthesias-ai-training-platform-is-moving-beyond-videos-into-live-coaching/"
-    },
-    {
-      "id": "mrvu96bcfnms39vxgvh",
-      "title": "Cisco Foundation AI Releases Antares: 350M and 1B Open-Weight Models That Localize Known Vulnerabilities Inside Real Codebases",
-      "summary": "...",
-      "source": {
-        "name": "MarkTechPost",
-        "url": "https://www.marktechpost.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Wed, 22 Jul 2026 06:27:02 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.marktechpost.com/2026/07/21/cisco-foundation-ai-releases-antares-350m-and-1b-open-weight-models-that-localize-known-vulnerabilities-inside-real-codebases/"
-    },
-    {
-      "id": "mrw6e8j4wf8ba6f31f",
-      "title": "Introducing OpenAI Presence",
-      "summary": "Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows....",
-      "source": {
-        "name": "OpenAI News",
-        "url": "https://openai.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "OpenAI"
-      ],
-      "publishedAt": "Wed, 22 Jul 2026 05:30:00 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://openai.com/index/introducing-openai-presence"
-    },
-    {
-      "id": "mrvu96t2obdajhj2v4p",
-      "title": "SysAdmin: Measuring Instrumental Power-Seeking in Frontier AI",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Wed, 22 Jul 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2607.18239"
-    },
-    {
-      "id": "mrvu96t3fufhm52qlt6",
-      "title": "Calibrated Selective Fact-Checking via Evidence Chain Evaluation",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Wed, 22 Jul 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2607.18240"
-    },
-    {
-      "id": "mrvu96t3jp26220aa2",
-      "title": "BatchDAG: LLM-Planned Execution Graphs for Scalable Ad-Hoc Analysis Over Enterprise Data",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "LLM"
-      ],
-      "publishedAt": "Wed, 22 Jul 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2607.18241"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-07-24T03:47:18.381Z",
-  "edition": 393
+  "lastUpdated": "2026-07-24T08:44:51.658Z",
+  "edition": 394
 }
