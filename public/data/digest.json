@@ -1,6 +1,42 @@
 {
-  "date": "2026-07-24T08:44:51.658Z",
+  "date": "2026-07-24T14:15:42.474Z",
   "articles": [
+    {
+      "id": "mrz0vry1gcgxe968zv9",
+      "title": "OpenAI’s new voice mode makes it to the ChatGPT desktop app",
+      "summary": "ChatGPT Voice on desktop can work with both ChatGPT Work and Codex to complete tasks and control agents....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "OpenAI"
+      ],
+      "publishedAt": "Fri, 24 Jul 2026 13:36:42 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/"
+    },
+    {
+      "id": "mrz0vz5k078ly9h3opw5",
+      "title": "Le prochain anime Mobile Suit Gundam va combler les fans de robots géants",
+      "summary": "...",
+      "source": {
+        "name": "Numerama",
+        "url": "https://www.numerama.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Robotics"
+      ],
+      "publishedAt": "Fri, 24 Jul 2026 13:10:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.numerama.com/pop-culture/2301097-le-prochain-anime-mobile-suit-gundam-va-combler-les-fans-de-robots-geants.html"
+    },
     {
       "id": "mryp2i71nc9kfvf6p3q",
       "title": "Un faux Claude, hébergé sur le vrai Claude, a piraté des dizaines d’entreprises : on décortique la mécanique de l’attaque",
@@ -824,43 +860,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
       "readTime": 1,
       "originalUrl": "https://openai.com/index/advancing-the-next-era-of-national-science"
-    },
-    {
-      "id": "mrw6e628x17i1xk8ffq",
-      "title": "Glow emerges from stealth at $1.2B valuation to challenge endpoint security in the AI era",
-      "summary": "Glow is targeting a new class of endpoint risks created by the rapid adoption of AI agents and developer tools inside enterprises....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Ethics",
-      "tags": [
-        "AI Safety"
-      ],
-      "publishedAt": "Wed, 22 Jul 2026 10:00:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/07/22/glow-emerges-from-stealth-at-1-2b-valuation-to-challenge-endpoint-security-in-the-ai-era/"
-    },
-    {
-      "id": "mrw6eg4d6v7jonrdhdt",
-      "title": "AI Overviews : non, le SEO n'est pas mort. Il vient d'être promu",
-      "summary": "...",
-      "source": {
-        "name": "Maddyness",
-        "url": "https://www.maddyness.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.maddyness.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Wed, 22 Jul 2026 09:20:55 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.maddyness.com/2026/07/22/ai-overviews-non-le-seo-nest-pas-mort-il-vient-detre-promu/"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-07-24T08:44:51.658Z",
-  "edition": 394
+  "lastUpdated": "2026-07-24T14:15:42.474Z",
+  "edition": 395
 }
