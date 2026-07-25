@@ -1,6 +1,72 @@
 {
-  "date": "2026-07-25T14:04:35.802Z",
+  "date": "2026-07-25T19:37:06.385Z",
   "articles": [
+    {
+      "id": "ms0rt23biy4ejyrb2i",
+      "title": "Meet Open Dreamer: A JAX/Flax Reproduction of the Dreamer 4 World Model Pipeline, With the Full Training Recipe Published",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Product",
+      "tags": [],
+      "publishedAt": "Sat, 25 Jul 2026 18:59:54 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1550009158-9ebf690be655?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/07/25/meet-open-dreamer-a-jax-flax-reproduction-of-the-dreamer-4-world-model-pipeline-with-the-full-training-recipe-published/"
+    },
+    {
+      "id": "ms0rt23c8n1quj3cqys",
+      "title": "Designing High-Performance GPU Kernels with TileLang: Tensor-Core GEMM, Fused Softmax, FlashAttention, and Autotuning",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Hardware",
+      "tags": [
+        "Nvidia"
+      ],
+      "publishedAt": "Sat, 25 Jul 2026 18:08:12 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1555664424-778a69022365?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/07/25/designing-high-performance-gpu-kernels-with-tilelang-tensor-core-gemm-fused-softmax-flashattention-and-autotuning/"
+    },
+    {
+      "id": "ms0rsy1x4ore8mrvduw",
+      "title": "Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech",
+      "summary": "At libraries around the country, \"Avoiding AI\" workshops have elicited unprecedented demand....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Sat, 25 Jul 2026 16:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/"
+    },
+    {
+      "id": "ms0rsy1yjpam1kuuws",
+      "title": "One fallen power line exposed a growing AI data center problem. Here’s how to fix it.",
+      "summary": "A close call in Northern Virginia revealed just how poorly data centers respond to grid disruptions. Here's how to fix the problem....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Sat, 25 Jul 2026 13:05:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/"
+    },
     {
       "id": "ms0fxgf8pq3s1d1p2aa",
       "title": "Why the OpenAI Agent Broke Into Hugging Face: Reward Hacking, Not Malice, Explained for Engineers",
@@ -790,75 +856,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1550009158-9ebf690be655?w=800",
       "readTime": 1,
       "originalUrl": "https://openai.com/index/health-in-chatgpt"
-    },
-    {
-      "id": "mrx9oezhpqaekjlp6wr",
-      "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
-      "summary": "...",
-      "source": {
-        "name": "Hugging Face Blog",
-        "url": "https://huggingface.co",
-        "favicon": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Thu, 23 Jul 2026 00:00:00 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://huggingface.co/blog/nunchaku-diffusers"
-    },
-    {
-      "id": "mrwz18ld4hb5tyterju",
-      "title": "After shocking quarter, IBM insists that AI isn’t killing the mainframe",
-      "summary": "After IBM's stock crashed last week on warnings of poor mainframe sales, the CEO explained that AI wrecked corporate hardware budget, temporarily....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Hardware",
-      "tags": [],
-      "publishedAt": "Wed, 22 Jul 2026 23:47:54 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe/"
-    },
-    {
-      "id": "mrwz1dcyfkhw8cu442o",
-      "title": "Cursor Releases Cursor Router: A Request-Level Classifier Delivering Frontier Coding Quality at 30–50% Lower Cost",
-      "summary": "...",
-      "source": {
-        "name": "MarkTechPost",
-        "url": "https://www.marktechpost.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Wed, 22 Jul 2026 22:37:44 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.marktechpost.com/2026/07/22/cursor-releases-cursor-router-a-request-level-classifier/"
-    },
-    {
-      "id": "mrwz18le9z8wpnywico",
-      "title": "Google justifies its massive AI spending with a booming cloud business",
-      "summary": "Google's cloud business is thriving, as companies adopting its AI and AI infrastructure services help the tech giant to report record profits. ...",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Google"
-      ],
-      "publishedAt": "Wed, 22 Jul 2026 22:01:52 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-07-25T14:04:35.802Z",
-  "edition": 399
+  "lastUpdated": "2026-07-25T19:37:06.384Z",
+  "edition": 400
 }
