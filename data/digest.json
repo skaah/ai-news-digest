@@ -1,6 +1,38 @@
 {
-  "date": "2026-07-25T19:37:06.385Z",
+  "date": "2026-07-26T03:59:06.060Z",
   "articles": [
+    {
+      "id": "ms19qipvwe0mbx8wdzq",
+      "title": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
+      "summary": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Sun, 26 Jul 2026 01:30:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/"
+    },
+    {
+      "id": "ms19qmz5xgvmb1r0px",
+      "title": "Sakana AI Releases Fugu-Cyber: An Orchestration Model Reporting 86.9% on CyberGym and 72.1% on CTI-REALM",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Sun, 26 Jul 2026 00:12:57 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/07/25/sakana-ai-releases-fugu-cyber-orchestration-model-cybergym-cti-realm/"
+    },
     {
       "id": "ms0rt23biy4ejyrb2i",
       "title": "Meet Open Dreamer: A JAX/Flax Reproduction of the Dreamer 4 World Model Pipeline, With the Full Training Recipe Published",
@@ -822,43 +854,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1555664424-778a69022365?w=800",
       "readTime": 1,
       "originalUrl": "https://arxiv.org/abs/2607.19353"
-    },
-    {
-      "id": "mryefruttfgpk4oa3sp",
-      "title": "FormulaSPIN: Self-Play Fine-Tuning for Natural Language to Spreadsheet Formula Generation",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Thu, 23 Jul 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2607.19354"
-    },
-    {
-      "id": "mrxxc4czz6czdhnu8tl",
-      "title": "Launching Health in ChatGPT",
-      "summary": "Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health....",
-      "source": {
-        "name": "OpenAI News",
-        "url": "https://openai.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
-      },
-      "category": "Product",
-      "tags": [
-        "OpenAI"
-      ],
-      "publishedAt": "Thu, 23 Jul 2026 00:00:00 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1550009158-9ebf690be655?w=800",
-      "readTime": 1,
-      "originalUrl": "https://openai.com/index/health-in-chatgpt"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-07-25T19:37:06.384Z",
-  "edition": 400
+  "lastUpdated": "2026-07-26T03:59:06.060Z",
+  "edition": 401
 }
