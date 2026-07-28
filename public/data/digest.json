@@ -1,6 +1,22 @@
 {
-  "date": "2026-07-28T03:40:44.231Z",
+  "date": "2026-07-28T09:08:08.965Z",
   "articles": [
+    {
+      "id": "ms4fnoeptguhqxfhhip",
+      "title": "Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing",
+      "summary": "Cursor says India is now its third-largest market globally and plans to expand local hiring and enterprise sales....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Tue, 28 Jul 2026 04:30:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing/"
+    },
     {
       "id": "ms43ylqnyza64j29ssd",
       "title": "Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI",
@@ -841,28 +857,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=800",
       "readTime": 1,
       "originalUrl": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/"
-    },
-    {
-      "id": "mrzcsq4k9w9k78k26em",
-      "title": "As US weighs response to Chinese AI, industry urges against broad open-weight restrictions",
-      "summary": "AI companies, including Nvidia and Mistral, urge policymakers to avoid broad restrictions on open-weight AI models as Washington debates responses to Chinese AI and alleged model distillation....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Policy",
-      "tags": [
-        "Nvidia",
-        "China"
-      ],
-      "publishedAt": "Fri, 24 Jul 2026 15:51:49 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1555848962-6e79363ec58f?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-07-28T03:40:44.230Z",
-  "edition": 409
+  "lastUpdated": "2026-07-28T09:08:08.964Z",
+  "edition": 410
 }
