@@ -1,6 +1,94 @@
 {
-  "date": "2026-07-29T14:33:25.096Z",
+  "date": "2026-07-29T19:46:56.866Z",
   "articles": [
+    {
+      "id": "ms6hx46xt3e3lo7gau",
+      "title": "Prompt Engineering vs Loop Engineering vs Graph Engineering: What Changes at Each Layer",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Wed, 29 Jul 2026 19:30:35 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/07/29/prompt-engineering-vs-loop-engineering-vs-graph-engineering-what-changes-at-each-layer/"
+    },
+    {
+      "id": "ms6hwzhbdnd9zsd15uu",
+      "title": "Claude Opus 5 became downright ruthless when tasked with running a vending machine",
+      "summary": "Andon Labs' latest vending machine simulation shows Opus 5 lied and colluded its way to become the best AI capitalist ever. ...",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Anthropic"
+      ],
+      "publishedAt": "Wed, 29 Jul 2026 18:45:27 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine/"
+    },
+    {
+      "id": "ms6hx7jiu0x5hrgaf7",
+      "title": "Les États-Unis interdisent les robots humanoïdes chinois, au nom de la sécurité nationale",
+      "summary": "...",
+      "source": {
+        "name": "Numerama",
+        "url": "https://www.numerama.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Robotics"
+      ],
+      "publishedAt": "Wed, 29 Jul 2026 15:38:32 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.numerama.com/cyberguerre/2303731-les-etats-unis-interdisent-les-robots-humanoides-chinois-au-nom-de-la-securite-nationale.html"
+    },
+    {
+      "id": "ms6hwzhch5ikfrmsxee",
+      "title": "Hint, a new AI startup co-founded by Martha Stewart, offers an AI assistant for homeowners",
+      "summary": "AI home management startup Hint, co-founded by Martha Stewart, wants to become an “AI for your home,” combining property records, maintenance schedules, home documents, and an AI assistant into a single app....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Startup"
+      ],
+      "publishedAt": "Wed, 29 Jul 2026 15:35:09 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners/"
+    },
+    {
+      "id": "ms6hwzhdwfhqfa5ltdo",
+      "title": "Encore AI raises $30M to build AI agents that learn from customer calls",
+      "summary": "The startup analyzes calls, messages, and CRM data to identify effective sales techniques and turn them into playbooks for AI agents....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Startup"
+      ],
+      "publishedAt": "Wed, 29 Jul 2026 14:41:06 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/"
+    },
     {
       "id": "ms66pvjmkfjkqc82pfi",
       "title": "How a medical database developed at MIT evolved into a global standard of data-sharing",
@@ -34,6 +122,40 @@
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800",
       "readTime": 1,
       "originalUrl": "https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/"
+    },
+    {
+      "id": "ms6hx2582codev3pskc",
+      "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
+      "summary": "OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery....",
+      "source": {
+        "name": "OpenAI News",
+        "url": "https://openai.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
+      },
+      "category": "Research",
+      "tags": [
+        "OpenAI"
+      ],
+      "publishedAt": "Wed, 29 Jul 2026 10:00:00 GMT",
+      "imageUrl": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=800",
+      "readTime": 1,
+      "originalUrl": "https://openai.com/index/chatgpt-for-academic-researchers"
+    },
+    {
+      "id": "ms6hx46y6ei9bq2690n",
+      "title": "Liquid AI Releases LFM2.5-Encoder-230M and LFM2.5-Encoder-350M: Bidirectional Encoders That Stay Fast at 8K Context on CPU",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Wed, 29 Jul 2026 09:38:42 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/07/29/liquid-ai-releases-lfm2-5-encoder-230m-and-lfm2-5-encoder-350m-bidirectional-encoders-that-stay-fast-at-8k-context-on-cpu/"
     },
     {
       "id": "ms66pv3z22awnwe2y0a",
@@ -736,129 +858,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
       "readTime": 1,
       "originalUrl": "https://www.lemonde.fr/economie/article/2026/07/27/shein-42-milliards-de-dollars-de-chiffre-d-affaires-un-milliard-de-commandes-4-700-nouveautes-par-jour-les-chiffres-fous-du-geant-chinois-de-l-utra-fast-fashion_6734212_3234.html"
-    },
-    {
-      "id": "ms3nfchdd9ee5i9gfie",
-      "title": "Google’s AI search is rapidly becoming the default, new data shows",
-      "summary": "Google’s AI Overviews now appear in 43% of searches, underscoring how quickly AI-generated answers are becoming the default way people discover information online....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Google"
-      ],
-      "publishedAt": "Mon, 27 Jul 2026 15:57:12 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows/"
-    },
-    {
-      "id": "ms3nfchddai6x2ngbs9",
-      "title": "Power up your AI infrastructure! A first look at the Smart Systems Stage agenda at TechCrunch Disrupt 2026",
-      "summary": "At TechCrunch Disrupt 2026, the Smart Systems Stage will be where energy, infrastructure, and technology collide, covering everything from fusion breakthroughs to the grid strain AI is putting on the entire economy....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Mon, 27 Jul 2026 15:30:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/07/27/power-up-your-ai-infrastructure-a-first-look-at-the-smart-systems-stage-agenda-at-techcrunch-disrupt-2026/"
-    },
-    {
-      "id": "ms3ddpldpv7hki8j15d",
-      "title": "Ilya Sutskever’s Safe Superintelligence partners with Nvidia to scale its AI research",
-      "summary": "After two years in stealth, Safe Superintelligence has announced a long-term partnership with Nvidia as it prepares to scale to its next phase. ...",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Research",
-      "tags": [
-        "Nvidia"
-      ],
-      "publishedAt": "Mon, 27 Jul 2026 15:01:50 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/07/27/ilya-sutskevers-safe-superintelligence-partners-with-nvidia-to-scale-its-ai-research/"
-    },
-    {
-      "id": "ms3ddxmbtceigrzz34",
-      "title": "C’est parti : les poids de Kimi K3, plus gros modèle IA ouvert au monde, sont en ligne",
-      "summary": "...",
-      "source": {
-        "name": "Numerama",
-        "url": "https://www.numerama.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Mon, 27 Jul 2026 15:00:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.numerama.com/tech/2302499-cest-parti-les-poids-de-kimi-k3-plus-gros-modele-ia-ouvert-au-monde-sont-en-ligne.html"
-    },
-    {
-      "id": "ms3ddple1bqh1l06hah",
-      "title": "Enigma raises $70M to make controlling a robot as easy as adjusting the volume",
-      "summary": "The massive seed round was led by  Index Ventures and Ribbit Capital, with participation from Sarah Guo's Conviction Partners....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Robotics"
-      ],
-      "publishedAt": "Mon, 27 Jul 2026 13:00:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/"
-    },
-    {
-      "id": "ms3ddr42s2c4k1wnmcs",
-      "title": "The path to artificial superintelligence",
-      "summary": "Imagine a healthcare system made up of multiple AI agents: one that manages symptom assessment, another scheduling, a third insurance, and a fourth pharmacy. Each is an expert in its domain. But they all have their own distinct knowledge and objectives. Today they can exchange da...",
-      "source": {
-        "name": "MIT Tech Review AI",
-        "url": "https://www.technologyreview.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.technologyreview.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Mon, 27 Jul 2026 12:00:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence/"
-    },
-    {
-      "id": "ms3ddr43u5yclcowedr",
-      "title": "Closing the data loop in AI-driven drug discovery",
-      "summary": "Drug discovery is a high-cost, high-risk endeavor that is under growing pressure from a market increasingly defined by first-mover advantage. Since the 1950s, the cost of developing new pharmaceuticals has roughly doubled every nine years—a phenomenon known as Eroom’s Law. Today,...",
-      "source": {
-        "name": "MIT Tech Review AI",
-        "url": "https://www.technologyreview.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.technologyreview.com&sz=64"
-      },
-      "category": "Policy",
-      "tags": [
-        "AI Safety"
-      ],
-      "publishedAt": "Mon, 27 Jul 2026 11:40:16 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1555848962-6e79363ec58f?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery/"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-07-29T14:33:25.096Z",
-  "edition": 415
+  "lastUpdated": "2026-07-29T19:46:56.866Z",
+  "edition": 416
 }
