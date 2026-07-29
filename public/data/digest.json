@@ -1,6 +1,56 @@
 {
-  "date": "2026-07-29T09:12:42.464Z",
+  "date": "2026-07-29T14:33:25.096Z",
   "articles": [
+    {
+      "id": "ms66pvjmkfjkqc82pfi",
+      "title": "How a medical database developed at MIT evolved into a global standard of data-sharing",
+      "summary": "The visionary PhysioNet platform launched 25 years ago, based on a system developed at MIT in the 1970s. It has become one of the most comprehensive biomedical and clinical data repositories in existence....",
+      "source": {
+        "name": "MIT News AI",
+        "url": "https://news.mit.edu",
+        "favicon": "https://www.google.com/s2/favicons?domain=news.mit.edu&sz=64"
+      },
+      "category": "Product",
+      "tags": [],
+      "publishedAt": "Wed, 29 Jul 2026 10:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800",
+      "readTime": 1,
+      "originalUrl": "https://news.mit.edu/2026/how-an-mit-database-evolved-into-global-standard-data-sharing-0729"
+    },
+    {
+      "id": "ms66ptssp3rmmyjbljs",
+      "title": "As AI content floods the internet, Pangram raises $9M to detect it",
+      "summary": "Pangram has raised $9 million to scale its AI detection software. The startup has also released a new AI text detection model, Pangram 4, and an AI image detection model in research preview. ...",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Research",
+      "tags": [
+        "Startup"
+      ],
+      "publishedAt": "Wed, 29 Jul 2026 11:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/"
+    },
+    {
+      "id": "ms66pv3z22awnwe2y0a",
+      "title": "The AI Hype Index: Unsexy AI",
+      "summary": "It feels bad enough when an open letter signed by leading economists warns that AI might steal your job. The fact it may soon be better than you at making dinner? Insult to injury. But that’s exactly what the company 1X promised when it showed off a pair of new, impressively dext...",
+      "source": {
+        "name": "MIT Tech Review AI",
+        "url": "https://www.technologyreview.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.technologyreview.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Wed, 29 Jul 2026 08:42:57 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/"
+    },
     {
       "id": "ms5v9kp75no484niahv",
       "title": "Claude Mythos Preview aurait trouvé deux failles cryptographiques inédites : ce que dit (vraiment) Anthropic",
@@ -806,60 +856,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1555848962-6e79363ec58f?w=800",
       "readTime": 1,
       "originalUrl": "https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery/"
-    },
-    {
-      "id": "ms3ddr43oqowz8rzi5a",
-      "title": "Building the enterprise environment for agentic AI",
-      "summary": "For the enterprise, the promise of agentic AI is much more than just a better chatbot. It is software agents that execute business tasks end-to-end across people, business workflows, data, and systems. The platform best-suited to run agents is built with proper CPU capacity, resi...",
-      "source": {
-        "name": "MIT Tech Review AI",
-        "url": "https://www.technologyreview.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.technologyreview.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Mon, 27 Jul 2026 11:32:58 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.technologyreview.com/2026/07/27/1140668/building-the-enterprise-environment-for-agentic-ai/"
-    },
-    {
-      "id": "ms32gzp4er50r55nvj",
-      "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
-      "summary": "...",
-      "source": {
-        "name": "Hugging Face Blog",
-        "url": "https://huggingface.co",
-        "favicon": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Nvidia",
-        "Robotics"
-      ],
-      "publishedAt": "Mon, 27 Jul 2026 09:32:20 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://huggingface.co/blog/nvidia/cosmos-h-dreams"
-    },
-    {
-      "id": "ms2pfs94lqjys7bxk1l",
-      "title": "FlowEvo: Self-Evolving Agents through the Co-Evolution of Workflows and Executable Skills",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Mon, 27 Jul 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2607.21596"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-07-29T09:12:42.463Z",
-  "edition": 414
+  "lastUpdated": "2026-07-29T14:33:25.096Z",
+  "edition": 415
 }
