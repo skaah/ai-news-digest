@@ -1,6 +1,163 @@
 {
-  "date": "2026-07-30T03:33:05.991Z",
+  "date": "2026-07-30T09:05:41.916Z",
   "articles": [
+    {
+      "id": "ms7aget043vx6mlcsf2",
+      "title": "Tromperie et manipulation : comment Claude Opus 5 a menti à ses fournisseurs pour dominer un benchmark de distributeurs automatiques",
+      "summary": "...",
+      "source": {
+        "name": "Numerama",
+        "url": "https://www.numerama.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
+      },
+      "category": "Policy",
+      "tags": [
+        "Anthropic"
+      ],
+      "publishedAt": "Thu, 30 Jul 2026 08:34:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1575517111839-3a3843ee7f5d?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.numerama.com/tech/2303901-tromperie-et-manipulation-comment-claude-opus-5-a-menti-a-ses-fournisseurs-pour-dominer-un-benchmark-de-distributeurs-automatiques.html"
+    },
+    {
+      "id": "ms7aget1ybrvywlhh9h",
+      "title": "Revolut intègre la version payante de ChatGPT à ses cartes : un autre avantage de taille pour la banque mobile",
+      "summary": "...",
+      "source": {
+        "name": "Numerama",
+        "url": "https://www.numerama.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "OpenAI"
+      ],
+      "publishedAt": "Thu, 30 Jul 2026 08:21:26 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.numerama.com/tech/2303973-revolut-integre-la-version-payante-de-chatgpt-a-ses-cartes-un-autre-avantage-de-taille-pour-la-banque-mobile.html"
+    },
+    {
+      "id": "ms7agbp63ykaalvs4m",
+      "title": "Meet Token Saver: An Open-Source MCP Extension Using Local Hybrid RAG to Cut Claude PDF Token Costs 90-99%",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Anthropic"
+      ],
+      "publishedAt": "Thu, 30 Jul 2026 07:43:29 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/07/30/token-saver-an-open-source-mcp-extension-using-local-hybrid-rag/"
+    },
+    {
+      "id": "ms7agbp74hxi7l0rxju",
+      "title": "Moonshot AI Open-Sources MoonEP: A Perfectly Balanced Expert Parallelism Library for MoE Training",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Thu, 30 Jul 2026 05:28:39 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/07/29/moonshot-ai-open-sources-moonep-a-perfectly-balanced-expert-parallelism-library-for-moe-training/"
+    },
+    {
+      "id": "ms7agc8c9oa4ktfmg1o",
+      "title": "Probing the Origins of Reasoning Performance: Representational Quality for Mathematical Problem-Solving in RL vs. SFT Fine-Tuned Models",
+      "summary": "...",
+      "source": {
+        "name": "ArXiv cs.AI",
+        "url": "https://arxiv.org",
+        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Thu, 30 Jul 2026 00:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://arxiv.org/abs/2607.26119"
+    },
+    {
+      "id": "ms7agc8d23rl3v8i9cw",
+      "title": "Even More Deception: Objective Misalignment in Mixed-Motive LLM Multi-Agent Systems",
+      "summary": "...",
+      "source": {
+        "name": "ArXiv cs.AI",
+        "url": "https://arxiv.org",
+        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "LLM",
+        "AI Safety"
+      ],
+      "publishedAt": "Thu, 30 Jul 2026 00:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://arxiv.org/abs/2607.26120"
+    },
+    {
+      "id": "ms7agc8e68l3zytac7h",
+      "title": "ClinLens: Towards Long-Horizon Coding Agents for Longitudinal Multimodal Clinical Data Science",
+      "summary": "...",
+      "source": {
+        "name": "ArXiv cs.AI",
+        "url": "https://arxiv.org",
+        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Multimodal"
+      ],
+      "publishedAt": "Thu, 30 Jul 2026 00:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://arxiv.org/abs/2607.26155"
+    },
+    {
+      "id": "ms7agc8ec0z9buhdibm",
+      "title": "When benchmark inferences do not compose: Projectibility in AI evaluation",
+      "summary": "...",
+      "source": {
+        "name": "ArXiv cs.AI",
+        "url": "https://arxiv.org",
+        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Thu, 30 Jul 2026 00:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://arxiv.org/abs/2607.26159"
+    },
+    {
+      "id": "ms7agc8eeyl9cwsq8k7",
+      "title": "GuideSkill: Evolving Executable LLM Agent Skills for Guideline-Grounded Clinical Reasoning",
+      "summary": "...",
+      "source": {
+        "name": "ArXiv cs.AI",
+        "url": "https://arxiv.org",
+        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "LLM"
+      ],
+      "publishedAt": "Thu, 30 Jul 2026 00:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://arxiv.org/abs/2607.26160"
+    },
     {
       "id": "ms6ykhtg3ea75iy2fa8",
       "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
@@ -712,163 +869,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
       "readTime": 1,
       "originalUrl": "https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing/"
-    },
-    {
-      "id": "ms5jizu6akctpoe7y4n",
-      "title": "Concept-based Visual Counterfactual Explanations with Diffusion Models",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Tue, 28 Jul 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2607.22544"
-    },
-    {
-      "id": "ms5jizu6zf71kg93cn",
-      "title": "SeT-Diff: Towards Semantic Foundation Models for HPC Telemetry and Time-Series",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Tue, 28 Jul 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2607.22548"
-    },
-    {
-      "id": "ms5jizu74ws6kgj4pev",
-      "title": "QFoldAgent: An Autonomous Quantum Optimization Multi-Agent System for Protein Structure Prediction",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Tue, 28 Jul 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2607.22549"
-    },
-    {
-      "id": "ms5jizu7d2gsvlx1wbu",
-      "title": "Same Question, Different Answers: Evaluating LLM Reliability Beyond Accuracy",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "LLM"
-      ],
-      "publishedAt": "Tue, 28 Jul 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2607.22554"
-    },
-    {
-      "id": "ms5jizu89xkq0wjpaf",
-      "title": "DeepLens Diagnosis Agent: Agentic Workflow Design Lets a Small Reasoning Model Compete with Frontier LLMs",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "LLM"
-      ],
-      "publishedAt": "Tue, 28 Jul 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2607.22555"
-    },
-    {
-      "id": "ms43ylqnyza64j29ssd",
-      "title": "Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI",
-      "summary": "Anthropic founder and CEO Dario Amodei made his views clear about open-weight models and China's growing AI capabilities. ...",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Anthropic",
-        "China"
-      ],
-      "publishedAt": "Tue, 28 Jul 2026 00:13:33 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/"
-    },
-    {
-      "id": "ms43ylqoc5zhfyfe3uc",
-      "title": "Satya Nadella says companies that trust one AI for everything may not survive",
-      "summary": "Companies without their own models — or without a layer of AI infrastructure known as AI gateways to separate their prompts from the model itself — will be in trouble, Nadella says....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Mon, 27 Jul 2026 21:17:11 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/"
-    },
-    {
-      "id": "ms43ypzseodg7ro5epj",
-      "title": "Kimi AI and kvcache-ai Open Sources ‘AgentENV’: A Distributed System that Powers Agentic Reinforcement Learning (RL) Training for Kimi K3",
-      "summary": "...",
-      "source": {
-        "name": "MarkTechPost",
-        "url": "https://www.marktechpost.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Mon, 27 Jul 2026 20:48:53 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.marktechpost.com/2026/07/27/kimi-ai-and-kvcache-ai-open-sources-agentenv/"
-    },
-    {
-      "id": "ms43ylqpuoe4d5n14ok",
-      "title": "PSA: Your Claude shared chats and Artifacts may have ended up on Google",
-      "summary": "The issue appears to have originated from Claude’s “share chat” feature, which allows users to create links that enable anyone with the assigned URL view a conversation or project....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Anthropic",
-        "Google"
-      ],
-      "publishedAt": "Mon, 27 Jul 2026 20:19:42 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-07-30T03:33:05.990Z",
-  "edition": 417
+  "lastUpdated": "2026-07-30T09:05:41.916Z",
+  "edition": 418
 }
