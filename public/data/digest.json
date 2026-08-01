@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-01T08:35:19.788Z",
+  "date": "2026-08-01T13:58:30.228Z",
   "articles": [
     {
       "id": "ms9d3u0sf2m96h2fr5",
@@ -18,6 +18,24 @@
       "imageUrl": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=800",
       "readTime": 1,
       "originalUrl": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation"
+    },
+    {
+      "id": "msafskzssproscifjz",
+      "title": "Supabase Releases Evals: an Open Source Benchmark That Scores Claude Code, Codex and OpenCode on Real Supabase Tasks",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Anthropic"
+      ],
+      "publishedAt": "Sat, 01 Aug 2026 09:52:49 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/08/01/supabase-releases-evals-an-open-source-benchmark-that-scores-claude-code-codex-and-opencode-on-real-supabase-tasks/"
     },
     {
       "id": "msa48zb8nxvzcq9a6n",
@@ -851,29 +869,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
       "readTime": 1,
       "originalUrl": "https://arxiv.org/abs/2607.26160"
-    },
-    {
-      "id": "ms6ykhtg3ea75iy2fa8",
-      "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
-      "summary": "Microsoft pitched its own homegrown AI models, harnesses, and even a Mythos competitor on Wednesday, telling Wall Street it plans for continued growth....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "OpenAI",
-        "Anthropic",
-        "Microsoft"
-      ],
-      "publishedAt": "Thu, 30 Jul 2026 00:21:06 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-08-01T08:35:19.788Z",
-  "edition": 426
+  "lastUpdated": "2026-08-01T13:58:30.228Z",
+  "edition": 427
 }
