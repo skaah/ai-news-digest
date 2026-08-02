@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-02T14:00:07.670Z",
+  "date": "2026-08-02T19:37:29.054Z",
   "articles": [
     {
       "id": "ms9d3u0sf2m96h2fr5",
@@ -18,6 +18,22 @@
       "imageUrl": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=800",
       "readTime": 1,
       "originalUrl": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation"
+    },
+    {
+      "id": "msc7cg6s2hzdfocp3t",
+      "title": "On vous explique le principe de distillation en IA : la technique légale… jusqu’à ce qu’elle devienne du vol",
+      "summary": "...",
+      "source": {
+        "name": "Numerama",
+        "url": "https://www.numerama.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Sun, 02 Aug 2026 14:30:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.numerama.com/tech/2304435-on-vous-explique-le-principe-de-distillation-en-ia-la-technique-legale-jusqua-ce-quelle-devienne-du-vol.html"
     },
     {
       "id": "msb9qcgctzj6f3djpx",
@@ -854,27 +870,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1575517111839-3a3843ee7f5d?w=800",
       "readTime": 1,
       "originalUrl": "https://www.numerama.com/tech/2303901-tromperie-et-manipulation-comment-claude-opus-5-a-menti-a-ses-fournisseurs-pour-dominer-un-benchmark-de-distributeurs-automatiques.html"
-    },
-    {
-      "id": "ms7aget1ybrvywlhh9h",
-      "title": "Revolut intègre la version payante de ChatGPT à ses cartes : un autre avantage de taille pour la banque mobile",
-      "summary": "...",
-      "source": {
-        "name": "Numerama",
-        "url": "https://www.numerama.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "OpenAI"
-      ],
-      "publishedAt": "Thu, 30 Jul 2026 08:21:26 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.numerama.com/tech/2303973-revolut-integre-la-version-payante-de-chatgpt-a-ses-cartes-un-autre-avantage-de-taille-pour-la-banque-mobile.html"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-08-02T14:00:07.670Z",
-  "edition": 431
+  "lastUpdated": "2026-08-02T19:37:29.054Z",
+  "edition": 432
 }
