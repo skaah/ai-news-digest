@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-03T10:07:50.563Z",
+  "date": "2026-08-03T15:19:56.440Z",
   "articles": [
     {
       "id": "ms9d3u0sf2m96h2fr5",
@@ -18,6 +18,56 @@
       "imageUrl": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=800",
       "readTime": 1,
       "originalUrl": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation"
+    },
+    {
+      "id": "msddl38gigukj484z5",
+      "title": "Immense fuite de données chez Intermarché, 2 millions de clients concernés : voici détails et les bons réflexes à adopter",
+      "summary": "...",
+      "source": {
+        "name": "Numerama",
+        "url": "https://www.numerama.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
+      },
+      "category": "Funding",
+      "tags": [],
+      "publishedAt": "Mon, 03 Aug 2026 15:11:33 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.numerama.com/cyberguerre/2305933-immense-fuite-de-donnees-chez-intermarche-2-millions-de-clients-concernes-voici-details-et-les-bons-reflexes-a-adopter.html"
+    },
+    {
+      "id": "msddl38hdcvo04x8mjm",
+      "title": "Des designers créent une police d’écriture gratuite pour lutter contre le scraping des IA (et c’est open-source)",
+      "summary": "...",
+      "source": {
+        "name": "Numerama",
+        "url": "https://www.numerama.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Mon, 03 Aug 2026 13:06:14 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.numerama.com/tech/2305671-des-designers-creent-une-police-decriture-gratuite-pour-lutter-contre-le-scraping-des-ia-et-cest-open-source.html"
+    },
+    {
+      "id": "msddktljxk4gbv0lhf",
+      "title": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
+      "summary": "June emerged from stealth today with a $20 million pre-seed round to make AI adoption simpler. ...",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Funding",
+      "tags": [
+        "Startup"
+      ],
+      "publishedAt": "Mon, 03 Aug 2026 10:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/"
     },
     {
       "id": "msd2flatvpswdwynrp8",
@@ -812,60 +862,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
       "readTime": 1,
       "originalUrl": "https://news.mit.edu/2026/daniela-rus-receives-bavarian-minister-presidents-high-tech-prize-0730"
-    },
-    {
-      "id": "ms8er5bbp7616xqgwj8",
-      "title": "Connecting research to policy on Capitol Hill",
-      "summary": "MIT students and postdocs discussed science funding and research with policymakers in Washington during the MIT Science Policy Initiative’s annual Congressional Visit Days. ...",
-      "source": {
-        "name": "MIT News AI",
-        "url": "https://news.mit.edu",
-        "favicon": "https://www.google.com/s2/favicons?domain=news.mit.edu&sz=64"
-      },
-      "category": "Research",
-      "tags": [],
-      "publishedAt": "Thu, 30 Jul 2026 16:35:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800",
-      "readTime": 1,
-      "originalUrl": "https://news.mit.edu/2026/connecting-research-to-policy-on-capitol-hill-0730"
-    },
-    {
-      "id": "ms8er3gev61ne0cok4",
-      "title": "Judge says Trump admin still lacks evidence for Anthropic ‘supply-chain risk’ label",
-      "summary": "A federal judge said the Trump administration has not presented enough evidence to justify labeling Anthropic a supply-chain risk, casting doubt on the government's ban on its AI technology....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Ethics",
-      "tags": [
-        "Anthropic",
-        "AI Safety"
-      ],
-      "publishedAt": "Thu, 30 Jul 2026 20:26:38 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/"
-    },
-    {
-      "id": "ms7xndy472z5jfcrura",
-      "title": "Friend, the lonely AI wearable, returns with a new voice and a much bigger price tag",
-      "summary": "Friend, the AI wearable, can now talk to its users — for an enhanced price. ...",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Thu, 30 Jul 2026 19:44:16 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/07/30/friend-the-lonely-ai-wearable-returns-with-a-new-voice-and-a-much-bigger-price-tag/"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-08-03T10:07:50.563Z",
-  "edition": 434
+  "lastUpdated": "2026-08-03T15:19:56.440Z",
+  "edition": 435
 }
