@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-03T20:00:51.089Z",
+  "date": "2026-08-04T03:41:43.532Z",
   "articles": [
     {
       "id": "ms9d3u0sf2m96h2fr5",
@@ -18,6 +18,58 @@
       "imageUrl": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=800",
       "readTime": 1,
       "originalUrl": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation"
+    },
+    {
+      "id": "mse42urzuae69dyjfpe",
+      "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
+      "summary": "After a quarter that delivered $1 billion in profit, Palantir CEO Alex Karp on Monday once again warned that AI frontier labs are too untrustworthy for enterprises....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Funding",
+      "tags": [],
+      "publishedAt": "Mon, 03 Aug 2026 23:19:50 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/"
+    },
+    {
+      "id": "mse42yko5bo96fer1fe",
+      "title": "Evaluating Multimodal Vision Models with Moonshot PerceptionBench Using Robust Data Loading and Automated Judging",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Multimodal"
+      ],
+      "publishedAt": "Mon, 03 Aug 2026 22:26:32 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/08/03/evaluating-multimodal-vision-models-with-moonshot-perceptionbench-using-robust-data-loading-and-automated-judging/"
+    },
+    {
+      "id": "mse42ykpwhqy7ido66m",
+      "title": "How to Secure AI Agents, MCP Servers, and LLM Apps in Production",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Product",
+      "tags": [
+        "LLM"
+      ],
+      "publishedAt": "Mon, 03 Aug 2026 20:16:56 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1550009158-9ebf690be655?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/08/03/how-to-secure-ai-agents-mcp-servers-and-llm-apps-in-production/"
     },
     {
       "id": "msdnm5y5qs1ipc57fpa",
@@ -242,6 +294,24 @@
       "originalUrl": "https://www.marktechpost.com/2026/08/03/ogent-ai-team-releases-vr-1/"
     },
     {
+      "id": "mse42x1b3dhvmdvy782",
+      "title": "How we built a realtime system for responsive voice AI in six months",
+      "summary": "GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations....",
+      "source": {
+        "name": "OpenAI News",
+        "url": "https://openai.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "OpenAI"
+      ],
+      "publishedAt": "Mon, 03 Aug 2026 07:00:00 GMT",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://openai.com/index/continuous-voice-interaction-with-gpt-live"
+    },
+    {
       "id": "msd2foa30p1aplcms7gr",
       "title": "OpenClaw and Ollama in Agentic AI: Toward Fully Autonomous and Scalable AI Agent Systems",
       "summary": "...",
@@ -342,6 +412,24 @@
       "imageUrl": "https://images.unsplash.com/photo-1575517111839-3a3843ee7f5d?w=800",
       "readTime": 1,
       "originalUrl": "https://www.marktechpost.com/2026/08/02/onton-releases-ontology-1-a-neurosymbolic-search-model/"
+    },
+    {
+      "id": "mse42x1c4t0xvu98tvx",
+      "title": "Circles powers telco personalization with OpenAI technology",
+      "summary": "Circles uses the OpenAI API and Codex to power AI-native telco experiences, increasing ARPU by 22%, reducing churn by 9%, and improving development efficiency....",
+      "source": {
+        "name": "OpenAI News",
+        "url": "https://openai.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "OpenAI"
+      ],
+      "publishedAt": "Mon, 03 Aug 2026 00:00:00 GMT",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://openai.com/index/circles"
     },
     {
       "id": "mscp88puvubq6lep2jr",
@@ -772,97 +860,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
       "readTime": 1,
       "originalUrl": "https://techcrunch.com/2026/07/31/spacex-wont-remove-all-of-xais-unpermitted-turbines-for-another-year/"
-    },
-    {
-      "id": "ms9d3u0sfvqi9f3zawa",
-      "title": "Building abundant intelligence",
-      "summary": "A full-stack approach to making advanced AI more capable, more affordable, and more widely useful....",
-      "source": {
-        "name": "OpenAI News",
-        "url": "https://openai.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Fri, 31 Jul 2026 15:00:00 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://openai.com/index/building-abundant-intelligence"
-    },
-    {
-      "id": "ms8qd9gajltt1v5i5z9",
-      "title": "Advancing responsible AI across Europe",
-      "summary": "OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances....",
-      "source": {
-        "name": "OpenAI News",
-        "url": "https://openai.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
-      },
-      "category": "Policy",
-      "tags": [
-        "OpenAI",
-        "AI Safety"
-      ],
-      "publishedAt": "Fri, 31 Jul 2026 15:00:00 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1555848962-6e79363ec58f?w=800",
-      "readTime": 1,
-      "originalUrl": "https://openai.com/index/advancing-responsible-ai-across-europe"
-    },
-    {
-      "id": "ms9d3w67fv24b6ca7gn",
-      "title": "JetBrains Open-Sources KotlinLLM: Smart Macros That Generate Kotlin Source Code at Runtime and Hot-Reload It Through JDI",
-      "summary": "...",
-      "source": {
-        "name": "MarkTechPost",
-        "url": "https://www.marktechpost.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "LLM"
-      ],
-      "publishedAt": "Fri, 31 Jul 2026 10:32:53 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.marktechpost.com/2026/07/31/jetbrains-research-open-sources-kotlinllm-intellij-plugin-kotlin-runtime-llm/"
-    },
-    {
-      "id": "ms8qdbtcixstfcyi2z",
-      "title": "Nous Research Ships Three Integration Paths for Hermes Agent and Buzz, Block’s Open Source Nostr Workspace for Humans and Agents",
-      "summary": "...",
-      "source": {
-        "name": "MarkTechPost",
-        "url": "https://www.marktechpost.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
-      },
-      "category": "Research",
-      "tags": [],
-      "publishedAt": "Fri, 31 Jul 2026 09:08:13 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.marktechpost.com/2026/07/31/nous-research-ships-three-integration-paths-for-hermes-agent-and-buzz-blocks-open-source-nostr-workspace-for-humans-and-agents/"
-    },
-    {
-      "id": "ms8qdelyggwodoumiaj",
-      "title": "Nous y voilà : après OpenAI, Anthropic annonce à son tour que Claude a piraté trois entreprises par erreur",
-      "summary": "...",
-      "source": {
-        "name": "Numerama",
-        "url": "https://www.numerama.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
-      },
-      "category": "Policy",
-      "tags": [
-        "OpenAI",
-        "Anthropic"
-      ],
-      "publishedAt": "Fri, 31 Jul 2026 08:07:17 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.numerama.com/cyberguerre/2304703-nous-y-voila-apres-openai-anthropic-annonce-a-son-tour-que-claude-a-pirate-trois-entreprises-par-erreur.html"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-08-03T20:00:51.088Z",
-  "edition": 436
+  "lastUpdated": "2026-08-04T03:41:43.532Z",
+  "edition": 437
 }
