@@ -1,6 +1,78 @@
 {
-  "date": "2026-08-05T03:37:06.277Z",
+  "date": "2026-08-05T09:08:50.733Z",
   "articles": [
+    {
+      "id": "msfv7hfe0kx7s7zfu8vj",
+      "title": "NVIDIA Releases Alpamayo 2 Super: A 34B Open Vision-Language-Action Model for Robotaxis and Autonomous Driving Under OpenMDW-1.1",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Nvidia",
+        "Robotics"
+      ],
+      "publishedAt": "Wed, 05 Aug 2026 08:25:11 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/08/05/nvidia-alpamayo-2-super-open-vla-model-autonomous-driving/"
+    },
+    {
+      "id": "msfv7kgl9l81dz7elkw",
+      "title": "C’est reparti : des agents IA d’Anthropic et OpenAI ont dépassé les bornes en plein test de sécurité",
+      "summary": "...",
+      "source": {
+        "name": "Numerama",
+        "url": "https://www.numerama.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "OpenAI",
+        "Anthropic"
+      ],
+      "publishedAt": "Wed, 05 Aug 2026 08:07:27 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.numerama.com/cyberguerre/2306659-cest-reparti-des-agents-ia-danthropic-et-openai-ont-depasse-les-bornes-en-plein-test-de-securite.html"
+    },
+    {
+      "id": "msfv7l4naogijqd7rji",
+      "title": "CV générés par IA, tri par IA : le recrutement est en train de devenir une conversation entre machines",
+      "summary": "...",
+      "source": {
+        "name": "Maddyness",
+        "url": "https://www.maddyness.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.maddyness.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Wed, 05 Aug 2026 07:00:34 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.maddyness.com/2026/08/05/cv-generes-par-ia-tri-par-ia-le-recrutement-est-en-train-de-devenir-une-conversation-entre-machines/"
+    },
+    {
+      "id": "msfv7hfeo0839axtiai",
+      "title": "CopilotKit Open Sources Channels SDK: An MIT Licensed Library That Runs Any AG-UI Agent Inside Slack And Microsoft Teams",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Microsoft"
+      ],
+      "publishedAt": "Wed, 05 Aug 2026 04:43:17 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/08/04/copilotkit-open-sources-channels-sdk/"
+    },
     {
       "id": "msfjcvadok9xzt2zbm",
       "title": "Pixel-Native RAG: A Practical Guide to Visual Document Indexing",
@@ -792,77 +864,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
       "readTime": 1,
       "originalUrl": "https://www.marktechpost.com/2026/08/03/alibaba-qwen-releases-qwen3-8-max/"
-    },
-    {
-      "id": "msdnm9qtsiafox0e8iq",
-      "title": "Cogent AI Team Releases VR-1: A Frontier Cyber Reasoning Model That Composes and Verifies Enterprise Attack Paths",
-      "summary": "...",
-      "source": {
-        "name": "MarkTechPost",
-        "url": "https://www.marktechpost.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Mon, 03 Aug 2026 07:28:14 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.marktechpost.com/2026/08/03/ogent-ai-team-releases-vr-1/"
-    },
-    {
-      "id": "mse42x1b3dhvmdvy782",
-      "title": "How we built a realtime system for responsive voice AI in six months",
-      "summary": "GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations....",
-      "source": {
-        "name": "OpenAI News",
-        "url": "https://openai.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "OpenAI"
-      ],
-      "publishedAt": "Mon, 03 Aug 2026 07:00:00 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://openai.com/index/continuous-voice-interaction-with-gpt-live"
-    },
-    {
-      "id": "msd2foa30p1aplcms7gr",
-      "title": "OpenClaw and Ollama in Agentic AI: Toward Fully Autonomous and Scalable AI Agent Systems",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Policy",
-      "tags": [
-        "Meta"
-      ],
-      "publishedAt": "Mon, 03 Aug 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2607.28629"
-    },
-    {
-      "id": "msd2foa4ph41rldlt7",
-      "title": "Can AI Evaluate AI Scientists? A Benchmarking Study of Autonomous Research Generation Systems Using Automated Multi-Model Review",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Research",
-      "tags": [],
-      "publishedAt": "Mon, 03 Aug 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2607.28631"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-08-05T03:37:06.277Z",
-  "edition": 441
+  "lastUpdated": "2026-08-05T09:08:50.733Z",
+  "edition": 442
 }
