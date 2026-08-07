@@ -1,6 +1,61 @@
 {
-  "date": "2026-08-07T07:44:52.386Z",
+  "date": "2026-08-07T13:41:33.474Z",
   "articles": [
+    {
+      "id": "msiztshn5k7212rnfa5",
+      "title": "New Mexico court orders Meta to pay additional $567M in child safety case",
+      "summary": "Meta's total fine has raked up to $942 million in this case...",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Funding",
+      "tags": [
+        "Meta",
+        "AI Safety"
+      ],
+      "publishedAt": "Fri, 07 Aug 2026 11:40:37 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/"
+    },
+    {
+      "id": "msiztytlvmc40l36lb",
+      "title": "Milton Keynes, au nord de Londres, ville pionnière de la livraison par petits robots",
+      "summary": "Le gouvernement britannique a entrepris de réviser le droit pour autoriser ces machines, déjà mises en place dans une vingtaine de villes, à circuler sur le trottoir....",
+      "source": {
+        "name": "Le Monde Tech",
+        "url": "https://www.lemonde.fr",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.lemonde.fr&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Robotics"
+      ],
+      "publishedAt": "Fri, 07 Aug 2026 11:00:11 +0200",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.lemonde.fr/economie/article/2026/08/07/milton-keynes-au-nord-de-londres-ville-pionniere-de-la-livraison-par-petits-robots_6740477_3234.html"
+    },
+    {
+      "id": "msiztuw6l7zvz0jtdw",
+      "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
+      "summary": "Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service....",
+      "source": {
+        "name": "OpenAI News",
+        "url": "https://openai.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
+      },
+      "category": "Product",
+      "tags": [
+        "OpenAI"
+      ],
+      "publishedAt": "Fri, 07 Aug 2026 09:00:00 GMT",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800",
+      "readTime": 1,
+      "originalUrl": "https://openai.com/index/hsp-gruppe"
+    },
     {
       "id": "msin3a5tmmxni7op45b",
       "title": "ChatGPT n’a plus de limites dans sa version gratuite : vous pouvez lui parler en illimité",
@@ -810,59 +865,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
       "readTime": 1,
       "originalUrl": "https://www.maddyness.com/2026/08/05/cv-generes-par-ia-tri-par-ia-le-recrutement-est-en-train-de-devenir-une-conversation-entre-machines/"
-    },
-    {
-      "id": "msfv7hfeo0839axtiai",
-      "title": "CopilotKit Open Sources Channels SDK: An MIT Licensed Library That Runs Any AG-UI Agent Inside Slack And Microsoft Teams",
-      "summary": "...",
-      "source": {
-        "name": "MarkTechPost",
-        "url": "https://www.marktechpost.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Microsoft"
-      ],
-      "publishedAt": "Wed, 05 Aug 2026 04:43:17 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.marktechpost.com/2026/08/04/copilotkit-open-sources-channels-sdk/"
-    },
-    {
-      "id": "msgz03v8npic94gmhh",
-      "title": "ISEE: Interactive Semantic Enrichment for Database Fields",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Wed, 05 Aug 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2608.02604"
-    },
-    {
-      "id": "msgz03v8wgggkv3fnle",
-      "title": "Self-Organising Digital Circuits",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Wed, 05 Aug 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2608.02606"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-08-07T07:44:52.386Z",
-  "edition": 449
+  "lastUpdated": "2026-08-07T13:41:33.474Z",
+  "edition": 450
 }
