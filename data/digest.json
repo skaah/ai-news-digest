@@ -1,6 +1,38 @@
 {
-  "date": "2026-08-08T13:14:42.910Z",
+  "date": "2026-08-08T19:01:32.485Z",
   "articles": [
+    {
+      "id": "mskqp9ge6xi2wv1nog",
+      "title": "Pokee AI Releases Pokee-Isaac 28B: A 10M-Token Context Agentic Model Built to Run Inside the Customer Boundary",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Sat, 08 Aug 2026 17:04:39 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/08/08/pokee-ai-releases-pokee-isaac-28b-a-10m-token-context-agentic-model-built-to-run-inside-the-customer-boundary/"
+    },
+    {
+      "id": "mskqp9gfgrzc4o121j4",
+      "title": "Designing Scalable Interactive Visualizations with Reflex XY: Composition, Million-Point Rendering, Streaming, Custom Marks, and Export",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Funding",
+      "tags": [],
+      "publishedAt": "Sat, 08 Aug 2026 09:42:18 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/08/08/designing-scalable-interactive-visualizations-with-reflex-xy-composition-million-point-rendering-streaming-custom-marks-and-export/"
+    },
     {
       "id": "msk1ki3zsb2z86a446f",
       "title": "Le désastre Coldcard, un forum secret d’agents IA et les tireurs français encore exposés : on vous raconte la semaine Cyberguerre",
@@ -824,45 +856,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
       "readTime": 1,
       "originalUrl": "https://huggingface.co/blog/baseten"
-    },
-    {
-      "id": "mshanlcsc75ayjlsduv",
-      "title": "End-to-End Bayesian Marketing Mix Modeling with Google Meridian: Media Measurement, ROI Analysis, and Budget Optimization",
-      "summary": "...",
-      "source": {
-        "name": "MarkTechPost",
-        "url": "https://www.marktechpost.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Google"
-      ],
-      "publishedAt": "Wed, 05 Aug 2026 21:56:03 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.marktechpost.com/2026/08/05/end-to-end-bayesian-marketing-mix-modeling-with-google-meridian-media-measurement-roi-analysis-and-budget-optimization/"
-    },
-    {
-      "id": "msgyzzdje4g6bq9t1vt",
-      "title": "Meta launches Muse Code, an AI agent for large code bases",
-      "summary": "Meta expanded its AI coding offerings with a new agent that, it promises, can handle complex tasks with complex software....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Product",
-      "tags": [
-        "Meta"
-      ],
-      "publishedAt": "Wed, 05 Aug 2026 21:21:28 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1550009158-9ebf690be655?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-08-08T13:14:42.910Z",
-  "edition": 454
+  "lastUpdated": "2026-08-08T19:01:32.485Z",
+  "edition": 455
 }
