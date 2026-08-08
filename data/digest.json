@@ -1,6 +1,41 @@
 {
-  "date": "2026-08-08T02:23:36.680Z",
+  "date": "2026-08-08T07:17:56.458Z",
   "articles": [
+    {
+      "id": "msk1ki3zsb2z86a446f",
+      "title": "Le désastre Coldcard, un forum secret d’agents IA et les tireurs français encore exposés : on vous raconte la semaine Cyberguerre",
+      "summary": "...",
+      "source": {
+        "name": "Numerama",
+        "url": "https://www.numerama.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
+      },
+      "category": "Policy",
+      "tags": [],
+      "publishedAt": "Sat, 08 Aug 2026 05:30:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1555848962-6e79363ec58f?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.numerama.com/cyberguerre/2308115-le-desastre-coldcard-un-forum-secret-dagents-ia-et-les-tireurs-francais-encore-exposes-on-vous-raconte-la-semaine-cyberguerre.html"
+    },
+    {
+      "id": "msk1kfdqrer8f5oyrb",
+      "title": "Mistral AI Releases Shieldstral 1.0 3B: An Open-Weights Policy-Adaptive Multimodal Safety Classifier Matching Models 7× Its Size",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Policy",
+      "tags": [
+        "Multimodal",
+        "AI Safety"
+      ],
+      "publishedAt": "Sat, 08 Aug 2026 04:36:26 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/08/07/mistral-ai-releases-shieldstral-1-0-3b/"
+    },
     {
       "id": "msjr1r1diljqg1onotj",
       "title": "OpenAI says it slowed Astra model development over security concerns",
@@ -825,43 +860,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1550009158-9ebf690be655?w=800",
       "readTime": 1,
       "originalUrl": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/"
-    },
-    {
-      "id": "mshanlcssviwckv5pef",
-      "title": "Meta AI Releases Muse Code (Beta): A Terminal Coding Agent Powered by the New Muse Spark 1.2 Model",
-      "summary": "...",
-      "source": {
-        "name": "MarkTechPost",
-        "url": "https://www.marktechpost.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Meta"
-      ],
-      "publishedAt": "Wed, 05 Aug 2026 20:07:32 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.marktechpost.com/2026/08/05/meta-superintelligence-labs-releases-muse-code/"
-    },
-    {
-      "id": "msgyzzdkdj1mfd0sp8r",
-      "title": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders",
-      "summary": "The serial entrepreneur joins the e-commerce company as CPO to lead its AI agents....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Policy",
-      "tags": [],
-      "publishedAt": "Wed, 05 Aug 2026 20:05:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1555848962-6e79363ec58f?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders/"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-08-08T02:23:36.680Z",
-  "edition": 452
+  "lastUpdated": "2026-08-08T07:17:56.458Z",
+  "edition": 453
 }
