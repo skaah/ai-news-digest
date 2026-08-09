@@ -1,6 +1,41 @@
 {
-  "date": "2026-08-08T19:01:32.485Z",
+  "date": "2026-08-09T02:31:35.504Z",
   "articles": [
+    {
+      "id": "msl6rxks5l9exu7kkbt",
+      "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
+      "summary": "As part of a planned Texas data center, Amazon is investing in an on-site power plant that could reportedly become the largest source of climate pollution in the United States....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Sat, 08 Aug 2026 21:24:02 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/"
+    },
+    {
+      "id": "msl6rxktd3fiml20yj",
+      "title": "OpenAI acquires presentation startup NextSlide",
+      "summary": "NextSlide says its team members are now working on ChatGPT....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "OpenAI",
+        "Startup"
+      ],
+      "publishedAt": "Sat, 08 Aug 2026 19:41:13 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/"
+    },
     {
       "id": "mskqp9ge6xi2wv1nog",
       "title": "Pokee AI Releases Pokee-Isaac 28B: A 10M-Token Context Agentic Model Built to Run Inside the Customer Boundary",
@@ -822,43 +857,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
       "readTime": 1,
       "originalUrl": "https://www.marktechpost.com/2026/08/05/microsoft-skillopt-agent-skill-transfer-portability/"
-    },
-    {
-      "id": "msi7408uasp5inn9229",
-      "title": "From asking to doing: How the world is putting ChatGPT to work",
-      "summary": "New OpenAI Signals data shows how people use ChatGPT worldwide, with country-level insights on adoption, usage trends, and evolving behavior....",
-      "source": {
-        "name": "OpenAI News",
-        "url": "https://openai.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "OpenAI"
-      ],
-      "publishedAt": "Thu, 06 Aug 2026 00:00:00 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work"
-    },
-    {
-      "id": "mshme96ga1bq3vjo0ld",
-      "title": "Baseten on Hugging Face Inference Providers 🔥",
-      "summary": "...",
-      "source": {
-        "name": "Hugging Face Blog",
-        "url": "https://huggingface.co",
-        "favicon": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Thu, 06 Aug 2026 00:00:00 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://huggingface.co/blog/baseten"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-08-08T19:01:32.485Z",
-  "edition": 455
+  "lastUpdated": "2026-08-09T02:31:35.504Z",
+  "edition": 456
 }
