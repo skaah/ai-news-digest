@@ -1,6 +1,78 @@
 {
-  "date": "2026-08-10T13:47:47.862Z",
+  "date": "2026-08-10T19:19:20.980Z",
   "articles": [
+    {
+      "id": "msnm7t0ywk9epods87j",
+      "title": "What building an AI-native finance function taught me",
+      "summary": "OpenAI CFO Sarah Friar shares five lessons for building an AI-native finance function, from automated forecasting to stronger controls and AI ROI....",
+      "source": {
+        "name": "OpenAI News",
+        "url": "https://openai.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "OpenAI"
+      ],
+      "publishedAt": "Mon, 10 Aug 2026 17:00:00 GMT",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://openai.com/index/building-an-ai-native-finance-function"
+    },
+    {
+      "id": "msnm7tjzo38577e0v9o",
+      "title": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
+      "summary": "...",
+      "source": {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co",
+        "favicon": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Nvidia"
+      ],
+      "publishedAt": "Mon, 10 Aug 2026 16:25:36 GMT",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents"
+    },
+    {
+      "id": "msnm7qldywfbb3gmh5d",
+      "title": "Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision",
+      "summary": "Meta’s new open-weight Muse Glimmer model offers a glimpse of Mark Zuckerberg’s personal superintelligence vision, as well as  the emerging divide between AI users can own and access....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Meta"
+      ],
+      "publishedAt": "Mon, 10 Aug 2026 16:20:13 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/"
+    },
+    {
+      "id": "msnm7t0xj9vcq8n34c",
+      "title": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
+      "summary": "OpenAI sent Governor Greg Abbott a letter outlining its commitment to responsible AI infrastructure in Texas. The letter supports reliable, transparent growth that benefits Texans....",
+      "source": {
+        "name": "OpenAI News",
+        "url": "https://openai.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "OpenAI"
+      ],
+      "publishedAt": "Mon, 10 Aug 2026 14:00:00 GMT",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://openai.com/index/responsible-ai-infrastructure-texas"
+    },
     {
       "id": "msnadkb3qoylnoko09o",
       "title": "Decathlon baisse le prix de son récent VTT électrique conçu pour les randonnées",
@@ -82,6 +154,42 @@
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
       "readTime": 1,
       "originalUrl": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation"
+    },
+    {
+      "id": "msnm7t0ycnk1xup88xg",
+      "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
+      "summary": "Meet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security testing....",
+      "source": {
+        "name": "OpenAI News",
+        "url": "https://openai.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
+      },
+      "category": "Research",
+      "tags": [
+        "OpenAI"
+      ],
+      "publishedAt": "Mon, 10 Aug 2026 10:00:00 GMT",
+      "imageUrl": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?w=800",
+      "readTime": 1,
+      "originalUrl": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows"
+    },
+    {
+      "id": "msnm7t0zxvy2h4qzkt",
+      "title": "Putting frontier cyber models in more trusted hands",
+      "summary": "Approved Daybreak partners can use OpenAI’s frontier cyber models to deliver authorized, governed cybersecurity services to customers....",
+      "source": {
+        "name": "OpenAI News",
+        "url": "https://openai.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "OpenAI"
+      ],
+      "publishedAt": "Mon, 10 Aug 2026 10:00:00 GMT",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands"
     },
     {
       "id": "msnadew4zrmyl1pefcm",
@@ -757,109 +865,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
       "readTime": 1,
       "originalUrl": "https://www.numerama.com/tech/2307817-chatgpt-na-plus-de-limites-dans-sa-version-gratuite-vous-pouvez-lui-parler-en-illimite.html"
-    },
-    {
-      "id": "msin36zmrfk0hcev1gl",
-      "title": "Microsoft Open Sources code-testing-generator: a Polyglot Unit-Test Agent That Hits 92.1% Task Completion Versus 78.9% for Stock Copilot",
-      "summary": "...",
-      "source": {
-        "name": "MarkTechPost",
-        "url": "https://www.marktechpost.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Microsoft"
-      ],
-      "publishedAt": "Fri, 07 Aug 2026 05:42:45 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.marktechpost.com/2026/08/06/microsoft-open-sources-code-testing-generator/"
-    },
-    {
-      "id": "msin37kj4e891fqboh7",
-      "title": "Agentic Nesting: A New Methodology for Existing Enterprise Application Integration and Services",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Fri, 07 Aug 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2608.05159"
-    },
-    {
-      "id": "msin37kks4rx9p3hovh",
-      "title": "The Ignition Index: Measuring Global Workspace Dynamics in Language Models",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Fri, 07 Aug 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2608.05160"
-    },
-    {
-      "id": "msin37kkrnr5b68sbtl",
-      "title": "Woodpecker Distillation: Weak Models Diagnose Reasoning Bugs in Strong Models",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Fri, 07 Aug 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2608.05168"
-    },
-    {
-      "id": "msin37kl2wf54qz5mjn",
-      "title": "From Continuous Predictors to Clinical Thresholds: Early Evidence on Performance Trade-offs of Guideline-Based Categorisation for Ischaemic Stroke Outcome Prediction",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Fri, 07 Aug 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2608.05203"
-    },
-    {
-      "id": "msin37kl5debanplwv7",
-      "title": "SkillTrace: Multi-Trace Provenance Auditing for LLM-Agent Skill Reuse",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Policy",
-      "tags": [
-        "LLM"
-      ],
-      "publishedAt": "Fri, 07 Aug 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1575517111839-3a3843ee7f5d?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2608.05204"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-08-10T13:47:47.862Z",
-  "edition": 462
+  "lastUpdated": "2026-08-10T19:19:20.980Z",
+  "edition": 463
 }
