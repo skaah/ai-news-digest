@@ -1,6 +1,24 @@
 {
-  "date": "2026-08-12T07:54:57.708Z",
+  "date": "2026-08-12T13:50:50.443Z",
   "articles": [
+    {
+      "id": "msq5d1pemrhzw4sn6c8",
+      "title": "From assistance to execution: How enterprises put AI to work",
+      "summary": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption....",
+      "source": {
+        "name": "OpenAI News",
+        "url": "https://openai.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
+      },
+      "category": "Research",
+      "tags": [
+        "OpenAI"
+      ],
+      "publishedAt": "Wed, 12 Aug 2026 06:00:00 GMT",
+      "imageUrl": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=800",
+      "readTime": 1,
+      "originalUrl": "https://openai.com/index/how-enterprises-put-ai-to-work"
+    },
     {
       "id": "msphnuvw203sz3atmtq",
       "title": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last",
@@ -847,27 +865,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?w=800",
       "readTime": 1,
       "originalUrl": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/"
-    },
-    {
-      "id": "msmmemgkl2md3wimfg",
-      "title": "Anthropic is turning Claude Code’s auto mode on by default",
-      "summary": "Programming with Claude Code will soon require even less human oversight....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Anthropic"
-      ],
-      "publishedAt": "Sun, 09 Aug 2026 19:20:32 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-08-12T07:54:57.707Z",
-  "edition": 469
+  "lastUpdated": "2026-08-12T13:50:50.442Z",
+  "edition": 470
 }
