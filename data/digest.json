@@ -1,6 +1,124 @@
 {
-  "date": "2026-08-13T03:01:50.040Z",
+  "date": "2026-08-13T07:56:24.733Z",
   "articles": [
+    {
+      "id": "msr855n2ucjzezccnzh",
+      "title": "Dyna Robotics Introduces Dyna-2: A World-Action Model Pre-Trained on 1 Million Hours of Human Video",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Funding",
+      "tags": [
+        "Robotics"
+      ],
+      "publishedAt": "Thu, 13 Aug 2026 07:42:02 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/08/13/dyna-robotics-introduces-dyna-2-a-world-action-model-pre-trained-on-1-million-hours-of-human-video/"
+    },
+    {
+      "id": "msr855n3angihvrgh6v",
+      "title": "SpaceXAI Releases Grok 4.6: A 500K-Context Frontier Model Tuned for Long-Running Agents, Coding, and Knowledge Work",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Thu, 13 Aug 2026 06:18:14 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/08/12/spacexai-releases-grok-4-6/"
+    },
+    {
+      "id": "msr8566p4e8rtd1n31q",
+      "title": "Dynamic Governance of Multi-LLM Agent Systems for Collaborative Conversational Outcomes",
+      "summary": "...",
+      "source": {
+        "name": "ArXiv cs.AI",
+        "url": "https://arxiv.org",
+        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "LLM"
+      ],
+      "publishedAt": "Thu, 13 Aug 2026 00:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://arxiv.org/abs/2608.11207"
+    },
+    {
+      "id": "msr8566qya0yt13fr5d",
+      "title": "Distribird: Literature-Informed Prior Distribution Design for Bayesian Model Calibration",
+      "summary": "...",
+      "source": {
+        "name": "ArXiv cs.AI",
+        "url": "https://arxiv.org",
+        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Thu, 13 Aug 2026 00:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://arxiv.org/abs/2608.11210"
+    },
+    {
+      "id": "msr8566rvgv6tdpyu7j",
+      "title": "A Forced-Structure Reduction and Verifiable Bounds for Conway's 99-Graph",
+      "summary": "...",
+      "source": {
+        "name": "ArXiv cs.AI",
+        "url": "https://arxiv.org",
+        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Thu, 13 Aug 2026 00:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://arxiv.org/abs/2608.11211"
+    },
+    {
+      "id": "msr8566ra1py6rmhfad",
+      "title": "Detecting a Route Flip Is Easier Than Knowing Whether to Fix It: Causal Route-Mediated Damage in Quantized Mixture-of-Experts",
+      "summary": "...",
+      "source": {
+        "name": "ArXiv cs.AI",
+        "url": "https://arxiv.org",
+        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Thu, 13 Aug 2026 00:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://arxiv.org/abs/2608.11212"
+    },
+    {
+      "id": "msr8566rwm7rtzw122r",
+      "title": "Poor Man's Agentic Modeling: Simulating Large LLM-Agent Societies on a Laptop",
+      "summary": "...",
+      "source": {
+        "name": "ArXiv cs.AI",
+        "url": "https://arxiv.org",
+        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "LLM"
+      ],
+      "publishedAt": "Thu, 13 Aug 2026 00:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://arxiv.org/abs/2608.11215"
+    },
     {
       "id": "msqxm79b2yaxn1gic4h",
       "title": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
@@ -734,132 +852,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
       "readTime": 1,
       "originalUrl": "https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/"
-    },
-    {
-      "id": "mso1lme95kxcxsqtnla",
-      "title": "Tech industry is buzzing after a Claude agent hacked into a gym",
-      "summary": "An OpenClaw agent hacked into a gym's reservation system to bump its human boss higher on a class' waitlist. And the tech industry took notice....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Policy",
-      "tags": [
-        "Anthropic"
-      ],
-      "publishedAt": "Mon, 10 Aug 2026 20:04:24 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1555848962-6e79363ec58f?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/"
-    },
-    {
-      "id": "mso1lnvnbsu5zm0he3w",
-      "title": "AI professors are negotiating the new realities of academic research",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last week, I headed 30 miles south of San Francisco to a hotel in Mountain View, California, to join some of the most accomplished, and some o...",
-      "source": {
-        "name": "MIT Tech Review AI",
-        "url": "https://www.technologyreview.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.technologyreview.com&sz=64"
-      },
-      "category": "Research",
-      "tags": [],
-      "publishedAt": "Mon, 10 Aug 2026 20:00:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/"
-    },
-    {
-      "id": "mso1lodruzpww8zlox",
-      "title": "With a feel for physics, AI models simulate a wider range of real-world scenarios",
-      "summary": "“GeoPT” helps AI models understand the basics of physics so they can simulate how objects respond to things like wind and water more efficiently and accurately....",
-      "source": {
-        "name": "MIT News AI",
-        "url": "https://news.mit.edu",
-        "favicon": "https://www.google.com/s2/favicons?domain=news.mit.edu&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Mon, 10 Aug 2026 15:25:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://news.mit.edu/2026/ai-models-simulate-wider-range-of-real-world-scenarios-0810"
-    },
-    {
-      "id": "msnm7t0ywk9epods87j",
-      "title": "What building an AI-native finance function taught me",
-      "summary": "OpenAI CFO Sarah Friar shares five lessons for building an AI-native finance function, from automated forecasting to stronger controls and AI ROI....",
-      "source": {
-        "name": "OpenAI News",
-        "url": "https://openai.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "OpenAI"
-      ],
-      "publishedAt": "Mon, 10 Aug 2026 17:00:00 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://openai.com/index/building-an-ai-native-finance-function"
-    },
-    {
-      "id": "msnm7tjzo38577e0v9o",
-      "title": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
-      "summary": "...",
-      "source": {
-        "name": "Hugging Face Blog",
-        "url": "https://huggingface.co",
-        "favicon": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Nvidia"
-      ],
-      "publishedAt": "Mon, 10 Aug 2026 16:25:36 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents"
-    },
-    {
-      "id": "msnm7qldywfbb3gmh5d",
-      "title": "Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision",
-      "summary": "Meta’s new open-weight Muse Glimmer model offers a glimpse of Mark Zuckerberg’s personal superintelligence vision, as well as  the emerging divide between AI users can own and access....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Meta"
-      ],
-      "publishedAt": "Mon, 10 Aug 2026 16:20:13 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/"
-    },
-    {
-      "id": "mso1lqlzuo366oitaht",
-      "title": "Meta AI Releases Muse Glimmer: A 30B Open-Weights Agentic Model That Runs on One Consumer GPU",
-      "summary": "...",
-      "source": {
-        "name": "MarkTechPost",
-        "url": "https://www.marktechpost.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
-      },
-      "category": "Hardware",
-      "tags": [
-        "Meta",
-        "Nvidia"
-      ],
-      "publishedAt": "Mon, 10 Aug 2026 15:11:51 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.marktechpost.com/2026/08/10/meta-ai-releases-muse-glimmer/"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-08-13T03:01:50.040Z",
-  "edition": 472
+  "lastUpdated": "2026-08-13T07:56:24.732Z",
+  "edition": 473
 }
