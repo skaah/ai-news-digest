@@ -1,6 +1,220 @@
 {
-  "date": "2026-08-13T13:51:16.529Z",
+  "date": "2026-08-13T19:28:05.793Z",
   "articles": [
+    {
+      "id": "msrwukcr7of936ymoam",
+      "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT 5.6 Sol work at 14x the speed",
+      "summary": "OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users. ...",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Product",
+      "tags": [
+        "OpenAI"
+      ],
+      "publishedAt": "Thu, 13 Aug 2026 19:22:40 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/"
+    },
+    {
+      "id": "msrwukcrehbmxewb0ak",
+      "title": "IBM partners with OpenAI to bolster enterprise AI push",
+      "summary": "IBM plans to train and certify tens and thousands of consultants on OpenAI's technologies as part of this deal....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "OpenAI"
+      ],
+      "publishedAt": "Thu, 13 Aug 2026 19:19:49 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/"
+    },
+    {
+      "id": "msrwukcsv2l7u22xe2",
+      "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
+      "summary": "Anthropic researchers found AI agents can clash, collude, and coordinate in unexpected ways, raising new questions about whether today’s safety tests capture the risks of multi-agent systems....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Research",
+      "tags": [
+        "Anthropic",
+        "AI Safety"
+      ],
+      "publishedAt": "Thu, 13 Aug 2026 18:28:14 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/"
+    },
+    {
+      "id": "msrwuo8layq9lyw8nk5",
+      "title": "Google AI Just Released Gemini 3.7 Flash: A Coding and Agent Model at $0.75/1M Input Tokens",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Google"
+      ],
+      "publishedAt": "Thu, 13 Aug 2026 17:47:41 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/08/13/google-ai-just-released-gemini-3-7-flash/"
+    },
+    {
+      "id": "msrwun1btnx1djd5tys",
+      "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+      "summary": "...",
+      "source": {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co",
+        "favicon": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Robotics"
+      ],
+      "publishedAt": "Thu, 13 Aug 2026 17:16:04 GMT",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop"
+    },
+    {
+      "id": "msrwukcsz3w507qhv5o",
+      "title": "OpenAI hires new CRO as executive shake-up continues",
+      "summary": "Dali Rajic will take over as OpenAI's top salesperson. ...",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "OpenAI"
+      ],
+      "publishedAt": "Thu, 13 Aug 2026 17:07:13 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/"
+    },
+    {
+      "id": "msrwuo8l24ti5lmzapv",
+      "title": "Liquid AI Releases LFM2.5-VL-3B: A 3B Vision-Language Model That Reads Screens, Grounds Objects, and Calls Tools On-Device",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Thu, 13 Aug 2026 15:56:03 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/08/13/liquid-ai-lfm2-5-vl-3b-on-device-vision-language-model/"
+    },
+    {
+      "id": "msrwukct2rixxr06bsd",
+      "title": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
+      "summary": "Microsoft is simplifying Copilot by combining its consumer and business apps, and dropping AI-generated podcasts, Group Chats, Deep Research, and its Mico character....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Research",
+      "tags": [
+        "Microsoft"
+      ],
+      "publishedAt": "Thu, 13 Aug 2026 15:30:52 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/"
+    },
+    {
+      "id": "msrwulnwdw2f5dhoe9m",
+      "title": "Flock is tightening its rules in response to a growing surveillance backlash",
+      "summary": "The police-tech giant Flock is announcing today that it will change officers’ access to its nationwide network of license plate readers, in an apparent effort to quell a growing backlash and win back contracts lost amid concerns about mass surveillance and police abuse. Several c...",
+      "source": {
+        "name": "MIT Tech Review AI",
+        "url": "https://www.technologyreview.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.technologyreview.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Thu, 13 Aug 2026 13:41:10 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/"
+    },
+    {
+      "id": "msrwumji0ec9ax9j6szc",
+      "title": "The builder’s guide to GPT‑5.6",
+      "summary": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities....",
+      "source": {
+        "name": "OpenAI News",
+        "url": "https://openai.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "OpenAI",
+        "Startup"
+      ],
+      "publishedAt": "Thu, 13 Aug 2026 11:00:00 GMT",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://openai.com/index/builders-guide-to-gpt-5-6"
+    },
+    {
+      "id": "msrwumjj4k9e4ic6yy8",
+      "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+      "summary": "Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster. Powered by Cerebras, it delivers up to 750 output tokens per second....",
+      "source": {
+        "name": "OpenAI News",
+        "url": "https://openai.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "OpenAI"
+      ],
+      "publishedAt": "Thu, 13 Aug 2026 10:00:00 GMT",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://openai.com/index/previewing-ultrafast"
+    },
+    {
+      "id": "msrwumjjpra0tmsdqz",
+      "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
+      "summary": "OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI....",
+      "source": {
+        "name": "OpenAI News",
+        "url": "https://openai.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "OpenAI"
+      ],
+      "publishedAt": "Thu, 13 Aug 2026 09:00:00 GMT",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://openai.com/index/dali-rajic-chief-revenue-officer"
+    },
     {
       "id": "msrktf38avkb4k3s9lf",
       "title": "How kids feel about AI, in their own words",
@@ -134,6 +348,22 @@
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
       "readTime": 1,
       "originalUrl": "https://arxiv.org/abs/2608.11215"
+    },
+    {
+      "id": "msrwun1c87qtt2hr0f2",
+      "title": "What We Learned by Reproducing 2,200 papers from ICML",
+      "summary": "...",
+      "source": {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co",
+        "favicon": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=64"
+      },
+      "category": "Research",
+      "tags": [],
+      "publishedAt": "Thu, 13 Aug 2026 00:00:00 GMT",
+      "imageUrl": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?w=800",
+      "readTime": 1,
+      "originalUrl": "https://huggingface.co/blog/icml-2026-open-reproductions"
     },
     {
       "id": "msqxm79b2yaxn1gic4h",
@@ -630,229 +860,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
       "readTime": 1,
       "originalUrl": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd"
-    },
-    {
-      "id": "msopq5ogsonvty0gxyh",
-      "title": "Spotify will label ‘AI Persona’ profiles and exclude their music from recommendations",
-      "summary": "Spotify is introducing “AI Persona” labels for artist profiles that represent AI-generated identities and will exclude their music from editorial, algorithmic, and personalized recommendations by default....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Tue, 11 Aug 2026 13:00:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/08/11/spotify-will-label-ai-persona-profiles-and-exclude-their-music-from-recommendations/"
-    },
-    {
-      "id": "msopq5ogx95gf2sczbn",
-      "title": "Anthropic says it will watermark text generated by its AI models",
-      "summary": "Anthropic will extend support for watermarking AI generations for older models as well....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Anthropic"
-      ],
-      "publishedAt": "Tue, 11 Aug 2026 12:13:47 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/08/11/anthropic-says-it-will-watermark-text-generated-by-its-ai-models/"
-    },
-    {
-      "id": "msphnx7opac7lrm78uc",
-      "title": "Daybreak models are now available on AWS",
-      "summary": "OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows....",
-      "source": {
-        "name": "OpenAI News",
-        "url": "https://openai.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "OpenAI"
-      ],
-      "publishedAt": "Tue, 11 Aug 2026 10:00:00 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://openai.com/index/daybreak-models-are-now-available-on-aws"
-    },
-    {
-      "id": "msp1ywcfv7ciji8nia",
-      "title": "Testing ads in ChatGPT",
-      "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control....",
-      "source": {
-        "name": "OpenAI News",
-        "url": "https://openai.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "OpenAI"
-      ],
-      "publishedAt": "Tue, 11 Aug 2026 10:00:00 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://openai.com/index/testing-ads-in-chatgpt"
-    },
-    {
-      "id": "msopqa6p3npc5hs7y2n",
-      "title": "webAI Releases TwIL-LM: A 1.7B and 3B Formal-Logic Model Family for Autoformalization on Local Hardware",
-      "summary": "...",
-      "source": {
-        "name": "MarkTechPost",
-        "url": "https://www.marktechpost.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
-      },
-      "category": "Hardware",
-      "tags": [],
-      "publishedAt": "Tue, 11 Aug 2026 06:20:09 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1555664424-778a69022365?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.marktechpost.com/2026/08/10/webai-releases-twil-lm-a-1-7b-and-3b-formal-logic-model-family-for-autoformalization-on-local-hardware/"
-    },
-    {
-      "id": "msopqa6prtt4pmrw7e",
-      "title": "Implementing a MiniMax-H3 Multimodal Video and Audio Generation Pipeline with ComfyUI APIs",
-      "summary": "...",
-      "source": {
-        "name": "MarkTechPost",
-        "url": "https://www.marktechpost.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Multimodal"
-      ],
-      "publishedAt": "Tue, 11 Aug 2026 05:44:38 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.marktechpost.com/2026/08/10/implementing-a-minimax-h3-multimodal-video-and-audio-generation-pipeline-with-comfyui-apis/"
-    },
-    {
-      "id": "msocooyxfs8pet8uqtq",
-      "title": "Towards an Argumentative Foundation for Evaluative AI",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Tue, 11 Aug 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2608.07473"
-    },
-    {
-      "id": "msocooyy4sa1lc3yu6",
-      "title": "Flow-by-Flow:Content-Judgment Bypass for Governing AI Output in High-Loss Domains",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Tue, 11 Aug 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2608.07474"
-    },
-    {
-      "id": "msocooyzwvjewfo91fi",
-      "title": "Determinization in Structure Theories: A Unified Framework via Closure, Comparability, and Joint Admissibility",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Tue, 11 Aug 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2608.07476"
-    },
-    {
-      "id": "msocooyzlltxf9g8bo",
-      "title": "Emotion in an active inference model of human driving",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Tue, 11 Aug 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2608.07480"
-    },
-    {
-      "id": "msocooyzjqpfyoaslt",
-      "title": "Training Variable Long Sequences with Data-Centric Parallel",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Tue, 11 Aug 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2608.07524"
-    },
-    {
-      "id": "mso1lme7wwkgfk70s3q",
-      "title": "OpenAI reportedly completed a $7 billion employee tender offer",
-      "summary": "San Francisco's housing market is in trouble again. ...",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Funding",
-      "tags": [
-        "OpenAI"
-      ],
-      "publishedAt": "Tue, 11 Aug 2026 00:03:18 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/"
-    },
-    {
-      "id": "mso1lme8nndr922jm2",
-      "title": "As AI-led attacks multiply, OpenAI launches a new cyber model",
-      "summary": "OpenAI is expanding its AI cybersecurity defense program Daybreak, and rolling out a new cyber-trained AI model with it....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Product",
-      "tags": [
-        "OpenAI"
-      ],
-      "publishedAt": "Mon, 10 Aug 2026 23:56:15 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-08-13T13:51:16.529Z",
-  "edition": 474
+  "lastUpdated": "2026-08-13T19:28:05.793Z",
+  "edition": 475
 }
