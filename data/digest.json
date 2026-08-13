@@ -1,6 +1,22 @@
 {
-  "date": "2026-08-13T07:56:24.733Z",
+  "date": "2026-08-13T13:51:16.529Z",
   "articles": [
+    {
+      "id": "msrktf38avkb4k3s9lf",
+      "title": "How kids feel about AI, in their own words",
+      "summary": "When we set out to talk to kids about artificial intelligence, we thought we knew what we’d hear. We expected some to tell us they were using it to cheat a little, the way Millennials and Gen Xers opened up CliffsNotes or programmed formulas into their TI-82s, and others to share...",
+      "source": {
+        "name": "MIT Tech Review AI",
+        "url": "https://www.technologyreview.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.technologyreview.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Thu, 13 Aug 2026 09:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/"
+    },
     {
       "id": "msr855n2ucjzezccnzh",
       "title": "Dyna Robotics Introduces Dyna-2: A World-Action Model Pre-Trained on 1 Million Hours of Human Video",
@@ -834,27 +850,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800",
       "readTime": 1,
       "originalUrl": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/"
-    },
-    {
-      "id": "mso1lme9z68iyhnlgt",
-      "title": "Mark Zuckerberg’s AI manifesto is exactly why people don’t like AI",
-      "summary": "On Monday, Mark Zuckerberg published a 6,500-word manifesto about personal AI, largely about the possibilities for the \"personal superintelligence\" systems Meta AI is building. ...",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Meta"
-      ],
-      "publishedAt": "Mon, 10 Aug 2026 20:53:02 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-08-13T07:56:24.732Z",
-  "edition": 473
+  "lastUpdated": "2026-08-13T13:51:16.529Z",
+  "edition": 474
 }
