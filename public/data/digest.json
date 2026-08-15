@@ -1,6 +1,24 @@
 {
-  "date": "2026-08-15T13:01:12.500Z",
+  "date": "2026-08-15T18:50:03.727Z",
   "articles": [
+    {
+      "id": "msuqdd387w2wqujh9g9",
+      "title": "SpaceX officially closes its Cursor acquisition",
+      "summary": "AI coding startup Cursor is now officially a part of SpaceX....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Startup"
+      ],
+      "publishedAt": "Sat, 15 Aug 2026 16:30:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/"
+    },
     {
       "id": "msudwtsn5lp83c68nq3",
       "title": "Fine-Tuning Tool-Calling LLMs: A Complete Guide Using XYZ-Aquila-SFT and Qwen3",
@@ -843,25 +861,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
       "readTime": 1,
       "originalUrl": "https://huggingface.co/blog/allenai/olmoearth-embeddings"
-    },
-    {
-      "id": "msqhgj78o7ygyh46gn",
-      "title": "LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
-      "summary": "...",
-      "source": {
-        "name": "Hugging Face Blog",
-        "url": "https://huggingface.co",
-        "favicon": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Wed, 12 Aug 2026 14:00:51 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-08-15T13:01:12.500Z",
-  "edition": 482
+  "lastUpdated": "2026-08-15T18:50:03.727Z",
+  "edition": 483
 }
