@@ -1,6 +1,24 @@
 {
-  "date": "2026-08-15T07:00:14.711Z",
+  "date": "2026-08-15T13:01:12.500Z",
   "articles": [
+    {
+      "id": "msudwtsn5lp83c68nq3",
+      "title": "Fine-Tuning Tool-Calling LLMs: A Complete Guide Using XYZ-Aquila-SFT and Qwen3",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "LLM"
+      ],
+      "publishedAt": "Sat, 15 Aug 2026 11:28:29 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/08/15/fine-tuning-tool-calling-llms-a-complete-guide-using-xyz-aquila-sft-and-qwen3/"
+    },
     {
       "id": "msu10n9m9p7iw5jvaxj",
       "title": "Position: Reasoning is a Learnable Rule-Based Process",
@@ -841,27 +859,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
       "readTime": 1,
       "originalUrl": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b"
-    },
-    {
-      "id": "msqhgk6ism7zffwvmw",
-      "title": "NVIDIA AI Releases Nemotron 3.5 Lightning: A 30B Open MoE with 3B Active Parameters, and NeMo Switchyard Model Router",
-      "summary": "...",
-      "source": {
-        "name": "MarkTechPost",
-        "url": "https://www.marktechpost.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Nvidia"
-      ],
-      "publishedAt": "Wed, 12 Aug 2026 06:59:40 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.marktechpost.com/2026/08/11/nvidia-ai-releases-nemotron-3-5-lightning-and-nemo-switchyard/"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-08-15T07:00:14.710Z",
-  "edition": 481
+  "lastUpdated": "2026-08-15T13:01:12.500Z",
+  "edition": 482
 }
