@@ -1,6 +1,142 @@
 {
-  "date": "2026-08-19T13:12:27.214Z",
+  "date": "2026-08-19T18:55:50.621Z",
   "articles": [
+    {
+      "id": "mt0gc8yvvikemqglbfs",
+      "title": "Offering Zero Data Retention for frontier models",
+      "summary": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy....",
+      "source": {
+        "name": "OpenAI News",
+        "url": "https://openai.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
+      },
+      "category": "Ethics",
+      "tags": [
+        "OpenAI",
+        "AI Safety"
+      ],
+      "publishedAt": "Wed, 19 Aug 2026 19:00:00 GMT",
+      "imageUrl": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=800",
+      "readTime": 1,
+      "originalUrl": "https://openai.com/index/our-commitment-to-zero-data-retention"
+    },
+    {
+      "id": "mt0gc6jw9j1wu0qvw3r",
+      "title": "Researchers say OpenAI revoked their access to limited cyber program",
+      "summary": "Multiple cybersecurity researchers said they suddenly lost access to OpenAI’s Trusted Access for Cyber (TAC) program, which offers models with fewer guardrails for vetted users....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Research",
+      "tags": [
+        "OpenAI"
+      ],
+      "publishedAt": "Wed, 19 Aug 2026 18:46:14 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/"
+    },
+    {
+      "id": "mt0gc6jxv7si4qok0pj",
+      "title": "Meet the startup helping Wall Street put a price on AI compute",
+      "summary": "The AI buildout shows no signs of slowing. And with hundreds of billions of dollars a year going into data centers and GPUs, compute has become the single biggest cost for anyone building AI products. But for all that spending, there still isn’t a straightforward w...",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Product",
+      "tags": [
+        "Nvidia",
+        "Startup"
+      ],
+      "publishedAt": "Wed, 19 Aug 2026 17:26:48 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute/"
+    },
+    {
+      "id": "mt0gc6jxm6r92gb4tbo",
+      "title": "TerraPower’s nuclear reactor has a secret weapon for powering AI data centers",
+      "summary": "TerraPower's nuclear power plant possesses a strategic advantage over competitors, especially when chasing after data center deals....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Wed, 19 Aug 2026 15:44:53 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/08/19/terrapowers-nuclear-reactor-has-a-secret-weapon-for-powering-ai-data-centers/"
+    },
+    {
+      "id": "mt0gc6jxkjwekqg9l5i",
+      "title": "Amazon makes its AI-powered Alexa+ free on Fire TV, no Prime required",
+      "summary": "Amazon is making its AI-powered Alexa+ assistant free on all compatible Fire TV devices in the U.S., automatically upgrading users whether or not they subscribe to Prime....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Wed, 19 Aug 2026 15:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/08/19/amazon-makes-its-ai-powered-alexa-free-on-fire-tv-no-prime-required/"
+    },
+    {
+      "id": "mt0gc6jy9wg6vbwsz5n",
+      "title": "Calendly throws its hat into meeting note-taker circus",
+      "summary": "Calendly is also releasing a meeting scheduling assistant called Callie....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Wed, 19 Aug 2026 14:09:39 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/08/19/calendly-throws-its-hat-into-meeting-note-taker-circus/"
+    },
+    {
+      "id": "mt0gceawqj8h56f6su",
+      "title": "IA : Christine Lagarde estime que l'Europe ne peut pas se «permettre» de rater encore une «révolution numérique»",
+      "summary": "...",
+      "source": {
+        "name": "Maddyness",
+        "url": "https://www.maddyness.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.maddyness.com&sz=64"
+      },
+      "category": "Policy",
+      "tags": [],
+      "publishedAt": "Wed, 19 Aug 2026 14:02:05 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.maddyness.com/2026/08/19/ia-christine-lagarde-estime-que-leurope-ne-peut-pas-se-permettre-de-rater-encore-une-revolution-numerique/"
+    },
+    {
+      "id": "mt0gc9gp2exxrz6ttbw",
+      "title": "LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation",
+      "summary": "...",
+      "source": {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co",
+        "favicon": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Wed, 19 Aug 2026 13:48:49 GMT",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://huggingface.co/blog/LiquidAI/qad"
+    },
     {
       "id": "mt042ldjc1ilorxisb",
       "title": "AI isn’t close to curing cancer. This startup says it knows what it will take.",
@@ -50,6 +186,24 @@
       "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
       "readTime": 1,
       "originalUrl": "https://www.maddyness.com/?p=1440668"
+    },
+    {
+      "id": "mt0gc8yvv4zx43omes",
+      "title": "Replit expands access to software creation with GPT-5.6 Luna",
+      "summary": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs....",
+      "source": {
+        "name": "OpenAI News",
+        "url": "https://openai.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "OpenAI"
+      ],
+      "publishedAt": "Wed, 19 Aug 2026 07:00:00 GMT",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://openai.com/index/replit"
     },
     {
       "id": "mszr22wfob038pngql",
@@ -704,160 +858,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
       "readTime": 1,
       "originalUrl": "https://openai.com/index/nvidia/chatgpt-work"
-    },
-    {
-      "id": "msz10zxde9ek41kuvor",
-      "title": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
-      "summary": "...",
-      "source": {
-        "name": "Hugging Face Blog",
-        "url": "https://huggingface.co",
-        "favicon": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Tue, 18 Aug 2026 00:00:00 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://huggingface.co/blog/multi-vector-encoder"
-    },
-    {
-      "id": "msy0ctg90t1iulixrbes",
-      "title": "Anthropic’s annualized revenue surges to $65B",
-      "summary": "The model maker added $18 billion in annualized revenue in two months....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Funding",
-      "tags": [
-        "Anthropic"
-      ],
-      "publishedAt": "Mon, 17 Aug 2026 23:56:26 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/"
-    },
-    {
-      "id": "msy0ctga1ad3n2x87cu",
-      "title": "AI automation startup Relay shuts down, staff joins Google’s Chrome team",
-      "summary": "\"We have some really ambitious plans to help you work with AI in Chrome to get things done, and I’ll have more to share soon,\" Jacob Bank, Relay founder and CEO, said....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Google",
-        "Startup"
-      ],
-      "publishedAt": "Mon, 17 Aug 2026 21:27:05 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/"
-    },
-    {
-      "id": "msy0cvazadez84u68m",
-      "title": "Q&A: Rethinking how innovation happens",
-      "summary": "In his latest book, Professor Eugene Fitzgerald examines the forces that turn breakthroughs into value — and why innovation resists simple formulas....",
-      "source": {
-        "name": "MIT News AI",
-        "url": "https://news.mit.edu",
-        "favicon": "https://www.google.com/s2/favicons?domain=news.mit.edu&sz=64"
-      },
-      "category": "Policy",
-      "tags": [],
-      "publishedAt": "Mon, 17 Aug 2026 15:50:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1575517111839-3a3843ee7f5d?w=800",
-      "readTime": 1,
-      "originalUrl": "https://news.mit.edu/2026/qa-eugene-fitzgerald-rethinking-how-innovation-happens-0818"
-    },
-    {
-      "id": "msy0cw66ipbdu26llj",
-      "title": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
-      "summary": "...",
-      "source": {
-        "name": "Hugging Face Blog",
-        "url": "https://huggingface.co",
-        "favicon": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Mon, 17 Aug 2026 19:46:21 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2"
-    },
-    {
-      "id": "msy0cuw4pgi2oiz29p",
-      "title": "What Flock’s defenders are missing",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Flock, the police-tech giant known for its network of some 120,000 automatic license plate readers around the US, announced some changes to it...",
-      "source": {
-        "name": "MIT Tech Review AI",
-        "url": "https://www.technologyreview.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.technologyreview.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Mon, 17 Aug 2026 19:16:09 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/"
-    },
-    {
-      "id": "msxlme9ieyf8iyx1myn",
-      "title": "MiniMax Releases MiniMax-Music3: An Open-Weights Music Model Generating Complete Five-Minute Songs From Lyrics and a Structured Caption",
-      "summary": "...",
-      "source": {
-        "name": "MarkTechPost",
-        "url": "https://www.marktechpost.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Mon, 17 Aug 2026 18:36:40 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.marktechpost.com/2026/08/17/minimax-releases-minimax-music3/"
-    },
-    {
-      "id": "msxlme9irlri7qf014b",
-      "title": "Developing an End-to-End Document Intelligence Pipeline with docTR for OCR, Layout Analysis, KIE, Benchmarking, and Searchable PDFs",
-      "summary": "...",
-      "source": {
-        "name": "MarkTechPost",
-        "url": "https://www.marktechpost.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Mon, 17 Aug 2026 17:52:50 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.marktechpost.com/2026/08/17/end-to-end-document-intelligence-pipeline-with-doctr-for-ocr/"
-    },
-    {
-      "id": "msxlm9s1r34i6jkhv6r",
-      "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
-      "summary": "Rare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "LLM"
-      ],
-      "publishedAt": "Mon, 17 Aug 2026 16:38:44 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-08-19T13:12:27.214Z",
-  "edition": 498
+  "lastUpdated": "2026-08-19T18:55:50.621Z",
+  "edition": 499
 }
