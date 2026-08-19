@@ -1,6 +1,40 @@
 {
-  "date": "2026-08-19T07:08:02.960Z",
+  "date": "2026-08-19T13:12:27.214Z",
   "articles": [
+    {
+      "id": "mt042ldjc1ilorxisb",
+      "title": "AI isn’t close to curing cancer. This startup says it knows what it will take.",
+      "summary": "It's the data, stupid. ...",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Startup"
+      ],
+      "publishedAt": "Wed, 19 Aug 2026 12:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/08/19/ai-isnt-close-to-curing-cancer-this-startup-says-it-knows-what-it-will-take/"
+    },
+    {
+      "id": "mt042ldjyur188t3dxg",
+      "title": "Relativity Networks raises $22 million to bring a faster kind of fiber to data centers",
+      "summary": "Relativity Networks deals in hollow-core fiber, a rarely deployed technology that allows data to be transmitted 30% faster than conventional fiber....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Funding",
+      "tags": [],
+      "publishedAt": "Wed, 19 Aug 2026 10:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/08/19/relativity-networks-raises-22-million-to-bring-a-faster-kind-of-fiber-to-data-centers/"
+    },
     {
       "id": "mszr261mhjnv0mkdgmd",
       "title": "IA : le courage managérial comme ligne de fracture",
@@ -821,45 +855,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
       "readTime": 1,
       "originalUrl": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/"
-    },
-    {
-      "id": "msxlm9s2jusziok3rwg",
-      "title": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
-      "summary": "Groq raised $350 million at a $3.5 billion valuation as the former AI chipmaker pivots to a neocloud business and expands its Nvidia-powered data center footprint....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Funding",
-      "tags": [
-        "Nvidia"
-      ],
-      "publishedAt": "Mon, 17 Aug 2026 16:15:12 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/"
-    },
-    {
-      "id": "msxlmhv7i0i68rfeose",
-      "title": "« L’IA devrait être comme le Wi-Fi » : dans ce bar chinois, DeepSeek est à volonté",
-      "summary": "...",
-      "source": {
-        "name": "Numerama",
-        "url": "https://www.numerama.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "China"
-      ],
-      "publishedAt": "Mon, 17 Aug 2026 16:00:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.numerama.com/tech/2312773-lia-devrait-etre-comme-le-wi-fi-dans-ce-bar-chinois-deepseek-est-a-volonte.html"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-08-19T07:08:02.960Z",
-  "edition": 497
+  "lastUpdated": "2026-08-19T13:12:27.214Z",
+  "edition": 498
 }
