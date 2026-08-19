@@ -1,6 +1,58 @@
 {
-  "date": "2026-08-18T18:59:25.199Z",
+  "date": "2026-08-19T01:54:57.335Z",
   "articles": [
+    {
+      "id": "mszfva6o0lse7v717ux",
+      "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
+      "summary": "Cursor, known for its AI Code Editor, is launching a new code-hosting platform to rival developers' long preferred favorite, GitHub. ...",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Product",
+      "tags": [],
+      "publishedAt": "Tue, 18 Aug 2026 22:14:25 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/"
+    },
+    {
+      "id": "mszfveybw7lpum2tft9",
+      "title": "NVIDIA Releases TensorRT Model Connect in Public Preview: Hugging Face Checkpoint to Native C++ Inference in Two Commands",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Nvidia"
+      ],
+      "publishedAt": "Tue, 18 Aug 2026 21:49:04 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/08/18/nvidia-releases-tensorrt-model-connect-in-public-preview-hugging-face-checkpoint-to-native-c-inference-in-two-commands/"
+    },
+    {
+      "id": "mszfvcz5l710ep7hgn",
+      "title": "Strengthening democratic oversight in national security",
+      "summary": "OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise....",
+      "source": {
+        "name": "OpenAI News",
+        "url": "https://openai.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
+      },
+      "category": "Product",
+      "tags": [
+        "OpenAI"
+      ],
+      "publishedAt": "Tue, 18 Aug 2026 19:00:00 GMT",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800",
+      "readTime": 1,
+      "originalUrl": "https://openai.com/index/strengthening-democratic-oversight-in-national-security"
+    },
     {
       "id": "msz10zxdxtvgvnv6k2s",
       "title": "How Much Memory Does Your Agent Actually Need?",
@@ -467,6 +519,25 @@
       "originalUrl": "https://www.marktechpost.com/2026/08/17/bytedance-seed-and-tsinghua-air-introduces-cuda-agent-a-large-scale-agentic-rl-system-for-cuda-kernel-generation/"
     },
     {
+      "id": "mszfvcz6uyoqkwsrb9d",
+      "title": "How NVIDIA scales expertise with ChatGPT Work",
+      "summary": "NVIDIA teams use ChatGPT Work to reduce manual tasks, connect fast-moving signals, and scale successful workflows globally....",
+      "source": {
+        "name": "OpenAI News",
+        "url": "https://openai.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "OpenAI",
+        "Nvidia"
+      ],
+      "publishedAt": "Tue, 18 Aug 2026 00:00:00 GMT",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://openai.com/index/nvidia/chatgpt-work"
+    },
+    {
       "id": "msz10zxde9ek41kuvor",
       "title": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
       "summary": "...",
@@ -793,79 +864,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
       "readTime": 1,
       "originalUrl": "https://arxiv.org/abs/2608.13564"
-    },
-    {
-      "id": "mswwjvi3k3y8tbdg05",
-      "title": "Depth-Aware Sensitivity Analysis of Mixture-of-Experts Models via Magnitude-Based Expert Masking",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Mon, 17 Aug 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2608.13565"
-    },
-    {
-      "id": "mswwjvi4vgctjzsl5zg",
-      "title": "Modular Cognitive Architecture Emerges in Large Language Models",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "LLM"
-      ],
-      "publishedAt": "Mon, 17 Aug 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2608.13567"
-    },
-    {
-      "id": "mswwjvi4efseuww4ado",
-      "title": "A Year in LLM Serving: Workload Evolution, Caching and Load-Balancing",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "LLM"
-      ],
-      "publishedAt": "Mon, 17 Aug 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2608.13573"
-    },
-    {
-      "id": "mswwjvi42bml18t4hog",
-      "title": "Agentao: A Governed Local-First Runtime for Tool-Using LLM Agents",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "LLM"
-      ],
-      "publishedAt": "Mon, 17 Aug 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2608.13574"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-08-18T18:59:25.199Z",
-  "edition": 495
+  "lastUpdated": "2026-08-19T01:54:57.334Z",
+  "edition": 496
 }
