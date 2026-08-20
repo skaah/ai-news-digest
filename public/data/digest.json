@@ -1,6 +1,109 @@
 {
-  "date": "2026-08-20T07:08:51.758Z",
+  "date": "2026-08-20T13:13:41.184Z",
   "articles": [
+    {
+      "id": "mt1jk7uhwt2cow69129",
+      "title": "Nouvelle fuite de données en France : Red by SFR alerte ses clients",
+      "summary": "...",
+      "source": {
+        "name": "Numerama",
+        "url": "https://www.numerama.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Thu, 20 Aug 2026 12:47:44 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.numerama.com/cyberguerre/2314843-nouvelle-fuite-de-donnees-en-france-red-by-sfr-alerte-ses-clients.html"
+    },
+    {
+      "id": "mt1jk1649q2bpgactif",
+      "title": "Meta AI’s new Mac app wants you to talk to your apps",
+      "summary": "Meta said its Muse Spark model is powering the dictation feature....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Meta"
+      ],
+      "publishedAt": "Thu, 20 Aug 2026 12:11:57 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps/"
+    },
+    {
+      "id": "mt1jk7bl89qjyar1vgn",
+      "title": "Le site de vente de vêtements Boohoo condamné à une amende de 2,33 millions d’euros",
+      "summary": "La répression des fraudes reproche à Boohoo.com une tromperie sur « la véracité des promotions annoncées » : lors de son enquête, elle a analysé « les prix de plusieurs centaines de produits et a « mis au jour des pratiques commerciales trompeuses »....",
+      "source": {
+        "name": "Le Monde Tech",
+        "url": "https://www.lemonde.fr",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.lemonde.fr&sz=64"
+      },
+      "category": "Funding",
+      "tags": [],
+      "publishedAt": "Thu, 20 Aug 2026 13:24:05 +0200",
+      "imageUrl": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.lemonde.fr/economie/article/2026/08/20/le-site-de-vente-de-vetements-boohoo-condamne-a-une-amende-de-2-33-millions-d-euros_6750929_3234.html"
+    },
+    {
+      "id": "mt1jk2jhtvahtfjlka9",
+      "title": "Unlocking hidden revenue streams with market models",
+      "summary": "Each day, an airline transports tens of thousands of passengers on hundreds of flights. Often these are not straightforward point-to-point routes, with passengers requiring multiple connections. The airline can consider potentially hundreds of variables to price each of these jou...",
+      "source": {
+        "name": "MIT Tech Review AI",
+        "url": "https://www.technologyreview.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.technologyreview.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Thu, 20 Aug 2026 09:47:22 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models/"
+    },
+    {
+      "id": "mt1jk165dcf7wvjx83p",
+      "title": "Binance now lets AI agents trade, but keeping them in check is largely up to users",
+      "summary": "Binance's Agent OS works with tools including ChatGPT, Claude Code, and Cursor....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "OpenAI",
+        "Anthropic"
+      ],
+      "publishedAt": "Thu, 20 Aug 2026 09:30:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/"
+    },
+    {
+      "id": "mt1jk4zi8e16mpvymqg",
+      "title": "Auditing Preference Biases and Fine-Tuning Language Models with Direct Preference Optimization on Anthropic HH-RLHF Using TRL and LoRA",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Anthropic"
+      ],
+      "publishedAt": "Thu, 20 Aug 2026 08:51:38 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/08/20/auditing-preference-biases-and-fine-tuning-language-models-with-direct-preference-optimization-on-anthropic-hh-rlhf-using-trl-and-lora/"
+    },
     {
       "id": "mt16izlyi2xfs6pz8iq",
       "title": "Position: Collusion Risks Among AI Reasoning Agents Justify Certification Requirements for Making Market Decisions",
@@ -754,117 +857,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
       "readTime": 1,
       "originalUrl": "https://www.numerama.com/sciences/2313219-sophie-adenot-remplacee-par-un-robot-pour-sa-sortie-dans-lespace-lhistoire-du-projet-avorte-de-la-nasa.html"
-    },
-    {
-      "id": "msz10zcuoeryvxbr2ch",
-      "title": "Pacing model development in an era of cyber-critical capabilities",
-      "summary": "OpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development....",
-      "source": {
-        "name": "OpenAI News",
-        "url": "https://openai.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "OpenAI",
-        "AI Safety"
-      ],
-      "publishedAt": "Tue, 18 Aug 2026 11:00:00 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://openai.com/index/pacing-model-development-cyber-capabilities"
-    },
-    {
-      "id": "msyol88c82tp6y8lbyw",
-      "title": "Partnering with CodeAI to prepare the first AI generation",
-      "summary": "OpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly....",
-      "source": {
-        "name": "OpenAI News",
-        "url": "https://openai.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "OpenAI"
-      ],
-      "publishedAt": "Tue, 18 Aug 2026 11:00:00 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://openai.com/index/partnering-with-codeai"
-    },
-    {
-      "id": "msyol88dik8tjar9jx",
-      "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
-      "summary": "ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents....",
-      "source": {
-        "name": "OpenAI News",
-        "url": "https://openai.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "OpenAI"
-      ],
-      "publishedAt": "Tue, 18 Aug 2026 11:00:00 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://openai.com/index/chatgpt-for-teens"
-    },
-    {
-      "id": "msz111ajrpchk0ktdf",
-      "title": "Cartesia Ships Sonic-3.6: A Streaming TTS Model That Now Leads Both Artificial Analysis Speech Arenas",
-      "summary": "...",
-      "source": {
-        "name": "MarkTechPost",
-        "url": "https://www.marktechpost.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Tue, 18 Aug 2026 10:37:49 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.marktechpost.com/2026/08/18/cartesia-ships-sonic-3-6-a-streaming-tts-model-that-now-leads-both-artificial-analysis-speech-arenas/"
-    },
-    {
-      "id": "msyol7ckludpt9oonx7",
-      "title": "We still don’t know how people are really using AI",
-      "summary": "AI companies like Anthropic and OpenAI regularly publish reports on how people are using products like Claude and ChatGPT, but they only release the data they want us to see, AI researchers say.  “There is no independent source to corroborate it,” says Anka Reuel, a Computer Scie...",
-      "source": {
-        "name": "MIT Tech Review AI",
-        "url": "https://www.technologyreview.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.technologyreview.com&sz=64"
-      },
-      "category": "Product",
-      "tags": [
-        "OpenAI",
-        "Anthropic"
-      ],
-      "publishedAt": "Tue, 18 Aug 2026 10:06:43 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/"
-    },
-    {
-      "id": "msyol7cllyfkjinsiek",
-      "title": "AI’s recursive self-improvement might not come so quickly after all",
-      "summary": "The AI industry’s boldest promise right now is that AI will soon improve itself, with almost no need for human oversight. LLMs can already write code, generate synthetic data for training, and optimize the computer chips they run on. Forecasts of explosive AI progress predict tha...",
-      "source": {
-        "name": "MIT Tech Review AI",
-        "url": "https://www.technologyreview.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.technologyreview.com&sz=64"
-      },
-      "category": "Research",
-      "tags": [
-        "LLM"
-      ],
-      "publishedAt": "Tue, 18 Aug 2026 09:00:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-08-20T07:08:51.757Z",
-  "edition": 501
+  "lastUpdated": "2026-08-20T13:13:41.184Z",
+  "edition": 502
 }
