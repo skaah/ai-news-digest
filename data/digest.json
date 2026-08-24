@@ -1,6 +1,24 @@
 {
-  "date": "2026-08-24T07:31:08.187Z",
+  "date": "2026-08-24T13:16:18.187Z",
   "articles": [
+    {
+      "id": "mt79etwuwbmpyb3kow",
+      "title": "Kids outlearn AI—and we still don’t know why",
+      "summary": "People have been talking to each other for at least 100,000 years, as best we can tell. And in all that time, there has been only one thing in the world that could learn a human language to perfect fluency: a human child.  Now there are two.  Four short years after the release of...",
+      "source": {
+        "name": "MIT Tech Review AI",
+        "url": "https://www.technologyreview.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.technologyreview.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "OpenAI"
+      ],
+      "publishedAt": "Mon, 24 Aug 2026 09:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/"
+    },
     {
       "id": "mt6x310sdspqd7zawo",
       "title": "SDAD: Spec-Driven Agentic Development for the AI-Native SDLC",
@@ -84,6 +102,22 @@
       "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
       "readTime": 1,
       "originalUrl": "https://arxiv.org/abs/2608.20384"
+    },
+    {
+      "id": "mt79ewgvfbwn3fcmj8u",
+      "title": "Scientific Data Analysis with LabPlot in Python: Signal Processing, Spectral Peak Fitting, Visualization, and Batch Automation",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Mon, 24 Aug 2026 03:32:30 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/08/23/scientific-data-analysis-with-labplot-in-python-signal-processing-spectral-peak-fitting-visualization-and-batch-automation/"
     },
     {
       "id": "mt6l8ekoa7mqhqkgn1",
@@ -819,41 +853,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
       "readTime": 1,
       "originalUrl": "https://techcrunch.com/2026/08/20/meta-brings-pocket-an-app-that-lets-you-vibe-code-and-share-games-to-us-users/"
-    },
-    {
-      "id": "mt1w15wig5wnu4wir3a",
-      "title": "Debates over AI consciousness are a trap",
-      "summary": "“Runaway” AI, “rogue” agents, and “autonomous” actors—the current rhetoric would have you believe that AI agents are not only awake and aware, but angry at their creators. Prominent tech leaders such as Demis Hassabis, Dario Amodei, and Sam Altman push for regulation of these see...",
-      "source": {
-        "name": "MIT Tech Review AI",
-        "url": "https://www.technologyreview.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.technologyreview.com&sz=64"
-      },
-      "category": "Policy",
-      "tags": [],
-      "publishedAt": "Thu, 20 Aug 2026 15:42:39 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1575517111839-3a3843ee7f5d?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/"
-    },
-    {
-      "id": "mt1jk7uhwt2cow69129",
-      "title": "Nouvelle fuite de données en France : Red by SFR alerte ses clients",
-      "summary": "...",
-      "source": {
-        "name": "Numerama",
-        "url": "https://www.numerama.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Thu, 20 Aug 2026 12:47:44 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.numerama.com/cyberguerre/2314843-nouvelle-fuite-de-donnees-en-france-red-by-sfr-alerte-ses-clients.html"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-08-24T07:31:08.187Z",
-  "edition": 517
+  "lastUpdated": "2026-08-24T13:16:18.187Z",
+  "edition": 518
 }
