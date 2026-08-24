@@ -1,6 +1,22 @@
 {
-  "date": "2026-08-23T18:50:29.973Z",
+  "date": "2026-08-24T01:59:28.518Z",
   "articles": [
+    {
+      "id": "mt6l8ekoa7mqhqkgn1",
+      "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
+      "summary": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Sun, 23 Aug 2026 20:01:36 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/"
+    },
     {
       "id": "mt65wtxo2j4tiyzb5ak",
       "title": "Harvey Introduces Harvey Tenet: A Kimi K3 Base Post-Trained with Fireworks for Long-Horizon Legal Agent Work",
@@ -838,27 +854,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
       "readTime": 1,
       "originalUrl": "https://www.marktechpost.com/2026/08/20/auditing-preference-biases-and-fine-tuning-language-models-with-direct-preference-optimization-on-anthropic-hh-rlhf-using-trl-and-lora/"
-    },
-    {
-      "id": "mt2axa66yspqlml6jw",
-      "title": "Introducing AI Futures",
-      "summary": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom....",
-      "source": {
-        "name": "OpenAI News",
-        "url": "https://openai.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "OpenAI"
-      ],
-      "publishedAt": "Thu, 20 Aug 2026 07:00:00 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://openai.com/index/introducing-ai-futures"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-08-23T18:50:29.973Z",
-  "edition": 515
+  "lastUpdated": "2026-08-24T01:59:28.518Z",
+  "edition": 516
 }
