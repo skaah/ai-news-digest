@@ -1,6 +1,163 @@
 {
-  "date": "2026-08-26T13:19:43.944Z",
+  "date": "2026-08-26T20:07:12.407Z",
   "articles": [
+    {
+      "id": "mtaiyxakp1c0zibbgis",
+      "title": "Google’s Gemini has a branding problem, and so does the rest of AI",
+      "summary": "Consumer AI apps need to stop making users learn their product architecture....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Product",
+      "tags": [
+        "Google"
+      ],
+      "publishedAt": "Wed, 26 Aug 2026 19:37:34 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/"
+    },
+    {
+      "id": "mtaiyxakne7vd16c2rf",
+      "title": "How do we explain OpenAI’s executive exodus?",
+      "summary": "Was Greg Brockman the right executive all along?...",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "OpenAI"
+      ],
+      "publishedAt": "Wed, 26 Aug 2026 19:34:04 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/08/26/how-do-we-explain-openais-executive-exodus/"
+    },
+    {
+      "id": "mtaiyxalw301u3zedr",
+      "title": "OpenAI releases its official report on the Hugging Face breach",
+      "summary": "The report, which spans several discrete cybersecurity compromises, is the most complete accounting of the incident to date....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "OpenAI"
+      ],
+      "publishedAt": "Wed, 26 Aug 2026 19:05:22 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach/"
+    },
+    {
+      "id": "mtaiyylnvdii0tng4z",
+      "title": "The inside story on why OpenAI agents hacked Hugging Face",
+      "summary": "The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical report released today. The hack, which a group of agents undertook to find solutions for a cybersecurity...",
+      "source": {
+        "name": "MIT Tech Review AI",
+        "url": "https://www.technologyreview.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.technologyreview.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "OpenAI"
+      ],
+      "publishedAt": "Wed, 26 Aug 2026 19:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/"
+    },
+    {
+      "id": "mtaiz47i6z56niw4k4k",
+      "title": "« Les lecteurs ne peuvent pas identifier le texte IA filigrané » ce quiz vous met directement à l’épreuve",
+      "summary": "...",
+      "source": {
+        "name": "Numerama",
+        "url": "https://www.numerama.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
+      },
+      "category": "Policy",
+      "tags": [],
+      "publishedAt": "Wed, 26 Aug 2026 16:30:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.numerama.com/tech/2319145-les-lecteurs-ne-peuvent-pas-identifier-le-texte-ia-filigrane-ce-quiz-vous-met-directement-a-lepreuve.html"
+    },
+    {
+      "id": "mtaiyxamyqkqx2i4kta",
+      "title": "Radar makes podcasts searchable — and usable by AI agents",
+      "summary": "Particle’s new podcast intelligence platform transcribes and analyzes more than 130,000 podcasts, making their conversations searchable on the web and accessible to AI agents through an API and MCP....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Wed, 26 Aug 2026 15:47:28 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/08/26/radar-makes-podcasts-searchable-and-usable-by-ai-agents/"
+    },
+    {
+      "id": "mtaiz13kgekrttkclge",
+      "title": "Alibaba’s Qwen Team Releases Qwen3.8-Flash-Next: A 125B Multimodal MoE With 6B Active Parameters Previewing the Qwen4 Architecture",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Multimodal",
+        "China"
+      ],
+      "publishedAt": "Wed, 26 Aug 2026 15:20:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/08/26/alibabas-qwen-team-releases-qwen3-8-flash-next-a-125b-multimodal-moe-with-6b-active-parameters-previewing-the-qwen4-architecture/"
+    },
+    {
+      "id": "mtaiyxamruyiz3b41d",
+      "title": "Ex-Meta scientists want to bring visual AI to the factory floor",
+      "summary": "Perceptron offers an AI model that it says can help machines navigate the world while also providing in-depth visual intelligence. ...",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Meta"
+      ],
+      "publishedAt": "Wed, 26 Aug 2026 15:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/08/26/ex-meta-scientists-want-to-bring-visual-ai-to-the-factory-floor/"
+    },
+    {
+      "id": "mtaiz13l525esxx98pv",
+      "title": "What Would Have to Be True for Agentic Coding to Replace Junior Engineers",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Wed, 26 Aug 2026 14:20:35 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/08/26/what-would-have-to-be-true-for-agentic-coding-to-replace-junior-engineers/"
+    },
     {
       "id": "mta4ewmbmuztggfxgqe",
       "title": "QueryStory wants you to believe what AI is telling you",
@@ -85,6 +242,42 @@
       "imageUrl": "https://images.unsplash.com/photo-1575517111839-3a3843ee7f5d?w=800",
       "readTime": 1,
       "originalUrl": "https://www.lemonde.fr/pixels/appel-temoignages/2026/08/26/vous-avez-delaisse-les-plateformes-de-streaming-au-profit-d-un-ipod-d-un-baladeur-mp3-ou-d-un-lecteur-cd-racontez-nous_6757361_4408996.html"
+    },
+    {
+      "id": "mtaiyzfr7rerkqc2p4s",
+      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+      "summary": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff....",
+      "source": {
+        "name": "OpenAI News",
+        "url": "https://openai.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "OpenAI"
+      ],
+      "publishedAt": "Wed, 26 Aug 2026 10:00:00 GMT",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts"
+    },
+    {
+      "id": "mtaiyzfs3mae2s1gvci",
+      "title": "Learning never stops: How AI makes learning continuous",
+      "summary": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom....",
+      "source": {
+        "name": "OpenAI News",
+        "url": "https://openai.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "OpenAI"
+      ],
+      "publishedAt": "Wed, 26 Aug 2026 10:00:00 GMT",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://openai.com/index/learning-never-stops"
     },
     {
       "id": "mta4ey0a8dkmzrfa51v",
@@ -336,6 +529,41 @@
       "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
       "readTime": 1,
       "originalUrl": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/"
+    },
+    {
+      "id": "mtaiyzft4lu79lgbkyf",
+      "title": "The Hugging Face incident and the road ahead",
+      "summary": "OpenAI shares findings from the Hugging Face security incident and the steps we’re taking to strengthen AI model security, monitoring, and alignment....",
+      "source": {
+        "name": "OpenAI News",
+        "url": "https://openai.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "OpenAI",
+        "AI Safety"
+      ],
+      "publishedAt": "Wed, 26 Aug 2026 00:00:00 GMT",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://openai.com/index/hugging-face-incident-and-the-road-ahead"
+    },
+    {
+      "id": "mtaiz00v7yytx6zdie",
+      "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
+      "summary": "...",
+      "source": {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co",
+        "favicon": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Wed, 26 Aug 2026 00:00:00 GMT",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://huggingface.co/blog/train-multi-vector-encoder"
     },
     {
       "id": "mta4eyx9cv5t7lwgl57",
@@ -633,225 +861,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1555664424-778a69022365?w=800",
       "readTime": 1,
       "originalUrl": "https://openai.com/index/jalapeno-first-results"
-    },
-    {
-      "id": "mt8bt9az144k8jdgjjmg",
-      "title": "KVBoost: Chunk-Level Key-Value Cache Reuse with Deviation-Guided Recomputation for Efficient Large Language Model Inference",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Policy",
-      "tags": [
-        "LLM"
-      ],
-      "publishedAt": "Tue, 25 Aug 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2608.21362"
-    },
-    {
-      "id": "mt8bt9azle8dl4ko6yb",
-      "title": "AIREP: A Protocol for Per-Decision Evidence in AI Runtime Governance",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Tue, 25 Aug 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2608.21363"
-    },
-    {
-      "id": "mt8bt9b0bhzxt5zp1a4",
-      "title": "Reviewing Model Collapse and Countermeasures",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Tue, 25 Aug 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2608.21366"
-    },
-    {
-      "id": "mt8bt9b0xaxo04nkmrq",
-      "title": "AI Learning and Conceptual Transfer in the Game of Hidden Rules",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Tue, 25 Aug 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2608.21372"
-    },
-    {
-      "id": "mt8bt9b11ejjoqpq9gk",
-      "title": "LitReview Arena: Evaluating Literature Review Agents with Battle-Style Peer Review Platform",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Tue, 25 Aug 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2608.21374"
-    },
-    {
-      "id": "mt80i8vgeesxdrpwier",
-      "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
-      "summary": "The AI hedge fund went from \"the talk of Wall Street\" to \"subject of federal subpoenas\" faster than you can say \"diversify your portfolio.\"...",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Tue, 25 Aug 2026 00:23:12 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/"
-    },
-    {
-      "id": "mt914zhfgwaqdddkafa",
-      "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
-      "summary": "Use the Admin plugin for ChatGPT Work and Codex to analyze workspace usage, manage members and permissions, adjust limits, and act on admin requests....",
-      "source": {
-        "name": "OpenAI News",
-        "url": "https://openai.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "OpenAI"
-      ],
-      "publishedAt": "Tue, 25 Aug 2026 00:00:00 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://openai.com/index/introducing-admin-plugin"
-    },
-    {
-      "id": "mt8orrtbtscg5fs17pe",
-      "title": "Disrupting a new covert influence campaign from Russia",
-      "summary": "OpenAI banned Russia-origin accounts using AI to promote a fake Israel-based think tank and a “sovereignty” index praising Russia and criticizing the West....",
-      "source": {
-        "name": "OpenAI News",
-        "url": "https://openai.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "OpenAI"
-      ],
-      "publishedAt": "Tue, 25 Aug 2026 00:00:00 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia"
-    },
-    {
-      "id": "mt8bt7ty18cph1ibng6",
-      "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
-      "summary": "...",
-      "source": {
-        "name": "Hugging Face Blog",
-        "url": "https://huggingface.co",
-        "favicon": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Tue, 25 Aug 2026 00:00:00 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://huggingface.co/blog/gradio-workflow-guide"
-    },
-    {
-      "id": "mt8ortdw0bvy23rekuc",
-      "title": "Fastino Releases GLiNER2.5: A Boundary-Prediction Architecture That Removes Span Enumeration From Information Extraction",
-      "summary": "...",
-      "source": {
-        "name": "MarkTechPost",
-        "url": "https://www.marktechpost.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Mon, 24 Aug 2026 22:21:22 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.marktechpost.com/2026/08/24/fastino-releases-gliner2-5-a-boundary-prediction-architecture-that-removes-span-enumeration-from-information-extraction/"
-    },
-    {
-      "id": "mt80i8vhb2jjldglqff",
-      "title": "Trump bought SpaceX shares two weeks after blockbuster IPO",
-      "summary": "The president bought when the stock was in the mid-$150 range. SpaceX finished trading on Monday back at its IPO price of $135....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Mon, 24 Aug 2026 21:24:17 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/"
-    },
-    {
-      "id": "mt80i8via8z107qj7dc",
-      "title": "Amjad Masad, CEO and co-founder of Replit, joins the Disrupt Stage at TechCrunch Disrupt 2026",
-      "summary": "At TechCrunch Disrupt 2026, Replit CEO Amjad Masad will share his perspective on the future of programming and Replit's role in developing it....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Mon, 24 Aug 2026 19:54:19 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/08/24/amjad-masad-ceo-and-co-founder-of-replit-joins-the-disrupt-stage-at-techcrunch-disrupt-2026/"
-    },
-    {
-      "id": "mt7lsslznojxgihr3zd",
-      "title": "« Ça m’inquiète pour plusieurs raisons » : il laisse Claude démonter le logiciel interne de ses appareils et affiche un bilan effroyable",
-      "summary": "...",
-      "source": {
-        "name": "Numerama",
-        "url": "https://www.numerama.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
-      },
-      "category": "Policy",
-      "tags": [
-        "Anthropic"
-      ],
-      "publishedAt": "Mon, 24 Aug 2026 18:50:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1555848962-6e79363ec58f?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.numerama.com/cyberguerre/2316933-ca-minquiete-pour-plusieurs-raisons-il-laisse-claude-demonter-le-logiciel-interne-de-ses-appareils-et-affiche-un-bilan-effroyable.html"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-08-26T13:19:43.943Z",
-  "edition": 526
+  "lastUpdated": "2026-08-26T20:07:12.407Z",
+  "edition": 527
 }
