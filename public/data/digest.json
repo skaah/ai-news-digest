@@ -1,6 +1,56 @@
 {
-  "date": "2026-08-30T16:45:11.364Z",
+  "date": "2026-08-30T21:11:58.795Z",
   "articles": [
+    {
+      "id": "mtgb1oy2ugep9yaijqp",
+      "title": "Google AI Introduces EnvHarness: A Programmable Layer That Turns Static Agent Environments Into Adaptive Training Worlds",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Google"
+      ],
+      "publishedAt": "Sun, 30 Aug 2026 20:23:46 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/08/30/google-ai-introduces-envharness-a-programmable-layer-that-turns-static-agent-environments-into-adaptive-training-worlds/"
+    },
+    {
+      "id": "mtgb1i49dnljufzx8ke",
+      "title": "Musk’s faster path to more gas turbines comes with pollution problem",
+      "summary": "Elon Musk says a secretive new SpaceX foundry will let him cast his own turbine blades and get gas power online 18 months faster than anyone else — but it's a bet on a fuel source that's already triggering lawsuits and health studies everywhere his (and others') turbines have gon...",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Policy",
+      "tags": [],
+      "publishedAt": "Sun, 30 Aug 2026 16:54:25 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1555848962-6e79363ec58f?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/"
+    },
+    {
+      "id": "mtgb1t551ud9ks9arup",
+      "title": "On vous explique la température d’une IA : ce curseur qui change toutes les réponses",
+      "summary": "...",
+      "source": {
+        "name": "Numerama",
+        "url": "https://www.numerama.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
+      },
+      "category": "Policy",
+      "tags": [],
+      "publishedAt": "Sun, 30 Aug 2026 16:50:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.numerama.com/tech/2319999-on-vous-explique-la-temperature-dune-ia-ce-curseur-qui-change-toutes-les-reponses.html"
+    },
     {
       "id": "mtg1ipm5ux26bvrsbc",
       "title": "IA : OpenAI et Anthropic, deux frères ennemis en concurrence frontale pour lever des sommes vertigineuses en Bourse",
@@ -829,63 +879,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=800",
       "readTime": 1,
       "originalUrl": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/"
-    },
-    {
-      "id": "mtbckwowb2nu73r9mbq",
-      "title": "Google Research Introduces GlucoFM: A 0.72M-Parameter Dual-Stream Foundation Model for Continuous Glucose Monitoring",
-      "summary": "...",
-      "source": {
-        "name": "MarkTechPost",
-        "url": "https://www.marktechpost.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
-      },
-      "category": "Research",
-      "tags": [
-        "Google"
-      ],
-      "publishedAt": "Thu, 27 Aug 2026 04:13:44 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.marktechpost.com/2026/08/26/google-research-introduces-glucofm-a-0-72m-parameter-dual-stream-foundation-model-for-continuous-glucose-monitoring/"
-    },
-    {
-      "id": "mtc34jj08m5e8ifgnfl",
-      "title": "Expanding OpenAI’s presence in Brazil",
-      "summary": "OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country....",
-      "source": {
-        "name": "OpenAI News",
-        "url": "https://openai.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "OpenAI"
-      ],
-      "publishedAt": "Thu, 27 Aug 2026 03:00:00 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://openai.com/index/expanding-our-presence-in-brazil"
-    },
-    {
-      "id": "mtbcksrm9k3dzmuwky",
-      "title": "Viral AI startup Instinct has raised $350M at a $2.5B valuation",
-      "summary": "The startup is only a year old but it has already generated a massive amount of hype (and money) while also spurring privacy concerns. ...",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Startup"
-      ],
-      "publishedAt": "Thu, 27 Aug 2026 00:24:57 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-08-30T16:45:11.364Z",
-  "edition": 537
+  "lastUpdated": "2026-08-30T21:11:58.795Z",
+  "edition": 538
 }
