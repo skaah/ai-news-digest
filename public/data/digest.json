@@ -1,6 +1,125 @@
 {
-  "date": "2026-08-30T21:11:58.795Z",
+  "date": "2026-08-31T05:43:30.268Z",
   "articles": [
+    {
+      "id": "mtgtbhyacs6utnok23",
+      "title": "How an MIT research project became a global programming language",
+      "summary": "With millions of users across the world, Julia has been used to conduct cutting-edge research and to design new drugs, jet engines, heat pumps, and more....",
+      "source": {
+        "name": "MIT News AI",
+        "url": "https://news.mit.edu",
+        "favicon": "https://www.google.com/s2/favicons?domain=news.mit.edu&sz=64"
+      },
+      "category": "Research",
+      "tags": [],
+      "publishedAt": "Mon, 31 Aug 2026 00:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=800",
+      "readTime": 1,
+      "originalUrl": "https://news.mit.edu/2026/how-mit-research-project-became-global-programming-language-0831"
+    },
+    {
+      "id": "mtgtbkoqwhadpclgu8d",
+      "title": "Time Capsule of Testable Human Knowledge: 41 Years of Jeopardy! in a Single Free Local Model",
+      "summary": "...",
+      "source": {
+        "name": "ArXiv cs.AI",
+        "url": "https://arxiv.org",
+        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Mon, 31 Aug 2026 00:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://arxiv.org/abs/2608.27459"
+    },
+    {
+      "id": "mtgtbkoq274brl1kfba",
+      "title": "Rating the Raters: Rasch Measurement Theory for LLM Evaluation",
+      "summary": "...",
+      "source": {
+        "name": "ArXiv cs.AI",
+        "url": "https://arxiv.org",
+        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "LLM"
+      ],
+      "publishedAt": "Mon, 31 Aug 2026 00:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://arxiv.org/abs/2608.27463"
+    },
+    {
+      "id": "mtgtbkor1hll80do9lb",
+      "title": "Not All Explanations Are Sought: Information-Seeking Psychology for Human-Centered XAI",
+      "summary": "...",
+      "source": {
+        "name": "ArXiv cs.AI",
+        "url": "https://arxiv.org",
+        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Mon, 31 Aug 2026 00:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://arxiv.org/abs/2608.27464"
+    },
+    {
+      "id": "mtgtbkoro73vslt3rl",
+      "title": "Retrieving Relations, Detecting Fallacies: A RAG Approach to Political Debate Analysis",
+      "summary": "...",
+      "source": {
+        "name": "ArXiv cs.AI",
+        "url": "https://arxiv.org",
+        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Mon, 31 Aug 2026 00:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://arxiv.org/abs/2608.27471"
+    },
+    {
+      "id": "mtgtbkortjjli0rbfc",
+      "title": "LLM-Augmented Causal Discovery: Probabilistic Fusion of Edge Existence and Orientation",
+      "summary": "...",
+      "source": {
+        "name": "ArXiv cs.AI",
+        "url": "https://arxiv.org",
+        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "LLM"
+      ],
+      "publishedAt": "Mon, 31 Aug 2026 00:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://arxiv.org/abs/2608.27472"
+    },
+    {
+      "id": "mtgtbfwrete4zfn5rfg",
+      "title": "The U.S. is building barriers around drones and robots, but China has scale to get around them",
+      "summary": "The U.S. is shutting out more foreign-made drones and robots. China’s scale means the global competition may simply move elsewhere....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Robotics",
+        "China"
+      ],
+      "publishedAt": "Mon, 31 Aug 2026 02:34:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/"
+    },
     {
       "id": "mtgb1oy2ugep9yaijqp",
       "title": "Google AI Introduces EnvHarness: A Programmable Layer That Turns Static Agent Environments Into Adaptive Training Worlds",
@@ -753,135 +872,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
       "readTime": 1,
       "originalUrl": "https://techcrunch.com/2026/08/27/hugging-face-is-selling-a-cute-399-open-source-duck-robot-microduck/"
-    },
-    {
-      "id": "mtc34h16ydj8d4fwy3b",
-      "title": "AI’s memory crunch is coming for Android apps",
-      "summary": "Google is setting new memory-use limits for Android apps as AI data centers contribute to hardware shortages that could leave lower-cost phones with less memory....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Hardware",
-      "tags": [
-        "Google"
-      ],
-      "publishedAt": "Thu, 27 Aug 2026 14:27:04 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1555664424-778a69022365?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/08/27/ais-memory-crunch-is-coming-for-android-apps/"
-    },
-    {
-      "id": "mtc34o6knerxhvo2fdf",
-      "title": "Robots humanoïdes : en Chine, le spectacle des Jeux mondiaux et l’épreuve du réel",
-      "summary": "Plus grands, plus agiles, plus nombreux : les robots humanoïdes chinois ont fait forte impression lors des compétitions organisées à Pékin. Mais, derrière le divertissement, une industrie encore balbutiante cherche toujours la clé pour les rendre autonomes et donc utiles....",
-      "source": {
-        "name": "Le Monde Tech",
-        "url": "https://www.lemonde.fr",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.lemonde.fr&sz=64"
-      },
-      "category": "Policy",
-      "tags": [
-        "Robotics"
-      ],
-      "publishedAt": "Thu, 27 Aug 2026 15:45:01 +0200",
-      "imageUrl": "https://images.unsplash.com/photo-1555848962-6e79363ec58f?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.lemonde.fr/economie/article/2026/08/27/robots-humanoides-en-chine-le-spectacle-des-jeux-mondiaux-et-l-epreuve-du-reel_6758470_3234.html"
-    },
-    {
-      "id": "mtc34pkagq1nd0anah4",
-      "title": "IA : Nvidia en passe de s’offrir Hugging Face pour près de 13 milliards de dollars",
-      "summary": "...",
-      "source": {
-        "name": "Maddyness",
-        "url": "https://www.maddyness.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.maddyness.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Nvidia"
-      ],
-      "publishedAt": "Thu, 27 Aug 2026 12:20:58 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.maddyness.com/2026/08/27/ia-nvidia-en-passe-de-soffrir-hugging-face-pour-pres-de-13-milliards-de-dollars/"
-    },
-    {
-      "id": "mtbckz8w2lzcjege7a4",
-      "title": "« GO, STOP, VETO » : OpenAI dévoile comment ses agents se sont auto-gouvernés pour pirater Hugging Face",
-      "summary": "...",
-      "source": {
-        "name": "Numerama",
-        "url": "https://www.numerama.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "OpenAI"
-      ],
-      "publishedAt": "Thu, 27 Aug 2026 09:30:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.numerama.com/cyberguerre/2319409-go-stop-veto-openai-devoile-comment-ses-agents-se-sont-auto-gouvernes-pour-pirater-hugging-face.html"
-    },
-    {
-      "id": "mtbckz8xc7mufv60pos",
-      "title": "En rachetant Hugging Face, Nvidia mettrait la main sur bien plus qu’une plateforme de modèles d’IA",
-      "summary": "...",
-      "source": {
-        "name": "Numerama",
-        "url": "https://www.numerama.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Nvidia"
-      ],
-      "publishedAt": "Thu, 27 Aug 2026 09:15:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.numerama.com/tech/2319419-en-rachetant-hugging-face-nvidia-mettrait-la-main-sur-bien-plus-quune-plateforme-de-modeles-dia.html"
-    },
-    {
-      "id": "mtc34jizt24dhgcvenp",
-      "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
-      "summary": "A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment....",
-      "source": {
-        "name": "OpenAI News",
-        "url": "https://openai.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
-      },
-      "category": "Research",
-      "tags": [
-        "OpenAI"
-      ],
-      "publishedAt": "Thu, 27 Aug 2026 09:00:00 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?w=800",
-      "readTime": 1,
-      "originalUrl": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training"
-    },
-    {
-      "id": "mtbcksrltwf9rbeb3x",
-      "title": "Nvidia closes in on Hugging Face acquisition",
-      "summary": "Nvidia has reportedly agreed to buy Hugging Face, the popular open-source AI hub, for $12.9 billion in a move that would let Nvidia both protect its chip empire and jump back into the cloud business....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Funding",
-      "tags": [
-        "Nvidia"
-      ],
-      "publishedAt": "Thu, 27 Aug 2026 06:32:51 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-08-30T21:11:58.795Z",
-  "edition": 538
+  "lastUpdated": "2026-08-31T05:43:30.268Z",
+  "edition": 539
 }
