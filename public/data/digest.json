@@ -1,6 +1,75 @@
 {
-  "date": "2026-08-31T22:54:11.966Z",
+  "date": "2026-09-01T05:16:37.355Z",
   "articles": [
+    {
+      "id": "mti7ssa9xo6tvf9edfa",
+      "title": "Ila Kumar: Innovating with communities",
+      "summary": "The PhD student works to give young people an active role in shaping digital technologies that can support their own well-being. ...",
+      "source": {
+        "name": "MIT News AI",
+        "url": "https://news.mit.edu",
+        "favicon": "https://www.google.com/s2/favicons?domain=news.mit.edu&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Tue, 01 Sep 2026 00:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://news.mit.edu/2026/ila-kumar-innovates-with-communities-0901"
+    },
+    {
+      "id": "mti7sq8liqcgvnzou4",
+      "title": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
+      "summary": "Apple says it has evidence that a former employee destroyed evidence of data theft after learning he was under investigation....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "OpenAI"
+      ],
+      "publishedAt": "Tue, 01 Sep 2026 00:13:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/"
+    },
+    {
+      "id": "mti7sx0achs2r9rs6dh",
+      "title": "Facturation électronique : la réforme entre en vigueur mardi, sans sanction immédiate pour les retardataires",
+      "summary": "Promesse de simplification pour les entreprises et nouvel outil de lutte contre la fraude à la TVA pour l’Etat, qui espère un gain de 3 milliards d’euros par an, la réforme concerne 4 millions d’entreprises....",
+      "source": {
+        "name": "Le Monde Tech",
+        "url": "https://www.lemonde.fr",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.lemonde.fr&sz=64"
+      },
+      "category": "Funding",
+      "tags": [],
+      "publishedAt": "Tue, 01 Sep 2026 01:30:55 +0200",
+      "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.lemonde.fr/economie/article/2026/09/01/la-reforme-de-la-facture-electronique-entre-en-vigueur-mardi-sans-sanction-immediate-pour-les-retardataires_6762987_3234.html"
+    },
+    {
+      "id": "mti7sq8m6t8ujn9ao4",
+      "title": "The Pentagon now has its own version of ChatGPT and Grok",
+      "summary": "Versions of OpenAI's ChatGPT and SpaceXAI's Grok will join Google's Gemini on the Pentagon's central portal for AI tools....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "OpenAI",
+        "Google"
+      ],
+      "publishedAt": "Mon, 31 Aug 2026 20:13:45 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/"
+    },
     {
       "id": "mthu506c1svoyxtyarr",
       "title": "MIT Quantum Initiative launches postdoctoral fellowship program",
@@ -16,6 +85,38 @@
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800",
       "readTime": 1,
       "originalUrl": "https://news.mit.edu/2026/mit-quantum-initiative-launches-postdoctoral-fellowship-0831"
+    },
+    {
+      "id": "mti7sq8m113t9gunt7bj",
+      "title": "Instagram puts new limits on undisclosed AI profiles",
+      "summary": "As frustration over AI influencers has been growing, Instagram is limiting the reach of undisclosed AI profiles....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Mon, 31 Aug 2026 19:16:59 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/"
+    },
+    {
+      "id": "mti7sq8mh0kur3stb88",
+      "title": "Harvard Law dropout raises $6M for Blue Voice to build a ‘Harvey for police officers’",
+      "summary": "Blue Voice is trained on department-specific laws, local ordinances, protocols, and guidelines that general-purpose AI tools can't access on the public internet. ...",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Policy",
+      "tags": [],
+      "publishedAt": "Mon, 31 Aug 2026 18:35:11 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/"
     },
     {
       "id": "mthu4zriv32uslf1pxc",
@@ -34,6 +135,24 @@
       "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
       "readTime": 1,
       "originalUrl": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/"
+    },
+    {
+      "id": "mti7sq8n5hlhpvs0kac",
+      "title": "Clipto uses AI to search terabytes of video and is now valued at $250M",
+      "summary": "The three-year-old startup says it reached $15 million in ARR and profitability before raising its latest $15 million round....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Funding",
+      "tags": [
+        "Startup"
+      ],
+      "publishedAt": "Mon, 31 Aug 2026 16:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/"
     },
     {
       "id": "mthb269srcig816tebr",
@@ -84,6 +203,24 @@
       "imageUrl": "https://images.unsplash.com/photo-1555848962-6e79363ec58f?w=800",
       "readTime": 1,
       "originalUrl": "https://www.numerama.com/tech/2321717-ce-livestream-genere-par-ia-peut-durer-eternellement-et-cest-vous-qui-choisissez-la-suite.html"
+    },
+    {
+      "id": "mti7ssrir7h2ev5ile",
+      "title": "Polimill builds Japan's next-generation public AI infrastructure",
+      "summary": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development....",
+      "source": {
+        "name": "OpenAI News",
+        "url": "https://openai.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "OpenAI"
+      ],
+      "publishedAt": "Mon, 31 Aug 2026 07:00:00 GMT",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://openai.com/index/polimill"
     },
     {
       "id": "mthb28g09bpeajcadiq",
@@ -727,151 +864,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
       "readTime": 1,
       "originalUrl": "https://arxiv.org/abs/2608.26113"
-    },
-    {
-      "id": "mtcvd7e1x30h723roud",
-      "title": "CIFQA: A Deterministic Tool-Grounded Multi-Agent LLM Framework for Financial Query Answering",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "LLM"
-      ],
-      "publishedAt": "Fri, 28 Aug 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2608.26114"
-    },
-    {
-      "id": "mtcvdchpbj36ugjl4i",
-      "title": "Présidentielle 2027 : premier débat devant le Medef sans tech ni IA",
-      "summary": "...",
-      "source": {
-        "name": "Maddyness",
-        "url": "https://www.maddyness.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.maddyness.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Fri, 28 Aug 2026 03:59:59 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.maddyness.com/2026/08/28/presidentielle-2027-premier-debat-devant-le-medef-sans-tech-ni-ia/"
-    },
-    {
-      "id": "mtcvd5hf33m304k1jfi",
-      "title": "Supporting Thailand’s next generation of AI startups",
-      "summary": "OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products....",
-      "source": {
-        "name": "OpenAI News",
-        "url": "https://openai.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
-      },
-      "category": "Product",
-      "tags": [
-        "OpenAI",
-        "Startup"
-      ],
-      "publishedAt": "Fri, 28 Aug 2026 02:00:00 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800",
-      "readTime": 1,
-      "originalUrl": "https://openai.com/index/supporting-next-generation-ai-startups-thailand"
-    },
-    {
-      "id": "mtcvd96mrbdbjlqjnyh",
-      "title": "La start-up française Pasqal, spécialisée dans l’informatique quantique, fait son entrée à Wall Street",
-      "summary": "L’entreprise a annoncé en parallèle sa fusion avec la société d’investissement Bleichroeder et la levée de 360 millions de dollars de trésorerie....",
-      "source": {
-        "name": "Le Monde Tech",
-        "url": "https://www.lemonde.fr",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.lemonde.fr&sz=64"
-      },
-      "category": "Funding",
-      "tags": [],
-      "publishedAt": "Fri, 28 Aug 2026 02:06:38 +0200",
-      "imageUrl": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.lemonde.fr/economie/article/2026/08/28/la-start-up-francaise-pasqal-specialisee-dans-l-informatique-quantique-fait-son-entree-a-wall-street_6758637_3234.html"
-    },
-    {
-      "id": "mtdiskcajopvyrl9r5a",
-      "title": "The Open ASR Leaderboard Adds Its First Global South Language",
-      "summary": "...",
-      "source": {
-        "name": "Hugging Face Blog",
-        "url": "https://huggingface.co",
-        "favicon": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Fri, 28 Aug 2026 00:00:00 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://huggingface.co/blog/open-asr-leaderboard-global-south"
-    },
-    {
-      "id": "mtcvd391qf7lh1i7i3b",
-      "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
-      "summary": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "OpenAI",
-        "Anthropic",
-        "Google",
-        "Startup"
-      ],
-      "publishedAt": "Thu, 27 Aug 2026 23:16:45 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/"
-    },
-    {
-      "id": "mtc34ln4ot4dw9zz9ap",
-      "title": "Cohere Releases Parse 5 (parse-v5.0): A 2.3B Vision Language Model That Turns Enterprise Documents Into Markdown",
-      "summary": "...",
-      "source": {
-        "name": "MarkTechPost",
-        "url": "https://www.marktechpost.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Thu, 27 Aug 2026 20:05:49 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.marktechpost.com/2026/08/27/cohere-releases-parse-5-parse-v5-0-a-2-3b-vision-language-model-that-turns-enterprise-documents-into-markdown/"
-    },
-    {
-      "id": "mtc34h13tcw1gcbqt8",
-      "title": "Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google",
-      "summary": "Zoph, who co-founded Thinking Machines Lab alongside Mira Murati and also served as the startup's CTO, led a brief stint at OpenAI and is now at Google. ...",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "OpenAI",
-        "Google",
-        "Startup"
-      ],
-      "publishedAt": "Thu, 27 Aug 2026 19:52:52 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-08-31T22:54:11.966Z",
-  "edition": 541
+  "lastUpdated": "2026-09-01T05:16:37.355Z",
+  "edition": 542
 }
