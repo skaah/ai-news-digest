@@ -1,6 +1,76 @@
 {
-  "date": "2026-09-02T04:41:48.074Z",
+  "date": "2026-09-02T11:25:12.955Z",
   "articles": [
+    {
+      "id": "mtk0esnae7bmsceqlfj",
+      "title": "ChatGPT affiche des publicités : comment désactiver le ciblage publicitaire",
+      "summary": "...",
+      "source": {
+        "name": "Numerama",
+        "url": "https://www.numerama.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "OpenAI"
+      ],
+      "publishedAt": "Wed, 02 Sep 2026 09:10:06 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.numerama.com/tech/2322589-chatgpt-affiche-des-publicites-comment-desactiver-le-ciblage-publicitaire.html"
+    },
+    {
+      "id": "mtk0epv9zgsky3t8ay9",
+      "title": "Anthropic Introduces Enterprise Frontier Safeguards (EFS): Zero-Data-Retention Privacy Plus Cross-Session Misuse Detection",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Anthropic"
+      ],
+      "publishedAt": "Wed, 02 Sep 2026 07:38:18 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/09/02/anthropic-enterprise-frontier-safeguards-efs/"
+    },
+    {
+      "id": "mtk0epvaut20ay3bmw",
+      "title": "Meta Superintelligence Labs Releases Muse Voice Transcribe: One Real-Time Model for Streaming ASR, Diarization, and Endpointing",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Meta"
+      ],
+      "publishedAt": "Wed, 02 Sep 2026 05:37:12 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/09/01/meta-superintelligence-labs-releases-muse-voice-transcribe-one-real-time-model-for-streaming-asr-diarization-and-endpointing/"
+    },
+    {
+      "id": "mtk0epvbbfnflauoay7",
+      "title": "Perplexity Releases Hybrid Compute on Mac: Cloud Agents Orchestrate Down to a Local Model, Gated On Device",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Wed, 02 Sep 2026 05:12:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/09/01/perplexity-releases-hybrid-compute-on-mac-cloud-agents-orchestrate-down-to-a-local-model-gated-on-device/"
+    },
     {
       "id": "mtjlzxrd3jkqbwtpbe4",
       "title": "HyperWorld: Hypergraph-Structured State Serialization Improves Learned Textual World Models",
@@ -795,75 +865,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=800",
       "readTime": 1,
       "originalUrl": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads"
-    },
-    {
-      "id": "mtgtbhyacs6utnok23",
-      "title": "How an MIT research project became a global programming language",
-      "summary": "With millions of users across the world, Julia has been used to conduct cutting-edge research and to design new drugs, jet engines, heat pumps, and more....",
-      "source": {
-        "name": "MIT News AI",
-        "url": "https://news.mit.edu",
-        "favicon": "https://www.google.com/s2/favicons?domain=news.mit.edu&sz=64"
-      },
-      "category": "Research",
-      "tags": [],
-      "publishedAt": "Mon, 31 Aug 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=800",
-      "readTime": 1,
-      "originalUrl": "https://news.mit.edu/2026/how-mit-research-project-became-global-programming-language-0831"
-    },
-    {
-      "id": "mtgtbkoqwhadpclgu8d",
-      "title": "Time Capsule of Testable Human Knowledge: 41 Years of Jeopardy! in a Single Free Local Model",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Mon, 31 Aug 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2608.27459"
-    },
-    {
-      "id": "mtgtbkoq274brl1kfba",
-      "title": "Rating the Raters: Rasch Measurement Theory for LLM Evaluation",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "LLM"
-      ],
-      "publishedAt": "Mon, 31 Aug 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2608.27463"
-    },
-    {
-      "id": "mtgtbkor1hll80do9lb",
-      "title": "Not All Explanations Are Sought: Information-Seeking Psychology for Human-Centered XAI",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Mon, 31 Aug 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2608.27464"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-09-02T04:41:48.074Z",
-  "edition": 546
+  "lastUpdated": "2026-09-02T11:25:12.955Z",
+  "edition": 547
 }
