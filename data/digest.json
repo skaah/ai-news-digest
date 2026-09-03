@@ -1,6 +1,113 @@
 {
-  "date": "2026-09-03T11:21:41.936Z",
+  "date": "2026-09-03T16:30:04.058Z",
   "articles": [
+    {
+      "id": "mtlqqh0qasbdvt5ov0t",
+      "title": "Ollie is betting its focus on privacy can help it win the AI assistant race",
+      "summary": "The family-focused AI assistant wants access to the details of your everyday life, but says it won’t use that data to train AI models or share it with others....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Thu, 03 Sep 2026 16:09:01 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race/"
+    },
+    {
+      "id": "mtlqqosqtyfty5sbstr",
+      "title": "ChatGPT ou Claude en panne ? Voici les meilleures alternatives en 2026",
+      "summary": "...",
+      "source": {
+        "name": "Numerama",
+        "url": "https://www.numerama.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
+      },
+      "category": "Policy",
+      "tags": [
+        "OpenAI",
+        "Anthropic"
+      ],
+      "publishedAt": "Thu, 03 Sep 2026 15:20:35 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.numerama.com/tech/1246474-chatgpt-en-panne-voici-les-meilleures-alternatives-gratuites.html"
+    },
+    {
+      "id": "mtlqqosqkhniqgz24s",
+      "title": "ChatGPT en panne : les signalements explosent, voici ce que l’on sait",
+      "summary": "...",
+      "source": {
+        "name": "Numerama",
+        "url": "https://www.numerama.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "OpenAI"
+      ],
+      "publishedAt": "Thu, 03 Sep 2026 15:04:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.numerama.com/tech/2324765-chatgpt-en-panne-les-signalements-explosent-voici-ce-que-lon-sait.html"
+    },
+    {
+      "id": "mtlqqh0rypwthiwlatn",
+      "title": "Google’s latest AI weather model gives you no excuse to forget your umbrella",
+      "summary": "WeatherNext 3 is the latest wave of a sea change in meteorology brought out by deep learning techniques. Google says it will start feeding into weather information users see in search, Google Maps, and Gemini....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Google"
+      ],
+      "publishedAt": "Thu, 03 Sep 2026 15:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/"
+    },
+    {
+      "id": "mtlqqk4jp2ck5sm53vd",
+      "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+      "summary": "...",
+      "source": {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co",
+        "favicon": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Multimodal"
+      ],
+      "publishedAt": "Thu, 03 Sep 2026 13:13:48 GMT",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://huggingface.co/blog/Hcompany/neomme"
+    },
+    {
+      "id": "mtlqqh0sawgsz84cy4",
+      "title": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
+      "summary": "Nvidia said Hugging Face hosts over 3 million models and is used by over 18 million developers....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Funding",
+      "tags": [
+        "Nvidia"
+      ],
+      "publishedAt": "Thu, 03 Sep 2026 12:42:45 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/"
+    },
     {
       "id": "mtlfq22s90hm2p86qj",
       "title": "Perplexity Open Sources Lily: A Rust + Metal Inference Engine for Qwen3.6-35B-A3B on Apple Silicon",
@@ -117,6 +224,22 @@
       "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
       "readTime": 1,
       "originalUrl": "https://arxiv.org/abs/2609.01815"
+    },
+    {
+      "id": "mtlqqk4jgfmcrixaw4h",
+      "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+      "summary": "...",
+      "source": {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co",
+        "favicon": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Thu, 03 Sep 2026 00:00:00 GMT",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://huggingface.co/blog/grpo-with-trl-ifstruct"
     },
     {
       "id": "mtlfq0uimmypnmkg29s",
@@ -737,131 +860,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
       "readTime": 1,
       "originalUrl": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/"
-    },
-    {
-      "id": "mtj5q3tzv2q5155l2o",
-      "title": "Anthropic Releases Claude Fable 5.1 and Claude Mythos 5.1: 52.6% on Terminal-Bench-Science and 75% Cheaper Cache Reads",
-      "summary": "...",
-      "source": {
-        "name": "MarkTechPost",
-        "url": "https://www.marktechpost.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Anthropic"
-      ],
-      "publishedAt": "Tue, 01 Sep 2026 20:30:21 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.marktechpost.com/2026/09/01/anthropic-releases-claude-fable-5-1-and-claude-mythos-5-1-52-6-on-terminal-bench-science-and-75-cheaper-cache-reads/"
-    },
-    {
-      "id": "mtj5q001j1xvwog8u4",
-      "title": "Anthropic’s new Fable release is cheaper, less restrictive",
-      "summary": "Fable 5.1 includes changes meant to reduce token cost and false-positive restrictions from the model's safeguards....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Anthropic"
-      ],
-      "publishedAt": "Tue, 01 Sep 2026 19:39:22 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/"
-    },
-    {
-      "id": "mtj5q002ssvjs616nnj",
-      "title": "Google’s answer to Canva is an AI tool where you prompt instead of design",
-      "summary": "With Google Pics, Google is pushing deeper into the creative software market dominated by Canva and Adobe, but with a distinctly AI-first approach. ...",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Google"
-      ],
-      "publishedAt": "Tue, 01 Sep 2026 17:35:37 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/"
-    },
-    {
-      "id": "mtj5q002wwpgmjyt97",
-      "title": "ChatGPT Health adds Epic integration for clinicians to import patient data",
-      "summary": "OpenAI said that the integration provides read-only access to health records for clinicians. ...",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "OpenAI"
-      ],
-      "publishedAt": "Tue, 01 Sep 2026 17:00:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/"
-    },
-    {
-      "id": "mtj5q28tgixuyauf7",
-      "title": "How AI-native companies turn workflows into operating capability",
-      "summary": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply....",
-      "source": {
-        "name": "OpenAI News",
-        "url": "https://openai.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Tue, 01 Sep 2026 17:00:00 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://openai.com/index/ai-native-company-workflows"
-    },
-    {
-      "id": "mtiwbxvzalj0ze5stxe",
-      "title": "Sequoia-incubated Empirik launches with $21M to predict outages before they happen",
-      "summary": "The startup wants to do for IT infrastructure what Cursor did for software engineering....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Product",
-      "tags": [
-        "Startup"
-      ],
-      "publishedAt": "Tue, 01 Sep 2026 16:31:04 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/09/01/sequoia-incubated-empirik-launches-with-21m-to-predict-outages-before-they-happen/"
-    },
-    {
-      "id": "mtiwc1z168kp5xlf7x",
-      "title": "Researchers from Princeton, Ant Group and Stanford Introduce AQuA: A Two-Part Agentic Framework for Autonomous Factor Discovery and Model Development in Quantitative Finance",
-      "summary": "...",
-      "source": {
-        "name": "MarkTechPost",
-        "url": "https://www.marktechpost.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
-      },
-      "category": "Research",
-      "tags": [],
-      "publishedAt": "Tue, 01 Sep 2026 15:54:14 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.marktechpost.com/2026/09/01/aqua-a-two-part-agentic-framework-for-autonomous-factor-discovery/"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-09-03T11:21:41.935Z",
-  "edition": 551
+  "lastUpdated": "2026-09-03T16:30:04.058Z",
+  "edition": 552
 }
