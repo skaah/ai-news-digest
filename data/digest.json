@@ -1,6 +1,24 @@
 {
-  "date": "2026-09-03T04:38:38.791Z",
+  "date": "2026-09-03T11:21:41.936Z",
   "articles": [
+    {
+      "id": "mtlfq22s90hm2p86qj",
+      "title": "Perplexity Open Sources Lily: A Rust + Metal Inference Engine for Qwen3.6-35B-A3B on Apple Silicon",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Meta"
+      ],
+      "publishedAt": "Thu, 03 Sep 2026 06:57:07 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/09/02/perplexity-open-sources-lily-a-rust-metal-inference-engine-for-qwen3-6-35b-a3b-on-apple-silicon/"
+    },
     {
       "id": "mtl1bt8x4lxj8xy4ut7",
       "title": "Roland Lescure à San Francisco : «Si l'IA européenne se résume à Mistral, nous sommes fichus»",
@@ -99,6 +117,54 @@
       "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
       "readTime": 1,
       "originalUrl": "https://arxiv.org/abs/2609.01815"
+    },
+    {
+      "id": "mtlfq0uimmypnmkg29s",
+      "title": "Give Your Coding Agents a Memory You Own",
+      "summary": "...",
+      "source": {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co",
+        "favicon": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Thu, 03 Sep 2026 00:00:00 GMT",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://huggingface.co/blog/funes"
+    },
+    {
+      "id": "mtlfq0uilbm3ik85w2",
+      "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
+      "summary": "...",
+      "source": {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co",
+        "favicon": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Thu, 03 Sep 2026 00:00:00 GMT",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://huggingface.co/blog/train-to-paint-with-code"
+    },
+    {
+      "id": "mtlfq22sere8ftuxxcf",
+      "title": "Qwen Developers Open-Sources zg (zvec-grep): A Local-First Search Layer Unifying ripgrep, BM25, and Vector Search",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Wed, 02 Sep 2026 23:48:47 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/09/02/qwen-developers-open-sources-zg-zvec-grep-a-local-first-search-layer-unifying-ripgrep-bm25-and-vector-search/"
     },
     {
       "id": "mtl1bm5apkk34dkj8c",
@@ -793,73 +859,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=800",
       "readTime": 1,
       "originalUrl": "https://www.marktechpost.com/2026/09/01/aqua-a-two-part-agentic-framework-for-autonomous-factor-discovery/"
-    },
-    {
-      "id": "mtiwbxvzfiztpidzgm",
-      "title": "Amazon Alexa can now alert you when something new might tempt you to shop",
-      "summary": "Amazon is adding a new Alexa-powered feature called “Update Me When” that can send personalized alerts about product launches, tours, books, shows, and other events that could trigger a purchase....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Product",
-      "tags": [],
-      "publishedAt": "Tue, 01 Sep 2026 15:51:55 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1550009158-9ebf690be655?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/09/01/amazon-alexa-can-now-alert-you-when-something-new-might-tempt-you-to-shop/"
-    },
-    {
-      "id": "mtiwc4dabmng819hsr",
-      "title": "Dyson fait le show à Paris pour lancer sa brosse à dents électrique dopée à l’IA",
-      "summary": "Après l’entretien des sols, les soins capillaires, le traitement de l’air, le casque audio et l’éclairage, le fabricant britannique se lance dans l’hygiène bucco-dentaire....",
-      "source": {
-        "name": "Le Monde Tech",
-        "url": "https://www.lemonde.fr",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.lemonde.fr&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Tue, 01 Sep 2026 17:48:15 +0200",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.lemonde.fr/economie/article/2026/09/01/dyson-fait-le-show-a-paris-pour-lancer-sa-brosse-a-dents-electrique-dopee-a-l-ia_6763501_3234.html"
-    },
-    {
-      "id": "mtiwbxw0j2prc15oe2",
-      "title": "AIR raises $50M to help companies vet the skills and add-ons AI agents use",
-      "summary": "AIR's platform can discover agents running at a company, continuously vets any skills and add-ons they use, and blocks any unwanted behaviour....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Tue, 01 Sep 2026 15:45:51 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/"
-    },
-    {
-      "id": "mtiwbxw08aobf0b4ej",
-      "title": "Fambot introduces an ‘AI chief of staff’ for families",
-      "summary": "Fambot is building an AI “chief of staff” to help families manage the emails, calendars, school updates, sports schedules, and other logistics of raising kids....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Tue, 01 Sep 2026 15:10:58 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/09/01/fambot-introduces-an-ai-chief-of-staff-for-families/"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-09-03T04:38:38.791Z",
-  "edition": 550
+  "lastUpdated": "2026-09-03T11:21:41.935Z",
+  "edition": 551
 }
