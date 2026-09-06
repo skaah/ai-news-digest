@@ -1,6 +1,25 @@
 {
-  "date": "2026-09-05T20:26:43.921Z",
+  "date": "2026-09-06T04:46:17.307Z",
   "articles": [
+    {
+      "id": "mtpbwyvifid4iv6056c",
+      "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+      "summary": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "OpenAI",
+        "Microsoft"
+      ],
+      "publishedAt": "Sat, 05 Sep 2026 22:49:55 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/"
+    },
     {
       "id": "mtou2k3anxas2mx3xqh",
       "title": "Hikers rescued after using Google Gemini for planning",
@@ -853,25 +872,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800",
       "readTime": 1,
       "originalUrl": "https://arxiv.org/abs/2609.01685"
-    },
-    {
-      "id": "mtl1bqb5l440j6y1vs8",
-      "title": "When Can a Machine Trust a Statute? A Survival Certificate for Machine-Extracted Legal Logic",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Thu, 03 Sep 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2609.01741"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-09-05T20:26:43.921Z",
-  "edition": 561
+  "lastUpdated": "2026-09-06T04:46:17.307Z",
+  "edition": 562
 }
