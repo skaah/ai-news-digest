@@ -1,6 +1,22 @@
 {
-  "date": "2026-09-07T21:34:18.133Z",
+  "date": "2026-09-08T04:45:17.085Z",
   "articles": [
+    {
+      "id": "mts6ril0mtdoyho60pc",
+      "title": "Reducto Releases r-1: A Single Pass Document Parsing Model That Cuts Errors 20% at 1 Cent Per Page",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Tue, 08 Sep 2026 03:07:15 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/09/07/reducto-releases-r-1-a-single-pass-document-parsing-model-that-cuts-errors-20-at-1-cent-per-page/"
+    },
     {
       "id": "mtrrd4l4cp17xxw2pyp",
       "title": "Opaque recurrence, and other AI terms that you should probably know",
@@ -841,27 +857,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
       "readTime": 1,
       "originalUrl": "https://arxiv.org/abs/2609.03236"
-    },
-    {
-      "id": "mtmgxarfgzv7abgsckc",
-      "title": "Fresh Memory, Stale Plans: Dependency-Scoped Validation for Distributed LLM-Agent Memory",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "LLM"
-      ],
-      "publishedAt": "Fri, 04 Sep 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2609.03340"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-09-07T21:34:18.133Z",
-  "edition": 568
+  "lastUpdated": "2026-09-08T04:45:17.085Z",
+  "edition": 569
 }
