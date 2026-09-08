@@ -1,6 +1,108 @@
 {
-  "date": "2026-09-08T11:25:19.727Z",
+  "date": "2026-09-08T16:42:03.270Z",
   "articles": [
+    {
+      "id": "mtswd6pndoehrgc51zc",
+      "title": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
+      "summary": "Google Cloud expands its enterprise AI push with Accenture, betting on forward-deployed engineers to drive adoption and overcome deployment bottlenecks....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Google"
+      ],
+      "publishedAt": "Tue, 08 Sep 2026 16:20:31 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/"
+    },
+    {
+      "id": "mtswdcnuemqvqrnvjp6",
+      "title": "A la tête de la start-up franco-allemande The Exploration Company, Hélène Huby incarne l’ambition du spatial européen face à SpaceX",
+      "summary": "L’entrepreneuse française de 48 ans, au pedigree prestigieux, a fondé The Exploration Company, une start-up franco-allemande privée spécialiste du transport spatial, qui se positionne en challenger de la société d’Elon Musk....",
+      "source": {
+        "name": "Le Monde Tech",
+        "url": "https://www.lemonde.fr",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.lemonde.fr&sz=64"
+      },
+      "category": "Policy",
+      "tags": [],
+      "publishedAt": "Tue, 08 Sep 2026 18:00:06 +0200",
+      "imageUrl": "https://images.unsplash.com/photo-1555848962-6e79363ec58f?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.lemonde.fr/economie/article/2026/09/08/a-la-tete-de-la-start-up-franco-allemande-the-exploration-company-helene-huby-incarne-l-ambition-du-spatial-europeen-face-a-spacex_6768417_3234.html"
+    },
+    {
+      "id": "mtswdd4vf8053xrz51g",
+      "title": "Xpeng lance la première ligne d’assemblage automatisée pour ses robots humanoïdes",
+      "summary": "...",
+      "source": {
+        "name": "Numerama",
+        "url": "https://www.numerama.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Robotics"
+      ],
+      "publishedAt": "Tue, 08 Sep 2026 15:38:16 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.numerama.com/tech/2328099-xpeng-lance-la-premiere-ligne-dassemblage-automatisee-pour-ses-robots-humanoides.html"
+    },
+    {
+      "id": "mtswd9d7qdkyfdwomjp",
+      "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+      "summary": "...",
+      "source": {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co",
+        "favicon": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=64"
+      },
+      "category": "Ethics",
+      "tags": [
+        "AI Safety"
+      ],
+      "publishedAt": "Tue, 08 Sep 2026 14:23:07 GMT",
+      "imageUrl": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=800",
+      "readTime": 1,
+      "originalUrl": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom"
+    },
+    {
+      "id": "mtswd6pox5axmuwgju",
+      "title": "Mistral raises €3B as sovereign AI becomes big business",
+      "summary": "The French AI lab has raised ���3 billion at a €21 billion valuation in a Series D round led by Samsung, Scaleup Europe, and PSG Equity....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Funding",
+      "tags": [],
+      "publishedAt": "Tue, 08 Sep 2026 14:17:48 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/"
+    },
+    {
+      "id": "mtswd8x720tculueeyz",
+      "title": "The Work Now Within Reach",
+      "summary": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical....",
+      "source": {
+        "name": "OpenAI News",
+        "url": "https://openai.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Tue, 08 Sep 2026 13:00:00 GMT",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://openai.com/index/the-work-now-within-reach"
+    },
     {
       "id": "mtsl21yopmoplw4khrp",
       "title": "Un mathématicien accuse OpenAI d’avoir tenté de lui voler sa découverte sur un problème à un million de dollars",
@@ -52,6 +154,24 @@
       "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
       "readTime": 1,
       "originalUrl": "https://www.marktechpost.com/2026/09/07/reducto-releases-r-1-a-single-pass-document-parsing-model-that-cuts-errors-20-at-1-cent-per-page/"
+    },
+    {
+      "id": "mtswd8x84ky6a6q611m",
+      "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+      "summary": "OpenAI is expanding support for journalism with tools, training, and partnerships for students, educators, journalists, and news organizations....",
+      "source": {
+        "name": "OpenAI News",
+        "url": "https://openai.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "OpenAI"
+      ],
+      "publishedAt": "Tue, 08 Sep 2026 00:00:00 GMT",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms"
     },
     {
       "id": "mtrrd4l4cp17xxw2pyp",
@@ -747,123 +867,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
       "readTime": 1,
       "originalUrl": "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/"
-    },
-    {
-      "id": "mtn61o7ru6q0sjov57k",
-      "title": "OpenAI aurait su, et n’aurait rien dit : un autre essaim d’agents IA aurait détourné un vieux wiki allemand",
-      "summary": "...",
-      "source": {
-        "name": "Numerama",
-        "url": "https://www.numerama.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
-      },
-      "category": "Policy",
-      "tags": [
-        "OpenAI"
-      ],
-      "publishedAt": "Fri, 04 Sep 2026 14:32:43 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1575517111839-3a3843ee7f5d?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.numerama.com/cyberguerre/2325585-openai-aurait-su-et-naurait-rien-dit-un-autre-essaim-dagents-ia-aurait-detourne-un-vieux-wiki-allemand.html"
-    },
-    {
-      "id": "mtn61hp0lcluwpcm9ko",
-      "title": "Less than 24 hours to apply for your TechCrunch Disrupt 2026 Side Event",
-      "summary": "Less than 24 hours left to apply to host a Side Event during TechCrunch Disrupt 2026 and make your mark in the Silicon Valley scene. Apply before the application closes tonight at midnight PT....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Fri, 04 Sep 2026 14:00:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/09/04/less-than-24-hours-to-apply-for-your-techcrunch-disrupt-2026-side-event/"
-    },
-    {
-      "id": "mtn61nr8bf7zdap9dxf",
-      "title": "Starlink : les ambitions contrariées du groupe d’Elon Musk face aux géants américains de la téléphonie mobile",
-      "summary": "En complément de sa constellation de satellites, la société du milliardaire Elon Musk entend déployer un réseau terrestre pour mieux couvrir les métropoles américaines, et tailler des croupières aux géants américains AT&T, Verizon et T-Mobile....",
-      "source": {
-        "name": "Le Monde Tech",
-        "url": "https://www.lemonde.fr",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.lemonde.fr&sz=64"
-      },
-      "category": "Policy",
-      "tags": [],
-      "publishedAt": "Fri, 04 Sep 2026 15:00:04 +0200",
-      "imageUrl": "https://images.unsplash.com/photo-1575517111839-3a3843ee7f5d?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.lemonde.fr/economie/article/2026/09/04/starlink-les-ambitions-contrariees-du-groupe-d-elon-musk-face-aux-geants-americains-de-la-telephonie-mobile_6765790_3234.html"
-    },
-    {
-      "id": "mtmvhawt8dpi0gzc5zn",
-      "title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
-      "summary": "Battlefields in Ukraine are littered with the remnants of drones, which are now firmly established as a critical weapon of modern warfare. But behind all that wreckage, there’s a new gold mine for the defense sector. The data drones generate will far outlast the wars in which the...",
-      "source": {
-        "name": "MIT Tech Review AI",
-        "url": "https://www.technologyreview.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.technologyreview.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Fri, 04 Sep 2026 09:25:19 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/"
-    },
-    {
-      "id": "mtmvhgga7vyzvbyvpdq",
-      "title": "IA : dans un conflit juridique, les prompts deviennent des preuves",
-      "summary": "...",
-      "source": {
-        "name": "Maddyness",
-        "url": "https://www.maddyness.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.maddyness.com&sz=64"
-      },
-      "category": "Policy",
-      "tags": [],
-      "publishedAt": "Fri, 04 Sep 2026 07:00:25 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1575517111839-3a3843ee7f5d?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.maddyness.com/2026/09/04/ia-dans-un-conflit-juridique-les-prompts-deviennent-des-preuves/"
-    },
-    {
-      "id": "mtmgx6ef3lucmni7sdq",
-      "title": "The sameness problem behind those unappetizing AI-generated menus",
-      "summary": "While restaurant owners might look to generative AI as a shortcut to sprucing up their menu, customers can viscerally sense that something is wrong with the food....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Fri, 04 Sep 2026 04:21:03 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/"
-    },
-    {
-      "id": "mtmgxareqqjp7gp974f",
-      "title": "Structure and Implementation of New Practical English Textbooks Driven by Artificial Intelligence",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Fri, 04 Sep 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2609.02981"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-09-08T11:25:19.726Z",
-  "edition": 570
+  "lastUpdated": "2026-09-08T16:42:03.270Z",
+  "edition": 571
 }
