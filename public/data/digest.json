@@ -1,6 +1,121 @@
 {
-  "date": "2026-09-09T16:43:12.291Z",
+  "date": "2026-09-09T20:59:12.111Z",
   "articles": [
+    {
+      "id": "mtukzsacaj63r9ag12i",
+      "title": "MIT Schwarzman College of Computing launches pilot to help educators teach AI across disciplines",
+      "summary": "A weeklong summer workshop brought higher education faculty to campus to explore how AI and machine learning materials can be adapted for their classrooms....",
+      "source": {
+        "name": "MIT News AI",
+        "url": "https://news.mit.edu",
+        "favicon": "https://www.google.com/s2/favicons?domain=news.mit.edu&sz=64"
+      },
+      "category": "Product",
+      "tags": [],
+      "publishedAt": "Wed, 09 Sep 2026 16:40:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1550009158-9ebf690be655?w=800",
+      "readTime": 1,
+      "originalUrl": "https://news.mit.edu/2026/mit-schwarzman-college-computing-launches-pilot-help-educators-teach-ai-across-disciplines-0909"
+    },
+    {
+      "id": "mtukzqh738gv6ed68mm",
+      "title": "Apple Watch’s new AI features are normalizing the idea that technology is always listening",
+      "summary": "Apple says its new watches won’t save raw audio, but features that can transcribe recent speech and summarize ambient conversations raise new questions about consent, privacy, and how people behave when they know they could always be recorded....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Wed, 09 Sep 2026 20:24:48 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/"
+    },
+    {
+      "id": "mtukzqh8xsh6w9xd1e",
+      "title": "Everything Apple announced at its fall iPhone event, from the foldable iPhone Duo to an always-listening Apple Watch",
+      "summary": "The main event was the tech giant's highly anticipated first foldable phone, the iPhone Duo....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Wed, 09 Sep 2026 20:03:43 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/09/09/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch/"
+    },
+    {
+      "id": "mtukzqh8ljsn4a5kjg",
+      "title": "The hinge for Apple’s new foldable phone was built with AI",
+      "summary": "Apple says it used AI and 3D printing in the manufacturing process for its long-awaited foldable phone. ...",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Wed, 09 Sep 2026 19:21:48 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/09/09/the-hinge-for-apples-new-foldable-phone-was-built-with-ai/"
+    },
+    {
+      "id": "mtukzqh9sz8hct333xe",
+      "title": "Apple’s revamped Health app will calculate your ‘health age’ and readiness score",
+      "summary": "The update uses Apple Intelligence to make better sense of your health data. ...",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Wed, 09 Sep 2026 18:16:29 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/09/09/apples-revamped-health-app-will-calculate-your-health-age-and-readiness-score/"
+    },
+    {
+      "id": "mtukzqh9t8asufzgy9n",
+      "title": "Apple has a new way prove your iPhone photos aren’t AI slop",
+      "summary": "Apple introduced Apple Reference Image to help users determine whether photos have been edited, including alterations made by AI....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Wed, 09 Sep 2026 18:08:35 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/09/09/apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop/"
+    },
+    {
+      "id": "mtukzsq6qom624bzgns",
+      "title": "Paul Christiano joins OpenAI Foundation Board",
+      "summary": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards....",
+      "source": {
+        "name": "OpenAI News",
+        "url": "https://openai.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
+      },
+      "category": "Ethics",
+      "tags": [
+        "OpenAI",
+        "AI Safety"
+      ],
+      "publishedAt": "Wed, 09 Sep 2026 17:00:00 GMT",
+      "imageUrl": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=800",
+      "readTime": 1,
+      "originalUrl": "https://openai.com/index/paul-christiano-joins-openai-foundation-board"
+    },
     {
       "id": "mtubuh9x1vwitr4eqwj",
       "title": "Superintelligence is coming. Should we let it?",
@@ -744,128 +859,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
       "readTime": 1,
       "originalUrl": "https://www.marktechpost.com/2026/09/07/axis-robotics-releases-axis-a-browser-based-data-engine-with-207-robot-manipulation-tasks-and-50129-trajectories/"
-    },
-    {
-      "id": "mtrrdcfdlvkqfdqzt1",
-      "title": "« Je ne suis pas un robot » : GPT-6 Astra a validé les 48 niveaux d’un jeu de captchas conçus pour s’arracher les cheveux",
-      "summary": "...",
-      "source": {
-        "name": "Numerama",
-        "url": "https://www.numerama.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
-      },
-      "category": "Policy",
-      "tags": [
-        "OpenAI",
-        "Robotics"
-      ],
-      "publishedAt": "Mon, 07 Sep 2026 15:50:51 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.numerama.com/tech/2326999-je-ne-suis-pas-un-robot-gpt-6-astra-a-valide-les-48-niveaux-dun-jeu-de-captchas-concus-pour-sarracher-les-cheveux.html"
-    },
-    {
-      "id": "mtrrdcfemfp123hwoqr",
-      "title": "Le directeur scientifique d’OpenAI indique perdre le contrôle sur le raisonnement de ses IA",
-      "summary": "...",
-      "source": {
-        "name": "Numerama",
-        "url": "https://www.numerama.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
-      },
-      "category": "Policy",
-      "tags": [
-        "OpenAI"
-      ],
-      "publishedAt": "Mon, 07 Sep 2026 14:27:06 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.numerama.com/tech/2326859-le-directeur-scientifique-dopenai-indique-perdre-le-controle-sur-le-raisonnement-de-ses-ia.html"
-    },
-    {
-      "id": "mtrrdd0ewovqx96zhmp",
-      "title": "IA : Laurent Sifre, co-fondateur de H Company, rejoint Microsoft",
-      "summary": "...",
-      "source": {
-        "name": "Maddyness",
-        "url": "https://www.maddyness.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.maddyness.com&sz=64"
-      },
-      "category": "Policy",
-      "tags": [
-        "Microsoft"
-      ],
-      "publishedAt": "Mon, 07 Sep 2026 14:11:09 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1575517111839-3a3843ee7f5d?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.maddyness.com/2026/09/07/ia-laurent-sifre-co-fondateur-de-h-company-rejoint-microsoft/"
-    },
-    {
-      "id": "mtr8czy27xt36qm10ls",
-      "title": "Revolut réalise le premier paiement par IA en France avec Visa",
-      "summary": "...",
-      "source": {
-        "name": "Maddyness",
-        "url": "https://www.maddyness.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.maddyness.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Mon, 07 Sep 2026 08:59:54 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.maddyness.com/2026/09/07/revolut-realise-le-premier-paiement-par-ia-en-france-avec-visa/"
-    },
-    {
-      "id": "mtr8cwglovedy15zsba",
-      "title": "IFM Releases K2 Horizon: Six Apache 2.0 Models From 0.9B to 375B",
-      "summary": "...",
-      "source": {
-        "name": "MarkTechPost",
-        "url": "https://www.marktechpost.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Mon, 07 Sep 2026 05:00:37 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.marktechpost.com/2026/09/06/ifm-releases-k2-horizon-six-apache-2-0-models-from-0-9b-to-375b/"
-    },
-    {
-      "id": "mtqrh8dxm0d3grmxk4a",
-      "title": "EXAONE Forecast for Finance",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Mon, 07 Sep 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2609.04239"
-    },
-    {
-      "id": "mtqrh8dynbgnzlmu6t",
-      "title": "From Matching Models to Recruiting Agents: A Systematized Narrative Review of AI Recruitment Systems, Evaluation, and Governance",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Mon, 07 Sep 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2609.04286"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-09-09T16:43:12.291Z",
-  "edition": 575
+  "lastUpdated": "2026-09-09T20:59:12.111Z",
+  "edition": 576
 }
