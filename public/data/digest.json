@@ -1,6 +1,56 @@
 {
-  "date": "2026-09-10T04:50:09.517Z",
+  "date": "2026-09-10T11:27:13.769Z",
   "articles": [
+    {
+      "id": "mtvg024tposlxi3doms",
+      "title": "Powering AI is an architecture problem",
+      "summary": "On July 22, 2026, a transmission line fault in Ashburn, Virginia—the heart of the world’s largest data center cluster—knocked more than 3 gigawatts of load off the grid in seconds. And it wasn’t the first time. Two years earlier, a single failed surge arrester dropped roughly 60 ...",
+      "source": {
+        "name": "MIT Tech Review AI",
+        "url": "https://www.technologyreview.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.technologyreview.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Thu, 10 Sep 2026 11:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/"
+    },
+    {
+      "id": "mtvg07sg4x4cq6tga7d",
+      "title": "Analyse de données : la start-up Arlequin AI lève 28 millions d'euros",
+      "summary": "...",
+      "source": {
+        "name": "Maddyness",
+        "url": "https://www.maddyness.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.maddyness.com&sz=64"
+      },
+      "category": "Funding",
+      "tags": [],
+      "publishedAt": "Thu, 10 Sep 2026 09:25:42 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.maddyness.com/2026/09/10/analyse-de-donnees-la-start-up-arlequin-ai-leve-28-millions-deuros/"
+    },
+    {
+      "id": "mtvg07sia6efrzihrqn",
+      "title": "La deeptech Presage s’offre un ancien directeur de recherche IA de Meta",
+      "summary": "...",
+      "source": {
+        "name": "Maddyness",
+        "url": "https://www.maddyness.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.maddyness.com&sz=64"
+      },
+      "category": "Research",
+      "tags": [
+        "Meta"
+      ],
+      "publishedAt": "Thu, 10 Sep 2026 05:45:29 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.maddyness.com/2026/09/10/presage-recrute-tony-tung-ex-meta/"
+    },
     {
       "id": "mtv1tkvsfxpyxcvuhvb",
       "title": "Niryo rachète l’activité de robotique médicale du taïwanais BizLink pour changer d’échelle",
@@ -132,6 +182,22 @@
       "imageUrl": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=800",
       "readTime": 1,
       "originalUrl": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/"
+    },
+    {
+      "id": "mtvg03g5gewwcnebowb",
+      "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
+      "summary": "...",
+      "source": {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co",
+        "favicon": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Thu, 10 Sep 2026 00:00:00 GMT",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://huggingface.co/blog/gradio-workflow-1111"
     },
     {
       "id": "mtv1thbtwfayxcaaax",
@@ -787,79 +853,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800",
       "readTime": 1,
       "originalUrl": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/"
-    },
-    {
-      "id": "mtt62inhocoyv1kpvyd",
-      "title": "How GPT-5.6 Sol helps run quantum computing experiments",
-      "summary": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits....",
-      "source": {
-        "name": "OpenAI News",
-        "url": "https://openai.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
-      },
-      "category": "Research",
-      "tags": [
-        "OpenAI"
-      ],
-      "publishedAt": "Tue, 08 Sep 2026 17:00:00 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?w=800",
-      "readTime": 1,
-      "originalUrl": "https://openai.com/index/codex-quantum-computing-experiments"
-    },
-    {
-      "id": "mtswd6pndoehrgc51zc",
-      "title": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
-      "summary": "Google Cloud expands its enterprise AI push with Accenture, betting on forward-deployed engineers to drive adoption and overcome deployment bottlenecks....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Google"
-      ],
-      "publishedAt": "Tue, 08 Sep 2026 16:20:31 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/"
-    },
-    {
-      "id": "mtswdcnuemqvqrnvjp6",
-      "title": "A la tête de la start-up franco-allemande The Exploration Company, Hélène Huby incarne l’ambition du spatial européen face à SpaceX",
-      "summary": "L’entrepreneuse française de 48 ans, au pedigree prestigieux, a fondé The Exploration Company, une start-up franco-allemande privée spécialiste du transport spatial, qui se positionne en challenger de la société d’Elon Musk....",
-      "source": {
-        "name": "Le Monde Tech",
-        "url": "https://www.lemonde.fr",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.lemonde.fr&sz=64"
-      },
-      "category": "Policy",
-      "tags": [],
-      "publishedAt": "Tue, 08 Sep 2026 18:00:06 +0200",
-      "imageUrl": "https://images.unsplash.com/photo-1555848962-6e79363ec58f?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.lemonde.fr/economie/article/2026/09/08/a-la-tete-de-la-start-up-franco-allemande-the-exploration-company-helene-huby-incarne-l-ambition-du-spatial-europeen-face-a-spacex_6768417_3234.html"
-    },
-    {
-      "id": "mtswdd4vf8053xrz51g",
-      "title": "Xpeng lance la première ligne d’assemblage automatisée pour ses robots humanoïdes",
-      "summary": "...",
-      "source": {
-        "name": "Numerama",
-        "url": "https://www.numerama.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Robotics"
-      ],
-      "publishedAt": "Tue, 08 Sep 2026 15:38:16 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.numerama.com/tech/2328099-xpeng-lance-la-premiere-ligne-dassemblage-automatisee-pour-ses-robots-humanoides.html"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-09-10T04:50:09.517Z",
-  "edition": 577
+  "lastUpdated": "2026-09-10T11:27:13.769Z",
+  "edition": 578
 }
