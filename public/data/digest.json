@@ -1,6 +1,70 @@
 {
-  "date": "2026-09-11T11:29:03.546Z",
+  "date": "2026-09-11T16:33:25.447Z",
   "articles": [
+    {
+      "id": "mtx6dmg7p8fumr14br",
+      "title": "Lifesaving Lincoln Laboratory device wins 2026 Excellence in Technology Transfer Award",
+      "summary": "The handheld catheterization device AI-GUIDE, created by Lincoln Laboratory and Massachusetts General Hospital,  promises improved health outcomes for injured service members and civilians....",
+      "source": {
+        "name": "MIT News AI",
+        "url": "https://news.mit.edu",
+        "favicon": "https://www.google.com/s2/favicons?domain=news.mit.edu&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Fri, 11 Sep 2026 09:45:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://news.mit.edu/2026/lifesaving-lincoln-laboratory-technology-wins-tech-transfer-award-0911"
+    },
+    {
+      "id": "mtx6dtkdegh4n5dxytj",
+      "title": "Un essaim d’agents IA s’acharne sur ce logiciel et pirate 395 organisations dans 48 pays",
+      "summary": "...",
+      "source": {
+        "name": "Numerama",
+        "url": "https://www.numerama.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Fri, 11 Sep 2026 13:20:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.numerama.com/cyberguerre/2331261-un-essaim-dagents-ia-sacharne-sur-ce-logiciel-et-pirate-395-organisations-dans-48-pays.html"
+    },
+    {
+      "id": "mtx6du4x8ikhta48d6a",
+      "title": "Avec les 3 milliards de Mistral, la French Tech signe une semaine hors norme",
+      "summary": "...",
+      "source": {
+        "name": "Maddyness",
+        "url": "https://www.maddyness.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.maddyness.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Fri, 11 Sep 2026 13:07:14 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.maddyness.com/2026/09/11/avec-les-3-milliards-leves-de-mistral-ai-la-french-tech-signe-une-semaine-hors-norme/"
+    },
+    {
+      "id": "mtx6dszck3yxiyfq3g",
+      "title": "A la suite d’une menace de grève, le géant américain Micron Technology annonce offrir jusqu’à 68 mois de salaire à ses employés à Taïwan",
+      "summary": "Alors que les bénéfices des fabricants mondiaux de puces électroniques, dont Micron, s’envolent, de nombreux salariés réclament une part plus importante des profits....",
+      "source": {
+        "name": "Le Monde Tech",
+        "url": "https://www.lemonde.fr",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.lemonde.fr&sz=64"
+      },
+      "category": "Policy",
+      "tags": [],
+      "publishedAt": "Fri, 11 Sep 2026 14:24:15 +0200",
+      "imageUrl": "https://images.unsplash.com/photo-1575517111839-3a3843ee7f5d?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.lemonde.fr/international/article/2026/09/11/a-la-suite-d-une-menace-de-greve-le-geant-americain-micron-technology-annonce-offrir-jusqu-a-68-mois-de-salaire-a-ses-employes-a-taiwan_6770575_3210.html"
+    },
     {
       "id": "mtwviellsj5qfqjhsfe",
       "title": "À Zagreb, des robotaxis roulent sans superviseur à bord pour la première fois en Europe",
@@ -52,6 +116,56 @@
       "imageUrl": "https://images.unsplash.com/photo-1555848962-6e79363ec58f?w=800",
       "readTime": 1,
       "originalUrl": "https://www.lemonde.fr/pixels/article/2026/09/11/ia-apres-la-demission-de-jacob-coxon-et-plusieurs-incidents-de-securite-le-debat-sur-l-iapocalypse-prend-une-ampleur-inedite_6770505_4408996.html"
+    },
+    {
+      "id": "mtx6dp3u6gkegnxth2e",
+      "title": "Cohere Releases North Small Translate: A 218B MoE Translation Model That Scores 83.6 on WMT26 Across 50 Languages",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Fri, 11 Sep 2026 06:57:22 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/09/10/cohere-releases-north-small-translate-a-218b-moe-translation-model-that-scores-83-6-on-wmt26-across-50-languages/"
+    },
+    {
+      "id": "mtx6dp3uqklayq2lt08",
+      "title": "Sakana AI Launches Fugu Max and Fugu Ultra v2 for Cheaper, Stronger Multi-Agent Orchestration",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Product",
+      "tags": [],
+      "publishedAt": "Fri, 11 Sep 2026 06:34:39 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/09/10/sakana-ai-launches-fugu-max-and-fugu-ultra-v2-for-cheaper-stronger-multi-agent-orchestration/"
+    },
+    {
+      "id": "mtx6dp3vy2ykt56d8ri",
+      "title": "Google Research Releases ToolGrad: Answer-First Framework Hits 99.8% Pass Rate for Tool-Use Data Generation",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Research",
+      "tags": [
+        "Google"
+      ],
+      "publishedAt": "Fri, 11 Sep 2026 06:01:25 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/09/10/google-research-releases-toolgrad-answer-first-framework-hits-99-8-pass-rate-for-tool-use-data-generation/"
     },
     {
       "id": "mtwh5o4vnvzt0ardqh",
@@ -734,130 +848,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
       "readTime": 1,
       "originalUrl": "https://techcrunch.com/2026/09/09/the-hinge-for-apples-new-foldable-phone-was-built-with-ai/"
-    },
-    {
-      "id": "mtukzqh9sz8hct333xe",
-      "title": "Apple’s revamped Health app will calculate your ‘health age’ and readiness score",
-      "summary": "The update uses Apple Intelligence to make better sense of your health data. ...",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Wed, 09 Sep 2026 18:16:29 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/09/09/apples-revamped-health-app-will-calculate-your-health-age-and-readiness-score/"
-    },
-    {
-      "id": "mtukzqh9t8asufzgy9n",
-      "title": "Apple has a new way prove your iPhone photos aren’t AI slop",
-      "summary": "Apple introduced Apple Reference Image to help users determine whether photos have been edited, including alterations made by AI....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Wed, 09 Sep 2026 18:08:35 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/09/09/apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop/"
-    },
-    {
-      "id": "mtukzsq6qom624bzgns",
-      "title": "Paul Christiano joins OpenAI Foundation Board",
-      "summary": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards....",
-      "source": {
-        "name": "OpenAI News",
-        "url": "https://openai.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
-      },
-      "category": "Ethics",
-      "tags": [
-        "OpenAI",
-        "AI Safety"
-      ],
-      "publishedAt": "Wed, 09 Sep 2026 17:00:00 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=800",
-      "readTime": 1,
-      "originalUrl": "https://openai.com/index/paul-christiano-joins-openai-foundation-board"
-    },
-    {
-      "id": "mtubuh9x1vwitr4eqwj",
-      "title": "Superintelligence is coming. Should we let it?",
-      "summary": "AI companies have been talking about superintelligent AI like it’s inevitable, but recent safety incidents like OpenAI’s Hugging Face breach are demonstrating the potential dangers of deploying AI systems that are more capable than humans...",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Ethics",
-      "tags": [
-        "OpenAI",
-        "AI Safety"
-      ],
-      "publishedAt": "Wed, 09 Sep 2026 16:05:35 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/video/superintelligence-is-coming-should-we-let-it/"
-    },
-    {
-      "id": "mtubuh9yt2d6njkihjh",
-      "title": "ControlAI’s Connor Leahy on why superintelligence is ‘not a weapon, it’s an adversary’",
-      "summary": "AI companies have been talking about superintelligent AI like it’s inevitable, but recent safety incidents like OpenAI’s Hugging Face breach are demonstrating the potential dangers of deploying AI systems that are more capable than humans...",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Ethics",
-      "tags": [
-        "OpenAI",
-        "AI Safety"
-      ],
-      "publishedAt": "Wed, 09 Sep 2026 15:50:13 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/podcast/controlais-connor-leahy-on-why-superintelligence-is-not-a-weapon-its-an-adversary/"
-    },
-    {
-      "id": "mtubuk8g0wc7n8lgpzyr",
-      "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
-      "summary": "...",
-      "source": {
-        "name": "Hugging Face Blog",
-        "url": "https://huggingface.co",
-        "favicon": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Wed, 09 Sep 2026 15:36:24 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series"
-    },
-    {
-      "id": "mtubuh9zfkipf8ujp4u",
-      "title": "Viral AI assistant Instinct now has its own email address",
-      "summary": "Instinct’s new email feature lets the AI agent create and manage accounts, contact businesses, handle support requests, and do more on users' behalf....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Wed, 09 Sep 2026 15:13:12 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/09/09/viral-ai-assistant-instinct-now-has-its-own-email-address/"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-09-11T11:29:03.546Z",
-  "edition": 582
+  "lastUpdated": "2026-09-11T16:33:25.447Z",
+  "edition": 583
 }
