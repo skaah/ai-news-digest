@@ -1,6 +1,70 @@
 {
-  "date": "2026-09-15T04:59:44.890Z",
+  "date": "2026-09-15T11:51:13.392Z",
   "articles": [
+    {
+      "id": "mu2m2aqaj00ow0jc7tg",
+      "title": "En Belgique, une affaire d’espionnage au profit de la Chine dans une société de semi-conducteurs",
+      "summary": "Le parquet fédéral belge a révélé avoir arrêté, en mai, un ancien cadre Belgo-Chinois soupçonné de divulgation de secrets industriels à la Chine. Cette affaire pourrait être en lien avec le phénomène des « sociétés miroirs », bien connu des services de sécurité belges....",
+      "source": {
+        "name": "Le Monde Tech",
+        "url": "https://www.lemonde.fr",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.lemonde.fr&sz=64"
+      },
+      "category": "Policy",
+      "tags": [],
+      "publishedAt": "Tue, 15 Sep 2026 12:30:07 +0200",
+      "imageUrl": "https://images.unsplash.com/photo-1575517111839-3a3843ee7f5d?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.lemonde.fr/economie/article/2026/09/15/en-belgique-une-affaire-d-espionnage-au-profit-de-la-chine-dans-une-societe-de-semi-conducteurs_6774410_3234.html"
+    },
+    {
+      "id": "mu2m2by26qbd21cs5om",
+      "title": "Mistral AI signe un partenariat avec TotalEnergies de 100 millions d'euros sur trois ans",
+      "summary": "...",
+      "source": {
+        "name": "Maddyness",
+        "url": "https://www.maddyness.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.maddyness.com&sz=64"
+      },
+      "category": "Funding",
+      "tags": [],
+      "publishedAt": "Tue, 15 Sep 2026 10:17:16 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.maddyness.com/2026/09/15/mistral-ai-signe-un-partenariat-avec-totalenergies-de-100-millions-deuros-sur-trois-ans/"
+    },
+    {
+      "id": "mu2m25bmcrntr0lxw",
+      "title": "What’s at stake in AI’s trillion-dollar gamble",
+      "summary": "When Jessica Wachter, a finance professor at the University of Pennsylvania’s Wharton School, wanted to assess AI’s impact on the economy over the next few years, she faced a long list of business and technical uncertainties. So she started with what she calls a “remarkable fact”...",
+      "source": {
+        "name": "MIT Tech Review AI",
+        "url": "https://www.technologyreview.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.technologyreview.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Tue, 15 Sep 2026 10:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/"
+    },
+    {
+      "id": "mu2m2aqbyffs9cmktm8",
+      "title": "IA : l’impérieuse nécessité de reprendre la main",
+      "summary": "Le fait que les capacités de l’intelligence artificielle progressent plus vite que notre compréhension des risques qu’elle induit doit alerter. Pour être crédibles, des règles devront être fixées par la puissance publique et non laissées aux seuls acteurs ayant le plus à gagner d...",
+      "source": {
+        "name": "Le Monde Tech",
+        "url": "https://www.lemonde.fr",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.lemonde.fr&sz=64"
+      },
+      "category": "Policy",
+      "tags": [],
+      "publishedAt": "Tue, 15 Sep 2026 11:30:05 +0200",
+      "imageUrl": "https://images.unsplash.com/photo-1555848962-6e79363ec58f?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.lemonde.fr/idees/article/2026/09/15/ia-l-imperieuse-necessite-de-reprendre-la-main_6774396_3232.html"
+    },
     {
       "id": "mu27d30j1x87s0hny0w",
       "title": "Meta Introduces ZGateway: A Stateless Proxy Tier That Unifies ZippyDB Traffic and Handles Over 1 Billion Operations Per Second",
@@ -788,80 +852,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
       "readTime": 1,
       "originalUrl": "https://arxiv.org/abs/2609.10656"
-    },
-    {
-      "id": "mtxwead2sld9eyasqx",
-      "title": "Quantifying the Memorization-to-Generalization Transition: Scaling Laws and Phase Structure in Grokking",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Policy",
-      "tags": [],
-      "publishedAt": "Sat, 12 Sep 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2609.10657"
-    },
-    {
-      "id": "mtxwe5l4hfwifzofa2l",
-      "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
-      "summary": "The round for the two-year-old startup is coming together months after Mecka announced its Series A....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Robotics",
-        "Startup"
-      ],
-      "publishedAt": "Fri, 11 Sep 2026 22:58:17 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/"
-    },
-    {
-      "id": "mtxwe9qjmdsfdc76e3c",
-      "title": "Can LLMs Engineer Their Own Agent Harness? ByteDance Seed’s HarnessDev Says Only 34 of 64 Changes Generalize",
-      "summary": "...",
-      "source": {
-        "name": "MarkTechPost",
-        "url": "https://www.marktechpost.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "LLM"
-      ],
-      "publishedAt": "Fri, 11 Sep 2026 22:01:08 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.marktechpost.com/2026/09/11/can-llms-engineer-their-own-agent-harness-bytedance-seeds-harnessdev-says-only-34-of-64-changes-generalize/"
-    },
-    {
-      "id": "mtxwe9qk5zu6ka4dswq",
-      "title": "Anthropic Adds Plugin Evals to Claude Code: 6 Grader Types, a No-Plugin Baseline, and a CI Gate for Skills",
-      "summary": "...",
-      "source": {
-        "name": "MarkTechPost",
-        "url": "https://www.marktechpost.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Anthropic"
-      ],
-      "publishedAt": "Fri, 11 Sep 2026 21:05:55 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.marktechpost.com/2026/09/11/anthropic-adds-plugin-evals-to-claude-code-6-grader-types-a-no-plugin-baseline-and-a-ci-gate-for-skills/"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-09-15T04:59:44.890Z",
-  "edition": 596
+  "lastUpdated": "2026-09-15T11:51:13.392Z",
+  "edition": 597
 }
