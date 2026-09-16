@@ -1,6 +1,54 @@
 {
-  "date": "2026-09-16T04:55:15.056Z",
+  "date": "2026-09-16T11:44:01.053Z",
   "articles": [
+    {
+      "id": "mu418q2c82rgghseiw8",
+      "title": "Amazon launches Alexa+ in India with Hindi support",
+      "summary": "Amazon is letting all customers use Alexa+ assistant in early access period...",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Product",
+      "tags": [],
+      "publishedAt": "Wed, 16 Sep 2026 10:34:47 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/09/16/amazon-launches-alexa-in-india-with-hindi-support/"
+    },
+    {
+      "id": "mu418x0m7swe72wki9c",
+      "title": "Hackuity lève 19 millions de dollars pour contrer les attaques IA",
+      "summary": "...",
+      "source": {
+        "name": "Maddyness",
+        "url": "https://www.maddyness.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.maddyness.com&sz=64"
+      },
+      "category": "Funding",
+      "tags": [],
+      "publishedAt": "Wed, 16 Sep 2026 08:59:11 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.maddyness.com/2026/09/16/hackuity-leve-19-millions-de-dollars-pour-contrer-les-attaques-ia/"
+    },
+    {
+      "id": "mu418x0nkr37slysat",
+      "title": "Delos lève 10 millions d’euros pour exporter ses « employés IA » aux États-Unis",
+      "summary": "...",
+      "source": {
+        "name": "Maddyness",
+        "url": "https://www.maddyness.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.maddyness.com&sz=64"
+      },
+      "category": "Funding",
+      "tags": [],
+      "publishedAt": "Wed, 16 Sep 2026 05:00:56 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.maddyness.com/2026/09/16/delos-leve-10-millions-deuros-pour-exporter-ses-employes-ia-aux-etats-unis/"
+    },
     {
       "id": "mu3mn3017tfxssciagl",
       "title": "Measure by measure, studying society accurately",
@@ -811,63 +859,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
       "readTime": 1,
       "originalUrl": "https://arxiv.org/abs/2609.12101"
-    },
-    {
-      "id": "mu0s1ypoif6361jcl2",
-      "title": "Language Is an Insufficient Substrate for Quantitative Reasoning, and Consequential Domains Need Large Quantitative Models",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Mon, 14 Sep 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2609.12105"
-    },
-    {
-      "id": "mu0s1y7sboww8o0d1kd",
-      "title": "Anthropic’s 3-Step ‘Pace the Frontier’ Plan Wins OpenAI, xAI and Microsoft Support: Is It Too Late to Slow AI Down?",
-      "summary": "...",
-      "source": {
-        "name": "MarkTechPost",
-        "url": "https://www.marktechpost.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "OpenAI",
-        "Anthropic",
-        "Microsoft"
-      ],
-      "publishedAt": "Mon, 14 Sep 2026 01:44:01 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.marktechpost.com/2026/09/13/anthropics-3-step-pace-the-frontier-plan-wins-openai-xai-and-microsoft-support-is-it-too-late-to-slow-ai-down/"
-    },
-    {
-      "id": "mtxwe83gyojgfw3qzjm",
-      "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
-      "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models....",
-      "source": {
-        "name": "OpenAI News",
-        "url": "https://openai.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
-      },
-      "category": "Product",
-      "tags": [
-        "OpenAI"
-      ],
-      "publishedAt": "Mon, 14 Sep 2026 00:00:00 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800",
-      "readTime": 1,
-      "originalUrl": "https://openai.com/index/perplexity-improving-accuracy-with-astra"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-09-16T04:55:15.056Z",
-  "edition": 600
+  "lastUpdated": "2026-09-16T11:44:01.053Z",
+  "edition": 601
 }
