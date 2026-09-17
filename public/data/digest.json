@@ -1,6 +1,99 @@
 {
-  "date": "2026-09-17T11:48:43.479Z",
+  "date": "2026-09-17T17:05:09.078Z",
   "articles": [
+    {
+      "id": "mu5s5qdn7x1g0mucosn",
+      "title": "Ce robot Ecovacs lave les vitres à votre place, et son prix devient nettement plus intéressant sur Amazon",
+      "summary": "...",
+      "source": {
+        "name": "Numerama",
+        "url": "https://www.numerama.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Robotics"
+      ],
+      "publishedAt": "Thu, 17 Sep 2026 15:17:54 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.numerama.com/tech/2335037-ce-robot-ecovacs-lave-les-vitres-a-votre-place-et-son-prix-devient-nettement-plus-interessant-sur-amazon.html"
+    },
+    {
+      "id": "mu5s5igcxcpjtd2enz8",
+      "title": "Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia",
+      "summary": "Huawei is accelerating the launch of its next-generation Ascend 960DT AI chip as it pushes to compete with Nvidia and close China’s AI computing gap with the U.S....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Product",
+      "tags": [
+        "Nvidia",
+        "China"
+      ],
+      "publishedAt": "Thu, 17 Sep 2026 14:06:14 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/09/17/huawei-plans-q1-2027-launch-of-new-ai-chip-as-it-takes-on-nvidia/"
+    },
+    {
+      "id": "mu5s5igchh92d11offe",
+      "title": "2 days left to exhibit at TechCrunch Disrupt 2026",
+      "summary": "Last day to book your exhibit table at Disrupt is September 18. Two days left. Get your startup in front of 10,000+ founders, investors, operators, and tech leaders on October 13–15....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Startup"
+      ],
+      "publishedAt": "Thu, 17 Sep 2026 14:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/09/17/2-days-left-to-exhibit-at-techcrunch-disrupt-2026/"
+    },
+    {
+      "id": "mu5s5igdq4f0nmqefze",
+      "title": "Rival AI agents, Instinct and Meta’s Muse, both add the ability to make calls",
+      "summary": "People can use these assistants to make restaurant reservations and cancel subscriptions. ...",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Meta"
+      ],
+      "publishedAt": "Thu, 17 Sep 2026 13:46:16 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/09/17/rival-ai-agents-instinct-and-metas-muse-both-add-the-ability-to-make-calls/"
+    },
+    {
+      "id": "mu5s5igdtswb3ewda5",
+      "title": "Google, Nvidia, and Anthropic want Emerald AI to find space on the grid for more data centers",
+      "summary": "A new coalition that includes Google, Nvidia, Anthropic, and Emerald AI wants to find 100 GW of grid capacity for new data centers....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Anthropic",
+        "Google",
+        "Nvidia"
+      ],
+      "publishedAt": "Thu, 17 Sep 2026 13:38:33 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/09/17/google-nvidia-and-anthropic-want-emerald-ai-to-find-space-on-the-grid-for-more-data-centers/"
+    },
     {
       "id": "mu5gusm60zz0ppvymi4f",
       "title": "Comment OpenAI s’engage à mieux communiquer quand des incidents impliquent ses modèles d’IA",
@@ -782,97 +875,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
       "readTime": 1,
       "originalUrl": "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/"
-    },
-    {
-      "id": "mu36likk06hajkfe3uk3",
-      "title": "Roundtables: Could AI really kill us all?",
-      "summary": "Listen to the session or watch below Employees at the world’s leading AI labs are saying there’s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Watch a conversation unpacking AI extinction fears: where they com...",
-      "source": {
-        "name": "MIT Tech Review AI",
-        "url": "https://www.technologyreview.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.technologyreview.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Tue, 15 Sep 2026 17:47:51 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/"
-    },
-    {
-      "id": "mu36lh3kwn750rt7ux",
-      "title": "AI agents now have a place to snitch",
-      "summary": "The AI Contact Hotline is designed to be a discreet place where agents that have witnessed misbehavior can tip off authorities....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Tue, 15 Sep 2026 17:42:59 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/"
-    },
-    {
-      "id": "mu36lh3ka168lh8mkbw",
-      "title": "Meta expands subscription push with new AI-focused plans",
-      "summary": "Meta One bundles expanded access to the company’s AI tools with premium features across Facebook, Instagram, and WhatsApp....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Meta"
-      ],
-      "publishedAt": "Tue, 15 Sep 2026 17:05:24 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans/"
-    },
-    {
-      "id": "mu2x9iolezdhmut73uh",
-      "title": "Your Agent Aced the Task. Will It Do It Again?",
-      "summary": "...",
-      "source": {
-        "name": "Hugging Face Blog",
-        "url": "https://huggingface.co",
-        "favicon": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Tue, 15 Sep 2026 16:00:44 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency"
-    },
-    {
-      "id": "mu2x9ftmmh78zr0f6b",
-      "title": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
-      "summary": "OpenAI confirms weeks of AI safety talks with Anthropic and Google DeepMind, as Trump's team dismisses safety concerns and pushes to keep pace with China....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Ethics",
-      "tags": [
-        "OpenAI",
-        "Anthropic",
-        "Google",
-        "AI Safety",
-        "China"
-      ],
-      "publishedAt": "Tue, 15 Sep 2026 15:47:03 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-09-17T11:48:43.479Z",
-  "edition": 605
+  "lastUpdated": "2026-09-17T17:05:09.077Z",
+  "edition": 606
 }
