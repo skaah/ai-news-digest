@@ -1,6 +1,90 @@
 {
-  "date": "2026-09-19T11:07:09.819Z",
+  "date": "2026-09-19T15:55:56.867Z",
   "articles": [
+    {
+      "id": "mu8kk8oj0wk6kwrbgei",
+      "title": "AI safety conversations have gotten unbelievable",
+      "summary": "This week two conversations about AI safety went viral that demonstrate just how hard it is to discern AI fact from fiction....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Ethics",
+      "tags": [
+        "AI Safety"
+      ],
+      "publishedAt": "Sat, 19 Sep 2026 15:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/"
+    },
+    {
+      "id": "mu8kk8ok63nh4ciji1o",
+      "title": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
+      "summary": "...",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Sat, 19 Sep 2026 15:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/"
+    },
+    {
+      "id": "mu8kkfugjw5n91itsqn",
+      "title": "Un agent OpenAI s’invente un personnage libre, Revolut piégée par un faux mail et les géants de l’IA qui veulent ralentir : on vous raconte la semaine Cyberguerre",
+      "summary": "...",
+      "source": {
+        "name": "Numerama",
+        "url": "https://www.numerama.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
+      },
+      "category": "Policy",
+      "tags": [
+        "OpenAI"
+      ],
+      "publishedAt": "Sat, 19 Sep 2026 14:30:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.numerama.com/cyberguerre/2336053-un-agent-openai-sinvente-un-personnage-libre-revolut-piegee-par-un-faux-mail-et-les-geants-de-lia-qui-veulent-ralentir-on-vous-raconte-la-semaine-cyberguerre.html"
+    },
+    {
+      "id": "mu8kk8olkoidhasfnya",
+      "title": "Prices go up in 7 days. Get your Disrupt ticket now.",
+      "summary": "Current ticket pricing ends Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then.....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Sat, 19 Sep 2026 14:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/09/19/prices-go-up-in-7-days-get-your-disrupt-ticket-now/"
+    },
+    {
+      "id": "mu8kk8ol89dr9fxrtx9",
+      "title": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
+      "summary": "Vals AI is hoping to make AI benchmarking a more neutral and trustworthy resource in a world increasingly inundated by AI models.  ...",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Policy",
+      "tags": [],
+      "publishedAt": "Sat, 19 Sep 2026 13:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1555848962-6e79363ec58f?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/"
+    },
     {
       "id": "mu8a8yyo4hgcoq65t6i",
       "title": "Linkup Research Releases SPARSEUP: A 149M-Parameter Open-Source Sparse Embedding Model",
@@ -782,101 +866,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
       "readTime": 1,
       "originalUrl": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/"
-    },
-    {
-      "id": "mu61ihr19bxr8ug1ti5",
-      "title": "Is the AI safety debate about safety or control?",
-      "summary": "Not everyone agrees with Amodei's call for globally coordinated action for AI safety....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Ethics",
-      "tags": [
-        "AI Safety"
-      ],
-      "publishedAt": "Thu, 17 Sep 2026 20:19:37 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/09/17/is-the-ai-safety-debate-about-safety-or-control/"
-    },
-    {
-      "id": "mu61ihr1981iek02c9c",
-      "title": "UN turns to Google to make its global data ready for AI agents",
-      "summary": "The shift comes after a UNICEF test found leading AI models struggled to accurately retrieve global development statistics....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Google"
-      ],
-      "publishedAt": "Thu, 17 Sep 2026 20:00:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents/"
-    },
-    {
-      "id": "mu61ihr2n5nmhwt99h8",
-      "title": "Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal",
-      "summary": "Newly unsealed court filings show Microsoft privately called OpenAI's data practices \"theft\" while both companies scraped paywalled Times content, built datasets from it, and warned internally it would gut publishers....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "OpenAI",
-        "Microsoft"
-      ],
-      "publishedAt": "Thu, 17 Sep 2026 19:46:08 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/"
-    },
-    {
-      "id": "mu5s5qdn7x1g0mucosn",
-      "title": "Ce robot Ecovacs lave les vitres à votre place, et son prix devient nettement plus intéressant sur Amazon",
-      "summary": "...",
-      "source": {
-        "name": "Numerama",
-        "url": "https://www.numerama.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Robotics"
-      ],
-      "publishedAt": "Thu, 17 Sep 2026 15:17:54 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.numerama.com/tech/2335037-ce-robot-ecovacs-lave-les-vitres-a-votre-place-et-son-prix-devient-nettement-plus-interessant-sur-amazon.html"
-    },
-    {
-      "id": "mu5s5igcxcpjtd2enz8",
-      "title": "Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia",
-      "summary": "Huawei is accelerating the launch of its next-generation Ascend 960DT AI chip as it pushes to compete with Nvidia and close China’s AI computing gap with the U.S....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Product",
-      "tags": [
-        "Nvidia",
-        "China"
-      ],
-      "publishedAt": "Thu, 17 Sep 2026 14:06:14 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/09/17/huawei-plans-q1-2027-launch-of-new-ai-chip-as-it-takes-on-nvidia/"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-09-19T11:07:09.819Z",
-  "edition": 613
+  "lastUpdated": "2026-09-19T15:55:56.867Z",
+  "edition": 614
 }
