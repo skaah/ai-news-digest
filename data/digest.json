@@ -1,6 +1,147 @@
 {
-  "date": "2026-09-18T20:57:46.062Z",
+  "date": "2026-09-19T04:43:02.305Z",
   "articles": [
+    {
+      "id": "mu7wizfk5slqn15smfc",
+      "title": "GGUF vs GPTQ vs AWQ vs EXL2: LLM Model Formats Explained (2026)",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "OpenAI",
+        "LLM"
+      ],
+      "publishedAt": "Sat, 19 Sep 2026 04:04:06 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/09/18/gguf-vs-gptq-vs-awq-vs-exl2-llm-model-formats-explained-2026/"
+    },
+    {
+      "id": "mu7wizfkqdxhjgh927",
+      "title": "SpaceXAI Releases Grok Voice Transcribe 2.0: A Speech-to-Text API Claiming 2x Accuracy Over 1.0 at $0.10 per Hour",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Sat, 19 Sep 2026 03:42:24 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/09/18/spacexai-releases-grok-voice-transcribe-2-0/"
+    },
+    {
+      "id": "mu7wiva8jcdnbqrnk4t",
+      "title": "India forces caller-ID apps to feed spam reports to telcos",
+      "summary": "Truecaller says the one-way sharing requirement would hand a commercially valuable proprietary asset to telecom operators....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Sat, 19 Sep 2026 01:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/"
+    },
+    {
+      "id": "mu7wiva8t22z6bm7rls",
+      "title": "Tilly Norwood’s press tour is going about as well as you’d expect for an AI",
+      "summary": "In one particularly odd interview, Norwood seems to malfunction and begin speaking Chinese....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "China"
+      ],
+      "publishedAt": "Sat, 19 Sep 2026 00:12:07 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/"
+    },
+    {
+      "id": "mu7wiva92no1y5ze4vm",
+      "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
+      "summary": "UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Startup"
+      ],
+      "publishedAt": "Fri, 18 Sep 2026 23:25:01 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/"
+    },
+    {
+      "id": "mu7wiva9l567ymonhhc",
+      "title": "Anthropic is operating a lab that conducts biology experiments",
+      "summary": "AI leaders have been promising that AI is the key to curing human disease. Anthropic researchers have also been warning that AI might kill us all....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Research",
+      "tags": [
+        "Anthropic"
+      ],
+      "publishedAt": "Fri, 18 Sep 2026 23:13:31 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/"
+    },
+    {
+      "id": "mu7wivaap0guvmvadyl",
+      "title": "AI hallucination nearly triggers US military operation",
+      "summary": "“It’s important for service members to understand the uncertainty inherent to LLMs,\" a GovAI research scholar warns. ...",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Research",
+      "tags": [
+        "LLM"
+      ],
+      "publishedAt": "Fri, 18 Sep 2026 23:12:32 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/"
+    },
+    {
+      "id": "mu7wizflljlkix4ahz8",
+      "title": "Jina AI Releases jina-ocr-v1: A 3.4B MoE Document Parser With Built-In Speculative Decoding for Low-Budget GPUs",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Hardware",
+      "tags": [
+        "Nvidia"
+      ],
+      "publishedAt": "Fri, 18 Sep 2026 21:21:59 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/09/18/jina-ai-releases-jina-ocr-v1-a-3-4b-moe-document-parser-with-built-in-speculative-decoding-for-low-budget-gpus/"
+    },
     {
       "id": "mu7fwj0iqk14a30ggs",
       "title": "World model companies are keeping a lot of secrets",
@@ -34,6 +175,22 @@
       "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
       "readTime": 1,
       "originalUrl": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/"
+    },
+    {
+      "id": "mu7wizflwyrwkgfl7we",
+      "title": "PrismML Releases Ternary Bonsai 2 27B: A 5.9 GB Apache 2.0 Model Retaining 98.2% of Qwen3.8 27B Performance",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Fri, 18 Sep 2026 18:06:36 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/09/18/prismml-releases-ternary-bonsai-2-27b-a-5-9-gb-apache-2-0-model-retaining-98-2-of-qwen3-8-27b-performance/"
     },
     {
       "id": "mu7fwj0j6pm84r5ifon",
@@ -722,164 +879,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1575517111839-3a3843ee7f5d?w=800",
       "readTime": 1,
       "originalUrl": "https://openai.com/index/cooley-gopublic"
-    },
-    {
-      "id": "mu5gusm60zz0ppvymi4f",
-      "title": "Comment OpenAI s’engage à mieux communiquer quand des incidents impliquent ses modèles d’IA",
-      "summary": "L’entreprise, dont des modèles d’IA avaient contourné les contrôles pour pirater Hugging Face cet été, assure que les incidents surprenants ou inquiétants seront désormais systématiquement documentés....",
-      "source": {
-        "name": "Le Monde Tech",
-        "url": "https://www.lemonde.fr",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.lemonde.fr&sz=64"
-      },
-      "category": "Policy",
-      "tags": [
-        "OpenAI"
-      ],
-      "publishedAt": "Thu, 17 Sep 2026 12:38:59 +0200",
-      "imageUrl": "https://images.unsplash.com/photo-1575517111839-3a3843ee7f5d?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.lemonde.fr/pixels/article/2026/09/17/comment-openai-s-engage-a-mieux-communiquer-quand-des-incidents-impliquent-ses-modeles-d-ia_6776411_4408996.html"
-    },
-    {
-      "id": "mu5guqguf8d4l0z37g9",
-      "title": "OpenAI Releases a Model Misalignment Disclosure Framework With 3 Review Tracks and 6 Incident Reports From RL Training",
-      "summary": "...",
-      "source": {
-        "name": "MarkTechPost",
-        "url": "https://www.marktechpost.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "OpenAI",
-        "AI Safety"
-      ],
-      "publishedAt": "Thu, 17 Sep 2026 07:35:37 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.marktechpost.com/2026/09/17/openai-releases-a-model-misalignment-disclosure-framework-with-3-review-tracks-and-6-incident-reports-from-rl-training/"
-    },
-    {
-      "id": "mu5guqguysdeqa0abul",
-      "title": "Google Research Introduces Retrieve-for-Train (R4T): An RL-Compiled Diffusion Retriever for 12× to 20× Faster Query Fan-Out",
-      "summary": "...",
-      "source": {
-        "name": "MarkTechPost",
-        "url": "https://www.marktechpost.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
-      },
-      "category": "Research",
-      "tags": [
-        "Google"
-      ],
-      "publishedAt": "Thu, 17 Sep 2026 06:19:38 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.marktechpost.com/2026/09/16/google-research-introduces-retrieve-for-train-r4t-an-rl-compiled-diffusion-retriever-for-12x-to-20x-faster-query-fan-out/"
-    },
-    {
-      "id": "mu5guma6bdo5y8cwadc",
-      "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
-      "summary": "Treble's voice simulation platform is used by voice AI model developers, AI wearable, and robotics companies...",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Funding",
-      "tags": [
-        "Robotics"
-      ],
-      "publishedAt": "Thu, 17 Sep 2026 05:00:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/"
-    },
-    {
-      "id": "mu527k10is1n9ttxrjr",
-      "title": "Making AI-Assisted Claims Independently Challengeable: Publication Authority and a Protocol for Falsifiable Publication Records",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Thu, 17 Sep 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2609.17631"
-    },
-    {
-      "id": "mu527k106kvpv6tk04j",
-      "title": "EvolveTrade: Experience-Driven Policy Refinement for Self-Evolving LLM Trading Agents",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Policy",
-      "tags": [
-        "LLM"
-      ],
-      "publishedAt": "Thu, 17 Sep 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2609.17632"
-    },
-    {
-      "id": "mu527k117zxtp66mqk",
-      "title": "One Color Preprocessing Improves DSATUR",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Thu, 17 Sep 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2609.17633"
-    },
-    {
-      "id": "mu527k11mz2c8gi9i4c",
-      "title": "Physics-Constrained Digital Twins for Sensor Integrity in Urban Pedestrian Flow: Detecting Stealthy False Data Injection with Conformal Guarantees",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Thu, 17 Sep 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2609.17635"
-    },
-    {
-      "id": "mu527k12tofb2wekbm",
-      "title": "What You Can't See Is Still What You Learn: A Preregistered Sixty-Society Confirmation That Evidence Masking Drives Compositional Generalization",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Thu, 17 Sep 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2609.17637"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-09-18T20:57:46.061Z",
-  "edition": 611
+  "lastUpdated": "2026-09-19T04:43:02.305Z",
+  "edition": 612
 }
