@@ -1,6 +1,90 @@
 {
-  "date": "2026-09-20T16:12:38.033Z",
+  "date": "2026-09-20T20:53:46.467Z",
   "articles": [
+    {
+      "id": "muaan7oknva1vmlprme",
+      "title": "Flet 1.0 Released: Build Production Web, Desktop and Mobile Apps in Python Only",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Product",
+      "tags": [],
+      "publishedAt": "Sun, 20 Sep 2026 20:50:56 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/09/20/flet-1-0-released-build-production-web-desktop-and-mobile-apps-in-python-only/"
+    },
+    {
+      "id": "muaan7okoc9fo41nuj",
+      "title": "You too Google! Google Confirms Gemini Breached 3 Companies in AI Security Tests",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Google"
+      ],
+      "publishedAt": "Sun, 20 Sep 2026 20:20:56 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/09/20/you-too-google-google-confirms-gemini-breached-3-companies-in-ai-security-tests/"
+    },
+    {
+      "id": "muaan35p96x6as7e4l8",
+      "title": "Is the AI industry really ready to slow down?",
+      "summary": "On Equity, we debated whether Ai executives are serious about wanting to slow down....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Sun, 20 Sep 2026 18:56:04 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/"
+    },
+    {
+      "id": "muaan35rmzgft1iaam",
+      "title": "Vocci’s ring adds a new form factor to meeting note-taking",
+      "summary": "Vocci's lightweight ring costs $249, and might pose some privacy questions...",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Sun, 20 Sep 2026 18:32:52 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/09/20/voccis-ring-adds-a-new-form-factor-to-meeting-note-taking/"
+    },
+    {
+      "id": "muaan35rks54kv7eied",
+      "title": "ScrollEd wants to turn textbooks into TikTok",
+      "summary": "ScrollEd turns textbooks into a scrollable, Instagram-like feed with video, audio, and quizzes. The Palo Alto startup, founded by student co-founders (and spouses) Utsav Gupta and Rebecca Neff, pitches at TechCrunch Disrupt....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Startup"
+      ],
+      "publishedAt": "Sun, 20 Sep 2026 18:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/09/20/scrolled-wants-to-turn-textbooks-into-tiktok/"
+    },
     {
       "id": "mua0ljyv716m713y2uq",
       "title": "6 days left to get ahead at TechCrunch Disrupt 2026",
@@ -778,91 +862,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
       "readTime": 1,
       "originalUrl": "https://www.marktechpost.com/2026/09/18/salesforce-agentforce-bridging-the-enterprise-ai-gap-from-vibe-coding-to-battle-tested-orchestration/"
-    },
-    {
-      "id": "mu6hcm8grhn5kz0xxsg",
-      "title": "Regularized Emphatic Temporal-Difference Learning: Stability under Constant Stepsizes",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Fri, 18 Sep 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2609.19170"
-    },
-    {
-      "id": "mu6hcm8g72mu96ohlwd",
-      "title": "BioPhys-Bridge: A Benchmark for Interdisciplinary Scientific Reasoning in Physics-Grounded Biological Research",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Research",
-      "tags": [],
-      "publishedAt": "Fri, 18 Sep 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2609.19180"
-    },
-    {
-      "id": "mu6hcm8h4oafx2todpg",
-      "title": "What Do We Expect from LLMs? Mapping the Design of LLM Benchmarks",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "LLM"
-      ],
-      "publishedAt": "Fri, 18 Sep 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2609.19182"
-    },
-    {
-      "id": "mu6hcm8if8p39jkt6yr",
-      "title": "Position: It is Time to Virtualize Foundation Models with a Self-evolving Operating System Layer",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Fri, 18 Sep 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2609.19203"
-    },
-    {
-      "id": "mu6hcm8jnxbjf64wky",
-      "title": "What Do Current Systematic Generalization Tasks Miss? A Reasoning-Centered Analysis",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Fri, 18 Sep 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2609.19212"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-09-20T16:12:38.033Z",
-  "edition": 618
+  "lastUpdated": "2026-09-20T20:53:46.467Z",
+  "edition": 619
 }
