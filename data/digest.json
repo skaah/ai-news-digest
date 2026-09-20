@@ -1,6 +1,42 @@
 {
-  "date": "2026-09-20T04:58:59.643Z",
+  "date": "2026-09-20T11:31:51.091Z",
   "articles": [
+    {
+      "id": "mu9qkld4xe6umdwhx9t",
+      "title": "Alibaba Qwen Team Releases Qwen3.8-LiveTranslate: A Real-Time Interpretation Model That Cuts Average Lag to 2.3 Seconds Across 60 Languages",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "China"
+      ],
+      "publishedAt": "Sun, 20 Sep 2026 06:46:08 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/09/19/alibaba-qwen-team-releases-qwen3-8-livetranslate/"
+    },
+    {
+      "id": "mu9qkld5ex9j3uojpn",
+      "title": "OpenClaw Releases 2026.9.5 With Atomic Updates, Plugin Hot Reload, Conversation Sharing, and Expanded GPT Live",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Policy",
+      "tags": [
+        "OpenAI"
+      ],
+      "publishedAt": "Sat, 19 Sep 2026 21:44:23 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1555848962-6e79363ec58f?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/09/19/openclaw-releases-2026-9-5/"
+    },
     {
       "id": "mu8uxz1kxlvkjkn355",
       "title": "Flock reportedly tries to shrink workforce with employee buyouts",
@@ -824,45 +860,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=800",
       "readTime": 1,
       "originalUrl": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/"
-    },
-    {
-      "id": "mu6hchicgerg650ov27",
-      "title": "Google DeepMind launches institute to widen the AGI debate",
-      "summary": "The new institute aims to surface differing views between Google, Google DeepMind, and the broader global research community around AGI. \"They will not always agree, and they will likely change their minds, as more data and information comes to light at the fast-moving frontier.\"...",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Product",
-      "tags": [
-        "Google"
-      ],
-      "publishedAt": "Thu, 17 Sep 2026 23:21:17 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/"
-    },
-    {
-      "id": "mu6hchickfwjo5bcvj",
-      "title": "PrismML hopes its tiny LLM will change how we all use AI",
-      "summary": "If AI lab PrismML isn't on your radar yet, it should be....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "LLM"
-      ],
-      "publishedAt": "Thu, 17 Sep 2026 22:34:09 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-09-20T04:58:59.643Z",
-  "edition": 616
+  "lastUpdated": "2026-09-20T11:31:51.091Z",
+  "edition": 617
 }
