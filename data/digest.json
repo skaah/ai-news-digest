@@ -1,6 +1,90 @@
 {
-  "date": "2026-09-20T20:53:46.467Z",
+  "date": "2026-09-21T05:03:48.795Z",
   "articles": [
+    {
+      "id": "muas5fneih9jxchvatg",
+      "title": "RBS-Attention: Radius-Bounded Sparse Prefill for Long-Context Large Language Models",
+      "summary": "...",
+      "source": {
+        "name": "ArXiv cs.AI",
+        "url": "https://arxiv.org",
+        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "LLM"
+      ],
+      "publishedAt": "Mon, 21 Sep 2026 00:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://arxiv.org/abs/2609.20971"
+    },
+    {
+      "id": "muas5fnej4m8t9zg5js",
+      "title": "Attention-Aware Routing: Coupling Routing and Attention in MoEs",
+      "summary": "...",
+      "source": {
+        "name": "ArXiv cs.AI",
+        "url": "https://arxiv.org",
+        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Mon, 21 Sep 2026 00:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://arxiv.org/abs/2609.20974"
+    },
+    {
+      "id": "muas5fnf1s3mpt7z00k",
+      "title": "CaLR: Causal Latent Revision for Robust Diffusion Reasoning",
+      "summary": "...",
+      "source": {
+        "name": "ArXiv cs.AI",
+        "url": "https://arxiv.org",
+        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Mon, 21 Sep 2026 00:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://arxiv.org/abs/2609.20981"
+    },
+    {
+      "id": "muas5fnf9puqr40rstw",
+      "title": "LoRA Enhanced Contrastive Learning with SAS Vision Transformers",
+      "summary": "...",
+      "source": {
+        "name": "ArXiv cs.AI",
+        "url": "https://arxiv.org",
+        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Mon, 21 Sep 2026 00:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://arxiv.org/abs/2609.21061"
+    },
+    {
+      "id": "muas5fngewr7x3zqw56",
+      "title": "Detecting Hallucination in LLMs: Tracing the Topological Signatures of Impaired Context Sharing",
+      "summary": "...",
+      "source": {
+        "name": "ArXiv cs.AI",
+        "url": "https://arxiv.org",
+        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "LLM"
+      ],
+      "publishedAt": "Mon, 21 Sep 2026 00:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://arxiv.org/abs/2609.21096"
+    },
     {
       "id": "muaan7oknva1vmlprme",
       "title": "Flet 1.0 Released: Build Production Web, Desktop and Mobile Apps in Python Only",
@@ -776,95 +860,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1555848962-6e79363ec58f?w=800",
       "readTime": 1,
       "originalUrl": "https://www.numerama.com/cyberguerre/2335357-comment-claude-opus-5-a-aide-des-chercheurs-a-acceder-aux-depots-internes-dopenai.html"
-    },
-    {
-      "id": "mu6ve50qana3w7117ds",
-      "title": "Dreame Matrix10 Pro : ce robot aspirateur qui change seul de serpillière perd 400 €",
-      "summary": "...",
-      "source": {
-        "name": "Numerama",
-        "url": "https://www.numerama.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
-      },
-      "category": "Policy",
-      "tags": [
-        "Robotics"
-      ],
-      "publishedAt": "Fri, 18 Sep 2026 10:13:36 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1575517111839-3a3843ee7f5d?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.numerama.com/tech/2335537-dreame-matrix10-pro-ce-robot-aspirateur-qui-change-seul-de-serpilliere-perd-400-e.html"
-    },
-    {
-      "id": "mu6ve21hd4zbpbdjoxe",
-      "title": "Best Open-Source Agent Harnesses for Local LLMs in 2026",
-      "summary": "...",
-      "source": {
-        "name": "MarkTechPost",
-        "url": "https://www.marktechpost.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "LLM"
-      ],
-      "publishedAt": "Fri, 18 Sep 2026 09:44:55 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.marktechpost.com/2026/09/18/best-open-source-agent-harnesses-for-local-llms-in-2026/"
-    },
-    {
-      "id": "mu6ve21h9wlmgu83ofo",
-      "title": "Alibaba Qwen Releases Qwen3.8-Omni-Flash: A 1M-Context Omni-Modal Model Built Around Agentic Audio-Video Understanding and Tool Use",
-      "summary": "...",
-      "source": {
-        "name": "MarkTechPost",
-        "url": "https://www.marktechpost.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "China"
-      ],
-      "publishedAt": "Fri, 18 Sep 2026 08:40:37 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.marktechpost.com/2026/09/18/alibaba-qwen-releases-qwen3-8-omni-flash/"
-    },
-    {
-      "id": "mu6ve4g01q4flkiof5c",
-      "title": "L’« IA générale », un horizon fantasmé qui concentre les peurs, malgré une définition nébuleuse",
-      "summary": "Utilisé pour qualifier une IA ayant atteint des capacités supérieures à celles des humains, le terme d’« intelligence artificielle générale » revient régulièrement dans les débats autour des dangers liés à ces technologies. Bien que personne ne semble d’accord sur ce que cela rec...",
-      "source": {
-        "name": "Le Monde Tech",
-        "url": "https://www.lemonde.fr",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.lemonde.fr&sz=64"
-      },
-      "category": "Policy",
-      "tags": [],
-      "publishedAt": "Fri, 18 Sep 2026 10:00:05 +0200",
-      "imageUrl": "https://images.unsplash.com/photo-1555848962-6e79363ec58f?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.lemonde.fr/pixels/article/2026/09/18/l-ia-generale-une-perspective-qui-concentre-les-peurs-malgre-une-definition-nebuleuse_6776754_4408996.html"
-    },
-    {
-      "id": "mu6ve21i8jpfcyn2dit",
-      "title": "Salesforce Agentforce: Bridging the Enterprise AI Gap from ‘Vibe Coding’ to Battle-Tested Orchestration",
-      "summary": "...",
-      "source": {
-        "name": "MarkTechPost",
-        "url": "https://www.marktechpost.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Fri, 18 Sep 2026 07:34:06 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.marktechpost.com/2026/09/18/salesforce-agentforce-bridging-the-enterprise-ai-gap-from-vibe-coding-to-battle-tested-orchestration/"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-09-20T20:53:46.467Z",
-  "edition": 619
+  "lastUpdated": "2026-09-21T05:03:48.795Z",
+  "edition": 620
 }
