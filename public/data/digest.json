@@ -1,6 +1,22 @@
 {
-  "date": "2026-09-23T04:50:54.300Z",
+  "date": "2026-09-23T11:45:32.825Z",
   "articles": [
+    {
+      "id": "mue1dnpj6mw4by6b782",
+      "title": "‘We’re already fighting yesterday’s battle’: Greece’s prime minister gets candid about AI",
+      "summary": "...",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Wed, 23 Sep 2026 04:59:08 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/"
+    },
     {
       "id": "mudmkiaugrrwoiqp0e8",
       "title": "SpeakON Ships a MagSafe AI Voice Button With Its Own Microphone: Turning Your Voice into Polished Communication, and Action across Apps",
@@ -96,6 +112,24 @@
       "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
       "readTime": 1,
       "originalUrl": "https://arxiv.org/abs/2609.25165"
+    },
+    {
+      "id": "mue1dpxgo3i2jnytuhf",
+      "title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
+      "summary": "OpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills across Southeast Asia....",
+      "source": {
+        "name": "OpenAI News",
+        "url": "https://openai.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
+      },
+      "category": "Product",
+      "tags": [
+        "OpenAI"
+      ],
+      "publishedAt": "Wed, 23 Sep 2026 00:00:00 GMT",
+      "imageUrl": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=800",
+      "readTime": 1,
+      "originalUrl": "https://openai.com/index/grab-openai-ai-skills-southeast-asia"
     },
     {
       "id": "mudmke6epr1d34540r",
@@ -823,41 +857,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
       "readTime": 1,
       "originalUrl": "https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/"
-    },
-    {
-      "id": "mub911llj1tgh7b3t1k",
-      "title": "The US spent billions on border surveillance. Why can’t it catch people before they die?",
-      "summary": "When José Morales Bernal crossed the border into the United States on April 8, 2024, the day before his 32nd birthday, it should have triggered a chain of technological alerts and human responses.  As he walked through the desert in southern New Mexico that morning, he was within...",
-      "source": {
-        "name": "MIT Tech Review AI",
-        "url": "https://www.technologyreview.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.technologyreview.com&sz=64"
-      },
-      "category": "Funding",
-      "tags": [],
-      "publishedAt": "Mon, 21 Sep 2026 12:00:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.technologyreview.com/2026/09/21/1144166/border-towers-surveillance-investigation/"
-    },
-    {
-      "id": "mub911ll7x0m7atfj2",
-      "title": "She died at the San Diego border. A surveillance camera was in plain sight",
-      "summary": "She had only walked for a couple of hours, and already she was lost.  It was early afternoon on Sept. 14, 2025, when 30-year-old Graciela Gómez Hernández crossed the border from the eastern edge of Tijuana into Southern California, sending voice messages to her mother and sister ...",
-      "source": {
-        "name": "MIT Tech Review AI",
-        "url": "https://www.technologyreview.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.technologyreview.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Mon, 21 Sep 2026 12:00:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.technologyreview.com/2026/09/21/1144170/border-towers-surveillance-feature/"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-09-23T04:50:54.299Z",
-  "edition": 627
+  "lastUpdated": "2026-09-23T11:45:32.825Z",
+  "edition": 628
 }
