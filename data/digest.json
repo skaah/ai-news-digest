@@ -1,6 +1,176 @@
 {
-  "date": "2026-09-23T11:45:32.825Z",
+  "date": "2026-09-23T17:09:19.008Z",
   "articles": [
+    {
+      "id": "muecy2do5g4jssa90fe",
+      "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+      "summary": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1....",
+      "source": {
+        "name": "OpenAI News",
+        "url": "https://openai.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "OpenAI"
+      ],
+      "publishedAt": "Thu, 24 Sep 2026 12:00:00 GMT",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://openai.com/index/ringg"
+    },
+    {
+      "id": "muecxzwwiiuwq7sdu3",
+      "title": "Even Americans who use AI every day are worried about it",
+      "summary": "The report suggests that greater exposure will not resolve the unease around the technology, nor reduce public support for AI regulation....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Policy",
+      "tags": [],
+      "publishedAt": "Wed, 23 Sep 2026 16:49:58 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1555848962-6e79363ec58f?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/09/23/even-americans-who-use-ai-every-day-are-worried-about-it/"
+    },
+    {
+      "id": "muecy2dofy5mxcd3g9",
+      "title": "Two years of OpenAI Academy",
+      "summary": "Marking two years of OpenAI Academy and bringing AI skills to even more communities....",
+      "source": {
+        "name": "OpenAI News",
+        "url": "https://openai.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "OpenAI"
+      ],
+      "publishedAt": "Wed, 23 Sep 2026 16:00:00 GMT",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://openai.com/index/two-years-of-openai-academy"
+    },
+    {
+      "id": "muecy1wf2ajva369ch",
+      "title": "MIT welcomes David Siegel SM ’86, PhD ’91 as its next Innovation Fellow",
+      "summary": "Computer scientist, entrepreneur, and philanthropist will collaborate with the MIT Schwarzman College of Computing to advance AI and scientific discovery....",
+      "source": {
+        "name": "MIT News AI",
+        "url": "https://news.mit.edu",
+        "favicon": "https://www.google.com/s2/favicons?domain=news.mit.edu&sz=64"
+      },
+      "category": "Policy",
+      "tags": [],
+      "publishedAt": "Wed, 23 Sep 2026 11:30:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1555848962-6e79363ec58f?w=800",
+      "readTime": 1,
+      "originalUrl": "https://news.mit.edu/2026/mit-welcomes-david-siegel-innovation-fellow-0923"
+    },
+    {
+      "id": "muecxzwxtv5s0zqevi",
+      "title": "YouTube Music gets more conversational with new AI features",
+      "summary": "Built directly into the YouTube Music app, Ask Music lets users describe what they want to hear in everyday language rather than searching for individual songs or artists....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Wed, 23 Sep 2026 15:19:30 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/09/23/youtube-music-gets-more-conversational-with-new-ai-features/"
+    },
+    {
+      "id": "muecxzwxb77kypie49c",
+      "title": "YouTube will let you build your own algorithm with AI",
+      "summary": "YouTube’s new custom feeds let users describe the videos they want to see in their own words, then use Gemini to build a personalized feed around the request....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Google"
+      ],
+      "publishedAt": "Wed, 23 Sep 2026 14:30:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/09/23/youtube-will-let-you-build-your-own-algorithm-with-ai/"
+    },
+    {
+      "id": "muecxzwytkyt4qrikig",
+      "title": "YouTube releases new AI features for creators within its Studio app",
+      "summary": "YouTube is adding new features to generate ideas and monitor the performance of thumbnails....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Wed, 23 Sep 2026 14:30:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/09/23/youtube-releases-new-ai-features-for-creators-within-its-studio-app/"
+    },
+    {
+      "id": "muecxzwynjb5gm3m85",
+      "title": "StrictlyVC at TechCrunch Disrupt 2026: Inside the changing rules of venture capital",
+      "summary": "StrictlyVC joins TechCrunch Disrupt 2026 to discuss the changing VC landscape thanks to AI. Get your Investor Pass to join these exclusive sessions. Save $200 before September 25 at 11:59 p.m. PT....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Wed, 23 Sep 2026 14:30:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/09/23/strictlyvc-at-techcrunch-disrupt-2026-inside-the-changing-rules-of-venture-capital/"
+    },
+    {
+      "id": "muecy2wsiuit2w9vft9",
+      "title": "**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
+      "summary": "...",
+      "source": {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co",
+        "favicon": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Nvidia"
+      ],
+      "publishedAt": "Wed, 23 Sep 2026 13:17:01 GMT",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://huggingface.co/blog/nvidia/nemotron-diarization"
+    },
+    {
+      "id": "muecy2doey4elcoftm5",
+      "title": "OpenAI extends cyber access to Ukraine for civilian defense",
+      "summary": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure....",
+      "source": {
+        "name": "OpenAI News",
+        "url": "https://openai.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "OpenAI"
+      ],
+      "publishedAt": "Wed, 23 Sep 2026 13:00:00 GMT",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense"
+    },
     {
       "id": "mue1dnpj6mw4by6b782",
       "title": "‘We’re already fighting yesterday’s battle’: Greece’s prime minister gets candid about AI",
@@ -682,184 +852,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
       "readTime": 1,
       "originalUrl": "https://techcrunch.com/2026/09/21/discover-whats-next-5-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026/"
-    },
-    {
-      "id": "mubshue3eht3f75pow",
-      "title": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
-      "summary": "Meta’s new AI agent Muse has racked up more downloads and daily active users in the U.S. and Canada than ChatGPT did over the same period after its mobile debut, according to new estimates from Appfigures....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Product",
-      "tags": [
-        "OpenAI",
-        "Meta"
-      ],
-      "publishedAt": "Mon, 21 Sep 2026 19:19:21 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1550009158-9ebf690be655?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/"
-    },
-    {
-      "id": "mubsi2ewonx7bv5j1qq",
-      "title": "À peine sorti, ce robot laveur Narwal à serpillière autonettoyante baisse déjà de prix",
-      "summary": "...",
-      "source": {
-        "name": "Numerama",
-        "url": "https://www.numerama.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
-      },
-      "category": "Policy",
-      "tags": [
-        "Robotics"
-      ],
-      "publishedAt": "Mon, 21 Sep 2026 18:00:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1575517111839-3a3843ee7f5d?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.numerama.com/tech/2337149-a-peine-sorti-ce-robot-laveur-narwal-a-serpilliere-autonettoyante-baisse-deja-de-prix.html"
-    },
-    {
-      "id": "mubshue3giuktwmfn2a",
-      "title": "Meta’s AI agent has been blocked from using Amazon.com",
-      "summary": "Amazon has its own cohort of foundation models, along with one of the most popular inference platforms on the internet. As long as they're under no legal obligation to open the doors to Muse, why would they?...",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Meta"
-      ],
-      "publishedAt": "Mon, 21 Sep 2026 17:55:18 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/"
-    },
-    {
-      "id": "mubshyy6rcf0jm8tc18",
-      "title": "Alibaba Qwen Releases Qwen-Image-2.1: A 7B Open-Weight Model for Image Generation and Editing",
-      "summary": "...",
-      "source": {
-        "name": "MarkTechPost",
-        "url": "https://www.marktechpost.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "China"
-      ],
-      "publishedAt": "Mon, 21 Sep 2026 16:40:44 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.marktechpost.com/2026/09/21/alibaba-qwen-releases-qwen-image-2-1/"
-    },
-    {
-      "id": "mubshue3pv44u325t6g",
-      "title": "With Tabby, a former accountant is using AI to make accountants obsolete",
-      "summary": "Tabby is designed to be a real-time bookkeeping interface, handling clients’ paperwork as it gives them up-to-the-minute data on their business’s profit and loss....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Research",
-      "tags": [],
-      "publishedAt": "Mon, 21 Sep 2026 16:38:51 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete/"
-    },
-    {
-      "id": "mubshxjoicys8lp3z8g",
-      "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
-      "summary": "...",
-      "source": {
-        "name": "Hugging Face Blog",
-        "url": "https://huggingface.co",
-        "favicon": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "LLM"
-      ],
-      "publishedAt": "Mon, 21 Sep 2026 13:44:34 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an"
-    },
-    {
-      "id": "mubshx0s0utze2ajlldm",
-      "title": "Advisory Group on Mathematics and Artificial Intelligence",
-      "summary": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results....",
-      "source": {
-        "name": "OpenAI News",
-        "url": "https://openai.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "OpenAI"
-      ],
-      "publishedAt": "Mon, 21 Sep 2026 12:00:00 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://openai.com/index/advisory-group-on-mathematics-and-ai"
-    },
-    {
-      "id": "mubshx0szy2sr3qd3qd",
-      "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
-      "summary": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster....",
-      "source": {
-        "name": "OpenAI News",
-        "url": "https://openai.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "OpenAI"
-      ],
-      "publishedAt": "Mon, 21 Sep 2026 12:00:00 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra"
-    },
-    {
-      "id": "mub911lj6oclqpjw6t",
-      "title": "How we made the first comprehensive map of deaths along the US border’s “virtual wall”",
-      "summary": "Our 15-month investigation into death and surveillance along the US-Mexico border began with a simple question: Why did so many people die near government surveillance towers meant to help track and apprehend them? This story is part of Dying on Camera, a collaboration between MI...",
-      "source": {
-        "name": "MIT Tech Review AI",
-        "url": "https://www.technologyreview.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.technologyreview.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Mon, 21 Sep 2026 12:00:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology/"
-    },
-    {
-      "id": "mub911lkvvc4ngk06k8",
-      "title": "4 ways to address the failures we found along the US border’s “virtual wall”",
-      "summary": "MIT Technology Review today published our investigation into how many people have died near the “virtual wall” of surveillance towers that the US government has installed along the US-Mexico border. We found cases of people who walked undetected through areas surveilled by advanc...",
-      "source": {
-        "name": "MIT Tech Review AI",
-        "url": "https://www.technologyreview.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.technologyreview.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Mon, 21 Sep 2026 12:00:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-09-23T11:45:32.825Z",
-  "edition": 628
+  "lastUpdated": "2026-09-23T17:09:19.008Z",
+  "edition": 629
 }
