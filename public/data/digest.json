@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-23T21:33:51.968Z",
+  "date": "2026-09-24T04:59:07.088Z",
   "articles": [
     {
       "id": "muecy2do5g4jssa90fe",
@@ -18,6 +18,94 @@
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
       "readTime": 1,
       "originalUrl": "https://openai.com/index/ringg"
+    },
+    {
+      "id": "muf2avf2exc5lfknn3e",
+      "title": "The promise and peril of using visual AI to study cities",
+      "summary": "In their new book, “How AI Sees the City,” the leaders of MIT’s Senseable City Lab examine the technology’s implications for researching urban life....",
+      "source": {
+        "name": "MIT News AI",
+        "url": "https://news.mit.edu",
+        "favicon": "https://www.google.com/s2/favicons?domain=news.mit.edu&sz=64"
+      },
+      "category": "Research",
+      "tags": [],
+      "publishedAt": "Thu, 24 Sep 2026 00:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800",
+      "readTime": 1,
+      "originalUrl": "https://news.mit.edu/2026/studying-cities-using-visual-ai-fabio-duarte-martina-mazzarello-carlo-ratti-fan-zhang-book-0924"
+    },
+    {
+      "id": "muf2atpgyyaos5omc5",
+      "title": "Everything new coming to Meta’s AI agent Muse",
+      "summary": "...",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Meta"
+      ],
+      "publishedAt": "Thu, 24 Sep 2026 01:13:32 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/"
+    },
+    {
+      "id": "muf2atpg17s5mxu6oo2",
+      "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
+      "summary": "The tiny hardware device creates  another mobile home for its AI agent Muse. ...",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Hardware",
+      "tags": [
+        "Meta"
+      ],
+      "publishedAt": "Thu, 24 Sep 2026 00:46:17 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/"
+    },
+    {
+      "id": "muf2atph073o6bg8pfwr",
+      "title": "Meta introduces camera-free AI glasses",
+      "summary": "Meta says the camera-free glasses will be lighter and have up to 12 hours battery life. ...",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Meta"
+      ],
+      "publishedAt": "Wed, 23 Sep 2026 23:39:44 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/"
+    },
+    {
+      "id": "muf2atphs0ercl4mnj",
+      "title": "Anthropic says its biology lab has already found something big",
+      "summary": "But maybe the biggest reveal is that Anthropic has not let Claude run loose in its biology lab. Humans are still, so far, in the loop....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Anthropic"
+      ],
+      "publishedAt": "Wed, 23 Sep 2026 22:17:39 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/"
     },
     {
       "id": "muemebxnxt81di35u69",
@@ -776,95 +864,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=800",
       "readTime": 1,
       "originalUrl": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/"
-    },
-    {
-      "id": "mucx7sj7ugvm61g7j3",
-      "title": "Après avoir levé 3 milliards d’euros, Mistral boucle une nouvelle acquisition",
-      "summary": "...",
-      "source": {
-        "name": "Maddyness",
-        "url": "https://www.maddyness.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.maddyness.com&sz=64"
-      },
-      "category": "Policy",
-      "tags": [],
-      "publishedAt": "Tue, 22 Sep 2026 14:30:32 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1575517111839-3a3843ee7f5d?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.maddyness.com/2026/09/22/apres-avoir-leve-3-milliards-deuros-mistral-boucle-une-nouvelle-acquisition/"
-    },
-    {
-      "id": "mucx7k2ob2pw6kna88b",
-      "title": "TechCrunch Disrupt 2026: Aaron Edsinger brings Hello Robot’s Stretch 4 to life onstage",
-      "summary": "Hello Robot CEO and co-founder Aaron Edsinger will bring Stretch 4 for a live demo on the Real World AI Stage at TechCrunch Disrupt 2026. Register before September 25 to save up to $200, plus get a second pass at 50% off....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Robotics"
-      ],
-      "publishedAt": "Tue, 22 Sep 2026 14:30:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/09/22/techcrunch-disrupt-2026-aaron-edsinger-brings-hello-robots-stretch-4-to-life-onstage/"
-    },
-    {
-      "id": "mucx7k2o5wp8hioabae",
-      "title": "Exhibit tables added: One last chance to showcase your startup at TechCrunch Disrupt 2026",
-      "summary": "We have reopened our exhibitor program for 1 more week. Book your exhibit table by September 30 at 11:59 p.m. PT and showcase your startup in front of 10,000+ founders, investors, and tech leaders at SF's Moscone West from October 13-15....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Startup"
-      ],
-      "publishedAt": "Tue, 22 Sep 2026 14:15:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/09/22/exhibitor-program-reopened-book-by-sept-30/"
-    },
-    {
-      "id": "mucx7lhs7zns4dq4p4c",
-      "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
-      "summary": "The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border crossers and save lives. But a groundbreaking investigation by MIT Technology Review has documented ov...",
-      "source": {
-        "name": "MIT Tech Review AI",
-        "url": "https://www.technologyreview.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.technologyreview.com&sz=64"
-      },
-      "category": "Funding",
-      "tags": [],
-      "publishedAt": "Tue, 22 Sep 2026 13:42:05 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/"
-    },
-    {
-      "id": "mudmkglqz7aza3sicv",
-      "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
-      "summary": "GPT‑6 Astra allowed Parallel’s agents to research and synthesize labor-market data in half the time and at half the cost vs. prior models....",
-      "source": {
-        "name": "OpenAI News",
-        "url": "https://openai.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
-      },
-      "category": "Research",
-      "tags": [
-        "OpenAI"
-      ],
-      "publishedAt": "Tue, 22 Sep 2026 12:00:00 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=800",
-      "readTime": 1,
-      "originalUrl": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-09-23T21:33:51.968Z",
-  "edition": 630
+  "lastUpdated": "2026-09-24T04:59:07.088Z",
+  "edition": 631
 }
