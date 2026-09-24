@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-24T04:59:07.088Z",
+  "date": "2026-09-24T11:54:11.079Z",
   "articles": [
     {
       "id": "muecy2do5g4jssa90fe",
@@ -18,6 +18,44 @@
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
       "readTime": 1,
       "originalUrl": "https://openai.com/index/ringg"
+    },
+    {
+      "id": "mufh4sgzmagzzs98tds",
+      "title": "Avec Muse, Meta est en train de réussir sa remontada face à OpenAI et Anthropic",
+      "summary": "...",
+      "source": {
+        "name": "Numerama",
+        "url": "https://www.numerama.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "OpenAI",
+        "Anthropic",
+        "Meta"
+      ],
+      "publishedAt": "Thu, 24 Sep 2026 10:35:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.numerama.com/tech/2339225-avec-muse-meta-est-en-train-de-reussir-sa-remontada-face-a-openai-et-anthropic.html"
+    },
+    {
+      "id": "mufh4sh01i85jurz31j",
+      "title": "Questionnaire sur l’Australie, site gouvernemental infiltré, mail générique : ce que l’on sait de la nouvelle dérive agentique d’OpenAI",
+      "summary": "...",
+      "source": {
+        "name": "Numerama",
+        "url": "https://www.numerama.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "OpenAI"
+      ],
+      "publishedAt": "Thu, 24 Sep 2026 09:35:32 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.numerama.com/cyberguerre/2339277-questionnaire-sur-laustralie-site-gouvernemental-infiltre-mail-generique-ce-que-lon-sait-de-la-nouvelle-derive-agentique-dopenai.html"
     },
     {
       "id": "muf2avf2exc5lfknn3e",
@@ -828,45 +866,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
       "readTime": 1,
       "originalUrl": "https://www.numerama.com/tech/2337847-le-rampart-la-nouvelle-arme-anti-drones-de-la-marine-nationale-repere-sur-le-mistral-avant-son-depart-pour-lafrique.html"
-    },
-    {
-      "id": "mucx7k2n4ekz8gtbkhv",
-      "title": "AstroForge is putting AI in command of its next spacecraft",
-      "summary": "Autonomy-1 will have a small, transformer-based AI model taking charge of a space probe. ...",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Tue, 22 Sep 2026 15:00:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft/"
-    },
-    {
-      "id": "mucx7k2o8cl3zc0cpa8",
-      "title": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
-      "summary": "At TechCrunch Disrupt 2026, five sessions across the AI Stage and Real World AI Stage cover AI safety, featuring leaders from Anthropic, Nvidia, AWS, Waabi, and more. Register before September 25 to save up to $200....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Ethics",
-      "tags": [
-        "Anthropic",
-        "Nvidia",
-        "AI Safety"
-      ],
-      "publishedAt": "Tue, 22 Sep 2026 15:00:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-09-24T04:59:07.088Z",
-  "edition": 631
+  "lastUpdated": "2026-09-24T11:54:11.079Z",
+  "edition": 632
 }
