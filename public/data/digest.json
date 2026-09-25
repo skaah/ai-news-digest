@@ -1,6 +1,22 @@
 {
-  "date": "2026-09-25T05:03:28.293Z",
+  "date": "2026-09-25T11:56:47.895Z",
   "articles": [
+    {
+      "id": "mugwnuyy66vrx22cv24",
+      "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
+      "summary": "The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request. The program, called “Polygraph+” or “Polygraph Next”, will focus on scoring algorithms that use artificial intelligenc...",
+      "source": {
+        "name": "MIT Tech Review AI",
+        "url": "https://www.technologyreview.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.technologyreview.com&sz=64"
+      },
+      "category": "Funding",
+      "tags": [],
+      "publishedAt": "Fri, 25 Sep 2026 09:16:25 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/"
+    },
     {
       "id": "mughw9zimicezac73am",
       "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
@@ -845,25 +861,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
       "readTime": 1,
       "originalUrl": "https://www.marktechpost.com/2026/09/23/nokia-open-sources-anyjev-a-training-free-layer-that-turns-any-open-llm-into-a-calibrated-decision-model/"
-    },
-    {
-      "id": "muemebxoz55dqq5daf",
-      "title": "Kyutai Releases Voice of Reason: A Speech-Native Model that Solves Spoken Math with Reinforcement Learning",
-      "summary": "...",
-      "source": {
-        "name": "MarkTechPost",
-        "url": "https://www.marktechpost.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Wed, 23 Sep 2026 06:33:18 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.marktechpost.com/2026/09/22/kyutai-releases-voice-of-reason-a-speech-native-model-that-solves-spoken-math-with-reinforcement-learning/"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-09-25T05:03:28.293Z",
-  "edition": 635
+  "lastUpdated": "2026-09-25T11:56:47.895Z",
+  "edition": 636
 }
