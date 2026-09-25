@@ -1,6 +1,58 @@
 {
-  "date": "2026-09-25T17:16:53.158Z",
+  "date": "2026-09-25T21:39:25.943Z",
   "articles": [
+    {
+      "id": "muhhh371632ec3dbe9t",
+      "title": "Meta opens early access program for new Muse features",
+      "summary": "Anyone interested in joining has to ask Muse to put them on the list. ...",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Meta"
+      ],
+      "publishedAt": "Fri, 25 Sep 2026 20:34:53 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/"
+    },
+    {
+      "id": "muhhh4y71986z4eh2f8",
+      "title": "MIT students gain a humanist lens on technical innovation in Tulsa, Oklahoma",
+      "summary": "The PKG Center for Social Impact expands Code.Tulsa experiential learning program....",
+      "source": {
+        "name": "MIT News AI",
+        "url": "https://news.mit.edu",
+        "favicon": "https://www.google.com/s2/favicons?domain=news.mit.edu&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Fri, 25 Sep 2026 16:15:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://news.mit.edu/2026/mit-students-gain-humanist-lens-technical-innovation-tulsa-oklahoma-0925"
+    },
+    {
+      "id": "muhhh372s775n76x6wp",
+      "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
+      "summary": "Anthropic has committed $11.6 billion over seven years to Akamai's cloud infrastructure, a bet on CPUs that could grow to about $20 billion, and in an unusual arrangement, Akamai is giving Anthropic a potential stake of up to 5% of its stock that grows as Anthropic spends more....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Funding",
+      "tags": [
+        "Anthropic"
+      ],
+      "publishedAt": "Fri, 25 Sep 2026 19:13:38 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/"
+    },
     {
       "id": "muh83im5keg2yobpwrp",
       "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
@@ -18,6 +70,60 @@
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
       "readTime": 1,
       "originalUrl": "https://openai.com/index/proaction"
+    },
+    {
+      "id": "muhhh3738t5sxil0za3",
+      "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
+      "summary": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness, and building businesses....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Policy",
+      "tags": [],
+      "publishedAt": "Fri, 25 Sep 2026 18:48:33 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/09/25/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/"
+    },
+    {
+      "id": "muhhh3732vl4180aeog",
+      "title": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
+      "summary": "The funding, which comes from Third Point, Nvidia, and others, will  fuel the company's massive AI data center buildout....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Funding",
+      "tags": [
+        "Nvidia"
+      ],
+      "publishedAt": "Fri, 25 Sep 2026 18:33:59 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/"
+    },
+    {
+      "id": "muhhh374yv42uvupydk",
+      "title": "Meta’s Muse just stole the AI spotlight from OpenAI and Anthropic",
+      "summary": "When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,” maybe someone should have asked: what pace? Now it’s turned into model drop week for both companies as Anthropic rolled out Opus 5.5, followed by OpenAI’s GPT-6 model updates ...",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "OpenAI",
+        "Anthropic",
+        "Meta"
+      ],
+      "publishedAt": "Fri, 25 Sep 2026 18:22:47 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/"
     },
     {
       "id": "muh83geyisphtxzz26h",
@@ -749,111 +855,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
       "readTime": 1,
       "originalUrl": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp"
-    },
-    {
-      "id": "muemebxneqdp051t1ys",
-      "title": "NVIDIA Releases Nemotron 3 Diarization: A 100M-Parameter Open-Weight Model That Tracks 8 Speakers in Real Time",
-      "summary": "...",
-      "source": {
-        "name": "MarkTechPost",
-        "url": "https://www.marktechpost.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Nvidia"
-      ],
-      "publishedAt": "Wed, 23 Sep 2026 18:17:14 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.marktechpost.com/2026/09/23/nvidia-releases-nemotron-3-diarization/"
-    },
-    {
-      "id": "mueme82fcrixlhbu5rk",
-      "title": "ChatGPT mobile app gets voice-based agentic features",
-      "summary": "Pro and Plus users will be able to use the Work tab on their phones to complete agentic tasks....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "OpenAI"
-      ],
-      "publishedAt": "Wed, 23 Sep 2026 17:00:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features/"
-    },
-    {
-      "id": "muecxzwwiiuwq7sdu3",
-      "title": "Even Americans who use AI every day are worried about it",
-      "summary": "The report suggests that greater exposure will not resolve the unease around the technology, nor reduce public support for AI regulation....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Policy",
-      "tags": [],
-      "publishedAt": "Wed, 23 Sep 2026 16:49:58 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1555848962-6e79363ec58f?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/09/23/even-americans-who-use-ai-every-day-are-worried-about-it/"
-    },
-    {
-      "id": "muecy2dofy5mxcd3g9",
-      "title": "Two years of OpenAI Academy",
-      "summary": "Marking two years of OpenAI Academy and bringing AI skills to even more communities....",
-      "source": {
-        "name": "OpenAI News",
-        "url": "https://openai.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "OpenAI"
-      ],
-      "publishedAt": "Wed, 23 Sep 2026 16:00:00 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://openai.com/index/two-years-of-openai-academy"
-    },
-    {
-      "id": "muecy1wf2ajva369ch",
-      "title": "MIT welcomes David Siegel SM ’86, PhD ’91 as its next Innovation Fellow",
-      "summary": "Computer scientist, entrepreneur, and philanthropist will collaborate with the MIT Schwarzman College of Computing to advance AI and scientific discovery....",
-      "source": {
-        "name": "MIT News AI",
-        "url": "https://news.mit.edu",
-        "favicon": "https://www.google.com/s2/favicons?domain=news.mit.edu&sz=64"
-      },
-      "category": "Policy",
-      "tags": [],
-      "publishedAt": "Wed, 23 Sep 2026 11:30:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1555848962-6e79363ec58f?w=800",
-      "readTime": 1,
-      "originalUrl": "https://news.mit.edu/2026/mit-welcomes-david-siegel-innovation-fellow-0923"
-    },
-    {
-      "id": "muecxzwxtv5s0zqevi",
-      "title": "YouTube Music gets more conversational with new AI features",
-      "summary": "Built directly into the YouTube Music app, Ask Music lets users describe what they want to hear in everyday language rather than searching for individual songs or artists....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Wed, 23 Sep 2026 15:19:30 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/09/23/youtube-music-gets-more-conversational-with-new-ai-features/"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-09-25T17:16:53.158Z",
-  "edition": 637
+  "lastUpdated": "2026-09-25T21:39:25.943Z",
+  "edition": 638
 }
