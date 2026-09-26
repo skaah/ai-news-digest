@@ -1,6 +1,22 @@
 {
-  "date": "2026-09-26T11:31:14.361Z",
+  "date": "2026-09-26T16:28:29.220Z",
   "articles": [
+    {
+      "id": "muilt2bx73eh7cytii",
+      "title": "I created an interactive digital avatar of myself — and you can talk to it",
+      "summary": "After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves. ...",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Sat, 26 Sep 2026 14:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/"
+    },
     {
       "id": "muib6wiunjjxjz4920p",
       "title": "Exa Launches Agent Ultra: A Subagent Swarm Deep Research API Built for Exhaustive List Building",
@@ -834,27 +850,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800",
       "readTime": 1,
       "originalUrl": "https://news.mit.edu/2026/studying-cities-using-visual-ai-fabio-duarte-martina-mazzarello-carlo-ratti-fan-zhang-book-0924"
-    },
-    {
-      "id": "muf2atpgyyaos5omc5",
-      "title": "Everything new coming to Meta’s AI agent Muse",
-      "summary": "...",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Meta"
-      ],
-      "publishedAt": "Thu, 24 Sep 2026 01:13:32 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-09-26T11:31:14.360Z",
-  "edition": 640
+  "lastUpdated": "2026-09-26T16:28:29.220Z",
+  "edition": 641
 }
