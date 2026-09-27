@@ -1,6 +1,24 @@
 {
-  "date": "2026-09-27T12:09:24.444Z",
+  "date": "2026-09-27T17:01:53.088Z",
   "articles": [
+    {
+      "id": "muk2g1xv0gmk6qgehapd",
+      "title": "« On ne confierait pas à un modèle de langage le pilotage d’un avion ». C’est tout l’enjeu de l’après-LLM, selon Arlequin AI",
+      "summary": "...",
+      "source": {
+        "name": "Numerama",
+        "url": "https://www.numerama.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
+      },
+      "category": "Policy",
+      "tags": [
+        "LLM"
+      ],
+      "publishedAt": "Sun, 27 Sep 2026 15:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1575517111839-3a3843ee7f5d?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.numerama.com/tech/2335099-entretien-avec-arlequin-ai-la-startup-francaise-qui-veut-remplacer-les-llm-la-ou-lerreur-est-interdite.html"
+    },
     {
       "id": "mujrzu16ilgsbnwnfe",
       "title": "AI Coding Agents for Enterprise: IP Indemnity, Data Residency and 500-Seat Cost Compared",
@@ -828,25 +846,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
       "readTime": 1,
       "originalUrl": "https://www.numerama.com/tech/2339397-anthropic-a-trouve-un-systeme-inconnu-dans-ladn-de-bacteriophages-mais-ne-sait-pas-trop-ce-quil-fait-vraiment.html"
-    },
-    {
-      "id": "mufsnd5i1bla8aljgc7",
-      "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
-      "summary": "...",
-      "source": {
-        "name": "Hugging Face Blog",
-        "url": "https://huggingface.co",
-        "favicon": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Thu, 24 Sep 2026 14:08:57 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-09-27T12:09:24.443Z",
-  "edition": 644
+  "lastUpdated": "2026-09-27T17:01:53.088Z",
+  "edition": 645
 }
