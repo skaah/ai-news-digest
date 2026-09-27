@@ -1,6 +1,40 @@
 {
-  "date": "2026-09-26T21:15:04.364Z",
+  "date": "2026-09-27T05:24:16.616Z",
   "articles": [
+    {
+      "id": "mujdipru02yoav3x2fic",
+      "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
+      "summary": "The limited test covers select products and users, with a broader rollout planned for later in October....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Product",
+      "tags": [
+        "Google"
+      ],
+      "publishedAt": "Sun, 27 Sep 2026 01:30:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/"
+    },
+    {
+      "id": "mujdiu3z84467d9u8ki",
+      "title": "Sarvam AI Releases Saaras V4: A Speech-to-Text Model for All 22 Indian Languages and Global English",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Sat, 26 Sep 2026 21:56:23 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/09/26/sarvam-ai-releases-saaras-v4-a-speech-to-text-model-for-all-22-indian-languages-and-global-english/"
+    },
     {
       "id": "muiw1l5chpcujhih4hj",
       "title": "Insurers claim AI is already increasing healthcare costs",
@@ -16,6 +50,22 @@
       "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
       "readTime": 1,
       "originalUrl": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/"
+    },
+    {
+      "id": "mujdiu3zl86i2ij6iv",
+      "title": "Supersonic Labs Releases Julia 1: A 144.3M-Parameter Open Decision Model That Runs on a CPU",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Sat, 26 Sep 2026 19:50:57 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/09/26/supersonic-labs-releases-julia-1-a-144-3m-parameter-open-decision-model-that-runs-on-a-cpu/"
     },
     {
       "id": "muilt2bx73eh7cytii",
@@ -796,63 +846,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
       "readTime": 1,
       "originalUrl": "https://openai.com/index/ringg"
-    },
-    {
-      "id": "mufh4sgzmagzzs98tds",
-      "title": "Avec Muse, Meta est en train de réussir sa remontada face à OpenAI et Anthropic",
-      "summary": "...",
-      "source": {
-        "name": "Numerama",
-        "url": "https://www.numerama.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "OpenAI",
-        "Anthropic",
-        "Meta"
-      ],
-      "publishedAt": "Thu, 24 Sep 2026 10:35:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.numerama.com/tech/2339225-avec-muse-meta-est-en-train-de-reussir-sa-remontada-face-a-openai-et-anthropic.html"
-    },
-    {
-      "id": "mufh4sh01i85jurz31j",
-      "title": "Questionnaire sur l’Australie, site gouvernemental infiltré, mail générique : ce que l’on sait de la nouvelle dérive agentique d’OpenAI",
-      "summary": "...",
-      "source": {
-        "name": "Numerama",
-        "url": "https://www.numerama.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "OpenAI"
-      ],
-      "publishedAt": "Thu, 24 Sep 2026 09:35:32 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.numerama.com/cyberguerre/2339277-questionnaire-sur-laustralie-site-gouvernemental-infiltre-mail-generique-ce-que-lon-sait-de-la-nouvelle-derive-agentique-dopenai.html"
-    },
-    {
-      "id": "mufsnegq5tqw0dm0hsm",
-      "title": "Contrastive-LM Releases CLM-8B: An Open System One Model That Scores Agent Actions Up to 9× Faster Than Jev",
-      "summary": "...",
-      "source": {
-        "name": "MarkTechPost",
-        "url": "https://www.marktechpost.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Thu, 24 Sep 2026 05:27:41 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.marktechpost.com/2026/09/23/contrastive-lm-releases-clm-8b-an-open-system-one-model-that-scores-agent-actions-up-to-9x-faster-than-jev/"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-09-26T21:15:04.364Z",
-  "edition": 642
+  "lastUpdated": "2026-09-27T05:24:16.616Z",
+  "edition": 643
 }
