@@ -1,6 +1,62 @@
 {
-  "date": "2026-09-27T17:01:53.088Z",
+  "date": "2026-09-27T21:24:46.565Z",
   "articles": [
+    {
+      "id": "mukbty6ezaaesft4qj9",
+      "title": "Anthropic’s CEO is about to have dinner with President Trump",
+      "summary": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump...",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Anthropic"
+      ],
+      "publishedAt": "Sun, 27 Sep 2026 20:34:28 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/"
+    },
+    {
+      "id": "mukbty6fq03jbl91caa",
+      "title": "Can Muse overcome Meta’s trust issues?",
+      "summary": "On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "OpenAI",
+        "Anthropic",
+        "Meta"
+      ],
+      "publishedAt": "Sun, 27 Sep 2026 19:57:30 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/"
+    },
+    {
+      "id": "mukbty6g6ejjl4pmxn",
+      "title": "Anthropic’s Dario Amodei gets the SNL treatment",
+      "summary": "\"AI is the devil and I its maker.\"...",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Anthropic"
+      ],
+      "publishedAt": "Sun, 27 Sep 2026 16:30:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/"
+    },
     {
       "id": "muk2g1xv0gmk6qgehapd",
       "title": "« On ne confierait pas à un modèle de langage le pilotage d’un avion ». C’est tout l’enjeu de l’après-LLM, selon Arlequin AI",
@@ -792,63 +848,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
       "readTime": 1,
       "originalUrl": "https://techcrunch.com/2026/09/24/twenty-minutes-with-the-ceo-of-elevenlabs-now-reportedly-valued-at-22-billion/"
-    },
-    {
-      "id": "mufsn9zfje0n1anakj",
-      "title": "Meet the next wave of VCs judging Startup Battlefield 200 at TechCrunch Disrupt 2026",
-      "summary": "Meet the next wave of VCs judging the Startup Battlefield 200 contenders on the main stage at TechCrunch Disrupt 2026. Register by September 25 at 11:59 p.m. PT, to save up to $200 and to get a front-row seat to one of the most intense startup pitch competitions....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Startup"
-      ],
-      "publishedAt": "Thu, 24 Sep 2026 16:03:36 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/09/24/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026/"
-    },
-    {
-      "id": "mufsn9zfen114fc1vrn",
-      "title": "Google tests letting Gemini call businesses for you",
-      "summary": "Google says the AI-calling feature will first be available to Pixel 11 owners in the U.S. who pay for a Gemini subscription. ...",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Google"
-      ],
-      "publishedAt": "Thu, 24 Sep 2026 16:00:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/09/24/google-tests-letting-gemini-make-phone-calls-initially-for-us-pixel-owners/"
-    },
-    {
-      "id": "mufsnhg6irsuk11rm2l",
-      "title": "Anthropic a trouvé un système inconnu dans l’ADN de bactériophages, mais ne sait pas trop ce qu’il fait vraiment",
-      "summary": "...",
-      "source": {
-        "name": "Numerama",
-        "url": "https://www.numerama.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Anthropic"
-      ],
-      "publishedAt": "Thu, 24 Sep 2026 15:27:16 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.numerama.com/tech/2339397-anthropic-a-trouve-un-systeme-inconnu-dans-ladn-de-bacteriophages-mais-ne-sait-pas-trop-ce-quil-fait-vraiment.html"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-09-27T17:01:53.088Z",
-  "edition": 645
+  "lastUpdated": "2026-09-27T21:24:46.565Z",
+  "edition": 646
 }
