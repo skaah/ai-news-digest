@@ -1,6 +1,142 @@
 {
-  "date": "2026-09-28T14:05:12.167Z",
+  "date": "2026-09-28T23:20:22.102Z",
   "articles": [
+    {
+      "id": "mulvega4nr1lhgqdhxb",
+      "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
+      "summary": "Listen to the session or watch below The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border crossers and save lives. But a groundbreaking investigation by MI...",
+      "source": {
+        "name": "MIT Tech Review AI",
+        "url": "https://www.technologyreview.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.technologyreview.com&sz=64"
+      },
+      "category": "Funding",
+      "tags": [],
+      "publishedAt": "Mon, 28 Sep 2026 22:17:07 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/"
+    },
+    {
+      "id": "mulveemodsazoe67z7l",
+      "title": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
+      "summary": "The new financing is expected to more than triples the AI infrastructure startup's valuation from just four months ago....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Startup"
+      ],
+      "publishedAt": "Mon, 28 Sep 2026 21:29:18 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/"
+    },
+    {
+      "id": "mulveemog8xfvdsqw9a",
+      "title": "AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion",
+      "summary": "The acquisition will see World Labs founder Fei-Fei Li join AMD as executive vice president and chief scientist. ...",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Funding",
+      "tags": [],
+      "publishedAt": "Mon, 28 Sep 2026 20:39:33 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/"
+    },
+    {
+      "id": "mulveemp8b2i74wcmbc",
+      "title": "Shopify opens checkout to browser-based AI agents",
+      "summary": "Shopify is expanding WebMCP support to checkout, allowing browser-based AI agents to update order details and complete purchases with a buyer’s authorization....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Mon, 28 Sep 2026 19:33:57 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/"
+    },
+    {
+      "id": "mulveempo0hvitgrgd",
+      "title": "Nvidia launches new platform for reining in rogue AI agents",
+      "summary": "As the debate rages over whether the recent spate of rogue AI agents is a step toward AGI or a more conventional engineering problem, Nvidia is offering its own answer to problem. Nvidia CEO Jensen Huang on Monday introduced a toolkit of software and hardware products that add in...",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Product",
+      "tags": [
+        "Nvidia"
+      ],
+      "publishedAt": "Mon, 28 Sep 2026 18:31:23 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/"
+    },
+    {
+      "id": "mulveempes83sylhhu",
+      "title": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner",
+      "summary": "Anthropic has released the newest version of its mid-range model, boasting faster response times and less token burn. ...",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Anthropic"
+      ],
+      "publishedAt": "Mon, 28 Sep 2026 18:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/"
+    },
+    {
+      "id": "mulvenhcr5o81dt3mba",
+      "title": "IA : Mistral ouvre une antenne à Munich pour accélérer son passage à l’échelle industrielle",
+      "summary": "...",
+      "source": {
+        "name": "Maddyness",
+        "url": "https://www.maddyness.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.maddyness.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Mon, 28 Sep 2026 17:34:59 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.maddyness.com/2026/09/28/ia-mistral-ouvre-une-antenne-a-munich-pour-accelerer-son-passage-a-lechelle-industrielle/"
+    },
+    {
+      "id": "mulvega4gvseus10m65",
+      "title": "When can we say AI made a scientific discovery?",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last Wednesday, Anthropic announced that earlier this year it had launched a molecular biology lab, where Claude agents read and conjecture ab...",
+      "source": {
+        "name": "MIT Tech Review AI",
+        "url": "https://www.technologyreview.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.technologyreview.com&sz=64"
+      },
+      "category": "Product",
+      "tags": [
+        "Anthropic"
+      ],
+      "publishedAt": "Mon, 28 Sep 2026 17:03:16 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/"
+    },
     {
       "id": "mulbkhmtsg5y771hu5j",
       "title": "Insuretech Outmarket raises $34.5M just months after prior round",
@@ -152,6 +288,24 @@
       "originalUrl": "https://www.marktechpost.com/2026/09/28/fireworks-ai-releases-ember-1-a-post-trained-kimi-k3-that-uses-about-40-fewer-tokens/"
     },
     {
+      "id": "mulveh9lc1uneys6zy",
+      "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+      "summary": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support....",
+      "source": {
+        "name": "OpenAI News",
+        "url": "https://openai.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
+      },
+      "category": "Funding",
+      "tags": [
+        "OpenAI"
+      ],
+      "publishedAt": "Mon, 28 Sep 2026 07:00:00 GMT",
+      "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=800",
+      "readTime": 1,
+      "originalUrl": "https://openai.com/index/lenfest-ai-collaborative-expansion"
+    },
+    {
       "id": "mukt7mt2i862z8eascj",
       "title": "Bringing AI to Autonomous Systems -- From Cognition to Collective Intelligence",
       "summary": "...",
@@ -266,6 +420,40 @@
       "imageUrl": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=800",
       "readTime": 1,
       "originalUrl": "https://www.marktechpost.com/2026/09/27/google-research-introduces-an-ai-video-co-director-4-agentic-frameworks-for-coherent-minutes-long-video-generation/"
+    },
+    {
+      "id": "mulveh9lqgqkw8c6q1q",
+      "title": "Are you a Codex Original?",
+      "summary": "We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things. If you want to be a part of the next chapter of the Codex Originals program, tell us more about your story and project below....",
+      "source": {
+        "name": "OpenAI News",
+        "url": "https://openai.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
+      },
+      "category": "Research",
+      "tags": [],
+      "publishedAt": "Mon, 28 Sep 2026 00:00:00 GMT",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800",
+      "readTime": 1,
+      "originalUrl": "https://openai.com/form/codex-originals"
+    },
+    {
+      "id": "mulveh9mkm29g5jkzz",
+      "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
+      "summary": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use....",
+      "source": {
+        "name": "OpenAI News",
+        "url": "https://openai.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "OpenAI"
+      ],
+      "publishedAt": "Mon, 28 Sep 2026 00:00:00 GMT",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://openai.com/index/basis-tax-workbook-with-astra"
     },
     {
       "id": "mukbty6ezaaesft4qj9",
@@ -662,197 +850,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800",
       "readTime": 1,
       "originalUrl": "https://techcrunch.com/2026/09/25/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/"
-    },
-    {
-      "id": "muhhh3732vl4180aeog",
-      "title": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
-      "summary": "The funding, which comes from Third Point, Nvidia, and others, will  fuel the company's massive AI data center buildout....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Funding",
-      "tags": [
-        "Nvidia"
-      ],
-      "publishedAt": "Fri, 25 Sep 2026 18:33:59 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/"
-    },
-    {
-      "id": "muhhh374yv42uvupydk",
-      "title": "Meta’s Muse just stole the AI spotlight from OpenAI and Anthropic",
-      "summary": "When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,” maybe someone should have asked: what pace? Now it’s turned into model drop week for both companies as Anthropic rolled out Opus 5.5, followed by OpenAI’s GPT-6 model updates ...",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "OpenAI",
-        "Anthropic",
-        "Meta"
-      ],
-      "publishedAt": "Fri, 25 Sep 2026 18:22:47 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/"
-    },
-    {
-      "id": "muh83geyisphtxzz26h",
-      "title": "Meta is putting its muscle behind Muse as the AI app takes off",
-      "summary": "Muse is topping the app store charts and adding users at a rapid clip, while Meta ramps up the personal AI agents's promotion across its own apps and beyond....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Meta"
-      ],
-      "publishedAt": "Fri, 25 Sep 2026 16:16:52 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/"
-    },
-    {
-      "id": "muh83gezvu3xdq3g2h",
-      "title": "For months, OpenAI’s agent swarms have been attacking online databases to find obscure facts",
-      "summary": "The latest unauthorized agent swarms were discovered by researchers....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Research",
-      "tags": [
-        "OpenAI"
-      ],
-      "publishedAt": "Fri, 25 Sep 2026 15:48:14 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts/"
-    },
-    {
-      "id": "muh83gezq2rmjs8th8",
-      "title": "Anthropic’s founders seek voting control ahead of IPO",
-      "summary": "Anthropic is asking its shareholders to approve a structure that would give its seven co-founders a combined 50.1% of the vote on most corporate matters....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Anthropic"
-      ],
-      "publishedAt": "Fri, 25 Sep 2026 15:40:03 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo/"
-    },
-    {
-      "id": "muh83kcypicclqkafhs",
-      "title": "Aikido Security Releases Altar-1: An Open-Weight Security Model Pruned From GLM-5.3 to 328 GB",
-      "summary": "...",
-      "source": {
-        "name": "MarkTechPost",
-        "url": "https://www.marktechpost.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Fri, 25 Sep 2026 15:14:45 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.marktechpost.com/2026/09/25/aikido-security-releases-altar-1-an-open-weight-security-model-pruned-from-glm-5-3-to-328-gb/"
-    },
-    {
-      "id": "muh83gf0b7wge24php",
-      "title": "TechCrunch Disrupt 2026: Ricursive Intelligence’s Anna Goldie and Azalia Mirhoseini on when AI starts designing its own hardware",
-      "summary": "At TechCrunch Disrupt 2026, Ricursive Intelligence co-founders Anna Goldie and Azalia Mirhoseini will take the Disrupt Stage to discuss closing the loop between AI and chip development. Save up to $200 on your pass before today ends....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Hardware",
-      "tags": [],
-      "publishedAt": "Fri, 25 Sep 2026 15:00:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/09/25/techcrunch-disrupt-2026-ricursive-intelligences-anna-goldie-and-azalia-mirhoseini-on-when-ai-starts-designing-its-own-hardware/"
-    },
-    {
-      "id": "muh83kcyo30r788w4ti",
-      "title": "Perplexity Trains Its Computer Agent on Real Mistakes With Hint-Guided Self-Distillation",
-      "summary": "...",
-      "source": {
-        "name": "MarkTechPost",
-        "url": "https://www.marktechpost.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Fri, 25 Sep 2026 14:30:26 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.marktechpost.com/2026/09/25/perplexity-trains-its-computer-agent-on-real-mistakes-with-hint-guided-self-distillation/"
-    },
-    {
-      "id": "muh83gf0gph3hiquhk",
-      "title": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
-      "summary": "Your next opportunity could be one conversation away. Get your Expo+ Pass for just $75. Limited to the first 100 qualifying people....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Fri, 25 Sep 2026 14:15:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/09/25/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/"
-    },
-    {
-      "id": "mugwnuyy66vrx22cv24",
-      "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
-      "summary": "The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request. The program, called “Polygraph+” or “Polygraph Next”, will focus on scoring algorithms that use artificial intelligenc...",
-      "source": {
-        "name": "MIT Tech Review AI",
-        "url": "https://www.technologyreview.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.technologyreview.com&sz=64"
-      },
-      "category": "Funding",
-      "tags": [],
-      "publishedAt": "Fri, 25 Sep 2026 09:16:25 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/"
-    },
-    {
-      "id": "mughw9zimicezac73am",
-      "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
-      "summary": "The Silicon Valley firm is aligning its India fundraising cycle with its global funds for the first time, as it shifts to a shorter investment period....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Funding",
-      "tags": [],
-      "publishedAt": "Fri, 25 Sep 2026 05:00:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-09-28T14:05:12.167Z",
-  "edition": 648
+  "lastUpdated": "2026-09-28T23:20:22.101Z",
+  "edition": 649
 }
