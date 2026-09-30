@@ -1,6 +1,182 @@
 {
-  "date": "2026-09-30T12:42:45.046Z",
+  "date": "2026-09-30T22:21:03.373Z",
   "articles": [
+    {
+      "id": "muoo5zc7cujpy146f28",
+      "title": "Google DeepMind Unveils Gemini 4 Argon with 1M Output Tokens for Coding, Knowledge Work and Cyber Defense",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Google"
+      ],
+      "publishedAt": "Wed, 30 Sep 2026 21:30:08 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/09/30/google-deepmind-unveils-gemini-4-argon-with-1m-output-tokens-for-coding-knowledge-work-and-cyber-defense/"
+    },
+    {
+      "id": "muoo5zc73m4i0ugyj59",
+      "title": "OpenAI Releases GPT-6.1 Sol: Near-Astra Coding and Computer Use at One-Fifth of Astra’s Token Price",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "OpenAI"
+      ],
+      "publishedAt": "Wed, 30 Sep 2026 21:09:24 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/09/30/openai-releases-gpt-6-1-sol-near-astra-coding-and-computer-use-at-one-fifth-of-astras-token-price/"
+    },
+    {
+      "id": "muoo5veop69l0mtc32",
+      "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
+      "summary": "Flow Engineering, which is bringing AI agents to hardware design, also landed Roelof Botha as an angel investor and board member....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Hardware",
+      "tags": [
+        "Startup"
+      ],
+      "publishedAt": "Wed, 30 Sep 2026 21:07:40 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1555664424-778a69022365?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/"
+    },
+    {
+      "id": "muoo62awtnycoxpqpp",
+      "title": "Google annonce Gemini 4 Argon et revendique des meilleurs résultats qu’OpenAI et Anthropic",
+      "summary": "...",
+      "source": {
+        "name": "Numerama",
+        "url": "https://www.numerama.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
+      },
+      "category": "Policy",
+      "tags": [
+        "OpenAI",
+        "Anthropic",
+        "Google"
+      ],
+      "publishedAt": "Wed, 30 Sep 2026 20:17:40 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1575517111839-3a3843ee7f5d?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.numerama.com/tech/2344493-google-annonce-gemini-4-argon-et-revendique-des-meilleurs-resultats-quopenai-et-anthropic.html"
+    },
+    {
+      "id": "muoo5vepamw5rq03js",
+      "title": "OpenAI’s Jev clone could help the frontier lab stop its swarming agents",
+      "summary": "OpenAI's \"Decisions API\" is a Jev clone that confirms the importance of fast, cheap intelligence. ...",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "OpenAI"
+      ],
+      "publishedAt": "Wed, 30 Sep 2026 19:00:57 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/"
+    },
+    {
+      "id": "muoo5veprxef9t2qsj",
+      "title": "AI voice startup ElevenLabs doubles valuation to $22B",
+      "summary": "The $300 million employee tender was co-led by Wellington and T. Rowe Price....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Funding",
+      "tags": [
+        "Startup"
+      ],
+      "publishedAt": "Wed, 30 Sep 2026 18:23:57 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/"
+    },
+    {
+      "id": "muoo5veqjgwmm5uusc",
+      "title": "Reddit is killing RSS feeds and ending public API access because of AI bots",
+      "summary": "Reddit is ending support for RSS feeds, as the company continues tightening access to its trove of user-generated content....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Wed, 30 Sep 2026 17:45:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/"
+    },
+    {
+      "id": "muoo5veqcpevuw3v63v",
+      "title": "The ugly economics of consumer AI",
+      "summary": "There’s a reason frontier labs have gotten gun-shy about consumer AI — and it’s not because the tech isn’t good enough....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Wed, 30 Sep 2026 17:24:45 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/"
+    },
+    {
+      "id": "muoo5x8b75dpnjssvhw",
+      "title": "MIT Transit Lab to develop an AI platform for public transit agencies",
+      "summary": "With $2.1 million funding from Google.org, the open-source Public Transit Intelligence Hub will unify public transit monitoring, operations, and passenger communication....",
+      "source": {
+        "name": "MIT News AI",
+        "url": "https://news.mit.edu",
+        "favicon": "https://www.google.com/s2/favicons?domain=news.mit.edu&sz=64"
+      },
+      "category": "Funding",
+      "tags": [
+        "Google"
+      ],
+      "publishedAt": "Wed, 30 Sep 2026 11:15:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800",
+      "readTime": 1,
+      "originalUrl": "https://news.mit.edu/2026/mit-transit-lab-to-develop-ai-platform-public-transit-agencies-0930"
+    },
+    {
+      "id": "muoo5x8cwhzw0mmd1ro",
+      "title": "This game-playing AI is the new champ at Stratego",
+      "summary": "Able to defeat top-ranked human players and more efficient than other models, the new system could help decision-makers in military maneuvers or business negotiations....",
+      "source": {
+        "name": "MIT News AI",
+        "url": "https://news.mit.edu",
+        "favicon": "https://www.google.com/s2/favicons?domain=news.mit.edu&sz=64"
+      },
+      "category": "Policy",
+      "tags": [],
+      "publishedAt": "Wed, 30 Sep 2026 11:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1575517111839-3a3843ee7f5d?w=800",
+      "readTime": 1,
+      "originalUrl": "https://news.mit.edu/2026/game-playing-ai-stratego-new-champ-0930"
+    },
     {
       "id": "muo3i4zalpnd0ydxcnn",
       "title": "Airbnb adds AI search, more social features",
@@ -52,6 +228,76 @@
       "imageUrl": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=800",
       "readTime": 1,
       "originalUrl": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/"
+    },
+    {
+      "id": "muoo5xpifz8lq0tjg9",
+      "title": "Disrupting a coordinated model-distillation campaign",
+      "summary": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation....",
+      "source": {
+        "name": "OpenAI News",
+        "url": "https://openai.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "OpenAI"
+      ],
+      "publishedAt": "Wed, 30 Sep 2026 10:30:00 GMT",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign"
+    },
+    {
+      "id": "muoo5xpi9egxoi6yp2g",
+      "title": "Helping small businesses put AI to work",
+      "summary": "OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI....",
+      "source": {
+        "name": "OpenAI News",
+        "url": "https://openai.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "OpenAI"
+      ],
+      "publishedAt": "Wed, 30 Sep 2026 10:00:00 GMT",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://openai.com/index/helping-small-businesses-put-ai-to-work"
+    },
+    {
+      "id": "muoo5zc8r6qe1473qgf",
+      "title": "Perplexity Introduces Photon: A Rust-Based Retrieval Engine That Cuts p99 Latency From 800 ms to 65 ms",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Wed, 30 Sep 2026 08:26:52 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/09/30/perplexity-introduces-photon-a-rust-based-retrieval-engine-that-cuts-p99-latency-from-800-ms-to-65-ms/"
+    },
+    {
+      "id": "muoo5zc8l1mwce3wa",
+      "title": "NVIDIA Researchers Introduce Physis-Lang: Self-Evolving Physical Language That Lifts Cosmos 3 Past Veo 3.1 on Physics Benchmarks",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Research",
+      "tags": [
+        "Nvidia"
+      ],
+      "publishedAt": "Wed, 30 Sep 2026 07:32:34 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/09/30/nvidia-researchers-introduce-physis-lang-self-evolving-physical-language-that-lifts-cosmos-3-past-veo-3-1-on-physics-benchmarks/"
     },
     {
       "id": "munodv8hwedkyyv7eum",
@@ -171,6 +417,22 @@
       "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
       "readTime": 1,
       "originalUrl": "https://www.marktechpost.com/2026/09/29/rsa-launches-agent-id-to-discover-secure-and-govern-ai-agents-in-regulated-industries/"
+    },
+    {
+      "id": "muoo5y9qcqqozcju3uq",
+      "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
+      "summary": "...",
+      "source": {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co",
+        "favicon": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Wed, 30 Sep 2026 00:00:00 GMT",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://huggingface.co/blog/open-tts-leaderboard"
     },
     {
       "id": "munodq8hguo3est3fqo",
@@ -609,260 +871,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
       "readTime": 1,
       "originalUrl": "https://www.marktechpost.com/2026/09/28/alibaba-qwen-releases-qwen-audio-3-1-realtime-a-full-duplex-voice-model-trained-to-think-act-and-decide-when-to-speak/"
-    },
-    {
-      "id": "mum9auku3adyt6aamil",
-      "title": "Anthropic Releases Claude Sonnet 5.5: 70.6% on Terminal-Bench 4.0 at the Same $2/$10 Price",
-      "summary": "...",
-      "source": {
-        "name": "MarkTechPost",
-        "url": "https://www.marktechpost.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Anthropic"
-      ],
-      "publishedAt": "Tue, 29 Sep 2026 04:20:59 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.marktechpost.com/2026/09/28/anthropic-releases-claude-sonnet-5-5-70-6-on-terminal-bench-4-0-at-the-same-2-10-price/"
-    },
-    {
-      "id": "mum9as1lnk1puq0d5g9",
-      "title": "The effects of an “algorithmic monoculture” depend on the details",
-      "summary": "In a study focusing on hiring decisions, MIT researchers found the use of a single algorithm by many firms could benefit job seekers in certain situations. ...",
-      "source": {
-        "name": "MIT News AI",
-        "url": "https://news.mit.edu",
-        "favicon": "https://www.google.com/s2/favicons?domain=news.mit.edu&sz=64"
-      },
-      "category": "Research",
-      "tags": [],
-      "publishedAt": "Tue, 29 Sep 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?w=800",
-      "readTime": 1,
-      "originalUrl": "https://news.mit.edu/2026/algorithmic-monoculture-effects-depend-on-details-0929"
-    },
-    {
-      "id": "mum9as1l4w2nkjwhey",
-      "title": "Who we become when we talk to machines",
-      "summary": "Professor Sherry Turkle’s new book, “Artificial Intimacy,” offers a withering critique of chatbots and the antisocial dynamics she believes they encourage....",
-      "source": {
-        "name": "MIT News AI",
-        "url": "https://news.mit.edu",
-        "favicon": "https://www.google.com/s2/favicons?domain=news.mit.edu&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Tue, 29 Sep 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://news.mit.edu/2026/when-we-talk-to-machines-sherry-turkle-book-0929"
-    },
-    {
-      "id": "mum9av448o8w05ypfvg",
-      "title": "SMARtCARE: Privacy-Preserving Agentic AI Systems for Bounded-Autonomy Clinical Decision Support",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Tue, 29 Sep 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2609.31763"
-    },
-    {
-      "id": "mum9av44jykintc5bn",
-      "title": "Witeness Overlap: Directional Provenance Inside Open-Weight Model Families",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Tue, 29 Sep 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2609.31784"
-    },
-    {
-      "id": "mum9av45ocxujcn11aj",
-      "title": "CP-Agent: A Harness-Engineered Agent for Crystal Plasticity Simulation Workflows",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Tue, 29 Sep 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2609.31790"
-    },
-    {
-      "id": "mum9av459ayaz9nudg",
-      "title": "ConflictVLA-Bench: Benchmarking Behavioral Responses of Vision-Language-Action Models to Premise Conflicts",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Tue, 29 Sep 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2609.31792"
-    },
-    {
-      "id": "mum9av45q930t4zi0zm",
-      "title": "Working with AI: A Design Framework for Human-AI Collaboration",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Tue, 29 Sep 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2609.31793"
-    },
-    {
-      "id": "mum9aq1g6wnj5ao5g0k",
-      "title": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
-      "summary": "Thirteen of the 18 startups in Peak XV’s latest Surge cohort are targeting global markets, while more than half are based in India....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Funding",
-      "tags": [
-        "Startup"
-      ],
-      "publishedAt": "Tue, 29 Sep 2026 00:30:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/"
-    },
-    {
-      "id": "mun8puqqu6zfil4so9",
-      "title": "Introducing dots",
-      "summary": "Dots by OpenAI are a proactive assistant that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward....",
-      "source": {
-        "name": "OpenAI News",
-        "url": "https://openai.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "OpenAI"
-      ],
-      "publishedAt": "Tue, 29 Sep 2026 00:00:00 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://openai.com/index/introducing-dots"
-    },
-    {
-      "id": "mum9aq1hm3co1izeb8p",
-      "title": "OpenAI reportedly ditches model over safety concerns",
-      "summary": "A top executive at the AI lab told the Wall Street Journal that the model in question had displayed a poor aptitude for following orders.  ...",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Ethics",
-      "tags": [
-        "OpenAI",
-        "AI Safety"
-      ],
-      "publishedAt": "Mon, 28 Sep 2026 23:39:20 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/"
-    },
-    {
-      "id": "mulvega4nr1lhgqdhxb",
-      "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
-      "summary": "Listen to the session or watch below The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border crossers and save lives. But a groundbreaking investigation by MI...",
-      "source": {
-        "name": "MIT Tech Review AI",
-        "url": "https://www.technologyreview.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.technologyreview.com&sz=64"
-      },
-      "category": "Funding",
-      "tags": [],
-      "publishedAt": "Mon, 28 Sep 2026 22:17:07 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/"
-    },
-    {
-      "id": "mulveemodsazoe67z7l",
-      "title": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
-      "summary": "The new financing is expected to more than triples the AI infrastructure startup's valuation from just four months ago....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Startup"
-      ],
-      "publishedAt": "Mon, 28 Sep 2026 21:29:18 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/"
-    },
-    {
-      "id": "mulveemog8xfvdsqw9a",
-      "title": "AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion",
-      "summary": "The acquisition will see World Labs founder Fei-Fei Li join AMD as executive vice president and chief scientist. ...",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Funding",
-      "tags": [],
-      "publishedAt": "Mon, 28 Sep 2026 20:39:33 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/"
-    },
-    {
-      "id": "mulveemp8b2i74wcmbc",
-      "title": "Shopify opens checkout to browser-based AI agents",
-      "summary": "Shopify is expanding WebMCP support to checkout, allowing browser-based AI agents to update order details and complete purchases with a buyer’s authorization....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Mon, 28 Sep 2026 19:33:57 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-09-30T12:42:45.046Z",
-  "edition": 654
+  "lastUpdated": "2026-09-30T22:21:03.373Z",
+  "edition": 655
 }
