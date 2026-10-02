@@ -1,6 +1,120 @@
 {
-  "date": "2026-10-01T22:44:55.133Z",
+  "date": "2026-10-02T05:47:04.984Z",
   "articles": [
+    {
+      "id": "muqjjekp5btvdu12fkb",
+      "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
+      "summary": "...",
+      "source": {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co",
+        "favicon": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Fri, 02 Oct 2026 04:01:31 GMT",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata"
+    },
+    {
+      "id": "muqjjdo8t40dvzjlgn",
+      "title": "3 Questions: A new resource to empower young entrepreneurs",
+      "summary": "Martin Trust Center Managing Director Bill Aulet introduces Dear Dreamer, a free platform for middle and high school students who want to learn about entrepreneurship....",
+      "source": {
+        "name": "MIT News AI",
+        "url": "https://news.mit.edu",
+        "favicon": "https://www.google.com/s2/favicons?domain=news.mit.edu&sz=64"
+      },
+      "category": "Policy",
+      "tags": [],
+      "publishedAt": "Fri, 02 Oct 2026 00:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800",
+      "readTime": 1,
+      "originalUrl": "https://news.mit.edu/2026/3-questions-new-resource-empower-young-entrepreneurs-1002"
+    },
+    {
+      "id": "muqjjg2x1czz4d77jeo",
+      "title": "Heavy-Tailed Memory Traces in Long-Horizon Language Agents",
+      "summary": "...",
+      "source": {
+        "name": "ArXiv cs.AI",
+        "url": "https://arxiv.org",
+        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Fri, 02 Oct 2026 00:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://arxiv.org/abs/2610.00010"
+    },
+    {
+      "id": "muqjjg2xweu8ex30fj",
+      "title": "When Do Causal World Models Help Modular LLM Agents",
+      "summary": "...",
+      "source": {
+        "name": "ArXiv cs.AI",
+        "url": "https://arxiv.org",
+        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "LLM"
+      ],
+      "publishedAt": "Fri, 02 Oct 2026 00:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://arxiv.org/abs/2610.00012"
+    },
+    {
+      "id": "muqjjg2ycfgjqs53oe",
+      "title": "From Proposal to Verified Effect: Praxa, an Evidence-Bound Harness for Governed AI Agent Execution",
+      "summary": "...",
+      "source": {
+        "name": "ArXiv cs.AI",
+        "url": "https://arxiv.org",
+        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Fri, 02 Oct 2026 00:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://arxiv.org/abs/2610.00015"
+    },
+    {
+      "id": "muqjjg2yb23xqe3o8e",
+      "title": "What Do Rationales Communicate? A Message-Intervention Study in Role-Specialized QA",
+      "summary": "...",
+      "source": {
+        "name": "ArXiv cs.AI",
+        "url": "https://arxiv.org",
+        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
+      },
+      "category": "Research",
+      "tags": [],
+      "publishedAt": "Fri, 02 Oct 2026 00:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800",
+      "readTime": 1,
+      "originalUrl": "https://arxiv.org/abs/2610.00018"
+    },
+    {
+      "id": "muqjjg2znhxnrcuppoj",
+      "title": "Measuring the Microtask Eligibility Gap: When Is an Off-the-Shelf SLM Enough for an Agent Harness?",
+      "summary": "...",
+      "source": {
+        "name": "ArXiv cs.AI",
+        "url": "https://arxiv.org",
+        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Fri, 02 Oct 2026 00:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://arxiv.org/abs/2610.00025"
+    },
     {
       "id": "muq4gh5wllq6pff0lw",
       "title": "New tool lets users repair AI-generated 3D models, then fabricate them just the way they want",
@@ -738,128 +852,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?w=800",
       "readTime": 1,
       "originalUrl": "https://www.marktechpost.com/2026/09/30/nvidia-researchers-introduce-physis-lang-self-evolving-physical-language-that-lifts-cosmos-3-past-veo-3-1-on-physics-benchmarks/"
-    },
-    {
-      "id": "munodv8hwedkyyv7eum",
-      "title": "OpenAI-HuggingFace: A Reproduction & Lessons for Alignment Testing",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Product",
-      "tags": [
-        "OpenAI",
-        "AI Safety"
-      ],
-      "publishedAt": "Wed, 30 Sep 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2609.35799"
-    },
-    {
-      "id": "munodv8h3zy21jwhzhr",
-      "title": "Neurosymbolic Routing for Reliable Reasoning on Resource-Constrained Edge Devices",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Policy",
-      "tags": [],
-      "publishedAt": "Wed, 30 Sep 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1555848962-6e79363ec58f?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2609.35833"
-    },
-    {
-      "id": "munodv8ikq64a4h1sh",
-      "title": "Is Human-Readable Text Necessary for Effective LLM Fine-Tuning?",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "LLM"
-      ],
-      "publishedAt": "Wed, 30 Sep 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2609.35868"
-    },
-    {
-      "id": "munodv8i1a2m4micm0e",
-      "title": "The Price of Token Boundaries: Compression Certificates and Prediction",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Wed, 30 Sep 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2609.35869"
-    },
-    {
-      "id": "munodv8iwyfi89iowgi",
-      "title": "More Programs or More Rolls? Separating Coverage from Specialization in LLM Harnesses",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "LLM"
-      ],
-      "publishedAt": "Wed, 30 Sep 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2609.35873"
-    },
-    {
-      "id": "munodx7t4jucbzry3mj",
-      "title": "Rakuten France : le site de vente en ligne cessera son activité à partir du 1ᵉʳ octobre",
-      "summary": "Faute de repreneur, la plateforme indique sur sa page d’accueil qu’à compter de cette date il ne sera plus possible d’effectuer de nouveaux achats ni de ventes. Confrontée à la concurrence, la « marketplace » n’a jamais réussi à enrayer le déclin de son activité. Quelque 180 sala...",
-      "source": {
-        "name": "Le Monde Tech",
-        "url": "https://www.lemonde.fr",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.lemonde.fr&sz=64"
-      },
-      "category": "Policy",
-      "tags": [],
-      "publishedAt": "Wed, 30 Sep 2026 05:30:43 +0200",
-      "imageUrl": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.lemonde.fr/economie/article/2026/09/30/rakuten-france-le-site-de-vente-en-ligne-cessera-son-activite-a-partir-du-1-octobre_6785934_3234.html"
-    },
-    {
-      "id": "munodukbqnj01n7embb",
-      "title": "One Bad Prompt Took Down a Company’s Salesforce: RSA’s Jim Taylor on Agent ID and Taming the 4,000 Shadow AI Agents Hiding in Your Enterprise",
-      "summary": "...",
-      "source": {
-        "name": "MarkTechPost",
-        "url": "https://www.marktechpost.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Wed, 30 Sep 2026 01:30:17 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.marktechpost.com/2026/09/29/rsa-launches-agent-id-to-discover-secure-and-govern-ai-agents-in-regulated-industries/"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-10-01T22:44:55.133Z",
-  "edition": 658
+  "lastUpdated": "2026-10-02T05:47:04.984Z",
+  "edition": 659
 }
