@@ -1,6 +1,42 @@
 {
-  "date": "2026-10-02T22:20:58.539Z",
+  "date": "2026-10-03T05:24:25.655Z",
   "articles": [
+    {
+      "id": "mury67q7bjmb660p0wq",
+      "title": "Comment les agents IA feront les courses à votre place",
+      "summary": "Les Français pourront bientôt déléguer leurs achats à des robots. L’absence de cadre réglementaire inquiète tous les acteurs, des commerçants aux banques en passant par les consommateurs....",
+      "source": {
+        "name": "Le Monde Tech",
+        "url": "https://www.lemonde.fr",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.lemonde.fr&sz=64"
+      },
+      "category": "Policy",
+      "tags": [
+        "Robotics"
+      ],
+      "publishedAt": "Sat, 03 Oct 2026 06:00:13 +0200",
+      "imageUrl": "https://images.unsplash.com/photo-1575517111839-3a3843ee7f5d?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.lemonde.fr/economie/article/2026/10/03/comment-les-agents-ia-feront-les-courses-a-votre-place_6787530_3234.html"
+    },
+    {
+      "id": "mury61me1y1icsfledi",
+      "title": "Meta wants your next gadget to be Muse-infused",
+      "summary": "Meta wants Muse in your TV and your toaster, so it's giving the code away for free....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Meta"
+      ],
+      "publishedAt": "Sat, 03 Oct 2026 00:45:39 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/"
+    },
     {
       "id": "murj1h9hsb9mwziq4t",
       "title": "Sean Parker is rebuilding Stability AI around music",
@@ -809,43 +845,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
       "readTime": 1,
       "originalUrl": "https://arxiv.org/abs/2609.38294"
-    },
-    {
-      "id": "mup4ppuc9v76sblp7bt",
-      "title": "AI Agents are Vulnerable to Radicalization",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Thu, 01 Oct 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2609.38296"
-    },
-    {
-      "id": "mup4ppud0ru43q8fzw7c",
-      "title": "CARAT: Do Materials LLMs Reason or Recite?",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "LLM"
-      ],
-      "publishedAt": "Thu, 01 Oct 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2609.38340"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-10-02T22:20:58.539Z",
-  "edition": 661
+  "lastUpdated": "2026-10-03T05:24:25.655Z",
+  "edition": 662
 }
