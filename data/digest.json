@@ -1,6 +1,59 @@
 {
-  "date": "2026-10-03T21:23:28.620Z",
+  "date": "2026-10-04T06:00:18.790Z",
   "articles": [
+    {
+      "id": "mutew55tb9ivvnlr8ft",
+      "title": "DeepSeek Harness v0.2 Brings Official Desktop Apps to Its Open-Source Agent Harness",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "China"
+      ],
+      "publishedAt": "Sun, 04 Oct 2026 04:49:42 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/10/03/deepseek-harness-v0-2-brings-official-desktop-apps-to-its-open-source-agent-harness/"
+    },
+    {
+      "id": "mutew55u249ruo7zp1qj",
+      "title": "Inside NVIDIA’s IsaacTeleop: From Hand and Controller Tracking to Robot Actions with the Graph-Based Retargeting Engine",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Nvidia",
+        "Robotics"
+      ],
+      "publishedAt": "Sun, 04 Oct 2026 00:19:38 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/10/03/inside-nvidias-isaacteleop-from-hand-and-controller-tracking-to-robot-actions-with-the-graph-based-retargeting-engine/"
+    },
+    {
+      "id": "mutew45ezyog1k6csvr",
+      "title": "The Agent Said It Was Done. The Database Disagreed.",
+      "summary": "...",
+      "source": {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co",
+        "favicon": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Sat, 03 Oct 2026 22:56:48 GMT",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://huggingface.co/blog/microsoft/thinkingbox"
+    },
     {
       "id": "muswfe97shgx52302jk",
       "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
@@ -801,59 +854,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
       "readTime": 1,
       "originalUrl": "https://openai.com/index/the-eternal-complement"
-    },
-    {
-      "id": "muq4ghldx7ex0ex05",
-      "title": "How Albertsons Companies is reimagining retail from the inside out",
-      "summary": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers....",
-      "source": {
-        "name": "OpenAI News",
-        "url": "https://openai.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
-      },
-      "category": "Funding",
-      "tags": [
-        "OpenAI"
-      ],
-      "publishedAt": "Thu, 01 Oct 2026 16:00:00 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=800",
-      "readTime": 1,
-      "originalUrl": "https://openai.com/index/albertsons-reimagining-retail"
-    },
-    {
-      "id": "muq4gi3cbkbz7flmg9p",
-      "title": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
-      "summary": "...",
-      "source": {
-        "name": "Hugging Face Blog",
-        "url": "https://huggingface.co",
-        "favicon": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Thu, 01 Oct 2026 15:01:43 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://huggingface.co/blog/allenai/olmocore3"
-    },
-    {
-      "id": "muq4gl7a62g8ivldqxq",
-      "title": "Le Français devenu, par amour pour un influenceur TikTok, l’indispensable petite main des arnaqueurs au « refund »",
-      "summary": "En permettant à des clients, pour la plupart Américains, de se faire rembourser indûment des achats en ligne, Damien P., 24 ans, avait amassé plus de 700 000 euros. Une somme ensuite dilapidée en cadeaux virtuels sur TikTok....",
-      "source": {
-        "name": "Le Monde Tech",
-        "url": "https://www.lemonde.fr",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.lemonde.fr&sz=64"
-      },
-      "category": "Policy",
-      "tags": [],
-      "publishedAt": "Thu, 01 Oct 2026 17:00:08 +0200",
-      "imageUrl": "https://images.unsplash.com/photo-1555848962-6e79363ec58f?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.lemonde.fr/pixels/article/2026/10/01/le-francais-devenu-par-amour-pour-un-influenceur-tiktok-l-indispensable-petite-main-des-arnaqueurs-au-refund_6786542_4408996.html"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-10-03T21:23:28.620Z",
-  "edition": 665
+  "lastUpdated": "2026-10-04T06:00:18.790Z",
+  "edition": 666
 }
