@@ -1,6 +1,129 @@
 {
-  "date": "2026-10-04T21:34:35.891Z",
+  "date": "2026-10-05T05:49:20.236Z",
   "articles": [
+    {
+      "id": "muutxwaqkaqops0xejs",
+      "title": "MintFlow: Minimal Trajectory Intervention for Constrained Flow Matching",
+      "summary": "...",
+      "source": {
+        "name": "ArXiv cs.AI",
+        "url": "https://arxiv.org",
+        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Mon, 05 Oct 2026 00:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://arxiv.org/abs/2610.02260"
+    },
+    {
+      "id": "muutxwar3kv5oy1iegr",
+      "title": "Fast Models, Slow Evidence: A Paired and Self-Audited Evaluation of System-1 Decision Models for LLM Agent Harnesses",
+      "summary": "...",
+      "source": {
+        "name": "ArXiv cs.AI",
+        "url": "https://arxiv.org",
+        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "LLM"
+      ],
+      "publishedAt": "Mon, 05 Oct 2026 00:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://arxiv.org/abs/2610.02267"
+    },
+    {
+      "id": "muutxwar8gm2bv5ueow",
+      "title": "The AI Risk Observatory: What Can We Learn from AI Disclosures in Annual Reports About Societal Resilience?",
+      "summary": "...",
+      "source": {
+        "name": "ArXiv cs.AI",
+        "url": "https://arxiv.org",
+        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
+      },
+      "category": "Ethics",
+      "tags": [
+        "AI Safety"
+      ],
+      "publishedAt": "Mon, 05 Oct 2026 00:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=800",
+      "readTime": 1,
+      "originalUrl": "https://arxiv.org/abs/2610.02281"
+    },
+    {
+      "id": "muutxwasazud1lc66o6",
+      "title": "Keep It CALM: Analyzing the Limits of Global Unsafety in Text-to-Image Generation",
+      "summary": "...",
+      "source": {
+        "name": "ArXiv cs.AI",
+        "url": "https://arxiv.org",
+        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
+      },
+      "category": "Ethics",
+      "tags": [
+        "Multimodal",
+        "AI Safety"
+      ],
+      "publishedAt": "Mon, 05 Oct 2026 00:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800",
+      "readTime": 1,
+      "originalUrl": "https://arxiv.org/abs/2610.02300"
+    },
+    {
+      "id": "muutxwasjklhk4i9vuq",
+      "title": "Choosing Before Acting: Comparative Value Estimation for Long-Horizon Tool-Use Agents",
+      "summary": "...",
+      "source": {
+        "name": "ArXiv cs.AI",
+        "url": "https://arxiv.org",
+        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Mon, 05 Oct 2026 00:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://arxiv.org/abs/2610.02330"
+    },
+    {
+      "id": "muutxvmabm7p4a8bd1v",
+      "title": "Can an Open Model Do Security Research? Cantina’s apex-flash-1 Solves 40 of 60 Held-Out Bug Tasks",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Research",
+      "tags": [],
+      "publishedAt": "Mon, 05 Oct 2026 01:47:28 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/10/04/can-an-open-model-do-security-research-cantinas-apex-flash-1-solves-40-of-60-held-out-bug-tasks/"
+    },
+    {
+      "id": "muutxvmb5yq8tm1ml5h",
+      "title": "GPT-6 Astra vs GPT-6.1 Sol vs Gemini 4 Argon vs Claude Fable 5.1: Which Frontier Model Fits Which Job",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "OpenAI",
+        "Anthropic",
+        "Google"
+      ],
+      "publishedAt": "Sun, 04 Oct 2026 20:59:56 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/10/04/gpt-6-astra-vs-gpt-6-1-sol-vs-gemini-4-argon-vs-claude-fable-5-1-which-frontier-model-fits-which-job/"
+    },
     {
       "id": "muuc9iioh9o66ic9ef6",
       "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
@@ -736,127 +859,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
       "readTime": 1,
       "originalUrl": "https://arxiv.org/abs/2610.00010"
-    },
-    {
-      "id": "muqjjg2xweu8ex30fj",
-      "title": "When Do Causal World Models Help Modular LLM Agents",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "LLM"
-      ],
-      "publishedAt": "Fri, 02 Oct 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2610.00012"
-    },
-    {
-      "id": "muqjjg2ycfgjqs53oe",
-      "title": "From Proposal to Verified Effect: Praxa, an Evidence-Bound Harness for Governed AI Agent Execution",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Fri, 02 Oct 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2610.00015"
-    },
-    {
-      "id": "muqjjg2yb23xqe3o8e",
-      "title": "What Do Rationales Communicate? A Message-Intervention Study in Role-Specialized QA",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Research",
-      "tags": [],
-      "publishedAt": "Fri, 02 Oct 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2610.00018"
-    },
-    {
-      "id": "muqjjg2znhxnrcuppoj",
-      "title": "Measuring the Microtask Eligibility Gap: When Is an Off-the-Shelf SLM Enough for an Agent Harness?",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Fri, 02 Oct 2026 00:00:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2610.00025"
-    },
-    {
-      "id": "murj1l7t47t2b38zc2x",
-      "title": "Cloudflare Releases Clef and Clef-flash: Open-Weight Decision Models That Return Typed Probabilities Instead of Text",
-      "summary": "...",
-      "source": {
-        "name": "MarkTechPost",
-        "url": "https://www.marktechpost.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Fri, 02 Oct 2026 01:00:41 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.marktechpost.com/2026/10/01/cloudflare-releases-clef-and-clef-flash/"
-    },
-    {
-      "id": "murj1l7tdncsc7tjxqh",
-      "title": "A Coding Guide to Google Research’s Kauldron: Configs That Are Plain Data, Components Wired by String, and a JAX Trainer You Can Read End to End",
-      "summary": "...",
-      "source": {
-        "name": "MarkTechPost",
-        "url": "https://www.marktechpost.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
-      },
-      "category": "Research",
-      "tags": [
-        "Google"
-      ],
-      "publishedAt": "Fri, 02 Oct 2026 00:32:50 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.marktechpost.com/2026/10/01/a-coding-guide-to-google-researchs-kauldron-configs-that-are-plain-data-components-wired-by-string-and-a-jax-trainer-you-can-read-end-to-end/"
-    },
-    {
-      "id": "murj1jl7u0dy1nirli",
-      "title": "Chatham scales its capital markets expertise with OpenAI",
-      "summary": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4....",
-      "source": {
-        "name": "OpenAI News",
-        "url": "https://openai.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "OpenAI"
-      ],
-      "publishedAt": "Fri, 02 Oct 2026 00:00:00 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://openai.com/index/chatham-financial"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-10-04T21:34:35.891Z",
-  "edition": 668
+  "lastUpdated": "2026-10-05T05:49:20.236Z",
+  "edition": 669
 }
