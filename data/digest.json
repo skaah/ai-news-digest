@@ -1,6 +1,166 @@
 {
-  "date": "2026-10-09T13:28:56.176Z",
+  "date": "2026-10-09T22:42:59.318Z",
   "articles": [
+    {
+      "id": "mv1jwrbo19ghfz8j72u",
+      "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+      "summary": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs. ...",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Product",
+      "tags": [
+        "LLM"
+      ],
+      "publishedAt": "Fri, 09 Oct 2026 21:41:29 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1550009158-9ebf690be655?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/"
+    },
+    {
+      "id": "mv1jwv0zbjzfzd2526a",
+      "title": "Alibaba Qwen Releases Qwen-Image-2.1-Turbo, an 8-Step 7B Image Model",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "China"
+      ],
+      "publishedAt": "Fri, 09 Oct 2026 20:33:17 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/10/09/alibaba-qwen-releases-qwen-image-2-1-turbo-an-8-step-7b-image-model/"
+    },
+    {
+      "id": "mv1jwv1001pxbzgwyzu4",
+      "title": "OpenAI Decisions API Hits Public Beta With 10x Faster Typed Answers",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "OpenAI"
+      ],
+      "publishedAt": "Fri, 09 Oct 2026 20:05:07 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/10/09/openai-decisions-api-hits-public-beta-with-10x-faster-typed-answers/"
+    },
+    {
+      "id": "mv1jwrbpkiyi5mhaaa8",
+      "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+      "summary": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Anthropic"
+      ],
+      "publishedAt": "Fri, 09 Oct 2026 19:36:56 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/"
+    },
+    {
+      "id": "mv1jwrbq8iln68bcm0w",
+      "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
+      "summary": "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to hundreds of propose...",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Microsoft"
+      ],
+      "publishedAt": "Fri, 09 Oct 2026 16:56:42 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/"
+    },
+    {
+      "id": "mv1jwrbqktus8dvp6z",
+      "title": "Amazon drops data center NDAs, and AI agents want your credit card",
+      "summary": "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to hundreds of propose...",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Microsoft"
+      ],
+      "publishedAt": "Fri, 09 Oct 2026 16:53:02 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/"
+    },
+    {
+      "id": "mv1jwrbrv7w2ypsaaqa",
+      "title": "Danu Robotics’ fight to build a better recycling robot",
+      "summary": "For six years, Danu founder Amy Ma has been working on a better way to sort recyclable waste....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Robotics"
+      ],
+      "publishedAt": "Fri, 09 Oct 2026 16:45:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/"
+    },
+    {
+      "id": "mv1jwx5bchrd50h03lp",
+      "title": "En marge des grands modèles commerciaux, certaines IA restent très mal protégées contre des utilisations à but terroriste",
+      "summary": "D’après un rapport de Tech Against Terrorism, consulté par « Le Monde » avant sa publication, si les grandes intelligences artificielles commerciales refusent généralement, lors des tests, d’aider à la préparation d’attentats, des IA moins connues s’y prêtent très volontiers....",
+      "source": {
+        "name": "Le Monde Tech",
+        "url": "https://www.lemonde.fr",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.lemonde.fr&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Fri, 09 Oct 2026 17:58:27 +0200",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.lemonde.fr/pixels/article/2026/10/09/en-marge-des-grands-modeles-commerciaux-certaines-ia-restent-tres-mal-protegees-contre-des-utilisations-a-but-terroriste_6790609_4408996.html"
+    },
+    {
+      "id": "mv1jwu3by703obtrik",
+      "title": "Impactful scheduling for GPU clusters",
+      "summary": "...",
+      "source": {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co",
+        "favicon": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=64"
+      },
+      "category": "Hardware",
+      "tags": [
+        "Nvidia"
+      ],
+      "publishedAt": "Fri, 09 Oct 2026 15:20:29 GMT",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800",
+      "readTime": 1,
+      "originalUrl": "https://huggingface.co/blog/allenai/impactful-scheduling"
+    },
     {
       "id": "mv104etnmyizu3fh6cf",
       "title": "« OpenAI n’est pas une entreprise normale » : le licenciement de trois chercheurs en sécurité tourne au bras de fer public",
@@ -52,6 +212,24 @@
       "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
       "readTime": 1,
       "originalUrl": "https://www.marktechpost.com/2026/10/09/meet-the-underdog-saluki-27b-a-2-bit-qwen3-8-27b-that-beats-the-original-at-tool-calling/"
+    },
+    {
+      "id": "mv1jwtmmitidq1ixjz",
+      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+      "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models....",
+      "source": {
+        "name": "OpenAI News",
+        "url": "https://openai.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "OpenAI"
+      ],
+      "publishedAt": "Fri, 09 Oct 2026 07:00:00 GMT",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://openai.com/index/asana-browser-agent"
     },
     {
       "id": "mv1049yufjkb9tg636a",
@@ -682,184 +860,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
       "readTime": 1,
       "originalUrl": "https://www.marktechpost.com/2026/10/07/what-happens-when-a-trusted-model-repo-changes-unsloth-studio-re-checks-before-it-runs/"
-    },
-    {
-      "id": "mv05yrq6nkfvtw6t33",
-      "title": "Disrupting AI-enabled “false front” operations",
-      "summary": "OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging....",
-      "source": {
-        "name": "OpenAI News",
-        "url": "https://openai.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "OpenAI"
-      ],
-      "publishedAt": "Thu, 08 Oct 2026 00:00:00 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://openai.com/index/disrupting-ai-enabled-false-front-operations"
-    },
-    {
-      "id": "mv05ys8dptz688qy2t",
-      "title": "The model that didn't exist, so you made it yourself",
-      "summary": "...",
-      "source": {
-        "name": "Hugging Face Blog",
-        "url": "https://huggingface.co",
-        "favicon": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Thu, 08 Oct 2026 00:00:00 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://huggingface.co/blog/building-with-ml-intern"
-    },
-    {
-      "id": "muypz0ccl8wva1g2uag",
-      "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
-      "summary": "The developer of Hermes Agent raised a $90 million Series B. ...",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Product",
-      "tags": [],
-      "publishedAt": "Wed, 07 Oct 2026 20:48:45 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1550009158-9ebf690be655?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/"
-    },
-    {
-      "id": "muz548hz3ktacr8jwk7",
-      "title": "Anthropic Releases Claude Haiku 5.5: A Small Model With 1M Context Priced at $0.10 per Million Input Tokens",
-      "summary": "...",
-      "source": {
-        "name": "MarkTechPost",
-        "url": "https://www.marktechpost.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
-      },
-      "category": "Funding",
-      "tags": [
-        "Anthropic"
-      ],
-      "publishedAt": "Wed, 07 Oct 2026 20:38:30 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.marktechpost.com/2026/10/07/anthropic-releases-claude-haiku-5-5-a-small-model-with-1m-context-priced-at-0-10-per-million-input-tokens/"
-    },
-    {
-      "id": "muypz0cdasnfzqr37di",
-      "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
-      "summary": "Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Hardware",
-      "tags": [
-        "Microsoft",
-        "Nvidia"
-      ],
-      "publishedAt": "Wed, 07 Oct 2026 20:22:37 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/"
-    },
-    {
-      "id": "muypz235vd1cbg4948",
-      "title": "Discovering the value of humanistic inquiry",
-      "summary": "Students in MIT’s Concourse program delve deeply into the human condition, debate challenging questions, and learn to develop judgment about issues that can’t be quantified....",
-      "source": {
-        "name": "MIT News AI",
-        "url": "https://news.mit.edu",
-        "favicon": "https://www.google.com/s2/favicons?domain=news.mit.edu&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Wed, 07 Oct 2026 16:10:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://news.mit.edu/2026/discovering-value-humanistic-inquiry-1007"
-    },
-    {
-      "id": "muypz0cesp4q7wij5cn",
-      "title": "Meta’s Muse launches on iPad just a month after its mobile debut",
-      "summary": "Meta’s AI agent Muse is now available on iPad, just a month after its mobile debut, as the company rapidly expands the assistant’s reach and integrations....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Product",
-      "tags": [
-        "Meta"
-      ],
-      "publishedAt": "Wed, 07 Oct 2026 18:30:57 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/"
-    },
-    {
-      "id": "muypz3xyg3n4fxw6igp",
-      "title": "Liquid AI Releases Open-Weight d1-3B and d1-omni-600M: Multimodal Decision Models With Zero Output Tokens",
-      "summary": "...",
-      "source": {
-        "name": "MarkTechPost",
-        "url": "https://www.marktechpost.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Multimodal"
-      ],
-      "publishedAt": "Wed, 07 Oct 2026 18:23:45 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.marktechpost.com/2026/10/07/liquid-ai-releases-open-weight-d1-3b-and-d1-omni-600m-multimodal-decision-models-with-zero-output-tokens/"
-    },
-    {
-      "id": "muypz0ceifbp5f8amor",
-      "title": "ChatGPT for Teens keeps teens talking, even during mental health crises",
-      "summary": "ChatGPT’s teen safeguards are meant to protect vulnerable users, but new testing found the chatbot continues encouraging engagement during crises and potentially encourages unhealthy relationships with the AI itself....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "OpenAI"
-      ],
-      "publishedAt": "Wed, 07 Oct 2026 18:15:28 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/"
-    },
-    {
-      "id": "muypz0cfylk5fu60yi",
-      "title": "ChatGPT is getting a lot more visual, with the launch of a new interface",
-      "summary": "OpenAI is launching a new user interface that will bring interactive visuals to ChatGPT. ...",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Product",
-      "tags": [
-        "OpenAI"
-      ],
-      "publishedAt": "Wed, 07 Oct 2026 18:00:19 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-10-09T13:28:56.176Z",
-  "edition": 681
+  "lastUpdated": "2026-10-09T22:42:59.318Z",
+  "edition": 682
 }
