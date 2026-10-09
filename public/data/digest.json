@@ -1,6 +1,104 @@
 {
-  "date": "2026-10-08T23:24:50.663Z",
+  "date": "2026-10-09T06:16:35.265Z",
   "articles": [
+    {
+      "id": "mv0koavs9f6ja5k6r6",
+      "title": "An Explainable Header-Centric Framework for Large-Scale Semantic Table Interpretation and Data Quality Assessment",
+      "summary": "...",
+      "source": {
+        "name": "ArXiv cs.AI",
+        "url": "https://arxiv.org",
+        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Fri, 09 Oct 2026 00:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://arxiv.org/abs/2610.10541"
+    },
+    {
+      "id": "mv0koavt40fj9um973r",
+      "title": "Synthesis Through Simulation: Generating Coherent Enterprise Data via Scalable Agent-System Interaction",
+      "summary": "...",
+      "source": {
+        "name": "ArXiv cs.AI",
+        "url": "https://arxiv.org",
+        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Fri, 09 Oct 2026 00:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://arxiv.org/abs/2610.10549"
+    },
+    {
+      "id": "mv0koavtyqd5btr6m5",
+      "title": "Agent-Controlled Forgetting for Tool-Using Agents: Reversible Context Curation in Practice",
+      "summary": "...",
+      "source": {
+        "name": "ArXiv cs.AI",
+        "url": "https://arxiv.org",
+        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Fri, 09 Oct 2026 00:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://arxiv.org/abs/2610.10590"
+    },
+    {
+      "id": "mv0koavtnaxfwzwnu8",
+      "title": "Verification and Self-Improvement in Agentic AI: Foundations and Limits",
+      "summary": "...",
+      "source": {
+        "name": "ArXiv cs.AI",
+        "url": "https://arxiv.org",
+        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Fri, 09 Oct 2026 00:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://arxiv.org/abs/2610.10611"
+    },
+    {
+      "id": "mv0koavt5vwagdxv9d",
+      "title": "The Harness as the Only Mutable Surface: Compliance-Bounded Self-Evolution of LLM Agents in Credit Pipelines, with a Measured Admission Gate",
+      "summary": "...",
+      "source": {
+        "name": "ArXiv cs.AI",
+        "url": "https://arxiv.org",
+        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "LLM"
+      ],
+      "publishedAt": "Fri, 09 Oct 2026 00:00:00 -0400",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://arxiv.org/abs/2610.10629"
+    },
+    {
+      "id": "mv0ko7uzxxopft9zq",
+      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+      "summary": "Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life, bu...",
+      "source": {
+        "name": "MIT Tech Review AI",
+        "url": "https://www.technologyreview.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.technologyreview.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Fri, 09 Oct 2026 00:08:24 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/"
+    },
     {
       "id": "mv05yr7f2a171ekqmwp",
       "title": "3 Questions: What is the best path forward for AI in academia?",
@@ -210,6 +308,22 @@
       "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
       "readTime": 1,
       "originalUrl": "https://www.numerama.com/tech/2349419-excede-par-adobe-il-prend-sa-revanche-grace-a-claude.html"
+    },
+    {
+      "id": "mv0ko8t02sms576xpn3",
+      "title": "LegalOn halves Codex costs while maintaining development speed",
+      "summary": "LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically....",
+      "source": {
+        "name": "OpenAI News",
+        "url": "https://openai.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Thu, 08 Oct 2026 12:00:00 GMT",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://openai.com/index/legalon-halves-codex-costs"
     },
     {
       "id": "mv05yrq5eyiu7yy73pw",
@@ -739,130 +853,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
       "readTime": 1,
       "originalUrl": "https://openai.com/index/radisson"
-    },
-    {
-      "id": "muy5d969u39w3l0kd3a",
-      "title": "Elon Musk veut lever 40 milliards de dollars de dette pour acheter des puces Nvidia destinées à équiper ses data centers",
-      "summary": "Le « Financial Times » a révélé, mardi, que SpaceX, la firme du milliardaire, a lancé une opération visant à financer l’achat de puces pour en équiper les data centers. Ce nouvel emprunt massif illustre l’imprudente course aux capitaux entraînée par le développement de l’intellig...",
-      "source": {
-        "name": "Le Monde Tech",
-        "url": "https://www.lemonde.fr",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.lemonde.fr&sz=64"
-      },
-      "category": "Policy",
-      "tags": [
-        "Nvidia"
-      ],
-      "publishedAt": "Wed, 07 Oct 2026 08:56:48 +0200",
-      "imageUrl": "https://images.unsplash.com/photo-1555848962-6e79363ec58f?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.lemonde.fr/economie/article/2026/10/07/ia-elon-musk-veut-lever-40-milliards-de-dollars-de-dette-pour-acheter-des-puces-nvidia_6789552_3234.html"
-    },
-    {
-      "id": "muy5d713ak7uwzkgyeb",
-      "title": "Meta AI Open-Sources Rebalancer: A C++ Assignment Solver That Runs About 40 Million Placement Problems a Day",
-      "summary": "...",
-      "source": {
-        "name": "MarkTechPost",
-        "url": "https://www.marktechpost.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
-      },
-      "category": "Funding",
-      "tags": [
-        "Meta"
-      ],
-      "publishedAt": "Wed, 07 Oct 2026 06:29:14 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.marktechpost.com/2026/10/06/meta-ai-open-sources-rebalancer-a-c-assignment-solver-that-runs-about-40-million-placement-problems-a-day/"
-    },
-    {
-      "id": "muy5da5dvilwcp7sy1m",
-      "title": "Bulle de l'IA, Europe, Mistral… : on a parlé avec le Monsieur «Startups» de Google",
-      "summary": "...",
-      "source": {
-        "name": "Maddyness",
-        "url": "https://www.maddyness.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.maddyness.com&sz=64"
-      },
-      "category": "Policy",
-      "tags": [
-        "Google",
-        "Startup"
-      ],
-      "publishedAt": "Wed, 07 Oct 2026 05:08:51 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1575517111839-3a3843ee7f5d?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.maddyness.com/2026/10/07/bulle-de-lia-europe-mistral-on-a-parle-avec-le-monsieur-startups-de-google/"
-    },
-    {
-      "id": "muxpgw4s0oeorc6cj7g",
-      "title": "A Developer’s Guide to Laya: Zero-Shot Decisions and Calibration",
-      "summary": "...",
-      "source": {
-        "name": "MarkTechPost",
-        "url": "https://www.marktechpost.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Wed, 07 Oct 2026 00:53:03 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.marktechpost.com/2026/10/06/a-developers-guide-to-laya-zero-shot-decisions-and-calibration/"
-    },
-    {
-      "id": "muypz2ivjkqd7esasss",
-      "title": "GPT-6 and Intelligent UI for everyone",
-      "summary": "GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly....",
-      "source": {
-        "name": "OpenAI News",
-        "url": "https://openai.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "OpenAI"
-      ],
-      "publishedAt": "Wed, 07 Oct 2026 00:00:00 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://openai.com/index/gpt-6-for-everyone"
-    },
-    {
-      "id": "muxpgs75ylv0ma1bwvg",
-      "title": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
-      "summary": "Instead of helping marketers manage and optimize ad spend, the company is focusing on building the tools that generate the creative assets and campaigns....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Product",
-      "tags": [],
-      "publishedAt": "Tue, 06 Oct 2026 22:34:03 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1550009158-9ebf690be655?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/"
-    },
-    {
-      "id": "muxpgu4cx3oz0w3260i",
-      "title": "Supercomputing researchers document evolution of AI hardware",
-      "summary": "An ongoing survey tracks the latest AI accelerator systems to keep hardware relevant for Lincoln Laboratory staff and sponsors....",
-      "source": {
-        "name": "MIT News AI",
-        "url": "https://news.mit.edu",
-        "favicon": "https://www.google.com/s2/favicons?domain=news.mit.edu&sz=64"
-      },
-      "category": "Research",
-      "tags": [],
-      "publishedAt": "Tue, 06 Oct 2026 16:55:00 -0400",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800",
-      "readTime": 1,
-      "originalUrl": "https://news.mit.edu/2026/supercomputing-researchers-document-evolution-ai-hardware-1006"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-10-08T23:24:50.663Z",
-  "edition": 679
+  "lastUpdated": "2026-10-09T06:16:35.265Z",
+  "edition": 680
 }
