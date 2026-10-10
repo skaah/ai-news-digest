@@ -1,6 +1,24 @@
 {
-  "date": "2026-10-09T22:42:59.318Z",
+  "date": "2026-10-10T05:59:37.352Z",
   "articles": [
+    {
+      "id": "mv1zi9yy04srsx3opl4",
+      "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+      "summary": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice. ...",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Anthropic"
+      ],
+      "publishedAt": "Sat, 10 Oct 2026 00:18:32 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/"
+    },
     {
       "id": "mv1jwrbo19ghfz8j72u",
       "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
@@ -844,25 +862,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=800",
       "readTime": 1,
       "originalUrl": "https://arxiv.org/abs/2610.08878"
-    },
-    {
-      "id": "muz548hzzk9qp2k9w5d",
-      "title": "What Happens When a Trusted Model Repo Changes? Unsloth Studio Re-Checks Before It Runs",
-      "summary": "...",
-      "source": {
-        "name": "MarkTechPost",
-        "url": "https://www.marktechpost.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Thu, 08 Oct 2026 01:49:11 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.marktechpost.com/2026/10/07/what-happens-when-a-trusted-model-repo-changes-unsloth-studio-re-checks-before-it-runs/"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-10-09T22:42:59.318Z",
-  "edition": 682
+  "lastUpdated": "2026-10-10T05:59:37.352Z",
+  "edition": 683
 }
