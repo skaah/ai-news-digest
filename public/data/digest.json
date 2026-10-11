@@ -1,6 +1,24 @@
 {
-  "date": "2026-10-10T21:49:29.940Z",
+  "date": "2026-10-11T05:55:22.227Z",
   "articles": [
+    {
+      "id": "mv3esr7ucivr3fc2t0e",
+      "title": "Sakana AI’s LLM Peer Review System Catches 73% of Core-Claim Errors",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "LLM"
+      ],
+      "publishedAt": "Sat, 10 Oct 2026 22:02:18 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/10/10/sakana-ais-llm-peer-review-system-catches-73-of-core-claim-errors/"
+    },
     {
       "id": "mv2xftneo9bvmgy3zeb",
       "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
@@ -852,27 +870,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800",
       "readTime": 1,
       "originalUrl": "https://www.marktechpost.com/2026/10/08/architect-launches-liquid-inference-a-real-time-auction-for-llm-inference/"
-    },
-    {
-      "id": "muzl25jn0021xq6svhs3h",
-      "title": "NVIDIA PivotOPD Teaches Multi-Turn AI Agents to Recover From Pivotal Mistakes",
-      "summary": "...",
-      "source": {
-        "name": "MarkTechPost",
-        "url": "https://www.marktechpost.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Nvidia"
-      ],
-      "publishedAt": "Thu, 08 Oct 2026 08:40:02 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.marktechpost.com/2026/10/08/nvidia-pivotopd-teaches-multi-turn-ai-agents-to-recover-from-pivotal-mistakes/"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-10-10T21:49:29.939Z",
-  "edition": 685
+  "lastUpdated": "2026-10-11T05:55:22.227Z",
+  "edition": 686
 }
