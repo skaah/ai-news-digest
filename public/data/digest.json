@@ -1,6 +1,22 @@
 {
-  "date": "2026-10-11T05:55:22.227Z",
+  "date": "2026-10-11T12:59:24.434Z",
   "articles": [
+    {
+      "id": "mv3ty2aabdxokskalsv",
+      "title": "OrcaRouter Releases OrcaCyber Zero 1.5 Cybersecurity Model With 1M Context",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Sun, 11 Oct 2026 06:20:21 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/10/10/orcarouter-releases-orcacyber-zero-1-5-cybersecurity-model-with-1m-context/"
+    },
     {
       "id": "mv3esr7ucivr3fc2t0e",
       "title": "Sakana AI’s LLM Peer Review System Catches 73% of Core-Claim Errors",
@@ -852,27 +868,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=800",
       "readTime": 1,
       "originalUrl": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/"
-    },
-    {
-      "id": "muzl25jmdapu5ow8ka",
-      "title": "Architect Launches Liquid Inference, a Real-Time Auction for LLM Inference",
-      "summary": "...",
-      "source": {
-        "name": "MarkTechPost",
-        "url": "https://www.marktechpost.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
-      },
-      "category": "Product",
-      "tags": [
-        "LLM"
-      ],
-      "publishedAt": "Thu, 08 Oct 2026 08:53:34 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.marktechpost.com/2026/10/08/architect-launches-liquid-inference-a-real-time-auction-for-llm-inference/"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-10-11T05:55:22.227Z",
-  "edition": 686
+  "lastUpdated": "2026-10-11T12:59:24.434Z",
+  "edition": 687
 }
