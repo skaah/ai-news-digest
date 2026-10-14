@@ -1,6 +1,92 @@
 {
-  "date": "2026-10-13T22:51:02.119Z",
+  "date": "2026-10-14T05:00:09.888Z",
   "articles": [
+    {
+      "id": "mv7n5dk8gqa1ai024zt",
+      "title": "Le patron de Nvidia, Jensen Huang, s’assume en « optimiste » sur les risques de l’IA, la souveraineté ou l’emploi",
+      "summary": "Le président-directeur général du leader mondial des puces pour l’intelligence artificielle, qui était à Paris mardi, a annoncé plusieurs investissements en France, notamment dans Doctolib....",
+      "source": {
+        "name": "Le Monde Tech",
+        "url": "https://www.lemonde.fr",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.lemonde.fr&sz=64"
+      },
+      "category": "Policy",
+      "tags": [
+        "Nvidia"
+      ],
+      "publishedAt": "Wed, 14 Oct 2026 05:30:15 +0200",
+      "imageUrl": "https://images.unsplash.com/photo-1555848962-6e79363ec58f?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.lemonde.fr/economie/article/2026/10/14/le-patron-de-nvidia-jensen-huang-s-assume-en-optimiste-sur-les-risques-de-l-ia-la-souverainete-ou-l-emploi_6793390_3234.html"
+    },
+    {
+      "id": "mv7n56mehkzlf64ngbv",
+      "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
+      "summary": "Max Hodak, the former president and co-founder of Neuralink, detailed on stage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI)....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Policy",
+      "tags": [],
+      "publishedAt": "Tue, 13 Oct 2026 23:13:31 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1555848962-6e79363ec58f?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/"
+    },
+    {
+      "id": "mv7n56me3ucv89cqmpa",
+      "title": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
+      "summary": "Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become as commonplace as household appliances, running partly on local devices and partly in the cloud....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Tue, 13 Oct 2026 23:05:34 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/"
+    },
+    {
+      "id": "mv7n56mfi8rynnb8vwf",
+      "title": "Industrial Next wants factory robots to switch tasks in minutes, not weeks",
+      "summary": "Industrial Next helps manufacturers automate complex, delicate tasks that have traditionally required human labor....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Robotics"
+      ],
+      "publishedAt": "Tue, 13 Oct 2026 23:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/"
+    },
+    {
+      "id": "mv7n5awm8okufoqn7ko",
+      "title": "Meta Launches Muse Wonder and Muse Wonder Full: Benchmarks, Pricing and How to Use It",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Product",
+      "tags": [
+        "Meta"
+      ],
+      "publishedAt": "Tue, 13 Oct 2026 22:53:44 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1550009158-9ebf690be655?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/10/13/meta-muse-wonder-muse-wonder-full-release/"
+    },
     {
       "id": "mv79yigulda9sj2kbfb",
       "title": "Cerebras CEO pushes back on AI doomsday warnings",
@@ -18,6 +104,24 @@
       "imageUrl": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=800",
       "readTime": 1,
       "originalUrl": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/"
+    },
+    {
+      "id": "mv7n5awnvj9megva1jh",
+      "title": "How to Use Meta’s Rebalancer for Task Placement & Optimization",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Meta"
+      ],
+      "publishedAt": "Tue, 13 Oct 2026 22:14:20 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/10/13/how-to-use-metas-rebalancer-for-task-placement-optimization/"
     },
     {
       "id": "mv79ykc9txn074awl1f",
@@ -754,113 +858,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
       "readTime": 1,
       "originalUrl": "https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/"
-    },
-    {
-      "id": "mv4ddroipkjmi4w9jn",
-      "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
-      "summary": "On Equity, we debate the impact of data center moratoriums and whether the AI industry has a communication problem....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Sun, 11 Oct 2026 16:52:33 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/"
-    },
-    {
-      "id": "mv4ddywlob8c9ikotfe",
-      "title": "Une cafetière connectée qui envoie un téraoctet de données, 58 fausses boutiques Pokémon et OpenAI accusée de représailles contre ses chercheurs en sécurité : on vous raconte la semaine Cyberguerre",
-      "summary": "...",
-      "source": {
-        "name": "Numerama",
-        "url": "https://www.numerama.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
-      },
-      "category": "Policy",
-      "tags": [
-        "OpenAI"
-      ],
-      "publishedAt": "Sun, 11 Oct 2026 16:36:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.numerama.com/cyberguerre/2350667-une-cafetiere-connectee-qui-envoie-un-teraoctet-de-donnees-58-fausses-boutiques-pokemon-et-openai-accusee-de-represailles-contre-ses-chercheurs-en-securite-on-vous-raconte-la-semaine-cyberguerre.html"
-    },
-    {
-      "id": "mv4ddroi960elsi4e8",
-      "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
-      "summary": "Voice AI's often misses important points for its context layer, and causes the whole pipeline to break...",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "OpenAI"
-      ],
-      "publishedAt": "Sun, 11 Oct 2026 14:00:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/"
-    },
-    {
-      "id": "mv3ty2aabdxokskalsv",
-      "title": "OrcaRouter Releases OrcaCyber Zero 1.5 Cybersecurity Model With 1M Context",
-      "summary": "...",
-      "source": {
-        "name": "MarkTechPost",
-        "url": "https://www.marktechpost.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Sun, 11 Oct 2026 06:20:21 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.marktechpost.com/2026/10/10/orcarouter-releases-orcacyber-zero-1-5-cybersecurity-model-with-1m-context/"
-    },
-    {
-      "id": "mv3esr7ucivr3fc2t0e",
-      "title": "Sakana AI’s LLM Peer Review System Catches 73% of Core-Claim Errors",
-      "summary": "...",
-      "source": {
-        "name": "MarkTechPost",
-        "url": "https://www.marktechpost.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "LLM"
-      ],
-      "publishedAt": "Sat, 10 Oct 2026 22:02:18 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.marktechpost.com/2026/10/10/sakana-ais-llm-peer-review-system-catches-73-of-core-claim-errors/"
-    },
-    {
-      "id": "mv2xftneo9bvmgy3zeb",
-      "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
-      "summary": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Microsoft"
-      ],
-      "publishedAt": "Sat, 10 Oct 2026 21:47:51 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-10-13T22:51:02.118Z",
-  "edition": 693
+  "lastUpdated": "2026-10-14T05:00:09.888Z",
+  "edition": 694
 }
