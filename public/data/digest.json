@@ -1,6 +1,56 @@
 {
-  "date": "2026-10-18T11:16:38.594Z",
+  "date": "2026-10-18T15:56:35.127Z",
   "articles": [
+    {
+      "id": "mve0cyqk4jjm71myam",
+      "title": "Peut-on laisser un robot laver ses vitres ? J’ai testé pour vous avec le Winbot W2S Pro Omni",
+      "summary": "...",
+      "source": {
+        "name": "Numerama",
+        "url": "https://www.numerama.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
+      },
+      "category": "Policy",
+      "tags": [
+        "Robotics"
+      ],
+      "publishedAt": "Sun, 18 Oct 2026 14:01:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1575517111839-3a3843ee7f5d?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.numerama.com/tech/2351719-peut-on-laisser-un-robot-laver-ses-vitres-jai-teste-le-winbot-w2s-pro-omni.html"
+    },
+    {
+      "id": "mve0cy5zk5fpowvkie",
+      "title": "Une start-up londonienne rêve de recréer les concerts des idoles disparues",
+      "summary": "La société Unit1 Studio veut créer les avatars numériques de musiciens disparus ou trop âgés pour se produire sur scène. Et espère par la suite les envoyer en tournée....",
+      "source": {
+        "name": "Le Monde Tech",
+        "url": "https://www.lemonde.fr",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.lemonde.fr&sz=64"
+      },
+      "category": "Policy",
+      "tags": [],
+      "publishedAt": "Sun, 18 Oct 2026 16:00:11 +0200",
+      "imageUrl": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.lemonde.fr/economie/article/2026/10/18/une-start-up-londonienne-reve-de-recreer-les-concerts-des-idoles-disparues_6797078_3234.html"
+    },
+    {
+      "id": "mve0cyqlgrxo5ym5kev",
+      "title": "Vous ne voyez aucune différence entre ce « a » et ce « а », et c’est un énorme problème de cybersécurité",
+      "summary": "...",
+      "source": {
+        "name": "Numerama",
+        "url": "https://www.numerama.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Sun, 18 Oct 2026 12:02:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.numerama.com/cyberguerre/2353923-vous-ne-voyez-aucune-difference-entre-ce-a-et-ce-%d0%b0-et-cest-un-enorme-probleme-de-cybersecurite.html"
+    },
     {
       "id": "mvdqcw0ckm0zlj28e2",
       "title": "Google Open-Sources Harness2, a Recursive Agent Harnessing Framework",
@@ -801,59 +851,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
       "readTime": 1,
       "originalUrl": "https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/"
-    },
-    {
-      "id": "mva1wstbkejf4tlj5vl",
-      "title": "Last chance to save up to $200 on your TechCrunch Founder Summit pass: Early booking ends October 16",
-      "summary": "Savings of up to $200 end October 16 for TechCrunch Founder Summit. These savings for Founder and Investor Passes vanish after Friday. Join 1,000 founders and investors on November 4 at Boston’s SoWa Power Station. Bring your toughest questions and make the day count for your bus...",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Thu, 15 Oct 2026 18:00:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/10/15/last-chance-to-save-up-to-200-on-techcrunch-founder-summit-early-booking-ends-oct-16/"
-    },
-    {
-      "id": "mv9sjet2ebcml9bjr2t",
-      "title": "AI agents are coming to Rivian’s cars",
-      "summary": "We'll likely learn more about how this will work at the company's upcoming \"AI & Autonomy Day\" event in December....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Thu, 15 Oct 2026 15:02:36 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/"
-    },
-    {
-      "id": "mv9sjet3i3qhxir3s38",
-      "title": "Google’s Universal Cart shopping tool launches in the US",
-      "summary": "The new shopping tool is available in the U.S. across Google Search and the Gemini app....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Product",
-      "tags": [
-        "Google"
-      ],
-      "publishedAt": "Thu, 15 Oct 2026 14:29:33 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1550009158-9ebf690be655?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-10-18T11:16:38.594Z",
-  "edition": 711
+  "lastUpdated": "2026-10-18T15:56:35.127Z",
+  "edition": 712
 }
