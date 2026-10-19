@@ -1,6 +1,24 @@
 {
-  "date": "2026-10-18T20:51:12.945Z",
+  "date": "2026-10-19T04:49:44.977Z",
   "articles": [
+    {
+      "id": "mverz6fczrfptlhtaz",
+      "title": "Mistral AI Releases Timestral: A 209M Forecasting Model Family That Outperforms Google’s TimesFM-3",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Google"
+      ],
+      "publishedAt": "Mon, 19 Oct 2026 01:18:17 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/10/18/mistral-timestral-time-series-foundation-model/"
+    },
     {
       "id": "mveavnv9id7942jd8o",
       "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
@@ -829,28 +847,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
       "readTime": 1,
       "originalUrl": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/"
-    },
-    {
-      "id": "mvah9hoqp9eszrq7cm",
-      "title": "NVIDIA Releases Nemotron 3.5 Super VL, a 120B Open Multimodal Agent Model",
-      "summary": "...",
-      "source": {
-        "name": "MarkTechPost",
-        "url": "https://www.marktechpost.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Nvidia",
-        "Multimodal"
-      ],
-      "publishedAt": "Thu, 15 Oct 2026 19:53:50 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.marktechpost.com/2026/10/15/nvidia-nemotron-3-5-super-vl-release/"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-10-18T20:51:12.945Z",
-  "edition": 713
+  "lastUpdated": "2026-10-19T04:49:44.977Z",
+  "edition": 714
 }
