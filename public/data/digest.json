@@ -1,6 +1,97 @@
 {
-  "date": "2026-10-21T04:57:12.293Z",
+  "date": "2026-10-21T11:58:31.150Z",
   "articles": [
+    {
+      "id": "mvi26dq0jwdh1h19gh",
+      "title": "Nvidia noue un partenariat avec la startup française Omi",
+      "summary": "...",
+      "source": {
+        "name": "Maddyness",
+        "url": "https://www.maddyness.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.maddyness.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Nvidia",
+        "Startup"
+      ],
+      "publishedAt": "Wed, 21 Oct 2026 11:30:57 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.maddyness.com/?p=1443265"
+    },
+    {
+      "id": "mvi268h5xyh8lsy155",
+      "title": "Announcing SimReady Central: An Open Library of Simulation-Ready 3D Assets for Robotics and AI Factories",
+      "summary": "...",
+      "source": {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co",
+        "favicon": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Robotics"
+      ],
+      "publishedAt": "Wed, 21 Oct 2026 10:59:42 GMT",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://huggingface.co/blog/nvidia/simready-central-assets-robotics-ai-factories"
+    },
+    {
+      "id": "mvi26dq0y8muanhj2qs",
+      "title": "Pigment lève 250 millions de dollars avec Nvidia au tour de table",
+      "summary": "...",
+      "source": {
+        "name": "Maddyness",
+        "url": "https://www.maddyness.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.maddyness.com&sz=64"
+      },
+      "category": "Funding",
+      "tags": [
+        "Nvidia"
+      ],
+      "publishedAt": "Wed, 21 Oct 2026 10:12:32 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.maddyness.com/2026/10/21/pigment-leve-250-millions-de-dollars-avec-nvidia-au-tour-de-table/"
+    },
+    {
+      "id": "mvi269jkb5bsz67rsb9",
+      "title": "Mistral AI Releases Voxtral 3: Speech-to-Text, TTS and a Voice Agent SDK",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Wed, 21 Oct 2026 06:03:12 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/10/20/mistral-voxtral-3-speech-models-voice-agent-sdk/"
+    },
+    {
+      "id": "mvi269jk2q1s7uywie2",
+      "title": "Google Cloud Ships llm-d 1.0 With Cache-Aware Routing for TPU and GPU Fleets",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Hardware",
+      "tags": [
+        "Google",
+        "Nvidia",
+        "LLM"
+      ],
+      "publishedAt": "Wed, 21 Oct 2026 04:33:40 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/10/20/llm-d-1-0-open-source-distributed-inference-stack/"
+    },
     {
       "id": "mvhn4hjuqkghvcmje",
       "title": "Navalia: Advancing Cowork Agents through Verifiable Task Synthesis and Long-Horizon Post-Training",
@@ -780,97 +871,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
       "readTime": 1,
       "originalUrl": "https://huggingface.co/blog/hf-torchtpu"
-    },
-    {
-      "id": "mvgy251ls7xykazox47",
-      "title": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
-      "summary": "...",
-      "source": {
-        "name": "Hugging Face Blog",
-        "url": "https://huggingface.co",
-        "favicon": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Tue, 20 Oct 2026 00:00:00 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://huggingface.co/blog/anylanguagemodel-1-0"
-    },
-    {
-      "id": "mvgmb2nb0a52ueh06xul",
-      "title": "MPS in PyTorch 2.15",
-      "summary": "...",
-      "source": {
-        "name": "Hugging Face Blog",
-        "url": "https://huggingface.co",
-        "favicon": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Tue, 20 Oct 2026 00:00:00 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://huggingface.co/blog/mps-pytorch-2-15"
-    },
-    {
-      "id": "mvg7ppnlrx4irzzurun",
-      "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
-      "summary": "If the deal goes through, it would be the latest in a long string of giant compute deals Anthropic has struck over the past year. ...",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Anthropic"
-      ],
-      "publishedAt": "Mon, 19 Oct 2026 23:39:38 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/"
-    },
-    {
-      "id": "mvg7ppnl5kj50tsuvox",
-      "title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
-      "summary": "The idea of embedded evaluators — in which supposedly \"neutral\" third-party observers are placed inside AI organizations — has been popularized over the last several months, as AI labs grapple with a rash of safety incidents that have spurred concerns over the potential harms of ...",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Policy",
-      "tags": [
-        "AI Safety"
-      ],
-      "publishedAt": "Mon, 19 Oct 2026 22:49:27 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/"
-    },
-    {
-      "id": "mvftp6m2ml6m5b1yk2i",
-      "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
-      "summary": "Microsoft wants enterprises to closely watch the agents employees use with systems not controlled by AI labs like OpenAI and Anthropic....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "OpenAI",
-        "Anthropic",
-        "Microsoft"
-      ],
-      "publishedAt": "Mon, 19 Oct 2026 22:04:28 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-10-21T04:57:12.293Z",
-  "edition": 721
+  "lastUpdated": "2026-10-21T11:58:31.150Z",
+  "edition": 722
 }
