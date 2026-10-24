@@ -1,6 +1,25 @@
 {
-  "date": "2026-10-24T16:01:59.114Z",
+  "date": "2026-10-24T20:55:40.328Z",
   "articles": [
+    {
+      "id": "mvmvoi6vmgm57bmsz8",
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Product",
+      "tags": [
+        "OpenAI",
+        "Startup"
+      ],
+      "publishedAt": "Sat, 24 Oct 2026 19:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/"
+    },
     {
       "id": "mvml6tiz293xc461gi6",
       "title": "Block’s new voice model sounds eerily human",
@@ -825,25 +844,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
       "readTime": 1,
       "originalUrl": "https://www.marktechpost.com/2026/10/22/omniparsebench-document-parsing-leaderboard-guide/"
-    },
-    {
-      "id": "mvjsyirqj8p90zcu65l",
-      "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
-      "summary": "...",
-      "source": {
-        "name": "Hugging Face Blog",
-        "url": "https://huggingface.co",
-        "favicon": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Thu, 22 Oct 2026 16:11:31 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://huggingface.co/blog/allenai/olmoearth-v1-3"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-10-24T16:01:59.114Z",
-  "edition": 735
+  "lastUpdated": "2026-10-24T20:55:40.328Z",
+  "edition": 736
 }
