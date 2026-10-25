@@ -1,6 +1,38 @@
 {
-  "date": "2026-10-24T20:55:40.328Z",
+  "date": "2026-10-25T04:51:02.615Z",
   "articles": [
+    {
+      "id": "mvncny9hg36jt9nrnbs",
+      "title": "Cognition Open-Sources an Agent Plugin that Helps Secure Systems against Recent Cybersecurity Threats",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Sun, 25 Oct 2026 02:59:08 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/10/24/cognition-devin-vulnerability-fixes-plugin-php2shell-nodejs-gitlab/"
+    },
+    {
+      "id": "mvncny9irzfvf02zbds",
+      "title": "How to Run Underdog Saluki 27B: 2-Bit Qwen3.8-27B Tool-Calling Guide",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Sun, 25 Oct 2026 02:30:18 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/10/24/underdog-saluki-27b-coding-guide-llama-cpp/"
+    },
     {
       "id": "mvmvoi6vmgm57bmsz8",
       "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
@@ -812,41 +844,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
       "readTime": 1,
       "originalUrl": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/"
-    },
-    {
-      "id": "mvjsyjt5e6kf1opera",
-      "title": "Cohere Releases Rerank 5 With Passage-Level Context Focus and Calibrated Scores",
-      "summary": "...",
-      "source": {
-        "name": "MarkTechPost",
-        "url": "https://www.marktechpost.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Thu, 22 Oct 2026 16:31:31 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.marktechpost.com/2026/10/22/cohere-rerank-5-context-focus/"
-    },
-    {
-      "id": "mvjsyjt6r2pux3uuef",
-      "title": "A Developer’s Guide to OmniParseBench: Leaderboard Benchmarks and OCR Testing",
-      "summary": "...",
-      "source": {
-        "name": "MarkTechPost",
-        "url": "https://www.marktechpost.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Thu, 22 Oct 2026 16:11:52 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.marktechpost.com/2026/10/22/omniparsebench-document-parsing-leaderboard-guide/"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-10-24T20:55:40.328Z",
-  "edition": 736
+  "lastUpdated": "2026-10-25T04:51:02.615Z",
+  "edition": 737
 }
