@@ -1,6 +1,24 @@
 {
-  "date": "2026-10-25T04:51:02.615Z",
+  "date": "2026-10-25T11:40:35.904Z",
   "articles": [
+    {
+      "id": "mvnranizwsm507tukz",
+      "title": "Microsoft Open-Sources Agensh: A Multi-Agent Harness for 1,024 Agents",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Microsoft"
+      ],
+      "publishedAt": "Sun, 25 Oct 2026 03:32:59 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/10/24/microsoft-agensh-multi-agent-harness-1024-agents/"
+    },
     {
       "id": "mvncny9hg36jt9nrnbs",
       "title": "Cognition Open-Sources an Agent Plugin that Helps Secure Systems against Recent Cybersecurity Threats",
@@ -825,28 +843,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
       "readTime": 1,
       "originalUrl": "https://www.marktechpost.com/2026/10/22/gradium-phonon-31m-on-device-tts/"
-    },
-    {
-      "id": "mvjsyfrbkdnx9wadjx",
-      "title": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
-      "summary": "Microsoft points the blame for ConnectWise's breach at a China-aligned hacker, which relied on AI agents to rapidly hack into thousands of its customers....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Microsoft",
-        "China"
-      ],
-      "publishedAt": "Thu, 22 Oct 2026 16:47:17 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-10-25T04:51:02.615Z",
-  "edition": 737
+  "lastUpdated": "2026-10-25T11:40:35.904Z",
+  "edition": 738
 }
