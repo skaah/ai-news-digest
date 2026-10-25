@@ -1,6 +1,38 @@
 {
-  "date": "2026-10-25T16:29:57.388Z",
+  "date": "2026-10-25T20:56:16.040Z",
   "articles": [
+    {
+      "id": "mvob556043cq37mhpgv",
+      "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+      "summary": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\"...",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Funding",
+      "tags": [],
+      "publishedAt": "Sun, 25 Oct 2026 16:57:32 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/"
+    },
+    {
+      "id": "mvob58vb62e7viu17yj",
+      "title": "Hugging Face Releases Carbon-X, a 14B Open DNA Language Model that Brings DNA and Natural Language Together for the First Time",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Sun, 25 Oct 2026 16:53:40 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/10/25/hugging-face-carbon-x-14b-dna-language-model/"
+    },
     {
       "id": "mvo1mmzeskdf10yolo",
       "title": "The hottest AI wearables and gadgets you should know about",
@@ -811,41 +843,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800",
       "readTime": 1,
       "originalUrl": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/"
-    },
-    {
-      "id": "mvk2gekenjwslglui0q",
-      "title": "Build more responsive apps with the Decisions API",
-      "summary": "Fast, focused, low-cost decisions for any application....",
-      "source": {
-        "name": "OpenAI News",
-        "url": "https://openai.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Thu, 22 Oct 2026 19:00:00 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://openai.com/index/decisions-api"
-    },
-    {
-      "id": "mvk2gdizeq8i1fqegdl",
-      "title": "The Foundations of Scalable AI",
-      "summary": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This session from MIT Technology Review’s EmTech Future conference explores what it takes to build that foundation in a highly regulated...",
-      "source": {
-        "name": "MIT Tech Review AI",
-        "url": "https://www.technologyreview.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.technologyreview.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Thu, 22 Oct 2026 18:48:04 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-10-25T16:29:57.388Z",
-  "edition": 739
+  "lastUpdated": "2026-10-25T20:56:16.040Z",
+  "edition": 740
 }
