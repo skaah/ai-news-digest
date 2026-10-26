@@ -1,6 +1,42 @@
 {
-  "date": "2026-10-26T04:55:29.328Z",
+  "date": "2026-10-26T13:13:23.675Z",
   "articles": [
+    {
+      "id": "mvpa1qnqss3u5kp9u7",
+      "title": "The focus on AI safety disasters ignores everyday harms",
+      "summary": "Consider what passes for success in technology policy. An AI company promises that its chatbot will not encourage suicide. A social media platform makes it more difficult for children to buy fentanyl. These are important protections, and they should have existed all along. But co...",
+      "source": {
+        "name": "MIT Tech Review AI",
+        "url": "https://www.technologyreview.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.technologyreview.com&sz=64"
+      },
+      "category": "Policy",
+      "tags": [
+        "AI Safety"
+      ],
+      "publishedAt": "Mon, 26 Oct 2026 09:01:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1555848962-6e79363ec58f?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/"
+    },
+    {
+      "id": "mvpa1t98euoqlorte1h",
+      "title": "Tsinghua AI Open-Sources AKV, a Cache Engineering Server for LLM Agents on SGLang",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "LLM"
+      ],
+      "publishedAt": "Mon, 26 Oct 2026 07:56:45 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/10/26/tsinghua-akv-kv-cache-engineering-llm-agents/"
+    },
     {
       "id": "mvos9l7ul3s5j7f589p",
       "title": "L’IA qui s’améliore elle-même, nouvel horizon controversé des grands laboratoires comme OpenAI et Anthropic",
@@ -807,41 +843,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
       "readTime": 1,
       "originalUrl": "https://arxiv.org/abs/2610.30176"
-    },
-    {
-      "id": "mvki2txlfn14mcaq6p",
-      "title": "Left alone with nothing to do, AI agents started playing",
-      "summary": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Research",
-      "tags": [],
-      "publishedAt": "Fri, 23 Oct 2026 00:45:37 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/"
-    },
-    {
-      "id": "mvl8bu459n4ppxtvgqo",
-      "title": "Does Your Model Run on AWS Trainium? Look It Up",
-      "summary": "...",
-      "source": {
-        "name": "Hugging Face Blog",
-        "url": "https://huggingface.co",
-        "favicon": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Fri, 23 Oct 2026 00:00:00 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://huggingface.co/blog/torch-neuronx-model-support"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-10-26T04:55:29.327Z",
-  "edition": 741
+  "lastUpdated": "2026-10-26T13:13:23.675Z",
+  "edition": 742
 }
