@@ -1,6 +1,76 @@
 {
-  "date": "2026-10-26T22:43:46.712Z",
+  "date": "2026-10-27T05:13:07.670Z",
   "articles": [
+    {
+      "id": "mvq8c4ckci06x1o9v4t",
+      "title": "L’industrie sans usines, un débat qui revient en France",
+      "summary": "Doit-on concentrer les investissements sur les technologies de rupture, comme l’IA ou les biotechnologies, et délaisser la « vieille » industrie ? La position défendue par le « Prix Nobel d’économie » Jean Tirole fait réagir, et rappelle le débat sur « l’industrie sans usines » d...",
+      "source": {
+        "name": "Le Monde Tech",
+        "url": "https://www.lemonde.fr",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.lemonde.fr&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Tue, 27 Oct 2026 04:30:06 +0100",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.lemonde.fr/economie/article/2026/10/27/l-industrie-sans-usines-un-debat-qui-revient-en-france_6801084_3234.html"
+    },
+    {
+      "id": "mvq8c1ponl7c88nary",
+      "title": "OpenAI Launches GPT-6.1 Terra, Halving GPT-6.1 Sol’s API Price for Agent Work",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Product",
+      "tags": [
+        "OpenAI"
+      ],
+      "publishedAt": "Tue, 27 Oct 2026 02:45:27 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1550009158-9ebf690be655?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/10/26/openai-gpt-6-1-terra/"
+    },
+    {
+      "id": "mvq8bxrji0b7ao5mvrk",
+      "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
+      "summary": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent. ...",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "OpenAI"
+      ],
+      "publishedAt": "Tue, 27 Oct 2026 02:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/"
+    },
+    {
+      "id": "mvq8bxrk8k8ov79226",
+      "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
+      "summary": "...",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "China"
+      ],
+      "publishedAt": "Tue, 27 Oct 2026 01:12:21 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/"
+    },
     {
       "id": "mvpufavofchyefmgvft",
       "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
@@ -793,73 +863,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800",
       "readTime": 1,
       "originalUrl": "https://openai.com/index/scaling-storage-one-billion-users-part-two"
-    },
-    {
-      "id": "mvl8bu445gqbdqrcui6",
-      "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
-      "summary": "...",
-      "source": {
-        "name": "Hugging Face Blog",
-        "url": "https://huggingface.co",
-        "favicon": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=64"
-      },
-      "category": "Research",
-      "tags": [],
-      "publishedAt": "Fri, 23 Oct 2026 16:15:50 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800",
-      "readTime": 1,
-      "originalUrl": "https://huggingface.co/blog/allenai/litpivot"
-    },
-    {
-      "id": "mvl8by5m7zocvnv7eav",
-      "title": "1Password a un plan pour laisser les agents IA accéder à vos comptes, sans exposer vos mots de passe",
-      "summary": "...",
-      "source": {
-        "name": "Numerama",
-        "url": "https://www.numerama.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Fri, 23 Oct 2026 16:08:05 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.numerama.com/tech/2359721-1password-a-un-plan-pour-laisser-les-agents-ia-acceder-a-vos-comptes-sans-exposer-vos-mots-de-passe.html"
-    },
-    {
-      "id": "mvkwmk1od0dq41cg73c",
-      "title": "Une IA souveraine européenne, ça veut dire quoi concrètement ?",
-      "summary": "...",
-      "source": {
-        "name": "Maddyness",
-        "url": "https://www.maddyness.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.maddyness.com&sz=64"
-      },
-      "category": "Policy",
-      "tags": [],
-      "publishedAt": "Fri, 23 Oct 2026 10:38:52 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1575517111839-3a3843ee7f5d?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.maddyness.com/2026/10/23/une-ia-souveraine-europeenne-ca-veut-dire-quoi-concretement/"
-    },
-    {
-      "id": "mvkwmjgwy8gw2jez9f",
-      "title": "1Password permet aux agents IA de se connecter à vos comptes, avec la promesse de ne jamais exposer vos mots de passe",
-      "summary": "...",
-      "source": {
-        "name": "Numerama",
-        "url": "https://www.numerama.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Fri, 23 Oct 2026 10:31:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.numerama.com/tech/2359721-1password-permet-aux-agents-ia-de-se-connecter-a-vos-comptes-avec-la-promesse-de-ne-jamais-exposer-vos-mots-de-passe.html"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-10-26T22:43:46.712Z",
-  "edition": 743
+  "lastUpdated": "2026-10-27T05:13:07.669Z",
+  "edition": 744
 }
