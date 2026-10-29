@@ -1,6 +1,88 @@
 {
-  "date": "2026-10-29T05:55:23.788Z",
+  "date": "2026-10-29T13:11:45.903Z",
   "articles": [
+    {
+      "id": "mvtkbdg3bft73fmzi3",
+      "title": "Voici les 10 films d’horreur de 2026 les plus populaires en streaming pour Halloween",
+      "summary": "Le spécialiste du streaming JustWatch a publié ce mercredi 28 octobre son classement des dix films d’horreur sortis en 2026 les plus populaires sur sa plateforme à l’approche d’Halloween. À quelques jours d’Halloween, ces données montrent quels films de l’année intéress...",
+      "source": {
+        "name": "Numerama",
+        "url": "https://www.numerama.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
+      },
+      "category": "Policy",
+      "tags": [],
+      "publishedAt": "Thu, 29 Oct 2026 11:45:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1575517111839-3a3843ee7f5d?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.numerama.com/pop-culture/2363435-voici-les-10-films-dhorreur-de-2026-les-plus-populaires-en-streaming-pour-halloween.html"
+    },
+    {
+      "id": "mvtkb8bl8txifq0tdb4",
+      "title": "We urgently need to monitor AI agents’ actions in real time",
+      "summary": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be graded. Around the same time, another OpenAI agent accessed priva...",
+      "source": {
+        "name": "MIT Tech Review AI",
+        "url": "https://www.technologyreview.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.technologyreview.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "OpenAI"
+      ],
+      "publishedAt": "Thu, 29 Oct 2026 10:11:12 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/"
+    },
+    {
+      "id": "mvtkbaolory15nwfkd",
+      "title": "Infini-AI-Lab Releases Hermit, an Open-Source Harness Adapter Framework for AI Agents",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Thu, 29 Oct 2026 08:24:52 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/10/29/infini-ai-lab-hermit-harness-adapter-framework/"
+    },
+    {
+      "id": "mvtkbaoma53ki8k2ogo",
+      "title": "Block Unveils Dessa, a Full-Duplex Speech Model Trained Only on Speech",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Thu, 29 Oct 2026 07:50:39 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/10/29/block-dessa-full-duplex-speech-model/"
+    },
+    {
+      "id": "mvtkbaomfqdznpq4gce",
+      "title": "AssemblyAI Ships AssemblyAI-TTS-1: A $15 per 1M Character Text-to-Speech API for Voice Agents",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Thu, 29 Oct 2026 07:28:36 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/10/29/assemblyai-tts-1-text-to-speech-api-voice-agents/"
+    },
     {
       "id": "mvt4q4i02rbjwrj1br",
       "title": "NVIDIA Releases Nemotron 3.5 Transcribe: An Open 30B MoE Model for 40-Language Transcription with ~4B Active Parameters",
@@ -18,6 +100,22 @@
       "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
       "readTime": 1,
       "originalUrl": "https://www.marktechpost.com/2026/10/28/nvidia-nemotron-3-5-transcribe-open-speech-llm/"
+    },
+    {
+      "id": "mvtkb9p1mz4lk49yim",
+      "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
+      "summary": "...",
+      "source": {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co",
+        "favicon": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Thu, 29 Oct 2026 00:00:00 GMT",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://huggingface.co/blog/anydecisionmodel"
     },
     {
       "id": "mvsp606xgs16mmhcy6b",
@@ -760,114 +858,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
       "readTime": 1,
       "originalUrl": "https://www.maddyness.com/2026/10/27/intelligence-artificielle-education-asie/"
-    },
-    {
-      "id": "mvr911ewbnbcsrpcm2g",
-      "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
-      "summary": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings....",
-      "source": {
-        "name": "OpenAI News",
-        "url": "https://openai.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "OpenAI"
-      ],
-      "publishedAt": "Tue, 27 Oct 2026 07:00:00 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://openai.com/index/oracle-apps-in-chatgpt"
-    },
-    {
-      "id": "mvqnmfnnc7vjehp0b6a",
-      "title": "Des « petites mains » de l’IA portent plainte pour infraction aux règles de protection des données",
-      "summary": "Cinq travailleurs indépendants et l’association Noyb dénoncent les pratiques d’Outlier, une plateforme de l’entreprise américaine Scale AI. Ils mettent en cause l’utilisation de données personnelles qui contrevient selon eux au droit européen....",
-      "source": {
-        "name": "Le Monde Tech",
-        "url": "https://www.lemonde.fr",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.lemonde.fr&sz=64"
-      },
-      "category": "Policy",
-      "tags": [],
-      "publishedAt": "Tue, 27 Oct 2026 07:00:21 +0100",
-      "imageUrl": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.lemonde.fr/economie/article/2026/10/27/des-petites-mains-de-l-ia-portent-plainte-pour-infraction-aux-regles-de-protection-des-donnees_6801142_3234.html"
-    },
-    {
-      "id": "mvqnmddk5yu6ctaosxf",
-      "title": "vLLM Semantic Router Releases d3-ultra: A 27B Open Multimodal Decision Model",
-      "summary": "...",
-      "source": {
-        "name": "MarkTechPost",
-        "url": "https://www.marktechpost.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "LLM",
-        "Multimodal"
-      ],
-      "publishedAt": "Tue, 27 Oct 2026 05:50:57 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.marktechpost.com/2026/10/26/vllm-semantic-router-d3-ultra-27b-multimodal-decision-model/"
-    },
-    {
-      "id": "mvqnmddkt1jt11cb13j",
-      "title": "Baidu Open-Sources Unlimited OCR 2 for Hundred-Page Document Parsing",
-      "summary": "...",
-      "source": {
-        "name": "MarkTechPost",
-        "url": "https://www.marktechpost.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "China"
-      ],
-      "publishedAt": "Tue, 27 Oct 2026 05:26:36 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.marktechpost.com/2026/10/26/baidu-unlimited-ocr-2-open-source-long-document-ocr/"
-    },
-    {
-      "id": "mvq8c4ckci06x1o9v4t",
-      "title": "L’industrie sans usines, un débat qui revient en France",
-      "summary": "Doit-on concentrer les investissements sur les technologies de rupture, comme l’IA ou les biotechnologies, et délaisser la « vieille » industrie ? La position défendue par le « Prix Nobel d’économie » Jean Tirole fait réagir, et rappelle le débat sur « l’industrie sans usines » d...",
-      "source": {
-        "name": "Le Monde Tech",
-        "url": "https://www.lemonde.fr",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.lemonde.fr&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Tue, 27 Oct 2026 04:30:06 +0100",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.lemonde.fr/economie/article/2026/10/27/l-industrie-sans-usines-un-debat-qui-revient-en-france_6801084_3234.html"
-    },
-    {
-      "id": "mvq8c1ponl7c88nary",
-      "title": "OpenAI Launches GPT-6.1 Terra, Halving GPT-6.1 Sol’s API Price for Agent Work",
-      "summary": "...",
-      "source": {
-        "name": "MarkTechPost",
-        "url": "https://www.marktechpost.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
-      },
-      "category": "Product",
-      "tags": [
-        "OpenAI"
-      ],
-      "publishedAt": "Tue, 27 Oct 2026 02:45:27 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1550009158-9ebf690be655?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.marktechpost.com/2026/10/26/openai-gpt-6-1-terra/"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-10-29T05:55:23.788Z",
-  "edition": 750
+  "lastUpdated": "2026-10-29T13:11:45.903Z",
+  "edition": 751
 }
