@@ -1,6 +1,24 @@
 {
-  "date": "2026-10-28T22:39:55.702Z",
+  "date": "2026-10-29T05:55:23.788Z",
   "articles": [
+    {
+      "id": "mvt4q4i02rbjwrj1br",
+      "title": "NVIDIA Releases Nemotron 3.5 Transcribe: An Open 30B MoE Model for 40-Language Transcription with ~4B Active Parameters",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Nvidia"
+      ],
+      "publishedAt": "Thu, 29 Oct 2026 04:41:24 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/10/28/nvidia-nemotron-3-5-transcribe-open-speech-llm/"
+    },
     {
       "id": "mvsp606xgs16mmhcy6b",
       "title": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
@@ -847,27 +865,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1550009158-9ebf690be655?w=800",
       "readTime": 1,
       "originalUrl": "https://www.marktechpost.com/2026/10/26/openai-gpt-6-1-terra/"
-    },
-    {
-      "id": "mvq8bxrji0b7ao5mvrk",
-      "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
-      "summary": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent. ...",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "OpenAI"
-      ],
-      "publishedAt": "Tue, 27 Oct 2026 02:00:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-10-28T22:39:55.702Z",
-  "edition": 749
+  "lastUpdated": "2026-10-29T05:55:23.788Z",
+  "edition": 750
 }
