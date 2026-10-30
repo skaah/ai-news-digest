@@ -1,6 +1,38 @@
 {
-  "date": "2026-10-29T22:49:28.155Z",
+  "date": "2026-10-30T05:56:20.101Z",
   "articles": [
+    {
+      "id": "mvuk72llkul7aye895d",
+      "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
+      "summary": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Fri, 30 Oct 2026 01:20:48 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/"
+    },
+    {
+      "id": "mvuk72llgaav9dewij",
+      "title": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
+      "summary": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday. ...",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Thu, 29 Oct 2026 23:42:22 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/"
+    },
     {
       "id": "mvu4y8d44skyeqth5dt",
       "title": "Baseten Releases joey-1, a 2B Decision Model at $0.01 per 1M Tokens",
@@ -814,45 +846,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
       "readTime": 1,
       "originalUrl": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/"
-    },
-    {
-      "id": "mvr90yzs8jas43abzbj",
-      "title": "Who’s really in charge at Anthropic after the IPO?",
-      "summary": "Here's a clear explanation of Anthropic's incredibly complex governance structure. ...",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Anthropic"
-      ],
-      "publishedAt": "Tue, 27 Oct 2026 21:38:28 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/"
-    },
-    {
-      "id": "mvrp4srmbi7fac3zs2p",
-      "title": "Liquid AI Releases LFM3: 6 Open-Weight 2B-Class Multimodal Models",
-      "summary": "...",
-      "source": {
-        "name": "MarkTechPost",
-        "url": "https://www.marktechpost.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Multimodal"
-      ],
-      "publishedAt": "Tue, 27 Oct 2026 21:08:02 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.marktechpost.com/2026/10/27/liquid-ai-lfm3-open-weight-2b-multimodal-models/"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-10-29T22:49:28.155Z",
-  "edition": 752
+  "lastUpdated": "2026-10-30T05:56:20.101Z",
+  "edition": 753
 }
