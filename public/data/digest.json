@@ -1,6 +1,72 @@
 {
-  "date": "2026-10-31T05:52:40.235Z",
+  "date": "2026-10-31T12:42:23.655Z",
   "articles": [
+    {
+      "id": "mvwe58knu506ydrmnjj",
+      "title": "Meet Factory Droid 1.0: A Model-Independent Coding Agent Harness Built on Script Mode",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Sat, 31 Oct 2026 10:38:14 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/10/31/factory-droid-1-0-frontier-harness/"
+    },
+    {
+      "id": "mvwe58koi97f9126min",
+      "title": "Vercel Labs Open-Sources agent-desktop for Agent Computer Use",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Sat, 31 Oct 2026 10:10:28 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/10/31/vercel-labs-agent-desktop-computer-use/"
+    },
+    {
+      "id": "mvwe5b49omh41gaq3f",
+      "title": "Sam Altman (OpenAI) préfèrerait que la RAM de votre PC aille dans ses datacenters",
+      "summary": "...",
+      "source": {
+        "name": "Numerama",
+        "url": "https://www.numerama.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "OpenAI"
+      ],
+      "publishedAt": "Sat, 31 Oct 2026 10:05:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.numerama.com/tech/2365133-sam-altman-openai-prefererait-que-la-ram-de-votre-pc-aille-dans-ses-datacenters.html"
+    },
+    {
+      "id": "mvwe5b4ab8szjqndsoa",
+      "title": "Une IA a choisi un traitement et l’a injecté dans le cerveau d’une souris : ce qu’on sait vraiment",
+      "summary": "...",
+      "source": {
+        "name": "Numerama",
+        "url": "https://www.numerama.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Sat, 31 Oct 2026 09:35:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.numerama.com/sciences/2365061-une-ia-a-choisi-un-traitement-et-la-injecte-dans-le-cerveau-dune-souris-ce-quon-sait-vraiment.html"
+    },
     {
       "id": "mvvzi79w0qrrarqqbmf",
       "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
@@ -773,80 +839,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
       "readTime": 1,
       "originalUrl": "https://huggingface.co/blog/mistral-large4"
-    },
-    {
-      "id": "mvtkb9p1mz4lk49yim",
-      "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
-      "summary": "...",
-      "source": {
-        "name": "Hugging Face Blog",
-        "url": "https://huggingface.co",
-        "favicon": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Thu, 29 Oct 2026 00:00:00 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://huggingface.co/blog/anydecisionmodel"
-    },
-    {
-      "id": "mvsp606xgs16mmhcy6b",
-      "title": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
-      "summary": "Microsoft has never disclosed Azure's quarterly revenue in dollars. But for the first time, we can see just how close it is getting to besting the biggest competitor in the market, AWS....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Funding",
-      "tags": [
-        "Microsoft"
-      ],
-      "publishedAt": "Wed, 28 Oct 2026 21:58:32 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/"
-    },
-    {
-      "id": "mvsp606ycswe5g80wmr",
-      "title": "Google expands AI Search ads globally as core ad growth slows",
-      "summary": "The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Funding",
-      "tags": [
-        "Google"
-      ],
-      "publishedAt": "Wed, 28 Oct 2026 21:48:37 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/"
-    },
-    {
-      "id": "mvsp606yhj6vab2i07f",
-      "title": "Microsoft recorded $10 billion in revenue from OpenAI",
-      "summary": "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the still-enormous financial dependency of the partnership....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Funding",
-      "tags": [
-        "OpenAI",
-        "Microsoft"
-      ],
-      "publishedAt": "Wed, 28 Oct 2026 21:34:30 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-10-31T05:52:40.235Z",
-  "edition": 756
+  "lastUpdated": "2026-10-31T12:42:23.655Z",
+  "edition": 757
 }
