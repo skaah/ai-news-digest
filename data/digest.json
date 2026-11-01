@@ -1,6 +1,58 @@
 {
-  "date": "2026-11-01T06:16:40.336Z",
+  "date": "2026-11-01T13:37:55.053Z",
   "articles": [
+    {
+      "id": "mvxvkk867l21rznpyql",
+      "title": "Percée d’OpenAI sur la théorie de Yang-Mills, mort du télescope Swift et un sas de l’ISS condamné – le récap’ sciences de la semaine",
+      "summary": "...",
+      "source": {
+        "name": "Numerama",
+        "url": "https://www.numerama.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "OpenAI"
+      ],
+      "publishedAt": "Sun, 01 Nov 2026 10:10:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.numerama.com/sciences/2364619-percee-dopenai-sur-la-theorie-de-yang-mills-mort-du-telescope-swift-et-un-sas-de-liss-condamne-le-recap-sciences-de-la-semaine.html"
+    },
+    {
+      "id": "mvxvkguzg0fzxqyyyq9",
+      "title": "Nace AI Open-Sources Drex Max v1: A 27B Decision Model That Runs Locally on Apple Silicon",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Sun, 01 Nov 2026 08:10:07 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/11/01/nace-ai-open-sources-drex-max-v1-local-inference/"
+    },
+    {
+      "id": "mvxvkgv08nfj9om1n8t",
+      "title": "DeepSeek Open-Sources dsh-superagent, a Router-Worker Coding Agent",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "China"
+      ],
+      "publishedAt": "Sun, 01 Nov 2026 07:47:17 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/11/01/deepseek-dsh-superagent-router-worker-coding-agent/"
+    },
     {
       "id": "mvwxe6ssw481057ko3k",
       "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
@@ -788,60 +840,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
       "readTime": 1,
       "originalUrl": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/"
-    },
-    {
-      "id": "mvu4y6y8bmssl3zya3g",
-      "title": "How we detect frontier model misalignment",
-      "summary": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate....",
-      "source": {
-        "name": "OpenAI News",
-        "url": "https://openai.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "OpenAI",
-        "AI Safety"
-      ],
-      "publishedAt": "Thu, 29 Oct 2026 09:00:00 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://openai.com/index/how-we-detect-frontier-model-misalignment"
-    },
-    {
-      "id": "mvtkbaolory15nwfkd",
-      "title": "Infini-AI-Lab Releases Hermit, an Open-Source Harness Adapter Framework for AI Agents",
-      "summary": "...",
-      "source": {
-        "name": "MarkTechPost",
-        "url": "https://www.marktechpost.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Thu, 29 Oct 2026 08:24:52 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.marktechpost.com/2026/10/29/infini-ai-lab-hermit-harness-adapter-framework/"
-    },
-    {
-      "id": "mvtkbaoma53ki8k2ogo",
-      "title": "Block Unveils Dessa, a Full-Duplex Speech Model Trained Only on Speech",
-      "summary": "...",
-      "source": {
-        "name": "MarkTechPost",
-        "url": "https://www.marktechpost.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Thu, 29 Oct 2026 07:50:39 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.marktechpost.com/2026/10/29/block-dessa-full-duplex-speech-model/"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-11-01T06:16:40.336Z",
-  "edition": 759
+  "lastUpdated": "2026-11-01T13:37:55.053Z",
+  "edition": 760
 }
