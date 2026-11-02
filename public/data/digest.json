@@ -1,6 +1,94 @@
 {
-  "date": "2026-11-01T22:07:23.520Z",
+  "date": "2026-11-02T06:18:02.413Z",
   "articles": [
+    {
+      "id": "mvyvanwlptxwfv5ks1",
+      "title": "More Rules, Longer Lists? Benchmarking Self-Evolving Agents on a Hidden-Rule Curriculum",
+      "summary": "...",
+      "source": {
+        "name": "ArXiv cs.AI",
+        "url": "https://arxiv.org",
+        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Mon, 02 Nov 2026 00:00:00 -0500",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://arxiv.org/abs/2610.40758"
+    },
+    {
+      "id": "mvyvanwmf7mtp2co3ig",
+      "title": "Beyond Plausible Prediction: Safety Sufficiency in Web World Models",
+      "summary": "...",
+      "source": {
+        "name": "ArXiv cs.AI",
+        "url": "https://arxiv.org",
+        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
+      },
+      "category": "Ethics",
+      "tags": [
+        "AI Safety"
+      ],
+      "publishedAt": "Mon, 02 Nov 2026 00:00:00 -0500",
+      "imageUrl": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=800",
+      "readTime": 1,
+      "originalUrl": "https://arxiv.org/abs/2610.40798"
+    },
+    {
+      "id": "mvyvanwn29s0m0zyyv3",
+      "title": "Circumventing the Computational Hardness of Computational Arbitrage",
+      "summary": "...",
+      "source": {
+        "name": "ArXiv cs.AI",
+        "url": "https://arxiv.org",
+        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Mon, 02 Nov 2026 00:00:00 -0500",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://arxiv.org/abs/2610.40831"
+    },
+    {
+      "id": "mvyvanwnk0cxkqazk6a",
+      "title": "Incongruence-Aware Evaluation of Multimodal Speech Emotion Recognition in Audio Large Language Models",
+      "summary": "...",
+      "source": {
+        "name": "ArXiv cs.AI",
+        "url": "https://arxiv.org",
+        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "LLM",
+        "Multimodal"
+      ],
+      "publishedAt": "Mon, 02 Nov 2026 00:00:00 -0500",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://arxiv.org/abs/2610.40883"
+    },
+    {
+      "id": "mvyvanwovol5hqgk0fo",
+      "title": "ChatGPT as a Surveillance Assistant? An Exploratory Case Study of AI-Assisted Surveillance Risks",
+      "summary": "...",
+      "source": {
+        "name": "ArXiv cs.AI",
+        "url": "https://arxiv.org",
+        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
+      },
+      "category": "Research",
+      "tags": [
+        "OpenAI",
+        "AI Safety"
+      ],
+      "publishedAt": "Mon, 02 Nov 2026 00:00:00 -0500",
+      "imageUrl": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?w=800",
+      "readTime": 1,
+      "originalUrl": "https://arxiv.org/abs/2610.40890"
+    },
     {
       "id": "mvydrkj5gn5zrawndim",
       "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
@@ -754,95 +842,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800",
       "readTime": 1,
       "originalUrl": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/"
-    },
-    {
-      "id": "mvu4y4pdpor1rqow4o",
-      "title": "OpenAI-backed Thrive Holdings acquires ADT",
-      "summary": "OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Funding",
-      "tags": [
-        "OpenAI"
-      ],
-      "publishedAt": "Thu, 29 Oct 2026 19:56:19 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/"
-    },
-    {
-      "id": "mvu4y4pdt9f740h7l4c",
-      "title": "Meta quietly launches an AI fashion app called Style Sketch",
-      "summary": "The app connects to Instagram to build a virtual closet from photos you’ve already shared, or lets you add items manually by snapping a photo, recording a quick video, or uploading images from your camera roll....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Product",
-      "tags": [
-        "Meta"
-      ],
-      "publishedAt": "Thu, 29 Oct 2026 19:14:36 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/"
-    },
-    {
-      "id": "mvu4y8d4t78b2dlbb1m",
-      "title": "Prime Intellect Releases Prime Mega MoE: Trainable Fused MoE Kernel, 3.11x Faster Forward Pass",
-      "summary": "...",
-      "source": {
-        "name": "MarkTechPost",
-        "url": "https://www.marktechpost.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Thu, 29 Oct 2026 18:28:57 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.marktechpost.com/2026/10/29/prime-intellect-prime-mega-moe-fused-moe-kernel-training/"
-    },
-    {
-      "id": "mvu4y4pexrd6qisa8xe",
-      "title": "Granola crunches up a dictation feature to compete with Wispr",
-      "summary": "Uno reverse! After Wispr added meeting notes to its dictation app, Granola is adding dictation to its meeting notetaker. The voice AI wars are getting interesting....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Thu, 29 Oct 2026 17:54:38 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/"
-    },
-    {
-      "id": "mvu4y6y7d9ex74v0skh",
-      "title": "An updated Model Spec for more capable and beneficial AI",
-      "summary": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent....",
-      "source": {
-        "name": "OpenAI News",
-        "url": "https://openai.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "OpenAI"
-      ],
-      "publishedAt": "Thu, 29 Oct 2026 17:00:00 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://openai.com/index/updated-model-spec"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-11-01T22:07:23.520Z",
-  "edition": 761
+  "lastUpdated": "2026-11-02T06:18:02.413Z",
+  "edition": 762
 }
