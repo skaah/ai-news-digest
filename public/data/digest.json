@@ -1,6 +1,224 @@
 {
-  "date": "2026-11-06T06:56:23.821Z",
+  "date": "2026-11-06T19:28:54.645Z",
   "articles": [
+    {
+      "id": "mw5db2w5fkhfadu36ge",
+      "title": "How to predict the behavior of molecules from scant data",
+      "summary": "A machine-learning approach called CheMeleon provides a practical way to develop new drugs or other molecules with much less detailed, expensive experimentation....",
+      "source": {
+        "name": "MIT News AI",
+        "url": "https://news.mit.edu",
+        "favicon": "https://www.google.com/s2/favicons?domain=news.mit.edu&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Fri, 06 Nov 2026 14:00:00 -0500",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://news.mit.edu/2026/how-to-predict-molecule-behavior-with-scant-data-1106"
+    },
+    {
+      "id": "mw5db14efs8m7vn3s9p",
+      "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+      "summary": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Research",
+      "tags": [],
+      "publishedAt": "Fri, 06 Nov 2026 18:44:38 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/"
+    },
+    {
+      "id": "mw5db14f46639394rui",
+      "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+      "summary": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.  ...",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Meta"
+      ],
+      "publishedAt": "Fri, 06 Nov 2026 18:44:20 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/"
+    },
+    {
+      "id": "mw5db14fmbewwv8n04",
+      "title": "How a Blue Wave midterm might reshape the AI industry",
+      "summary": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development. And even ...",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Fri, 06 Nov 2026 18:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/"
+    },
+    {
+      "id": "mw5db4sqgfjug21hzqn",
+      "title": "Zyphra ZYFA: FP8 FlashAttention for AMD MI355X, Up to 1.76x Faster",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Fri, 06 Nov 2026 17:28:04 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/11/06/zyphra-zyfa-fp8-flashattention-amd-mi355x/"
+    },
+    {
+      "id": "mw5db14gj9p37eo27co",
+      "title": "After the midterms, is the AI industry in for a rough two years?",
+      "summary": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development. And even ...",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Fri, 06 Nov 2026 17:23:52 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/"
+    },
+    {
+      "id": "mw5db14g5ck4mz9t5ik",
+      "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
+      "summary": "AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Anthropic"
+      ],
+      "publishedAt": "Fri, 06 Nov 2026 15:54:47 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/"
+    },
+    {
+      "id": "mw5db3te2k3h095a292",
+      "title": "ToyBlocks: A controlled world for robot learning and evaluation",
+      "summary": "...",
+      "source": {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co",
+        "favicon": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Robotics"
+      ],
+      "publishedAt": "Fri, 06 Nov 2026 14:00:48 GMT",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://huggingface.co/blog/allenai/toyblocks"
+    },
+    {
+      "id": "mw5db6vin1jerslq74d",
+      "title": "A Taïwan, la frénésie pour les valeurs boursières liées à l’IA : « Ma mère en achète et en revend le même jour. Ses amis font pareil »",
+      "summary": "L’envolée du cours de Bourse de TSMC, seule entreprise au monde capable de produire les processeurs indispensables au fonctionnement des meilleures intelligences artificielles, alimente l’engouement des habitants de l’île pour l’investissement, au risque de creuser les inégalités...",
+      "source": {
+        "name": "Le Monde Tech",
+        "url": "https://www.lemonde.fr",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.lemonde.fr&sz=64"
+      },
+      "category": "Policy",
+      "tags": [],
+      "publishedAt": "Fri, 06 Nov 2026 15:00:00 +0100",
+      "imageUrl": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.lemonde.fr/economie/article/2026/11/06/a-taiwan-la-frenesie-pour-les-valeurs-boursieres-liees-a-l-ia-ma-mere-en-achete-et-en-revend-le-meme-jour-ses-amis-font-pareil_6807795_3234.html"
+    },
+    {
+      "id": "mw5db7uo15wuqqnh7rh",
+      "title": "IA : Wall Street dévisse, la bulle est-elle en train d'éclater ?",
+      "summary": "...",
+      "source": {
+        "name": "Maddyness",
+        "url": "https://www.maddyness.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.maddyness.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Fri, 06 Nov 2026 11:56:27 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.maddyness.com/2026/11/06/ia-wall-street-devisse-la-bulle-est-elle-en-train-declater/"
+    },
+    {
+      "id": "mw5db2gkjii57te4f38",
+      "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
+      "summary": "I’m not the sort of person who typically pays for a house cleaner. I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser. But when I saw an X post about a new humanoid-robot cleaning service in San Francisco, I immediately signed...",
+      "source": {
+        "name": "MIT Tech Review AI",
+        "url": "https://www.technologyreview.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.technologyreview.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Robotics"
+      ],
+      "publishedAt": "Fri, 06 Nov 2026 10:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/"
+    },
+    {
+      "id": "mw5db6vib43heucmg2m",
+      "title": "Au Mexique, la concentration des data centers suscite l’inquiétude des habitants de l’Etat du Querétaro",
+      "summary": "Cet Etat frappé par une sécheresse chronique accueille plus des deux tiers des centres de données construits par les géants américains de la tech au Mexique. Les ONG dénoncent l’opacité sur leurs usages en eau et des créations d’emplois nettement moindres que celles qui ont été p...",
+      "source": {
+        "name": "Le Monde Tech",
+        "url": "https://www.lemonde.fr",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.lemonde.fr&sz=64"
+      },
+      "category": "Policy",
+      "tags": [],
+      "publishedAt": "Fri, 06 Nov 2026 10:15:08 +0100",
+      "imageUrl": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.lemonde.fr/economie/article/2026/11/06/au-mexique-le-queretaro-concentre-les-data-centers-et-les-inquietudes-sur-leurs-consequences-environnementales_6807753_3234.html"
+    },
+    {
+      "id": "mw5db3c2envqkc0bnxb",
+      "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+      "summary": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI....",
+      "source": {
+        "name": "OpenAI News",
+        "url": "https://openai.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "OpenAI"
+      ],
+      "publishedAt": "Fri, 06 Nov 2026 08:00:00 GMT",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://openai.com/index/partnering-with-hacktron"
+    },
     {
       "id": "mw4mf9riuqzvoww9oa7",
       "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
@@ -132,6 +350,40 @@
       "imageUrl": "https://images.unsplash.com/photo-1575517111839-3a3843ee7f5d?w=800",
       "readTime": 1,
       "originalUrl": "https://www.lemonde.fr/economie/article/2026/11/06/le-nouveau-tgv-de-la-sncf-plus-confortable-ecologique-et-modulable-entre-enfin-en-service-vendredi_6807380_3234.html"
+    },
+    {
+      "id": "mw5db3c2nef0qpdc4oh",
+      "title": "Measuring how AI agents handle everyday wet-lab science",
+      "summary": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science....",
+      "source": {
+        "name": "OpenAI News",
+        "url": "https://openai.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "OpenAI"
+      ],
+      "publishedAt": "Fri, 06 Nov 2026 00:00:00 GMT",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science"
+    },
+    {
+      "id": "mw5db3tebtta0hp2fmb",
+      "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
+      "summary": "...",
+      "source": {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co",
+        "favicon": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Fri, 06 Nov 2026 00:00:00 GMT",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://huggingface.co/blog/open-asr-leaderboard-liva"
     },
     {
       "id": "mw4mfdmod3jhqpr3frm",
@@ -600,264 +852,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
       "readTime": 1,
       "originalUrl": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/"
-    },
-    {
-      "id": "mw3z1i4s3js8bw1etre",
-      "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
-      "summary": "...",
-      "source": {
-        "name": "Hugging Face Blog",
-        "url": "https://huggingface.co",
-        "favicon": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=64"
-      },
-      "category": "Product",
-      "tags": [],
-      "publishedAt": "Thu, 05 Nov 2026 00:00:00 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800",
-      "readTime": 1,
-      "originalUrl": "https://huggingface.co/blog/phonon-tts"
-    },
-    {
-      "id": "mw36zf8091c8rdsprzj",
-      "title": "AI PACs spent millions trying to shape Congress — here’s how they fared",
-      "summary": "AI industry PACs spent millions influencing the 2026 midterms, with mixed results. Political groups are already looking toward the next election cycle....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Funding",
-      "tags": [],
-      "publishedAt": "Wed, 04 Nov 2026 22:45:09 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/"
-    },
-    {
-      "id": "mw36ziu2705a1c8ub7p",
-      "title": "webAI Releases TwIL-8B, an 8.8B Reasoning Model Scoring 98.2 on MATH-500",
-      "summary": "...",
-      "source": {
-        "name": "MarkTechPost",
-        "url": "https://www.marktechpost.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Wed, 04 Nov 2026 22:25:05 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.marktechpost.com/2026/11/04/webai-twil-8b-reasoning-model/"
-    },
-    {
-      "id": "mw36zf80dmqsyndwh3n",
-      "title": "Nothing CEO says company’s mysterious AI-first device is dropping next month",
-      "summary": "While it's not yet clear what kind of product the smartphone startup is cooking up, Nothing's CEO said the product is designed to leverage AI for productivity gains.  ...",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Product",
-      "tags": [
-        "Startup"
-      ],
-      "publishedAt": "Wed, 04 Nov 2026 22:13:16 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/"
-    },
-    {
-      "id": "mw36zf81v7e87nq7xvk",
-      "title": "Almost no one uses AI agents to book their Uber, company says",
-      "summary": "During its busiest week last quarter, Uber said only four people booked a ride using an AI agent. ...",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Wed, 04 Nov 2026 21:56:01 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/"
-    },
-    {
-      "id": "mw36ziu3nak4fc4ued",
-      "title": "Ricursive AI Releases Ripple-65B Preview: A 65B Dense Open-Weight Model Scoring 80.5 on Terminal-Bench 2.1",
-      "summary": "...",
-      "source": {
-        "name": "MarkTechPost",
-        "url": "https://www.marktechpost.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Wed, 04 Nov 2026 21:01:06 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.marktechpost.com/2026/11/04/ricursive-ripple-65b-preview-open-weight-model/"
-    },
-    {
-      "id": "mw2j7a2mlvwx0314rro",
-      "title": "Open source AI is booming. Hugging Face explains who profits.",
-      "summary": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available, how do companies capture value? And with Chinese...",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Startup",
-        "China"
-      ],
-      "publishedAt": "Wed, 04 Nov 2026 19:30:04 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/"
-    },
-    {
-      "id": "mw2j7a2ns03nzhz9k5h",
-      "title": "DuckDuckGo pitches itself to schools amid backlash over Google’s AI policy",
-      "summary": "DuckDuckGo is courting schools frustrated by Google's AI restrictions, pointing educators to its search engine and options to disable AI features....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Policy",
-      "tags": [
-        "Google"
-      ],
-      "publishedAt": "Wed, 04 Nov 2026 19:29:52 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1555848962-6e79363ec58f?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/"
-    },
-    {
-      "id": "mw2j7bm6nmvas2yass",
-      "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
-      "summary": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech’s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat James Talarico won the US Senate seat against Ken Paxton. Gina Hinojosa won the r...",
-      "source": {
-        "name": "MIT Tech Review AI",
-        "url": "https://www.technologyreview.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.technologyreview.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Wed, 04 Nov 2026 18:50:55 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/"
-    },
-    {
-      "id": "mw2j7a2no4pjlnh48cf",
-      "title": "Building on open source AI? Hugging Face’s policy chief on the costs, risks, and trade-offs",
-      "summary": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available, how do companies capture value? And with Chinese...",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Policy",
-      "tags": [
-        "AI Safety",
-        "Startup",
-        "China"
-      ],
-      "publishedAt": "Wed, 04 Nov 2026 18:44:57 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1575517111839-3a3843ee7f5d?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/podcast/building-on-open-source-ai-hugging-faces-policy-chief-on-the-costs-risks-and-trade-offs/"
-    },
-    {
-      "id": "mw2j7daeojzuydwzspd",
-      "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
-      "summary": "...",
-      "source": {
-        "name": "Hugging Face Blog",
-        "url": "https://huggingface.co",
-        "favicon": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Wed, 04 Nov 2026 17:50:10 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor"
-    },
-    {
-      "id": "mw2j7a2noc5b8pzhjw",
-      "title": "I tried Apple’s Siri Recaps. They’re surprisingly useful — and a little unsettling",
-      "summary": "Apple's AI-powered Siri Recaps won me over in just one day, despite my privacy reservations. But there's still room for improvement....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Wed, 04 Nov 2026 16:51:35 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/11/04/i-tried-apples-siri-recaps-theyre-surprisingly-useful-and-a-little-unsettling/"
-    },
-    {
-      "id": "mw2j7izjluzfwfxy44m",
-      "title": "Comment savoir si vos données ont fuité ? 6 outils à connaître absolument",
-      "summary": "...",
-      "source": {
-        "name": "Numerama",
-        "url": "https://www.numerama.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Wed, 04 Nov 2026 16:38:11 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.numerama.com/cyberguerre/1164940-5-sites-pour-savoir-si-vos-infos-ont-fuite-sur-le-web.html"
-    },
-    {
-      "id": "mw2j7a2ohcq93610j94",
-      "title": "Google faces backlash for plan that would turn off Search for schools that restrict AI",
-      "summary": "Politicians on the left, like NYC mayor Zohran Mamdani and former FTC chair Lina Khan, accused Google of acting as an unregulated monopoly....",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Google"
-      ],
-      "publishedAt": "Wed, 04 Nov 2026 16:17:22 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/"
-    },
-    {
-      "id": "mw2j7cr4avlmnoq68yn",
-      "title": "OpenAI to acquire Pierre Computer Company, Inc.",
-      "summary": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code....",
-      "source": {
-        "name": "OpenAI News",
-        "url": "https://openai.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "OpenAI"
-      ],
-      "publishedAt": "Wed, 04 Nov 2026 14:30:00 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://openai.com/index/openai-to-acquire-pierre"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-11-06T06:56:23.820Z",
-  "edition": 770
+  "lastUpdated": "2026-11-06T19:28:54.645Z",
+  "edition": 771
 }
