@@ -1,6 +1,44 @@
 {
-  "date": "2026-11-07T13:13:07.912Z",
+  "date": "2026-11-07T21:56:41.013Z",
   "articles": [
+    {
+      "id": "mw6y0whh5de7vvi4p97",
+      "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+      "summary": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Nvidia",
+        "China"
+      ],
+      "publishedAt": "Sat, 07 Nov 2026 21:17:08 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/"
+    },
+    {
+      "id": "mw6y10h76jvqwei18ef",
+      "title": "How to Run NVIDIA Dory 4B with llama.cpp: Loop by Loop Guide",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Meta",
+        "Nvidia"
+      ],
+      "publishedAt": "Sat, 07 Nov 2026 19:22:44 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/11/07/coding-guide-nvidia-dory-4b-llama-cpp/"
+    },
     {
       "id": "mw6fbpn94oynom07dox",
       "title": "Buoyant Releases Kinference: An Open Source Inference Control Plane for Kubernetes and vLLM",
@@ -822,43 +860,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
       "readTime": 1,
       "originalUrl": "https://arxiv.org/abs/2611.05391"
-    },
-    {
-      "id": "mw36zjcw73ct6drba04",
-      "title": "Uncertainty-Aware Resource Orchestration for Agentic AI Systems",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Thu, 05 Nov 2026 00:00:00 -0500",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2611.05392"
-    },
-    {
-      "id": "mw36zjcwpin3ze7mnf",
-      "title": "Challenge-Aware Knowledge Recruitment with Meta-Agent Supervision for Medical Multi-Agent Reasoning",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Meta"
-      ],
-      "publishedAt": "Thu, 05 Nov 2026 00:00:00 -0500",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2611.05393"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-11-07T13:13:07.912Z",
-  "edition": 773
+  "lastUpdated": "2026-11-07T21:56:41.013Z",
+  "edition": 774
 }
