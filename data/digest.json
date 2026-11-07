@@ -1,6 +1,24 @@
 {
-  "date": "2026-11-07T06:07:25.222Z",
+  "date": "2026-11-07T13:13:07.912Z",
   "articles": [
+    {
+      "id": "mw6fbpn94oynom07dox",
+      "title": "Buoyant Releases Kinference: An Open Source Inference Control Plane for Kubernetes and vLLM",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "LLM"
+      ],
+      "publishedAt": "Sat, 07 Nov 2026 08:16:33 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/11/07/buoyant-kinference-open-source-inference-control-plane-kubernetes-vllm/"
+    },
     {
       "id": "mw604bycvfgybas2jmk",
       "title": "Vers le Rafale du futur, une facture à l’élu qui veut taxer les gigaoctets et la preuve secrète d’OpenAI – le recap’ tech de la semaine",
@@ -838,27 +856,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
       "readTime": 1,
       "originalUrl": "https://arxiv.org/abs/2611.05393"
-    },
-    {
-      "id": "mw36zjcxsuzsmzuhku",
-      "title": "A Feasibility Condition for Confidence-Gated Tiered LLM Inference",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "LLM"
-      ],
-      "publishedAt": "Thu, 05 Nov 2026 00:00:00 -0500",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2611.05394"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-11-07T06:07:25.221Z",
-  "edition": 772
+  "lastUpdated": "2026-11-07T13:13:07.912Z",
+  "edition": 773
 }
