@@ -1,6 +1,38 @@
 {
-  "date": "2026-11-07T21:56:41.013Z",
+  "date": "2026-11-08T06:12:12.334Z",
   "articles": [
+    {
+      "id": "mw7fq91siaf9fdgx2ud",
+      "title": "Nous Research Releases Arete-27B that Cuts Qwen3.8-27B Propaganda From 22% to 0.9%",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Research",
+      "tags": [],
+      "publishedAt": "Sun, 08 Nov 2026 04:45:59 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/11/07/nous-research-arete-27b-qwen3-8-27b-propaganda-fine-tune/"
+    },
+    {
+      "id": "mw7fq57awt75mh8h4xb",
+      "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
+      "summary": "On Equity, we unpacked what the midterms mean for the tech industry....",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Sat, 07 Nov 2026 22:07:22 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/"
+    },
     {
       "id": "mw6y0whh5de7vvi4p97",
       "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
@@ -826,43 +858,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
       "readTime": 1,
       "originalUrl": "https://news.mit.edu/2026/clearing-up-robot-fuzzy-memory-1105"
-    },
-    {
-      "id": "mw36zjcunceh4b210z",
-      "title": "Who May Overrule the Agent? Evidence-Gated Authority in LLM Review Institutions",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "LLM"
-      ],
-      "publishedAt": "Thu, 05 Nov 2026 00:00:00 -0500",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2611.05390"
-    },
-    {
-      "id": "mw36zjcvqe5ady98fto",
-      "title": "Agent Harness Awareness: Turning Verified Telemetry into Operational Control for Tool-Using Agents",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Thu, 05 Nov 2026 00:00:00 -0500",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2611.05391"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-11-07T21:56:41.013Z",
-  "edition": 774
+  "lastUpdated": "2026-11-08T06:12:12.334Z",
+  "edition": 775
 }
