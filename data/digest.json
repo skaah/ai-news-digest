@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-13T19:48:34.538Z",
+  "date": "2026-11-14T06:35:37.464Z",
   "articles": [
     {
       "id": "mwfe39i6mgspe6p5d7",
@@ -296,6 +296,24 @@
       "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
       "readTime": 1,
       "originalUrl": "https://www.marktechpost.com/2026/11/13/google-gemini-4-hydrogen/"
+    },
+    {
+      "id": "mwg17fux7wznm6n23yy",
+      "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+      "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment....",
+      "source": {
+        "name": "OpenAI News",
+        "url": "https://openai.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "OpenAI"
+      ],
+      "publishedAt": "Fri, 13 Nov 2026 08:00:00 GMT",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://openai.com/business/customer-stories/shield"
     },
     {
       "id": "mwfe3dpnsqn3vujytwo",
@@ -845,25 +863,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
       "readTime": 1,
       "originalUrl": "https://www.numerama.com/tech/2372485-jensen-huang-devrait-se-faire-limoger-par-nvidia.html"
-    },
-    {
-      "id": "mwd7wgfkhws1nx9ih6j",
-      "title": "New research could lead to faster, trustworthy AI models for climate prediction",
-      "summary": "MIT scientists developed a training method to generate models that simulate the effects of human activities on climate much more quickly than other approaches....",
-      "source": {
-        "name": "MIT News AI",
-        "url": "https://news.mit.edu",
-        "favicon": "https://www.google.com/s2/favicons?domain=news.mit.edu&sz=64"
-      },
-      "category": "Research",
-      "tags": [],
-      "publishedAt": "Thu, 12 Nov 2026 00:00:00 -0500",
-      "imageUrl": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=800",
-      "readTime": 1,
-      "originalUrl": "https://news.mit.edu/2026/new-research-could-lead-faster-trustworthy-ai-models-climate-prediction-1112"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-11-13T19:48:34.538Z",
-  "edition": 787
+  "lastUpdated": "2026-11-14T06:35:37.464Z",
+  "edition": 788
 }
