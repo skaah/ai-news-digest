@@ -1,6 +1,42 @@
 {
-  "date": "2026-11-15T06:43:38.285Z",
+  "date": "2026-11-15T18:55:51.730Z",
   "articles": [
+    {
+      "id": "mwi73d815djf08zubqv",
+      "title": "Microsoft bloque des mails sans prévenir, Google fait prouver la sécurité de Signal par 80 agents, OpenAI installe un bouton stop sur ses IA : on vous raconte la semaine Cyberguerre",
+      "summary": "...",
+      "source": {
+        "name": "Numerama",
+        "url": "https://www.numerama.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "OpenAI",
+        "Google",
+        "Microsoft"
+      ],
+      "publishedAt": "Sun, 15 Nov 2026 17:10:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.numerama.com/tech/2374157-microsoft-bloque-des-mails-sans-prevenir-google-fait-prouver-la-securite-de-signal-par-80-agents-openai-installe-un-bouton-stop-sur-ses-ia-on-vous-raconte-la-semaine-cyberguerre.html"
+    },
+    {
+      "id": "mwi73a93enx7vsceu4v",
+      "title": "Bland Launches Tofu-1, a Full-Duplex Speech-to-Speech Model for Calls",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Product",
+      "tags": [],
+      "publishedAt": "Sun, 15 Nov 2026 10:06:21 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/11/15/bland-tofu-1-full-duplex-speech-to-speech-model/"
+    },
     {
       "id": "mwgq49ujhg7mdsrs1kl",
       "title": "Cmpnd Releases dspy-wsp: Weight-Space Programming Comes to DSPy",
@@ -827,45 +863,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
       "readTime": 1,
       "originalUrl": "https://www.maddyness.com/2026/11/12/seisme-dans-la-tech-le-patron-de-nvidia-jensen-huang-demissionne/"
-    },
-    {
-      "id": "mwdz4ejxn2rbiyj32mi",
-      "title": "Jensen Huang, patron emblématique de Nvidia et parrain de l’IA, quitte ses fonctions",
-      "summary": "Le fondateur du géant des semi-conducteurs américain, mis en cause pour une liaison avec une entrepreneuse chinoise soupçonnée d’espionnage, quitte l’entreprise....",
-      "source": {
-        "name": "Le Monde Tech",
-        "url": "https://www.lemonde.fr",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.lemonde.fr&sz=64"
-      },
-      "category": "Policy",
-      "tags": [
-        "Nvidia"
-      ],
-      "publishedAt": "Thu, 12 Nov 2026 14:53:07 +0100",
-      "imageUrl": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.lemonde.fr/economie/article/2026/11/12/jensen-huang-patron-emblematique-de-nvidia-et-parrain-de-l-ia-demis-de-ses-fonctions_6809106_3234.html"
-    },
-    {
-      "id": "mwdz4fipgfsl3hyneo7",
-      "title": "Agile Robots : le géant allemand de la robotique lève 450 millions d'euros",
-      "summary": "...",
-      "source": {
-        "name": "Maddyness",
-        "url": "https://www.maddyness.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.maddyness.com&sz=64"
-      },
-      "category": "Funding",
-      "tags": [
-        "Robotics"
-      ],
-      "publishedAt": "Thu, 12 Nov 2026 13:27:04 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.maddyness.com/2026/11/12/agile-robots-le-geant-allemand-de-la-robotique-leve-450-millions-deuros/"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-11-15T06:43:38.285Z",
-  "edition": 791
+  "lastUpdated": "2026-11-15T18:55:51.730Z",
+  "edition": 792
 }
