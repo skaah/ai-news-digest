@@ -1,6 +1,192 @@
 {
-  "date": "2026-11-17T21:00:39.693Z",
+  "date": "2026-11-18T07:38:28.000Z",
   "articles": [
+    {
+      "id": "mwlt7rvofl1pls17619",
+      "title": "Nvidia : l’affaire Jensen Huang révèle les failles de l’administration Trump sur la Chine",
+      "summary": "Soutenu par la Silicon Valley et d’excellents résultats, le fondateur de la firme de microprocesseurs, rattrapé par plusieurs affaires d’adultère, tente de reprendre la tête de Nvidia, qu’il avait été contraint de quitter le 12 novembre. Les partisans de Trump dénoncent les zones...",
+      "source": {
+        "name": "Le Monde Tech",
+        "url": "https://www.lemonde.fr",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.lemonde.fr&sz=64"
+      },
+      "category": "Policy",
+      "tags": [
+        "Nvidia"
+      ],
+      "publishedAt": "Wed, 18 Nov 2026 08:30:16 +0100",
+      "imageUrl": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.lemonde.fr/economie/article/2026/11/18/nvidia-l-affaire-jensen-huang-revele-les-failles-de-l-administration-trump-sur-la-chine_6813087_3234.html"
+    },
+    {
+      "id": "mwlt7pm5eyk0y71lpcj",
+      "title": "SID AI Releases SID-2 Agentic Search Model With 0.720 NDCG Swarm Mode",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Wed, 18 Nov 2026 07:10:53 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/11/17/sid-ai-sid-2-agentic-search-swarm/"
+    },
+    {
+      "id": "mwlt7pm6w7ulu5fqsci",
+      "title": "Anthropic Adds Code Mode to Claude Code: Claude Now Chains Tool Calls in JavaScript",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Anthropic"
+      ],
+      "publishedAt": "Wed, 18 Nov 2026 06:53:28 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/11/17/anthropic-claude-code-code-mode-javascript-tool-calls/"
+    },
+    {
+      "id": "mwlt7nq9e6notlh52m4",
+      "title": "Helping AI text detectors keep up with changing conditions",
+      "summary": "A more flexible training method can make AI text detectors more robust when new models emerge or AI-generated text is disguised to appear human....",
+      "source": {
+        "name": "MIT News AI",
+        "url": "https://news.mit.edu",
+        "favicon": "https://www.google.com/s2/favicons?domain=news.mit.edu&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Wed, 18 Nov 2026 00:00:00 -0500",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://news.mit.edu/2026/helping-ai-text-detectors-keep-up-with-changing-conditions-1118"
+    },
+    {
+      "id": "mwlt7q2vlmw0mn1s9zp",
+      "title": "NEBench R1: a Reasoning Benchmark for Evaluating Nuclear Domain Competence in Large Language Models",
+      "summary": "...",
+      "source": {
+        "name": "ArXiv cs.AI",
+        "url": "https://arxiv.org",
+        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "LLM"
+      ],
+      "publishedAt": "Wed, 18 Nov 2026 00:00:00 -0500",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://arxiv.org/abs/2611.21682"
+    },
+    {
+      "id": "mwlt7q2v8kt30uyofr",
+      "title": "Chain-of-Thought Controllability Can Reduce Chain-of-Thought Monitorability",
+      "summary": "...",
+      "source": {
+        "name": "ArXiv cs.AI",
+        "url": "https://arxiv.org",
+        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Wed, 18 Nov 2026 00:00:00 -0500",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://arxiv.org/abs/2611.21799"
+    },
+    {
+      "id": "mwlt7q2vxpjsftqy9ie",
+      "title": "How Much of SAR Vehicle Recognition Is the Vehicle? Background Shortcuts, Angle Gaps and Partial Libraries on MSTAR and ATRNet-STAR",
+      "summary": "...",
+      "source": {
+        "name": "ArXiv cs.AI",
+        "url": "https://arxiv.org",
+        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Wed, 18 Nov 2026 00:00:00 -0500",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://arxiv.org/abs/2611.21827"
+    },
+    {
+      "id": "mwlt7q2wtsi5g3cc88m",
+      "title": "Auditors Struggle to Catch Sabotage In End-to-End Transcripts of AI Safety Research",
+      "summary": "...",
+      "source": {
+        "name": "ArXiv cs.AI",
+        "url": "https://arxiv.org",
+        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
+      },
+      "category": "Research",
+      "tags": [
+        "AI Safety"
+      ],
+      "publishedAt": "Wed, 18 Nov 2026 00:00:00 -0500",
+      "imageUrl": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?w=800",
+      "readTime": 1,
+      "originalUrl": "https://arxiv.org/abs/2611.21832"
+    },
+    {
+      "id": "mwlt7q2w7mf9zscw269",
+      "title": "Language Models Can Rewrite Their Own Weights",
+      "summary": "...",
+      "source": {
+        "name": "ArXiv cs.AI",
+        "url": "https://arxiv.org",
+        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Wed, 18 Nov 2026 00:00:00 -0500",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://arxiv.org/abs/2611.21885"
+    },
+    {
+      "id": "mwlt7pm68a6npm38m2",
+      "title": "Perplexity Computer Adds Multiagent: Up to 16 AI Agents That Cross-Check Work",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Tue, 17 Nov 2026 22:52:04 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/11/17/perplexity-computer-multiagent-effort-level/"
+    },
+    {
+      "id": "mwlt7pm6znj3xxbprp",
+      "title": "OpenAI Releases GPT-6.2 Astra and Sol With a 20% Cheaper Astra API",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "OpenAI"
+      ],
+      "publishedAt": "Tue, 17 Nov 2026 22:07:30 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/11/17/openai-gpt-6-2-astra-sol-release/"
+    },
     {
       "id": "mwl6fh3188fdnpts13d",
       "title": "Clearing Up the Confusion on AI Data Retention: Two Standard Designs Explained",
@@ -239,6 +425,24 @@
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
       "readTime": 1,
       "originalUrl": "https://www.maddyness.com/2026/11/17/cette-startup-francaise-a-trouve-des-identifiants-appartenant-a-lagence-de-cybersecurite-americaine/"
+    },
+    {
+      "id": "mwlt7o6m8dvgxief0n",
+      "title": "Introducing ChatGPT for Sales",
+      "summary": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward....",
+      "source": {
+        "name": "OpenAI News",
+        "url": "https://openai.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
+      },
+      "category": "Research",
+      "tags": [
+        "OpenAI"
+      ],
+      "publishedAt": "Tue, 17 Nov 2026 08:00:00 GMT",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800",
+      "readTime": 1,
+      "originalUrl": "https://openai.com/index/introducing-chatgpt-for-sales"
     },
     {
       "id": "mwl6fhkdonqn51k5ics",
@@ -654,213 +858,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800",
       "readTime": 1,
       "originalUrl": "https://openai.com/index/our-first-phase-of-embedded-assessments"
-    },
-    {
-      "id": "mwiwatxg8iw1slb0dz8",
-      "title": "When Should LLM Agents Forget? Memory Filtering Under Query-Critical Resolver Errors",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "LLM"
-      ],
-      "publishedAt": "Mon, 16 Nov 2026 00:00:00 -0500",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2611.17338"
-    },
-    {
-      "id": "mwiwatxhvt53l3in5zr",
-      "title": "Does the Ranking Hold? A Practitioner-Facing Audit of Hallucination Detectors on Small, Quantized, On-Device LLMs",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "LLM"
-      ],
-      "publishedAt": "Mon, 16 Nov 2026 00:00:00 -0500",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2611.17339"
-    },
-    {
-      "id": "mwiwatxhmw3ob2kt6s",
-      "title": "LoRAWeaver: Directional Adapter Routing in LoRA Representation Space",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Mon, 16 Nov 2026 00:00:00 -0500",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2611.17340"
-    },
-    {
-      "id": "mwiwatxhyodpknzjonm",
-      "title": "Tabular Population Priors as Structured Retrieval for EHR Medication Set Prediction",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Mon, 16 Nov 2026 00:00:00 -0500",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2611.17341"
-    },
-    {
-      "id": "mwiwatxiccq646sm1l7",
-      "title": "An Operationalization of Opaque Serial Depth",
-      "summary": "...",
-      "source": {
-        "name": "ArXiv cs.AI",
-        "url": "https://arxiv.org",
-        "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Mon, 16 Nov 2026 00:00:00 -0500",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://arxiv.org/abs/2611.17495"
-    },
-    {
-      "id": "mwjtlyjkwxm2s6dhuae",
-      "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
-      "summary": "...",
-      "source": {
-        "name": "Hugging Face Blog",
-        "url": "https://huggingface.co",
-        "favicon": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Mon, 16 Nov 2026 00:00:00 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://huggingface.co/blog/openrouter"
-    },
-    {
-      "id": "mwiwarxectmkw9q4f3",
-      "title": "A step toward defining the Standard Model on a lattice",
-      "summary": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof....",
-      "source": {
-        "name": "OpenAI News",
-        "url": "https://openai.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "OpenAI"
-      ],
-      "publishedAt": "Sun, 15 Nov 2026 22:00:01 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://openai.com/index/step-toward-defining-the-standard-model"
-    },
-    {
-      "id": "mwiwarxeiekd8cy5qz",
-      "title": "Our new blog for science",
-      "summary": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery....",
-      "source": {
-        "name": "OpenAI News",
-        "url": "https://openai.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
-      },
-      "category": "Research",
-      "tags": [
-        "OpenAI"
-      ],
-      "publishedAt": "Sun, 15 Nov 2026 22:00:00 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800",
-      "readTime": 1,
-      "originalUrl": "https://openai.com/index/our-new-blog-for-science"
-    },
-    {
-      "id": "mwi73d815djf08zubqv",
-      "title": "Microsoft bloque des mails sans prévenir, Google fait prouver la sécurité de Signal par 80 agents, OpenAI installe un bouton stop sur ses IA : on vous raconte la semaine Cyberguerre",
-      "summary": "...",
-      "source": {
-        "name": "Numerama",
-        "url": "https://www.numerama.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.numerama.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "OpenAI",
-        "Google",
-        "Microsoft"
-      ],
-      "publishedAt": "Sun, 15 Nov 2026 17:10:00 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.numerama.com/tech/2374157-microsoft-bloque-des-mails-sans-prevenir-google-fait-prouver-la-securite-de-signal-par-80-agents-openai-installe-un-bouton-stop-sur-ses-ia-on-vous-raconte-la-semaine-cyberguerre.html"
-    },
-    {
-      "id": "mwi73a93enx7vsceu4v",
-      "title": "Bland Launches Tofu-1, a Full-Duplex Speech-to-Speech Model for Calls",
-      "summary": "...",
-      "source": {
-        "name": "MarkTechPost",
-        "url": "https://www.marktechpost.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
-      },
-      "category": "Product",
-      "tags": [],
-      "publishedAt": "Sun, 15 Nov 2026 10:06:21 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.marktechpost.com/2026/11/15/bland-tofu-1-full-duplex-speech-to-speech-model/"
-    },
-    {
-      "id": "mwgq49ujhg7mdsrs1kl",
-      "title": "Cmpnd Releases dspy-wsp: Weight-Space Programming Comes to DSPy",
-      "summary": "...",
-      "source": {
-        "name": "MarkTechPost",
-        "url": "https://www.marktechpost.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Sat, 14 Nov 2026 16:45:48 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.marktechpost.com/2026/11/14/cmpnd-dspy-wsp-weight-space-programming/"
-    },
-    {
-      "id": "mwgq4cuo12nb3iolvv8",
-      "title": "IA : comment Huawei est devenu le navire amiral de la Chine dans la bataille des puces",
-      "summary": "Pour rattraper son retard, Pékin mise sur son champion des télécoms Huawei. Fort de 208 000 employés dans le monde, dont 114 000 en recherche et développement, le groupe a été érigé en chef d’orchestre de l’effort chinois pour atteindre l’« autosuffisance scientifique et technolo...",
-      "source": {
-        "name": "Le Monde Tech",
-        "url": "https://www.lemonde.fr",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.lemonde.fr&sz=64"
-      },
-      "category": "Research",
-      "tags": [],
-      "publishedAt": "Sat, 14 Nov 2026 15:00:01 +0100",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.lemonde.fr/economie/article/2026/11/14/ia-comment-huawei-est-devenu-le-navire-amiral-de-la-chine-dans-la-bataille-des-puces_6810315_3234.html"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-11-17T21:00:39.693Z",
-  "edition": 796
+  "lastUpdated": "2026-11-18T07:38:28.000Z",
+  "edition": 797
 }
