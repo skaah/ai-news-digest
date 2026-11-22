@@ -1,6 +1,76 @@
 {
-  "date": "2026-11-22T06:59:48.938Z",
+  "date": "2026-11-22T19:47:02.910Z",
   "articles": [
+    {
+      "id": "mws902a7sprthj5sxb",
+      "title": "NVIDIA Releases Alpamayo 2 Edge: A 2B Reasoning VLA for DRIVE Thor",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Nvidia"
+      ],
+      "publishedAt": "Sun, 22 Nov 2026 18:37:57 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/11/22/nvidia-alpamayo-2-edge-2b-reasoning-vla-drive-thor/"
+    },
+    {
+      "id": "mws904ou8m00gr5wsho",
+      "title": "La revue « Hérodote » cartographie la géopolitique des infrastructures numériques",
+      "summary": "Malgré son apparente immatérialité, le cyberespace repose sur des infrastructures physiques (câbles, serveurs) ancrées dans des territoires et soumises à leurs lois. Le trimestriel consacre un numéro à ces réseaux méconnus pour en dévoiler les enjeux de pouvoir....",
+      "source": {
+        "name": "Le Monde Tech",
+        "url": "https://www.lemonde.fr",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.lemonde.fr&sz=64"
+      },
+      "category": "Policy",
+      "tags": [],
+      "publishedAt": "Sun, 22 Nov 2026 17:00:18 +0100",
+      "imageUrl": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.lemonde.fr/idees/article/2026/11/22/la-revue-herodote-cartographie-la-geopolitique-des-infrastructures-numeriques_6814227_3232.html"
+    },
+    {
+      "id": "mws902a8g5chuct905n",
+      "title": "Best Personal AI Agents in 2026: OpenClaw, Hermes Agent, Gemini Spark and More, Compared on Memory, Security and Cost",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Policy",
+      "tags": [
+        "Google"
+      ],
+      "publishedAt": "Sun, 22 Nov 2026 10:36:17 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1575517111839-3a3843ee7f5d?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/11/22/best-personal-ai-agents-2026/"
+    },
+    {
+      "id": "mws902a8gekbectz5sb",
+      "title": "Google AI Previews Tool Retrieval in the Gemini API for Large Tool Libraries",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Google"
+      ],
+      "publishedAt": "Sun, 22 Nov 2026 10:03:54 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/11/22/google-gemini-api-tool-retrieval/"
+    },
     {
       "id": "mwrhlerl8qbea13n44i",
       "title": "A Team of Researchers from Columbia and CertiK Introduce TensorLean for Formal Verification of GPU Kernels",
@@ -18,6 +88,22 @@
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800",
       "readTime": 1,
       "originalUrl": "https://www.marktechpost.com/2026/11/21/columbia-certik-tensorlean-formal-verification-gpu-kernels/"
+    },
+    {
+      "id": "mws900q9aak4gm9gy1b",
+      "title": "Perplexity and Intelligence",
+      "summary": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities....",
+      "source": {
+        "name": "OpenAI News",
+        "url": "https://openai.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Sun, 22 Nov 2026 00:00:00 GMT",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://openai.com/index/perplexity-and-intelligence"
     },
     {
       "id": "mwqsqf4nparwivikbkg",
@@ -758,91 +844,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=800",
       "readTime": 1,
       "originalUrl": "https://openai.com/business/learn/deploying-daybreak-red"
-    },
-    {
-      "id": "mwonmm3oedgsycrmo3i",
-      "title": "See PR scans in action",
-      "summary": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow....",
-      "source": {
-        "name": "OpenAI News",
-        "url": "https://openai.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Thu, 19 Nov 2026 00:00:00 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://openai.com/business/learn/pr-scans-demo"
-    },
-    {
-      "id": "mwonmm3oeu19oe5jf7",
-      "title": "Explore the Codex Security Plugin",
-      "summary": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording....",
-      "source": {
-        "name": "OpenAI News",
-        "url": "https://openai.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Thu, 19 Nov 2026 00:00:00 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://openai.com/business/learn/codex-security-plugin-demo"
-    },
-    {
-      "id": "mwonmm3p0phm355ci74a",
-      "title": "Get started with Daybreak Blue",
-      "summary": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started....",
-      "source": {
-        "name": "OpenAI News",
-        "url": "https://openai.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Thu, 19 Nov 2026 00:00:00 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://openai.com/business/learn/daybreak-blue-onboarding-demo"
-    },
-    {
-      "id": "mwml2xbf692po85vv8e",
-      "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
-      "summary": "...",
-      "source": {
-        "name": "Hugging Face Blog",
-        "url": "https://huggingface.co",
-        "favicon": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Wed, 18 Nov 2026 19:54:56 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin"
-    },
-    {
-      "id": "mwml2wgav1hfybcho8",
-      "title": "This featherweight, flying robot carries its own sensors and computers",
-      "summary": "The speedy microrobot flies without an attached motion-capture system, moving it closer to applications like agriculture or industrial surveillance. ...",
-      "source": {
-        "name": "MIT News AI",
-        "url": "https://news.mit.edu",
-        "favicon": "https://www.google.com/s2/favicons?domain=news.mit.edu&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "Robotics"
-      ],
-      "publishedAt": "Wed, 18 Nov 2026 14:00:00 -0500",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://news.mit.edu/2026/featherweight-flying-robot-carries-its-own-sensors-and-computers-1118"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-11-22T06:59:48.938Z",
-  "edition": 805
+  "lastUpdated": "2026-11-22T19:47:02.910Z",
+  "edition": 806
 }
