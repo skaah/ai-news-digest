@@ -1,6 +1,24 @@
 {
-  "date": "2026-11-21T19:23:47.853Z",
+  "date": "2026-11-22T06:59:48.938Z",
   "articles": [
+    {
+      "id": "mwrhlerl8qbea13n44i",
+      "title": "A Team of Researchers from Columbia and CertiK Introduce TensorLean for Formal Verification of GPU Kernels",
+      "summary": "...",
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
+      },
+      "category": "Research",
+      "tags": [
+        "Nvidia"
+      ],
+      "publishedAt": "Sun, 22 Nov 2026 01:51:43 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.marktechpost.com/2026/11/21/columbia-certik-tensorlean-formal-verification-gpu-kernels/"
+    },
     {
       "id": "mwqsqf4nparwivikbkg",
       "title": "Genesis AI propulse les levées de la French Tech à 526 millions d’euros cette semaine",
@@ -822,25 +840,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
       "readTime": 1,
       "originalUrl": "https://news.mit.edu/2026/featherweight-flying-robot-carries-its-own-sensors-and-computers-1118"
-    },
-    {
-      "id": "mwml2xbf54fhcwigd8j",
-      "title": "Why your fine-tuning job takes longer than the FLOPs say",
-      "summary": "...",
-      "source": {
-        "name": "Hugging Face Blog",
-        "url": "https://huggingface.co",
-        "favicon": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Wed, 18 Nov 2026 18:53:43 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
-      "readTime": 1,
-      "originalUrl": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-11-21T19:23:47.852Z",
-  "edition": 804
+  "lastUpdated": "2026-11-22T06:59:48.938Z",
+  "edition": 805
 }
