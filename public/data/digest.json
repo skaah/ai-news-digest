@@ -1,6 +1,58 @@
 {
-  "date": "2026-11-26T08:30:16.845Z",
+  "date": "2026-11-26T21:40:09.235Z",
   "articles": [
+    {
+      "id": "mwy2t06o7hkwo0ru03t",
+      "title": "Le virage au forceps des alliés de l’OTAN vers des opérations militaires dopées à l’IA de Palantir",
+      "summary": "Le 30 octobre, sur la base d’Adazi, en Lettonie, a été organisée une simulation grandeur nature de défense du territoire de l’Alliance atlantique, intégralement coordonnée par l’intelligence artificielle du système américain Palantir. L’exercice a eu lieu dans le contexte d’une l...",
+      "source": {
+        "name": "Le Monde Tech",
+        "url": "https://www.lemonde.fr",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.lemonde.fr&sz=64"
+      },
+      "category": "Policy",
+      "tags": [],
+      "publishedAt": "Thu, 26 Nov 2026 18:35:04 +0100",
+      "imageUrl": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.lemonde.fr/international/article/2026/11/26/le-virage-au-forceps-des-allies-de-l-otan-vers-des-operations-militaires-dopees-a-l-ia-de-palantir_6815581_3210.html"
+    },
+    {
+      "id": "mwy2t199suxflwij5ri",
+      "title": "Korben lève 10 millions d’euros pour devenir le «cerveau» européen de la robotique",
+      "summary": "...",
+      "source": {
+        "name": "Maddyness",
+        "url": "https://www.maddyness.com",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.maddyness.com&sz=64"
+      },
+      "category": "Funding",
+      "tags": [
+        "Robotics"
+      ],
+      "publishedAt": "Thu, 26 Nov 2026 12:13:56 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.maddyness.com/2026/11/26/korben-leve-10-millions-deuros-pour-devenir-le-cerveau-europeen-de-la-robotique/"
+    },
+    {
+      "id": "mwy2swwmrskrejg3c9m",
+      "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+      "summary": "...",
+      "source": {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co",
+        "favicon": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=64"
+      },
+      "category": "Industry",
+      "tags": [
+        "Meta"
+      ],
+      "publishedAt": "Thu, 26 Nov 2026 11:37:17 GMT",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+      "readTime": 1,
+      "originalUrl": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench"
+    },
     {
       "id": "mwxal91ynv7mrx332n",
       "title": "Après la loi Le Meur, louer un logement est devenu un problème de données",
@@ -116,6 +168,22 @@
       "imageUrl": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800",
       "readTime": 1,
       "originalUrl": "https://arxiv.org/abs/2611.33263"
+    },
+    {
+      "id": "mwy2swwmjs6oy4ycqoq",
+      "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+      "summary": "...",
+      "source": {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co",
+        "favicon": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Thu, 26 Nov 2026 00:00:00 GMT",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://huggingface.co/blog/training-swarms"
     },
     {
       "id": "mwwnluxxqpbl4kqj8a",
@@ -773,76 +841,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
       "readTime": 1,
       "originalUrl": "https://www.maddyness.com/2026/11/23/nouveau-rebondissement-chez-nvidia-jensen-huang-retabli-a-son-poste-de-pdg/"
-    },
-    {
-      "id": "mwtxg73e7rgaaa3fqwa",
-      "title": "27 Cybersecurity Terms to Prepare You for the Age of AI",
-      "summary": "...",
-      "source": {
-        "name": "MarkTechPost",
-        "url": "https://www.marktechpost.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Mon, 23 Nov 2026 10:40:16 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.marktechpost.com/2026/11/23/27-ai-cybersecurity-terms/"
-    },
-    {
-      "id": "mwtxg73eq5zmra29ih",
-      "title": "Architect Labs Unveils Frostbite, an Interaction Net CPU Designed by AI",
-      "summary": "...",
-      "source": {
-        "name": "MarkTechPost",
-        "url": "https://www.marktechpost.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [],
-      "publishedAt": "Mon, 23 Nov 2026 10:05:47 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.marktechpost.com/2026/11/23/architect-labs-frostbite-ai-designed-cpu-interaction-nets/"
-    },
-    {
-      "id": "mwtxg93f22v41ovco1",
-      "title": "Marion Flécher, finaliste du prix Penser le travail 2026 : « Loin de remettre en cause le capitalisme, les start-up en proposent un nouveau visage »",
-      "summary": "Autrice du « Monde des start-up », Marion Flécher montre, dans un entretien au « Monde », que si les jeunes entreprises innovantes allègent les hiérarchies et prônent l’horizontalité, elles développent dans le même temps de nouvelles formes de contrôle, poussant les travailleurs ...",
-      "source": {
-        "name": "Le Monde Tech",
-        "url": "https://www.lemonde.fr",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.lemonde.fr&sz=64"
-      },
-      "category": "Policy",
-      "tags": [],
-      "publishedAt": "Mon, 23 Nov 2026 10:56:48 +0100",
-      "imageUrl": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.lemonde.fr/emploi/article/2026/11/23/marion-flecher-finaliste-du-prix-penser-le-travail-2026-loin-de-remettre-en-cause-le-capitalisme-les-start-up-en-proposent-un-nouveau-visage_6660953_1698638.html"
-    },
-    {
-      "id": "mwtxg73f0wbsz0191klp",
-      "title": "Meta TLX Brings Warp-Group GPU Control to Triton on Hopper, Blackwell, AMD",
-      "summary": "...",
-      "source": {
-        "name": "MarkTechPost",
-        "url": "https://www.marktechpost.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64"
-      },
-      "category": "Hardware",
-      "tags": [
-        "Meta",
-        "Nvidia"
-      ],
-      "publishedAt": "Mon, 23 Nov 2026 08:24:57 +0000",
-      "imageUrl": "https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?w=800",
-      "readTime": 1,
-      "originalUrl": "https://www.marktechpost.com/2026/11/23/meta-tlx-triton-low-level-extensions/"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-11-26T08:30:16.845Z",
-  "edition": 813
+  "lastUpdated": "2026-11-26T21:40:09.235Z",
+  "edition": 814
 }
