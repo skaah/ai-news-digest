@@ -1,6 +1,22 @@
 {
-  "date": "2026-11-27T08:44:04.686Z",
+  "date": "2026-11-27T21:24:43.652Z",
   "articles": [
+    {
+      "id": "mwzhp0rqv69lnx4gci",
+      "title": "Black Friday : « La surconsommation n’est que la partie visible du problème : son envers, c’est la surproduction »",
+      "summary": "Ce rituel commercial venu des Etats-Unis est la soupape d’un marché des biens saturé, dénonce, dans une tribune au « Monde », le collectif Green Friday, qui défend une production et une consommation responsables....",
+      "source": {
+        "name": "Le Monde Tech",
+        "url": "https://www.lemonde.fr",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.lemonde.fr&sz=64"
+      },
+      "category": "Product",
+      "tags": [],
+      "publishedAt": "Fri, 27 Nov 2026 11:30:09 +0100",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800",
+      "readTime": 1,
+      "originalUrl": "https://www.lemonde.fr/idees/article/2026/11/27/black-friday-la-surconsommation-n-est-que-la-partie-visible-du-probleme-son-envers-c-est-la-surproduction_6815843_3232.html"
+    },
     {
       "id": "mwyqiuhjtmfh3dpzsk",
       "title": "Agents IA dans les TPE : où placer la validation humaine ?",
@@ -66,6 +82,22 @@
       "imageUrl": "https://images.unsplash.com/photo-1555848962-6e79363ec58f?w=800",
       "readTime": 1,
       "originalUrl": "https://www.marktechpost.com/2026/11/26/tencent-dfly2-speculative-decoding-sparse-models/"
+    },
+    {
+      "id": "mwzhoxmiall3ys7rwb",
+      "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+      "summary": "...",
+      "source": {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co",
+        "favicon": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=64"
+      },
+      "category": "Industry",
+      "tags": [],
+      "publishedAt": "Fri, 27 Nov 2026 00:00:00 GMT",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+      "readTime": 1,
+      "originalUrl": "https://huggingface.co/blog/video-trainium3"
     },
     {
       "id": "mwyqiqxvyqs1klpwto",
@@ -800,43 +832,9 @@
       "imageUrl": "https://images.unsplash.com/photo-1575517111839-3a3843ee7f5d?w=800",
       "readTime": 1,
       "originalUrl": "https://www.lemonde.fr/international/live/2026/11/24/en-direct-jensen-huang-reintegre-chez-nvidia-a-la-surprise-generale-le-dirigeant-accueilli-sous-les-applaudissements-de-centaines-de-salaries-wall-street-cloture-en-tres-forte-hausse_6814407_3210.html"
-    },
-    {
-      "id": "mwtxg5t8b8h5kwr7ry7",
-      "title": "OpenAI and Cisco introduce Shirudo",
-      "summary": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches....",
-      "source": {
-        "name": "OpenAI News",
-        "url": "https://openai.com",
-        "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
-      },
-      "category": "Industry",
-      "tags": [
-        "OpenAI"
-      ],
-      "publishedAt": "Mon, 23 Nov 2026 21:20:00 GMT",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
-      "readTime": 1,
-      "originalUrl": "https://openai.com/index/introducing-shirudo"
-    },
-    {
-      "id": "mwtxg5d7owfbcv0297d",
-      "title": "Many languages, one common neural code",
-      "summary": "Analyzing speakers of 21 languages, an MIT study using multilingual AI finds the human brain may represent meaning in much the same way....",
-      "source": {
-        "name": "MIT News AI",
-        "url": "https://news.mit.edu",
-        "favicon": "https://www.google.com/s2/favicons?domain=news.mit.edu&sz=64"
-      },
-      "category": "Research",
-      "tags": [],
-      "publishedAt": "Mon, 23 Nov 2026 16:15:00 -0500",
-      "imageUrl": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=800",
-      "readTime": 1,
-      "originalUrl": "https://news.mit.edu/2026/many-languages-one-common-neural-code-1123"
     }
   ],
   "totalArticles": 50,
-  "lastUpdated": "2026-11-27T08:44:04.685Z",
-  "edition": 815
+  "lastUpdated": "2026-11-27T21:24:43.652Z",
+  "edition": 816
 }
